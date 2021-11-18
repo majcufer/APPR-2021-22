@@ -1,4 +1,4 @@
-# Analiza podatkov s programom R - 2021/22
+# Analiza podatkov s programom R - 2021/22 test
 
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
