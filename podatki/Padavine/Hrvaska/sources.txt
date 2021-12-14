@@ -1,0 +1,49 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+   21,100062,ZAGREB-GRIC                             ,HR,+45:49:01,+015:58:41, 157, RR2,18601230,20191230,    6,Tanja Likso                                       
+   21,914236,ZAGREB/GRIC                             ,HR,+45:49:00,+015:59:00, 162, RR8,19960501,20200229,     ,                    
+ 1684,105182,GOSPIC                                  ,HR,+44:33:00,+015:22:00, 564, RR2,18711224,20191230,    6,Tanja Likso                                       
+ 1684,914330,GOSPIC                                  ,HR,+44:33:00,+015:22:00, 565, RR8,19960501,20200229,     ,                    
+ 1686,105189,HVAR                                    ,HR,+43:10:00,+016:27:00,  20, RR2,18571230,20191230,    6,Tanja Likso                                       
+ 1686,914447,HVAR                                    ,HR,+43:10:00,+016:27:00,  25, RR8,19960501,20200229,     ,                    
+ 1682,105196,LASTOVO                                 ,HR,+42:46:00,+016:53:59, 186, RR2,19471231,20191230,    6,Tanja Likso                                       
+ 1682,914452,LASTOVO                                 ,HR,+42:46:00,+016:53:59, 187, RR8,20040812,20200229,     ,                    
+ 1685,105203,OSIJEK                                  ,HR,+45:32:00,+018:38:00,  88, RR2,18981231,20191230,    6,Tanja Likso                                       
+ 1685,914280,OSIJEK-CEPIN                            ,HR,+45:30:00,+018:34:00,  90, RR8,20020909,20200229,     ,                    
+ 1683,105210,RIJEKA                                  ,HR,+45:20:00,+014:27:00, 120, RR2,19471231,20191230,    6,Tanja Likso                                       
+ 1683,914216,RIJEKA/KOZALA                           ,HR,+45:20:00,+014:27:00, 125, RR8,19961027,20200229,     ,                    
+ 1681,105217,SPLIT MARJAN                            ,HR,+43:31:00,+016:26:00, 122, RR2,19471231,20191230,    6,Tanja Likso                                       
+ 1681,914445,SPLIT/MARJAN                            ,HR,+43:31:00,+016:26:00, 128, RR8,19960501,20200229,     ,                    
+ 1687,105227,ZAVIZAN                                 ,HR,+44:49:00,+014:59:00,1594, RR2,19530930,20191230,    6,Tanja Likso                                       
+ 1687,914324,ZAVIZAN                                 ,HR,+44:49:00,+014:59:00,1597, RR8,19960501,20200229,     ,                    
+10901,155167,KNIN                                    ,HR,+44:02:27,+016:12:25, 255, RR2,19481231,20191230,    6,Tanja Likso                                       
+10901,914442,KNIN                                    ,HR,+44:02:00,+016:12:00, 255, RR8,20020701,20200229,     ,                    
+10902,155176,VARAZDIN                                ,HR,+46:16:58,+016:21:50, 167, RR2,19490101,20191230,    6,Tanja Likso                                       
+10902,914246,VARAZDIN                                ,HR,+46:18:00,+016:23:00, 168, RR8,19960501,20200229,     ,                    
+10903,155185,ZADAR                                   ,HR,+44:07:48,+015:12:21,   5, RR2,19610101,20191230,    6,Tanja Likso                                       
+10903,914428,ZADAR PUNTAMIKA                         ,HR,+44:08:00,+015:13:00,   7, RR8,19960502,20200229,     ,                    
+10962,155402,OGULIN                                  ,HR,+45:12:14,+015:16:19, 326, RR2,19481231,20191230,    6,Tanja Likso                                       
+10962,914328,OGULIN                                  ,HR,+45:16:00,+015:14:00, 328, RR8,19960501,20200229,     ,                    

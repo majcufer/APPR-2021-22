@@ -1,0 +1,94 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  108,100413,GRONBAEK-ALLINGSKOVGARD                 ,DK,+56:17:00,+009:37:00,  25, RR2,18740831,20111231,   45,John Cappelen                                     
+  108,117946,GRONBAEK-ALLINGSKOVGARD                 ,DK,+56:17:00,+009:37:00,  25, RR1,18740901,20001231,   50,GHCND                                             
+  108,171531,GRONBAEK-ALLINGSKOVGARD                 ,DK,+56:17:00,+009:37:00,  25,RR13,20110401,20201231,   45,John Cappelen                                     
+  109,100414,NORDBY (FANO)                           ,DK,+55:27:00,+008:24:00,   4, RR2,18731231,20111231,   45,John Cappelen                                     
+  109,117949,NORDBY (FANO)                           ,DK,+55:27:00,+008:24:00,   4, RR1,18740101,20001231,   50,GHCND                                             
+  109,171533,NORDBY (FANO)                           ,DK,+55:27:00,+008:24:00,   4,RR13,20090613,20201231,   45,John Cappelen                                     
+  112,100415,BRODERUP                                ,DK,+54:54:00,+009:16:12,  23, RR2,19200630,19930629,   45,John Cappelen                                     
+  112,100416,STORE JYNDEVAD                          ,DK,+54:54:00,+009:08:00,  16, RR2,19870630,20111231,   45,John Cappelen                                     
+  112,100417,TINGLEV                                 ,DK,+54:56:00,+009:15:00,  23, RR2,19950531,20061230,   45,John Cappelen                                     
+  112,171536,STORE JYNDEVAD                          ,DK,+54:54:00,+009:08:00,  16,RR13,20110401,20201231,   45,John Cappelen                                     
+  112,186079,WEESBY                                  ,DE,+54:50:14,+009:08:53,   2, RR3,19310101,20211031,   11,National Climate Data Center (DWD)                
+  110,100415,BRODERUP                                ,DK,+54:54:00,+009:16:12,  23, RR2,19200630,19930629,   45,John Cappelen                                     
+  110,100416,STORE JYNDEVAD                          ,DK,+54:54:00,+009:08:00,  16, RR2,19870630,20111231,   45,John Cappelen                                     
+  110,171536,STORE JYNDEVAD                          ,DK,+54:54:00,+009:08:00,  16,RR13,20110401,20201231,   45,John Cappelen                                     
+  110,186079,WEESBY                                  ,DE,+54:50:14,+009:08:53,   2, RR3,19310101,20211031,   11,National Climate Data Center (DWD)                
+  111,100415,BRODERUP                                ,DK,+54:54:00,+009:16:12,  23, RR2,19200630,19930629,   45,John Cappelen                                     
+  111,100416,STORE JYNDEVAD                          ,DK,+54:54:00,+009:08:00,  16, RR2,19870630,20111231,   45,John Cappelen                                     
+  111,100417,TINGLEV                                 ,DK,+54:56:00,+009:15:00,  23, RR2,19950531,20061230,   45,John Cappelen                                     
+  111,171536,STORE JYNDEVAD                          ,DK,+54:54:00,+009:08:00,  16,RR13,20110401,20201231,   45,John Cappelen                                     
+  111,906116,STORE JYNDEVAD                          ,DK,+54:54:00,+009:07:00,  17, RR8,19840904,19880622,     ,                    
+  113,100418,TRANEBJERG                              ,DK,+55:51:00,+010:36:00,  11, RR2,18721130,20010731,   45,John Cappelen                                     
+  113,100980,TRANEBJERG OST                          ,DK,+55:50:00,+010:36:00,  18, RR2,20010801,20111231,   45,John Cappelen                                     
+  113,117952,TRANEBJERG OST-1                        ,DK,+55:50:00,+010:37:00,  18, RR1,18730101,20001231,   50,GHCND                                             
+  113,171540,TRANEBJERG OST                          ,DK,+55:50:00,+010:36:00,  18,RR13,20110401,20201231,   45,John Cappelen                                     
+  116,100419,KOEBENHAVN: LANDBOHOJSKOLEN-1           ,DK,+55:41:00,+012:32:00,   9, RR2,18731231,19960930,   45,John Cappelen                                     
+  116,100422,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6, RR2,19601231,20111231,   45,John Cappelen                                     
+  116,117957,KOEBENHAVN: LANDBOHOJSKOLEN             ,DK,+55:41:00,+012:32:00,   9, RR1,18740101,19961001,   50,GHCND                                             
+  116,171537,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6,RR13,20110401,20201231,   45,John Cappelen                                     
+  116,906180,KOEBENHAVNS LUFTHAVN                    ,DK,+55:37:00,+012:39:00,   5, RR8,19820102,20200229,     ,                    
+  114,100419,KOEBENHAVN: LANDBOHOJSKOLEN-1           ,DK,+55:41:00,+012:32:00,   9, RR2,18731231,19960930,   45,John Cappelen                                     
+  114,100420,KOEBENHAVN - METEOROLOGISK INSTITUT     ,DK,+55:43:00,+012:34:00,   8, RR2,18741231,19841227,   45,John Cappelen                                     
+  114,100422,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6, RR2,19601231,20111231,   45,John Cappelen                                     
+  114,117954,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6, RR1,19610101,20001231,   50,GHCND                                             
+  114,171537,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6,RR13,20110401,20201231,   45,John Cappelen                                     
+  114,906180,KOEBENHAVNS LUFTHAVN                    ,DK,+55:37:00,+012:39:00,   5, RR8,19820102,20200229,     ,                    
+  115,100419,KOEBENHAVN: LANDBOHOJSKOLEN-1           ,DK,+55:41:00,+012:32:00,   9, RR2,18731231,19960930,   45,John Cappelen                                     
+  115,100422,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6, RR2,19601231,20111231,   45,John Cappelen                                     
+  115,117954,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6, RR1,19610101,20001231,   50,GHCND                                             
+  115,171537,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6,RR13,20110401,20201231,   45,John Cappelen                                     
+  115,906180,KOEBENHAVNS LUFTHAVN                    ,DK,+55:37:00,+012:39:00,   5, RR8,19820102,20200229,     ,                    
+  117,100423,SANDVIG                                 ,DK,+55:17:00,+014:47:00,  13, RR2,18731231,19701230,   45,John Cappelen                                     
+  117,100424,HAMMER ODDE FYR-1                       ,DK,+55:18:00,+014:47:00,  11, RR2,19601231,19870627,   45,John Cappelen                                     
+  117,117960,HAMMER ODDE FYR                         ,DK,+55:18:00,+014:47:00,  11, RR1,19710101,20110122,   50,GHCND                                             
+  117,117963,SANDVIG                                 ,DK,+55:17:00,+014:47:00,  13, RR1,18740101,19701231,   50,GHCND                                             
+  117,171526,HAMMER ODDE FYR                         ,DK,+55:18:00,+014:47:00,  11,RR13,19831231,20201231,   45,John Cappelen                                     
+  117,906193,HAMMER ODDE FYR                         ,DK,+55:18:00,+014:46:00,   9, RR8,19820104,20200229,     ,                    
+  302,100418,TRANEBJERG                              ,DK,+55:51:00,+010:36:00,  11, RR2,18721130,20010731,   45,John Cappelen                                     
+  302,100980,TRANEBJERG OST                          ,DK,+55:50:00,+010:36:00,  18, RR2,20010801,20111231,   45,John Cappelen                                     
+  302,117952,TRANEBJERG OST-1                        ,DK,+55:50:00,+010:37:00,  18, RR1,18730101,20001231,   50,GHCND                                             
+  302,171540,TRANEBJERG OST                          ,DK,+55:50:00,+010:36:00,  18,RR13,20110401,20201231,   45,John Cappelen                                     
+  305,100418,TRANEBJERG                              ,DK,+55:51:00,+010:36:00,  11, RR2,18721130,20010731,   45,John Cappelen                                     
+  305,100980,TRANEBJERG OST                          ,DK,+55:50:00,+010:36:00,  18, RR2,20010801,20111231,   45,John Cappelen                                     
+  305,117952,TRANEBJERG OST-1                        ,DK,+55:50:00,+010:37:00,  18, RR1,18730101,20001231,   50,GHCND                                             
+  305,171540,TRANEBJERG OST                          ,DK,+55:50:00,+010:36:00,  18,RR13,20110401,20201231,   45,John Cappelen                                     
+  119,100419,KOEBENHAVN: LANDBOHOJSKOLEN-1           ,DK,+55:41:00,+012:32:00,   9, RR2,18731231,19960930,   45,John Cappelen                                     
+  119,100422,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6, RR2,19601231,20111231,   45,John Cappelen                                     
+  119,117957,KOEBENHAVN: LANDBOHOJSKOLEN             ,DK,+55:41:00,+012:32:00,   9, RR1,18740101,19961001,   50,GHCND                                             
+  119,171537,KOEBENHAVN: BOTANISK HAVE               ,DK,+55:41:00,+012:35:00,   6,RR13,20110401,20201231,   45,John Cappelen                                     
+  119,906180,KOEBENHAVNS LUFTHAVN                    ,DK,+55:37:00,+012:39:00,   5, RR8,19820102,20200229,     ,                    
+  106,100423,SANDVIG                                 ,DK,+55:17:00,+014:47:00,  13, RR2,18731231,19701230,   45,John Cappelen                                     
+  106,100424,HAMMER ODDE FYR-1                       ,DK,+55:18:00,+014:47:00,  11, RR2,19601231,19870627,   45,John Cappelen                                     
+  106,117960,HAMMER ODDE FYR                         ,DK,+55:18:00,+014:47:00,  11, RR1,19710101,20110122,   50,GHCND                                             
+  106,117963,SANDVIG                                 ,DK,+55:17:00,+014:47:00,  13, RR1,18740101,19701231,   50,GHCND                                             
+  106,171526,HAMMER ODDE FYR                         ,DK,+55:18:00,+014:47:00,  11,RR13,19831231,20201231,   45,John Cappelen                                     
+  106,906193,HAMMER ODDE FYR                         ,DK,+55:18:00,+014:46:00,   9, RR8,19820104,20200229,     ,                    
+  107,171529,VESTERVIG                               ,DK,+56:46:00,+008:19:00,  18,RR13,18731231,20201231,   45,John Cappelen                                     
+  107,906052,THYBOROEN                               ,DK,+56:42:00,+008:13:00,   4, RR8,19820102,20200229,     ,                    
+14115,100415,BRODERUP                                ,DK,+54:54:00,+009:16:12,  23, RR2,19200630,19930629,   45,John Cappelen                                     
+14115,186079,WEESBY                                  ,DE,+54:50:14,+009:08:53,   2, RR3,19310101,20211031,   11,National Climate Data Center (DWD)                

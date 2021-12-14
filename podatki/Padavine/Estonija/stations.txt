@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  268,VORU                                    ,EE,+57:50:46,+027:01:10,  82
+  269,VILSANDI                                ,EE,+58:22:59,+021:48:55,   6
+11349,HELTERMAA                               ,EE,+58:51:51,+023:02:37,   4
+11350,JOHVI                                   ,EE,+59:19:44,+027:23:54,  73
+11351,JOGEVA                                  ,EE,+58:44:59,+026:24:54,  70
+11353,KURESSAARE                              ,EE,+58:13:05,+022:30:23,   1
+11354,KUNDA                                   ,EE,+59:31:17,+026:32:29,   3
+11355,KIHNU                                   ,EE,+58:05:55,+023:58:13,   3
+11356,KUUSIKU                                 ,EE,+58:58:24,+024:44:02,  53
+11357,NARVA                                   ,EE,+59:23:21,+028:06:46,  28
+11358,LAANE-NIGULA                            ,EE,+58:57:04,+023:48:56,  24
+11359,PARNU                                   ,EE,+58:23:04,+024:29:07,  12
+11360,PAKRI                                   ,EE,+59:23:22,+024:02:24,  23
+11361,RUHNU                                   ,EE,+57:47:00,+023:15:32,   2
+11362,RISTNA                                  ,EE,+58:55:15,+022:03:59,   7
+11363,TALLINN                                 ,EE,+59:23:53,+024:36:10,  33
+11364,SORVE                                   ,EE,+57:54:49,+022:03:28,   3
+11365,TIIRIKOJA                               ,EE,+58:51:55,+026:57:08,  32
+11367,TARTU-TORAVERE                          ,EE,+58:15:50,+026:27:41,  70
+11368,TOOMA                                   ,EE,+58:52:28,+026:16:20,  89
+11369,VAIKE-MAARJA                            ,EE,+59:08:29,+026:13:51, 121
+11370,TURI                                    ,EE,+58:48:31,+025:24:33,  60
+11371,VILJANDI                                ,EE,+58:22:40,+025:36:01,  86
+11372,VALGA                                   ,EE,+57:47:24,+026:02:16,  65
+11373,VIRTSU                                  ,EE,+58:34:22,+023:30:49,   2

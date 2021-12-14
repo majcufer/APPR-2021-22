@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+   12,100035,GRAZ-UNIVERSITAET                       ,AT,+47:04:40,+015:26:56, 367, RR9,19010101,20201231,    3,Wolfgang Lipa                                     
+   12,911240,GRAZ-THALERHOF-FLUGHAFEN                ,AT,+47:00:00,+015:26:00, 347, RR8,19820101,20200210,     ,                    
+   12,911290,GRAZ UNIVERSITAET                       ,AT,+47:05:00,+015:27:00, 378, RR8,20100224,20200229,     ,                    
+   13,100037,INNSBRUCK-UNIV                          ,AT,+47:15:36,+011:23:03, 578, RR9,19010101,20201231,    3,Wolfgang Lipa                                     
+   13,911120,INNSBRUCK-FLUGHAFEN                     ,AT,+47:16:00,+011:21:00, 584, RR8,19820101,20200227,     ,                    
+   13,911121,INNSBRUCK-FLUGHAFEN (AUTOMAT)           ,AT,+47:15:36,+011:21:24, 585, RR8,20141010,20200229,     ,                    
+   14,100039,SALZBURG-FLUGHAFEN                      ,AT,+47:47:22,+013:00:30, 430, RR9,19010101,20180531,    3,Wolfgang Lipa                                     
+   14,117871,SALZBURG-FLUGHAFEN                      ,AT,+47:47:22,+013:00:30, 430, RR1,19520101,20110121,   50,GHCND                                             
+   14,911150,SALZBURG-FLUGHAFEN                      ,AT,+47:48:00,+013:00:00, 450, RR8,19820101,20200228,     ,                    
+   14,911350,SALZBURG/FREISAAL                       ,AT,+47:47:00,+013:03:00, 423, RR8,19960415,20200229,     ,                    
+   15,100041,SONNBLICK (TAWES)                       ,AT,+47:03:15,+012:57:27,3109, RR9,19010101,20201231,    3,Wolfgang Lipa                                     
+   15,117876,SONNBLICK (TAWES)                       ,AT,+47:03:15,+012:57:27,3109, RR1,19010101,20110123,   50,GHCND                                             
+   15,911146,SONNBLICK                               ,AT,+47:03:00,+012:57:00,3111, RR8,19850123,20200121,     ,                    
+   15,911343,SONNBLICK -AUTOM.                       ,AT,+47:03:00,+012:57:00,3111, RR8,19980703,20200121,     ,                    
+   16,100043,WIEN-HOWE WARTE                         ,AT,+48:14:55,+016:21:23, 198, RR9,19010101,20201231,    3,Wolfgang Lipa                                     
+   16,911035,WIEN/HOHE WARTE                         ,AT,+48:15:00,+016:22:00, 200, RR8,19820101,20200229,     ,                    
+   11,102147,KREMSMUENSTER (TAWES)                   ,AT,+48:03:18,+014:07:52, 382, RR9,18760101,20201231,    3,Wolfgang Lipa                                     
+   11,911012,KREMSMUENSTER                           ,AT,+48:03:00,+014:08:00, 389, RR8,19820101,20200229,     ,                    

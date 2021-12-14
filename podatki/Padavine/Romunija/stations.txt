@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  217,ARAD                                    ,RO,+46:08:00,+021:21:00, 117
+  267,BUCURESTI FILARET                       ,RO,+44:25:00,+026:06:00,  82
+  220,BUZAU                                   ,RO,+45:08:00,+026:51:00,  97
+  221,CALARASI                                ,RO,+44:12:00,+027:20:00,  19
+  222,CLUJ NAPOCA                             ,RO,+46:47:00,+023:34:00, 410
+  223,DROBETA TURNU SEVERIN                   ,RO,+44:38:00,+022:38:00,  77
+  226,VARFU OMUL                              ,RO,+45:27:00,+025:27:00,2504
+  960,BACAU                                   ,RO,+46:32:00,+026:55:00, 184
+ 2056,BOTOSANI                                ,RO,+47:40:48,+026:40:12, 161
+  219,BUCURESTI-BANEASA                       ,RO,+44:31:00,+026:05:00,  90
+ 2058,CARANSEBES                              ,RO,+45:25:12,+022:15:00, 241
+ 2057,CEAHLAU TOACA                           ,RO,+46:55:48,+025:55:12,1897
+ 2062,CONSTANTA                               ,RO,+44:13:12,+028:37:48,  13
+ 2061,CRAIOVA                                 ,RO,+44:13:48,+023:52:12, 192
+  962,DEVA                                    ,RO,+45:52:00,+022:54:00, 230
+ 2059,GALATI                                  ,RO,+45:30:00,+028:01:12,  71
+  951,IASI                                    ,RO,+47:10:00,+027:38:00, 102
+  961,MIERCUREA CIUC                          ,RO,+46:22:00,+025:44:00, 661
+  948,OCNA SUGATAG                            ,RO,+47:47:00,+023:56:00, 504
+ 2060,RAMNICU VALCEA                          ,RO,+45:06:00,+024:22:12, 239
+  972,ROSIORI DE VEDE                         ,RO,+44:06:00,+024:59:00, 102
+  450,SIBIU                                   ,RO,+45:48:00,+024:09:00, 444
+  969,SULINA                                  ,RO,+45:10:00,+029:44:00,   3
+  967,TULCEA                                  ,RO,+45:11:00,+028:49:00,   4

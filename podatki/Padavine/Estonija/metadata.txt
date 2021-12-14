@@ -1,0 +1,345 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+268,VORU,ESTONIA,+57:50:46,+027:01:10,82 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located at the edge of the town Võru.<br>In south and southeast of station are located two warehouses, in southwest of station are some trees and one storey residental house, in west
+and northwest are one storey residental houses.
+* Soil type:
+Boulder clay
+* Surface coverage:
+Grass
+* History:
+Beginning of observations: 1920<br>
+Beginning of automated observations: 2003<br>
+Changes in location:<br>
+1) Until 1930 in Võru, near the Seminar of Teachers, 57°50´55´´ N ; 26°59´45´´ E.<br>
+2) 1930-1931 in Võru, in the yard of secondary school, 750 m SE of the Seminar of Teachers, 57°50´48´´ N ; 27°0´34´´ E.<br>
+3) 1931-1943 in Võru, between baracks, 300 m from train station, 57°49´32´´ N ; 27°1´12´´ E.<br>
+4) 1943-1949 in citycenter of Võru, in the yard of Jüri street 12, 57°50´52´´ N ; 26°59´36´´ E.<br>
+5) 1949-1953 north of Võru, in Väimela village, 57°53´39´´ N ; 27°1´24´´ E.<br>
+6) From 1954 in current location in Võru, Vilja street 57, 57°50´47´´ N ; 27°01´10´´ E.
+
+----------------------------------------------------------------
+269,VILSANDI,ESTONIA,+58:22:59,+021:48:55,6 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located on an island close to the sea. <br>Northeast, east and southeast sides are rather open areas. Southwest, west and northwest of station are several low buildings and tall lighthouse. Directly north of the station are located
+* Soil type:
+Rubble above limestone
+* Surface coverage:
+Weakly grass
+* History:
+Beginning of automated observations: 2003<br> Changes in location: no changes in time
+
+----------------------------------------------------------------
+11349,HELTERMAA,ESTONIA,+58:51:51,+023:02:37,4 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: weather station is located about 250 m from the coast and 50 m away from main tarmac road. It is basically next to local harbour. Area is more or less open. East direction is completely open, south of station at the distance less than 50 m ar
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1950<br> Beginning of automated observations: 2007<br> Changes in location:<br> 1) 1950-1954 1000m WNW from harbour, 58°52´6´´ N ; 23°1´44´´ E<br> 2) 1954-1958 500m SW from harbour, 58°51´48´´ N ; 23°2´18´´ E<br> 3) From 1958 at current location 250m WSW from harbour, 58°51´51´´ N ; 23°02´37´´ E
+
+----------------------------------------------------------------
+11350,JOHVI,ESTONIA,+59:19:44,+027:23:54,73 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located relatively open grassland area. Approximately 150 m east runs southnorth directional tarmac road and 30 m west of weather station situates two-storey building. There are no nearby trees and all directions except west are co
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1958<br> Beginning of automated observations: 2003<br> Changes in location: no changes in time
+
+----------------------------------------------------------------
+11351,JOGEVA,ESTONIA,+58:44:59,+026:24:54,70 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located at the estern edge of town Jõgeva. About 50 m east and southeast runs SW-NE directional tarmac road. North and east sides are completely open. South and southeast of station are some higher trees. About 60 m aw
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1922<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1922-1923 observations in park near the selective breeding center, 58°46´1´´ N ; 26°23´54´´ E<br> 2) 1924-1964 observations at field, about 500 m SE from park, 58°45´53´´ N ; 26°24´16´´ E<br> 3) From 1964 at current location 58°44´59´´ N ; 26°24´54´´ E
+
+----------------------------------------------------------------
+11352,KARDLA,ESTONIA,+58:59:35,+024:49:19,3 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station was located at the Kärdla airport next to small service buildings. Distance from the forest was abot 50 m and from runway approximately 256 m. There we many low trees at the surrounding area.
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1963<br> End of observations: 1999<br> Changes in location:<br> 1) 1963-1964 observations at the citycenter of town Kärdla, 58°59´55´´ N ; 22°44´41´´ E<br> 2) 1964-1999 observations at Kärdla airport, 58°59´36´´ N ; 22°49´20´´ E
+
+----------------------------------------------------------------
+11353,KURESSAARE,ESTONIA,+58:13:05,+022:30:23,1 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: weather station is located next to harbour and close to the sea. Distance to the sea is about 10 m. South-north directional tarmac road runs 40 m west of station. There are no obstackles on surrounding area. North of station is grassland. Sou
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1948<br> Beginning of automated observations: 2008<br> Changes in location:<br> 1) 1948-1961 at an airfield, 58°14´1´´ N ; 22°30´14´´ E<br> 2) 1961-2000 at an airfield, 250 m southeast from old location, 58°13´53´´ N ; 22°30´18´´ E<br> 3) From 2008 at current location 58°13´05´´ N ; 22°30´23´´ E
+
+----------------------------------------------------------------
+11354,KUNDA,ESTONIA,+59:31:17,+026:32:29,3 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: weather station is located at the edge of town Kunda on the harbour territory. Distance to
+the sea is 25 m. Northwest, west and, southwest sides are completely open. South from station about 30 m away are group of midsize trees. Southeast of 
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1945<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1945-1948 observations near the lighthouse, 30 m off the coastline, 59°31´7´´ N ; 26°32´39´´ E<br> 2) 1948-2013 observations near the lighthouse, 59°31´4´´ N ; 26°32´43´´ E<br> 3) From 2013 at current location, 59°31´17´´ N ; 26°32´29´´ E
+
+----------------------------------------------------------------
+11355,KIHNU,ESTONIA,+58:05:55,+023:58:13,3 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located on an small island, near its southern coast. Distance from coastline is about 50 m. West and southwest directions are completely open without any obstackles.  Approximately 40 m away at south, east and north the
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1946<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1946-1950 observations in the yard of the manor house, 58°8´20´´ N ; 23°59´25´´ E<br> 2) 1950-1953 observations 300m SW from the harbour, 80 m distance from the coast, 58°8´23´´ N ; 24°0´45´´ E<br> 3) From 1954 at current location 58°05´55´´ N ; 23°58´13´´E
+
+----------------------------------------------------------------
+11356,KUUSIKU,ESTONIA,+58:58:24,+024:44:02,53 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located on relatively open grassland area. About 150 m west from station runs south-north directional tarmac road which is surrounded by alley of higher decidious trees. 130 m south and soutwest of station are few low buildings. At
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1926<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1926-1938 observations at the park, 58°58´17´´ N ; 24°43´43´´ E<br> 2) 1938-1941 observations at field, 250 m NW from previous location, 58°58´24´´ N ; 24°43´38´´ E<br> 3) 1941-1941 observations at Kaeva village, 10 km away from Kuusiku, 58°56´40´´ N ; 24°54´2´´ E<br> 4) 1953-1961 observations 60 m west from location at (2), 58°58´24´´ N ; 24°43´34´´ E<br> 5) 1961-2003 observations 30 m NW from previous from location, 58°58´26´´ N ; 24°43´32´´ E<br> 6) From 2003 at current location 58°58´24´´ N ; 24°44´02´´ E
+
+----------------------------------------------------------------
+11357,NARVA,ESTONIA,+59:23:21,+028:06:46,28 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located on open grassland area next to the Narva airfield. About 40 m north of station runs west-east directional highway. At the same distance east of station are some midsize trees and low residental building. North, 
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1920<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1920-1944 observations in Narva-Jõesuu, at the yard of lighthouse, 59°28´5´´ N ; 28°2´24´´ E<br> 2) 1944-1948 observations in Narva-Jõesuu, at the sandy beach, 59°28´6´´ N ; 28°2´21´´ E<br> 3) 1948-1964 observations in Narva-Jõesuu, on sand dune at the beach, 59°27´53´´ N ; 28°2´10´´ E<br> 4) 1964-2000 observations in Narva, near the airfield, about 10 km SE from previous location, 59°23´22´´ N ; 28°6´51´´ E<br> 5) 2000-2013 observations in Narva-Jõesuu, at the river port, 59°28´6´´ N ; 28°2´33´´ E<br> 6) From 2000 at the current location in Narva, 59°23´21´´ N ; 28°6´46´´ E
+
+----------------------------------------------------------------
+11358,LAANE-NIGULA,ESTONIA,+58:57:04,+023:48:56,24 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located in the middle of grassland in rather well open area. At a distance 50 m east of station runs south-north directional tarmac road, which is bordering an alley of low decidious trees. About 50 m north of station a
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1964<br> Beginning of automated observations: 2003<br> Changes in location: no changes
+
+----------------------------------------------------------------
+11359,PARNU,ESTONIA,+58:23:04,+024:29:07,12 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located in inland area about 4,3 km off the coast. It is near the town Pärnu and situates on the rarely used airfield between runway and aprons. From every direction there is open area. Closest building is airfield terminal house 
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1877<br> Beginning of automated observations: 2004<br> Changes in location:<br> 1) 1877-1941 location not documented<br> 2) 1942-1947 in Pärnu near the river mouth, 58°23´13´´ N ; 24°29´36´´ E.<br> 3) 1947-1964 at the coast of Pärnu, 58°22´23´´ N ; 24°30´13´´ E.<br> 4) 1964-1967 at the coast of Pärnu, 20 m SSW from previous location, 58°22´23´´ N ; 24°30´12´´ E.<br> 5) 1967-1990 at the coast of Pärnu, another 20 m W from previous location, 58°22´23´´ N ; 24°30´11´´ E.<br> 6) 1990-2000 on the intersection of Esplanaadi and Supeluse streets, 58°22´51´´ N ; 24°30´12´´ E.<br> 7) 2000-2004 at the yard of Nikolai street 21, 58°22´53´´ N ; 24°29´58´´ E.<br> 8) From 2004 at Pärnu airfield in current location, 58°25´11´´ N ; 24°28´11´´ E.<br>9) From April 2019 near the river, 58:23:04N, 24:29:07E
+
+----------------------------------------------------------------
+11360,PAKRI,ESTONIA,+59:23:22,+024:02:24,23 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located on the Pakri peninsula close to the sea. It situates in nortwestern corner of border guard cordon territory which is surrounded by fence. Rather close to the station at notheast, east, southeast and south are lo
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1901<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1901-1944 observations near the lighthouse, 59°23´13´´ N ; 24°2´12´´ E<br> 2) 1945-1951 observations about 230 m from the cliff and 750 m south from the lighthouse, 59°22´54´´ N ; 24°2´25´´ E<br> 3) 1951-1960 observations near the lighthouse, 59°23´13´´ N ; 24°2´12´´ E<br> 4) 1960-1969 observations about 230 m from the cliff and 750 m south from the lighthouse, 59°22´54´´ N ; 24°2´25´´ E<br> 5) 1969-1992 observations at the northwest edge of town Paldiski, 59°21´15´´ N ; 24°2´53´´ E<br> 6) 1992-2002 observations at the backup field, 15 m of railway station, 59°21´19´´ N ; 24°3´3´´ E<br> 7) From 2003 at current location, 59°23´22´´ N ; 24°02´24´´ E
+
+----------------------------------------------------------------
+11361,RUHNU,ESTONIA,+57:47:00,+023:15:32,2 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is on grassland area with relatively open surrounding. There are some low and midsize trees at the southwest, west and north of station. Northeast, east, southeast and south directions are completely open. South of station
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1931<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1931-1948 observations near the local lighthouse, 57°48´2´´ N ; 23°15´39´´ E<br> 2) 1948-1958 observations 400 m west of Ruhnu village, 57°48´0´´ N ; 23°14´0´´ E<br> 3) 1958-1964 observations at the southern part of island, about 500 m WNW of the harbour, 57°47´1´´ N ; 23°15´38´´ E<br> 4) From 1964 at the current location, 57°46´59´´ N ; 23°15´36´´ E
+
+----------------------------------------------------------------
+11362,RISTNA,ESTONIA,+58:55:15,+022:03:59,7 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: weather station is located on peninsula of island Hiiumaa. It is surrounded by grassland and low or midsize coniferous trees at every direction in diferent distances. Coastline is about 140 m away west of station. Approximately 25 m northeast
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1945<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1945-1949 observations at the village Kalana, 400 m from the coastline, 58°55´10´´ N ; 22°4´50´´ E<br> 2) From 1949 at current location, 58°55´15´´ N ; 22°03´59´´ E
+
+----------------------------------------------------------------
+11363,TALLINN,ESTONIA,+59:23:53,+024:36:10,33 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located approximately 5 km off the sea at the edge of City Tallinn.  Surrounding area is rather open. In each direction is grassland without high trees. About 100 m northwest of station runs SW-NE directional tarmac road with high 
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1887<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1887-1893 in the yard of civilian at the street Novõi Pereulok, 59°26´22´´ N ; 24°44´59´´ E.<br> 2) 1894-1908 in the yard of civilian in Olevimäe, 59°26´24´´ N ; 24°44´54´´ E.<br> 3) 1908-1917 in open area on the harbour wharf, 59°26´32´´ N ; 24°45´27´´ E.<br> 4) 1919-1948 near the north lighthouse of Tallinn, 59°26´11´´ N ; 24°47´58´´ E.<br> 5) 1948-1964 in Pirita-Kose, 60m off the shoreline. 59°27´29´´ N ; 24°48´49´´ E.<br> 6) 1965-1980 near the Tallinn airfield 40m off the tarmac street, 59°24´49´´ N ; 24°48´2´´ E.<br> 7) From 1980 at the current location, 59°23´53´´ N ; 24°36´10´´ E.
+
+----------------------------------------------------------------
+11364,SORVE,ESTONIA,+57:54:49,+022:03:28,3 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located on a peninsula of island Saaremaa. It is very close to the sea, 50 m away. Surrounding is relatively open grassland area. About 10 m southeast of station runs SW-NE directional tarmac road. East and west sides a
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1901<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1901-1944 observations near the lighthouse, 57°54´37´´ N ; 22°3´22´´ E<br> 2) 1945-1950 observations 550 m from coastline at the western edge of village Tammuna, 57°57´9´´ N ; 21°59´42´´ E<br> 3) 1950-1987 observations 200 m NE of lighthouse and 30 m from coastline, 57°54´41´´ N ; 22°3´25´´ E<br> 4) From 1987 at current location 57°54´49´´ N ; 22°03´28´´ E
+
+----------------------------------------------------------------
+11365,TIIRIKOJA,ESTONIA,+58:51:55,+026:57:08,32 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: weather station is located near the town Mustvee and near lake Peipsi. 20 m east of station runs south-north directional tarmac road and about at a distance 140 m is major lake. Southern direction is more- or less open with some higher trees 
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1923<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1923-1944 observations 3 km from town Mustvee, 80 m from lake Peipsi, 58°52´7´´ N ; 26°57´19´´ E<br> 2) 1944-1957 observations about 25 m from lake Peipsi, 58°52´5´´ N ; 26°57´23´´ E<br> 3) From 1957 at current location 58°51´55´´ N ; 26°57´08´´ E
+
+----------------------------------------------------------------
+11366,TARTU,ESTONIA,+58:18:00,+026:44:00,58 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: At the beginning station was in the citycentre of Tartu, shaded by several buildings and trees. It has been moved several times to nearby locations. Later meteorology station was moved to Ülenurme village which is few km south of Tartu. Stat
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1865<br> Changes in location:<br> 1) 1865-1866 at Vallikraavi str. 12, 58°22´40´´ N ; 26°43´9´´ E.<br> 2) 1866-1866 at Tiigi str. 10, 58°22´31´´ N ; 26°42´56´´ E.<br> 3) 1866-1892 at Tiigi str. 1, 58°22´40´´ N ; 26°43´9´´ E.<br> 4) 1893-1925 at Tiigi str. 15, 58°22´32´´ N ; 26°42´55´´ E.<br> 5) 1926-1952 at the yard of Metobs, other side of road from J.Liivi str. 3, 58°22´41´´ N ; 26°42´45´´ E.<br> 6) 1952-1981 observations near the airfield, 800 m SE from new terminal building, 58°18´16´´ N ; 26°42´14´´ E.<br> 7) 1981-1996 observations 80 m from airfield apron, 58°18´32´´ N ; 26°41´36´´ E.
+
+----------------------------------------------------------------
+11367,TARTU-TORAVERE,ESTONIA,+58:15:50,+026:27:41,70 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: weather station is located about 1 km away from major tarmac road. Around station is rather open grassland area. Still approximately 150 m from nortwest, west, southwest, south and southeast situates higher hedge of spruces and decidiuos tree
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1964<br> Beginning of automated observations: 2003<br> Changes in location: No changes in time <br><br>BSRN station 9, doi:10.1594/PANGAEA.671374, doi:10.1594/PANGAEA.671373, BSRN station scientist: Ain Kallis (kallis@aai.ee)
+
+----------------------------------------------------------------
+11368,TOOMA,ESTONIA,+58:52:28,+026:16:20,89 m 
+----------------------------------------------------------------
+* Land use:
+runs SW-NE directional small gravel road which is bordering by disperse low decidious trees. All
+directions are well opened and closest single low residental building with solitary higher trees are about 70 m southeast of station. Closest bigger lake situ
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1915<br> Beginning of automated observations: 2009<br> Changes in location: no changes in time
+
+----------------------------------------------------------------
+11369,VAIKE-MAARJA,ESTONIA,+59:08:29,+026:13:51,121 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located on an open area between crop fields.<br> At the west side of station runs south-north directional gravel road. In north side of station are three low buildings and some bit higher trees. Other directions are rather open, on
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1962<br> Beginning of automated observations: 2003<br> Changes in location: no changes in time
+
+----------------------------------------------------------------
+11370,TURI,ESTONIA,+58:48:31,+025:24:33,60 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: station is located inside the town Türi on smaller grassland area. About 100 m away northeast, east and southeast are district of low residental houses. Approximately 100m north is warehouse, some residental houses and trees. 50 m west and s
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1941<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1941-1949 observations at Väike-Pärnu str. 7, 58°48´38´´ N ; 25°25´12´´ E<br> 2) 1949-1956 observations at Suur-Pärnu str. 55, 58°48´33´´ N ; 25°24´34´´ E<br> 3) From 1956 at current location 58°48´31´´ N ; 25°24´33´´ E
+
+----------------------------------------------------------------
+11371,VILJANDI,ESTONIA,+58:22:40,+025:36:01,86 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: meteorology station is located nearby low buildings and is bordering to realtively high trees. North of station about 20 m away runs tarmac street and behind that are higher trees, in the west situates low building, south of station grows row
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1937<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1937-1940 observations near school at Laidoneri square 5, 58°21´46´´ N ; 25°36´1´´ E<br> 2) 1941-1982 observations at the citycenter Edela str. 9, 58°22´13´´ N ; 25°34´60´´ E<br> 3) From 1982 at current location 58°22´40´´ N ; 25°36´01´´ E
+
+----------------------------------------------------------------
+11372,VALGA,ESTONIA,+57:47:24,+026:02:16,65 m 
+----------------------------------------------------------------
+* Land use:
+Surrounding: Station is located on open grassland area. About 70 m of southwest is bit higher
+building, 110m northwest of station grows spruce hedge. Approximately 50 m east of meteorology station are some low decidious trees All other directions are free
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1941<br> Beginning of automated observations: 2003<br> Changes in location:<br> 1) 1941-2011 observations at the northern edge of Valga, 57°47´16´´ N ; 26°1´58´´ E<br> 2) From 2011 at current location 57°47´24´´ N ; 26°02´16´´ E
+
+----------------------------------------------------------------
+11373,VIRTSU,ESTONIA,+58:34:22,+023:30:49,2 m 
+----------------------------------------------------------------
+* Land use:
+Altitude from the sea level: 2 m Surrounding: station is located near the Virtsu harbour about 100 m from the sea. Next to meteorology station at the west, southwest, south and at the south-east are midsize decidiuous trees. There are some solitary trees 
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Beginning of observations: 1945<br> Beginning of automated observations: 2010<br> Changes in location: no changes in time
+

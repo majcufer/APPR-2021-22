@@ -1,0 +1,54 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  268,100910,VORU                                    ,EE,+57:50:46,+027:01:10,  82, RR2,19110806,20210930,   39,Kaupo Mandla                                      
+  269,100914,VILSANDI                                ,EE,+58:22:59,+021:48:55,   6, RR2,18981231,20210930,   39,Kaupo Mandla                                      
+  269,926214,VILSANDI                                ,EE,+58:23:00,+021:49:00,   6, RR8,19960928,20191230,     ,                    
+11349,174995,HELTERMAA                               ,EE,+58:51:51,+023:02:37,   4, RR2,19510430,20210930,   39,Kaupo Mandla                                      
+11350,174999,JOHVI                                   ,EE,+59:19:44,+027:23:54,  73, RR2,19260302,20210930,   39,Kaupo Mandla                                      
+11351,175003,JOGEVA                                  ,EE,+58:44:59,+026:24:54,  70, RR2,19220131,20210930,   39,Kaupo Mandla                                      
+11353,175011,KURESSAARE                              ,EE,+58:13:05,+022:30:23,   1, RR2,19480831,20210930,   39,Kaupo Mandla                                      
+11353,926215,KURESSAARE                              ,EE,+58:14:00,+022:30:00,   4, RR8,19900925,20000730,     ,                    
+11354,175015,KUNDA                                   ,EE,+59:31:17,+026:32:29,   3, RR2,19150531,20210930,   39,Kaupo Mandla                                      
+11355,175019,KIHNU                                   ,EE,+58:05:55,+023:58:13,   3, RR2,19310517,20210930,   39,Kaupo Mandla                                      
+11356,175023,KUUSIKU                                 ,EE,+58:58:24,+024:44:02,  53, RR2,19241231,20210930,   39,Kaupo Mandla                                      
+11357,175027,NARVA                                   ,EE,+59:23:21,+028:06:46,  28, RR2,19051231,20210930,   39,Kaupo Mandla                                      
+11358,175031,LAANE-NIGULA                            ,EE,+58:57:04,+023:48:56,  24, RR2,19631231,20210930,   39,Kaupo Mandla                                      
+11359,175035,PARNU                                   ,EE,+58:23:04,+024:29:07,  12, RR2,18771214,20210930,   39,Kaupo Mandla                                      
+11360,175039,PAKRI                                   ,EE,+59:23:22,+024:02:24,  23, RR2,18860831,20210930,   39,Kaupo Mandla                                      
+11360,926029,PAKRI                                   ,EE,+59:21:00,+024:03:00,  26, RR8,19960928,20120917,     ,                    
+11361,175043,RUHNU                                   ,EE,+57:47:00,+023:15:32,   2, RR2,19051231,20210930,   39,Kaupo Mandla                                      
+11362,175047,RISTNA                                  ,EE,+58:55:15,+022:03:59,   7, RR2,19220331,20210930,   39,Kaupo Mandla                                      
+11363,175051,TALLINN                                 ,EE,+59:23:53,+024:36:10,  33, RR2,18700630,20210930,   39,Kaupo Mandla                                      
+11363,926038,TALLINN                                 ,EE,+59:23:00,+024:35:00,  34, RR8,19820114,20200229,     ,                    
+11364,175055,SORVE                                   ,EE,+57:54:49,+022:03:28,   3, RR2,18860731,20210930,   39,Kaupo Mandla                                      
+11365,175059,TIIRIKOJA                               ,EE,+58:51:55,+026:57:08,  32, RR2,19281231,20210930,   39,Kaupo Mandla                                      
+11367,175067,TARTU-TORAVERE                          ,EE,+58:15:50,+026:27:41,  70, RR2,19640831,20210930,   39,Kaupo Mandla                                      
+11368,175071,TOOMA                                   ,EE,+58:52:28,+026:16:20,  89, RR2,19150331,20210930,   39,Kaupo Mandla                                      
+11369,175075,VAIKE-MAARJA                            ,EE,+59:08:29,+026:13:51, 121, RR2,19620731,20210930,   39,Kaupo Mandla                                      
+11370,175079,TURI                                    ,EE,+58:48:31,+025:24:33,  60, RR2,19250131,20210930,   39,Kaupo Mandla                                      
+11371,175083,VILJANDI                                ,EE,+58:22:40,+025:36:01,  86, RR2,19051231,20210930,   39,Kaupo Mandla                                      
+11372,175087,VALGA                                   ,EE,+57:47:24,+026:02:16,  65, RR2,19410228,20210930,   39,Kaupo Mandla                                      
+11373,175091,VIRTSU                                  ,EE,+58:34:22,+023:30:49,   2, RR2,19101231,20210930,   39,Kaupo Mandla                                      

@@ -1,0 +1,71 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  169,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53
+  170,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15
+  174,BRINDISI                                ,IT,+40:38:00,+017:56:00,  10
+  175,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21
+  176,ROMA CIAMPINO                           ,IT,+41:47:00,+012:35:00, 105
+  177,VERONA VILLAFRANCA                      ,IT,+45:23:00,+010:52:00,  68
+ 2082,MONTE CIMONE                            ,IT,+44:12:00,+010:42:00,2165
+ 2109,CAPO BELLAVISTA                         ,IT,+39:55:48,+009:43:12, 138
+16474,BARRALI                                 ,IT,+39:29:04,+009:05:54,  13
+16476,NURAMINIS                               ,IT,+39:26:34,+009:00:48,   9
+16477,VILLASOR                                ,IT,+39:22:53,+008:56:36,   2
+16478,CAPOTERRA                               ,IT,+39:10:29,+008:58:15,   5
+16571,OLBIA                                   ,IT,+40:55:26,+009:30:28,   2
+16573,MURTA MARIA                             ,IT,+40:53:27,+009:35:10,   2
+16613,CAGLIARI                                ,IT,+39:13:33,+009:07:04,   1
+16614,SESTU                                   ,IT,+39:17:47,+009:03:58,   5
+ 2766,ANZOLA DELL EMILIA                      ,IT,+44:34:45,+011:10:57,  42
+17526,BAURA                                   ,IT,+44:50:54,+011:43:12,   8
+17546,BUDRIO_DONDINA                          ,IT,+44:31:19,+011:32:59,  30
+ 2785,CALDERARA DI RENO                       ,IT,+44:33:58,+011:16:20,  30
+17556,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36
+17563,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63
+17571,CASSA_DOSOLO                            ,IT,+44:39:14,+011:16:06,  22
+17582,CASTENASO_VILLANOVA                     ,IT,+44:29:24,+011:25:45,  51
+17585,CENTONARA                               ,IT,+44:28:19,+011:30:38,  41
+17606,DENORE_ALEOTTI                          ,IT,+44:46:57,+011:50:37,   1
+17607,DIAMANTINA                              ,IT,+44:53:09,+011:30:42,   5
+17611,DOZZA                                   ,IT,+44:32:02,+011:22:05,  42
+17627,GAIBANELLA                              ,IT,+44:46:08,+011:39:45,   3
+17655,LA_VALLETTA                             ,IT,+44:54:52,+011:29:46,   6
+17658,LAVINO_DI_SOPRA                         ,IT,+44:29:26,+011:13:15,  75
+ 2830,MALALBERGO                              ,IT,+44:43:06,+011:31:45,  12
+17667,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4
+17680,MIRABELLO                               ,IT,+44:49:54,+011:27:15,  10
+17703,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5
+17705,OPERA_PO                                ,IT,+44:55:40,+011:26:27,  17
+17711,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25
+17735,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8
+17742,PONTISETTE                              ,IT,+44:52:18,+011:32:45,   7
+17747,QUARTESANA                              ,IT,+44:49:05,+011:44:56,   2
+17771,SAN_BARTOLOMEO_IN_BOSCO                 ,IT,+44:44:29,+011:36:23,   8
+17783,SAN_PIETRO_CAPOFIUME                    ,IT,+44:39:13,+011:37:21,  11
+17789,SANTA_MARIA_CODIFIUME                   ,IT,+44:41:06,+011:40:24,   5
+17806,SELLARINO_VOGHIERA                      ,IT,+44:44:47,+011:44:46,   3
+17811,SERPIERI                                ,IT,+44:32:54,+011:22:02,  28
+17829,TRAVALLINO                              ,IT,+44:40:27,+011:34:10,  14
+17850,ZOLA_PREDOSA                            ,IT,+44:29:46,+011:12:00,  65
+17853,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54
+17854,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63
+17855,CASALECCHIO_TIRO_A_VOLO                 ,IT,+44:28:48,+011:16:55,  54
+17878,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26
+17861,BUDRIO_PRUNARO                          ,IT,+44:30:33,+011:31:12,  46

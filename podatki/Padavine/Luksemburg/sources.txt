@@ -1,0 +1,65 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  203,100635,LUXEMBOURG AIRPORT                      ,LU,+49:37:34,+006:12:13, 376,RR11,19470101,20211031,   25,Aline Freyermuth                                  
+  280,100945,ARSDORF_1                               ,LU,+49:51:36,+005:50:57, 419, RR3,19540101,20050101,   42,Laurent Pfister                                   
+  280,220998,ARSDORF_1                               ,LU,+49:51:36,+005:50:57, 419, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  281,100946,BELVAUX                                 ,LU,+49:30:36,+005:55:48, 340, RR3,19540101,20050101,   42,Laurent Pfister                                   
+  281,221048,CLEMENCY                                ,LU,+49:36:00,+005:52:32, 332, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  282,100947,BETTBORN-PRATZ                          ,LU,+49:48:00,+005:56:24, 300, RR3,19540101,20050101,   42,Laurent Pfister                                   
+  282,221288,USELDANGE                               ,LU,+49:46:01,+005:58:03, 280, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  283,100948,CALMUS                                  ,LU,+49:43:48,+005:58:12, 295, RR3,19540101,20050101,   42,Laurent Pfister                                   
+  283,221158,MAMER                                   ,LU,+49:38:06,+006:01:10, 315, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  283,221288,USELDANGE                               ,LU,+49:46:01,+005:58:03, 280, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  284,100949,CLERVAUX-HAUTBELLAIN                    ,LU,+50:03:00,+006:01:48, 465, RR3,19540101,19951230,   42,Laurent Pfister                                   
+  284,221008,ASSELBORN                               ,LU,+50:05:52,+005:58:13, 479, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  286,100951,KEHMEN-DIEKIRCH                         ,LU,+49:54:00,+006:01:48, 488, RR3,19540101,20050101,   42,Laurent Pfister                                   
+  286,221058,DAHL                                    ,LU,+49:56:12,+005:58:53, 474, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  287,100952,KOERICH_1                               ,LU,+49:40:45,+005:56:43, 262, RR3,19540101,20040430,   42,Laurent Pfister                                   
+  287,221148,KOERICH_1                               ,LU,+49:40:45,+005:56:43, 262, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  287,221288,USELDANGE                               ,LU,+49:46:01,+005:58:03, 280, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  288,100953,LORENTZWEILER                           ,LU,+49:42:00,+006:08:24, 237, RR3,19540101,20050101,   42,Laurent Pfister                                   
+  288,221018,BERINGEN                                ,LU,+49:45:42,+006:06:42, 216, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+  288,221268,STEINSEL                                ,LU,+49:41:14,+006:07:26, 247, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+ 4512,127234,PERL-BESCH                              ,DE,+49:30:45,+006:23:11, 175, RR3,19510101,20040930,   11,National Climate Data Center (DWD)                
+ 4512,127246,PERL-NENNIG                             ,DE,+49:32:12,+006:22:52, 152, RR3,19650101,20211031,   11,National Climate Data Center (DWD)                
+22463,100949,CLERVAUX-HAUTBELLAIN                    ,LU,+50:03:00,+006:01:48, 465, RR3,19540101,19951230,   42,Laurent Pfister                                   
+22463,221008,ASSELBORN                               ,LU,+50:05:52,+005:58:13, 479, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22464,100953,LORENTZWEILER                           ,LU,+49:42:00,+006:08:24, 237, RR3,19540101,20050101,   42,Laurent Pfister                                   
+22464,221018,BERINGEN                                ,LU,+49:45:42,+006:06:42, 216, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22467,100946,BELVAUX                                 ,LU,+49:30:36,+005:55:48, 340, RR3,19540101,20050101,   42,Laurent Pfister                                   
+22467,221048,CLEMENCY                                ,LU,+49:36:00,+005:52:32, 332, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22467,221158,MAMER                                   ,LU,+49:38:06,+006:01:10, 315, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22468,100951,KEHMEN-DIEKIRCH                         ,LU,+49:54:00,+006:01:48, 488, RR3,19540101,20050101,   42,Laurent Pfister                                   
+22468,221058,DAHL                                    ,LU,+49:56:12,+005:58:53, 474, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22477,100948,CALMUS                                  ,LU,+49:43:48,+005:58:12, 295, RR3,19540101,20050101,   42,Laurent Pfister                                   
+22477,221158,MAMER                                   ,LU,+49:38:06,+006:01:10, 315, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22481,127234,PERL-BESCH                              ,DE,+49:30:45,+006:23:11, 175, RR3,19510101,20040930,   11,National Climate Data Center (DWD)                
+22481,221198,REMERCHEN                               ,LU,+49:29:27,+006:20:56, 183, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22488,100953,LORENTZWEILER                           ,LU,+49:42:00,+006:08:24, 237, RR3,19540101,20050101,   42,Laurent Pfister                                   
+22488,221268,STEINSEL                                ,LU,+49:41:14,+006:07:26, 247, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22490,100947,BETTBORN-PRATZ                          ,LU,+49:48:00,+005:56:24, 300, RR3,19540101,20050101,   42,Laurent Pfister                                   
+22490,221148,KOERICH_1                               ,LU,+49:40:45,+005:56:43, 262, RR7,20190804,20211031,   82,Andrew Ferrone                                    
+22490,221288,USELDANGE                               ,LU,+49:46:01,+005:58:03, 280, RR7,20190804,20211031,   82,Andrew Ferrone                                    

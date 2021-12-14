@@ -1,0 +1,34 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  228,LJUBLJANA BEZIGRAD                      ,SI,+46:03:56,+014:30:45, 299
+ 1752,KREDARICA                               ,SI,+46:22:43,+013:50:56,2513
+ 3311,KOCEVJE                                 ,SI,+45:38:45,+014:50:59, 468
+ 3312,LESCE                                   ,SI,+46:21:40,+014:09:43, 503
+ 3317,VOJSKO                                  ,SI,+46:01:31,+013:54:08,1065
+ 3322,NOVA VAS NA BLOKAH                      ,SI,+45:46:23,+014:30:34, 720
+ 3323,POSTOJNA                                ,SI,+45:45:58,+014:11:36, 533
+ 3325,VELIKI DOLENCI                          ,SI,+46:50:11,+016:17:16, 308
+ 3328,NOVO MESTO                              ,SI,+45:48:06,+015:10:38, 220
+ 3329,SMARTNO PRI SLOVENJ GRADCU              ,SI,+46:29:23,+015:06:40, 444
+ 3330,LETALISCE JOZETA PUCNIKA LJUBLJANA      ,SI,+46:12:41,+014:28:42, 362
+ 3331,LETALISCE EDVARDA RUSJANA MARIBOR       ,SI,+46:28:47,+015:40:54, 264
+ 3335,MURSKA SOBOTA-RAKICAN                   ,SI,+46:39:08,+016:11:29, 187
+ 3336,RATECE-PLANICA                          ,SI,+46:30:00,+013:42:00, 864
+17902,MARIBOR - VRBANSKI PLATO                ,SI,+46:34:04,+015:37:34, 279

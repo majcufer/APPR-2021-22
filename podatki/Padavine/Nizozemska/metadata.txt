@@ -1,0 +1,7055 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 08-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+144,WEST TERSCHELLING,NETHERLANDS,+53:22:00,+005:13:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+145,DE KOOY-1,NETHERLANDS,+52:55:00,+004:47:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+146,DEN HELDER-1,NETHERLANDS,+52:56:00,+004:45:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+147,GRONINGEN-1,NETHERLANDS,+53:11:00,+006:36:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+148,TER APEL,NETHERLANDS,+52:53:00,+007:04:00,12 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+149,HOORN,NETHERLANDS,+52:39:00,+005:04:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+150,HEERDE,NETHERLANDS,+52:24:00,+006:03:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+151,HOOFDDORP,NETHERLANDS,+52:19:00,+004:42:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+152,DE BILT-1,NETHERLANDS,+52:06:00,+005:11:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+153,WINTERSWIJK,NETHERLANDS,+51:59:00,+006:42:00,34 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+154,KERKWERVE,NETHERLANDS,+51:41:00,+003:52:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+155,WESTDORPE-1,NETHERLANDS,+51:13:00,+003:52:00,2 m 
+----------------------------------------------------------------
+* Land use:
+Located in half open area (polder), mainly grassland and arable land.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+156,AXEL,NETHERLANDS,+51:17:00,+003:55:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+157,OUDENBOSCH,NETHERLANDS,+51:34:00,+004:32:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+158,ROERMOND,NETHERLANDS,+51:11:00,+005:58:00,20 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+161,DE KOOY,NETHERLANDS,+52:55:37,+004:46:52,1 m 
+----------------------------------------------------------------
+* Land use:
+Coastal station, sited in a polder, approx. 1 km of the Dutch Wadden, just south of the city of Den Helder. Airport.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature: <br>
+19720801-19921231 electronic measurement in Stevensonhut (at 1,50 meter), <br>
+19930101-present electronic sensors in round-plated screen (at 1,50 meter)<br>
+Pressure:  <br>
+19720801--19841231 barograph en mercury barometer, <br>
+19850101-19921231 barograph en digitale aneroïde barometer, <br>
+19930101-present electronic measurement <br>
+
+----------------------------------------------------------------
+162,DE BILT,NETHERLANDS,+52:05:56,+005:10:47,2 m 
+----------------------------------------------------------------
+* Land use:
+Partly open landscape. Broad transition zone between the low sandy hills of the Utrechtse Heuvelrug and the basin of the river Kromme Rijn. Meadows and arable land alternate with built-up areas and woodlands.
+* Soil type:
+Sand
+* Surface coverage:
+Grass
+* History:
+19500916 relocation westwards <br>
+19510827 relocation southwards (300m) <br>
+20080925 relocation eastwards (230m) <br>
+<br>
+Temperature: <br>
+19010101-19500516 thermograph in large pagodehut (2.2 m),<br>
+19500517-19610628 thermograph in Stevensonhut (2.2 m), <br>
+19610629-19930625 electronic measurement in Stevensonhut (1.5 m), <br>
+19930326-present electronic sensors in round-plated screen<br>
+Pressure:<br>
+18481201-18951231 pressure as mean value of the 7:40, 13:40 and 21:40 GMT air pressures <br>
+18481201-18961231 pressure measured at Utrecht 52°05(N), 05°08(E) <br>
+18960101-19011231 pressure as mean value of the 7:40, 13:40 and 18:40 GMT air pressures <br>
+19020101-present pressure as mean value of 24 hourly measurements <br>
+<br>
+19020101-19731015 barograph and mercury barometer, <br>
+19731016-19930625 barograph en digital aneroid barometer, <br>
+19930626-electronic measurement<br>
+
+----------------------------------------------------------------
+164,EELDE,NETHERLANDS,+53:07:25,+006:35:05,5 m 
+----------------------------------------------------------------
+* Land use:
+Open landscape, mainly grassland. Airport.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature: <br>
+19460201-19590730 thermograph in Stevensonhut (at 2,20 meter), <br>
+19590731-19730228 thermograph in Stevensonhut (at 1,50 meter), <br>
+19730301-19910315 electronic measurement in Stevensonhut (at 1,50 meter), <br>
+19910316-present electronic sensors in round-plated screen (at 1,50 meter)<br>
+Pressure: <br>
+19460201-19860909 barograph and mercury barometer, <br>
+19860910-19910315 barograph and digital aneroide barometer, <br>
+19910316-present electronic measurement <br>
+
+----------------------------------------------------------------
+166,VLISSINGEN,NETHERLANDS,+51:26:29,+003:35:45,8 m 
+----------------------------------------------------------------
+* Land use:
+Coastal station (Westerschelde). Located on a harbour pier.
+* Soil type:
+Not known
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+168,MAASTRICHT,NETHERLANDS,+50:54:19,+005:45:43,114 m 
+----------------------------------------------------------------
+* Land use:
+Located in a slighly sloping area, grassland and arable land. Forest on slopes in the vicinity. Airport area
+* Soil type:
+Loss (chalk)
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19451201-19610413 thermograph in Stevensonhut (at 2,20 meter),  <br>
+19610414-19760131 thermograph in Stevensonhut (at 1,50 meter),  <br>
+19760201-19910228 electronic measurement in Stevensonhut (at 1,50 meter),  <br>
+19910301-present electronic sensors in round-plated screen (at 1,50 meter) <br>
+Pressure:  <br>
+19451201-19800708 barograph and mercury barometer,  <br>
+19800709-19910228 barograph and digitale aneroide barometer,  <br>
+19910301-present electronic measurement <br>
+
+----------------------------------------------------------------
+411,MARKNESSE,NETHERLANDS,+52:42:07,+005:53:15,-3 m 
+----------------------------------------------------------------
+* Land use:
+Located in flat, open polder. Mainly arable land.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910101-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+
+----------------------------------------------------------------
+413,LAUWERSOOG,NETHERLANDS,+53:24:42,+006:11:57,3 m 
+----------------------------------------------------------------
+* Land use:
+Coastal area
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910401-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+
+----------------------------------------------------------------
+437,WIJK AAN ZEE,NETHERLANDS,+52:30:19,+004:36:11,9 m 
+----------------------------------------------------------------
+* Land use:
+Dune area
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+438,CABAUW,NETHERLANDS,+51:58:09,+004:55:33,-1 m 
+----------------------------------------------------------------
+* Land use:
+Meadows
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature: <br>19970101-present Automatic Weather Station, electronic sensors in round-plated screen.<br>Pressure: <br>19970101-present Paroscientific barometer.<br>BSRN station 53, doi:10.1594/PANGAEA.669511, BSRN station scientist: Wouter Knap (knap@knmi.nl) 
+
+----------------------------------------------------------------
+442,VOLKEL,NETHERLANDS,+51:39:30,+005:42:24,20 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+451,BERKHOUT,NETHERLANDS,+52:38:34,+004:58:44,-2 m 
+----------------------------------------------------------------
+* Land use:
+Polder, open area, mainly grassland and arable land
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature: <br>
+19990317-present Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height).<br>
+
+----------------------------------------------------------------
+453,HEINO,NETHERLANDS,+52:26:04,+006:15:32,4 m 
+----------------------------------------------------------------
+* Land use:
+Heathland.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910101-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+
+----------------------------------------------------------------
+454,HUPSEL,NETHERLANDS,+52:04:04,+006:39:24,29 m 
+----------------------------------------------------------------
+* Land use:
+Mostly open area, mainly grassland
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910101-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+
+----------------------------------------------------------------
+464,ARCEN,NETHERLANDS,+51:29:50,+006:11:46,20 m 
+----------------------------------------------------------------
+* Land use:
+Half open area. Arable land alternate with water (partly by excavation) and forest
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature: <br>
+19910101-present Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height).<br>
+
+----------------------------------------------------------------
+478,HERWIJNEN,NETHERLANDS,+51:51:28,+005:08:43,1 m 
+----------------------------------------------------------------
+* Land use:
+Polder, heathland.
+* Soil type:
+River clay
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+500,NIEUW BEERTA,NETHERLANDS,+53:11:40,+007:08:57,0 m 
+----------------------------------------------------------------
+* Land use:
+Polder, arable land.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910101-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+
+----------------------------------------------------------------
+501,PETTEN,NETHERLANDS,+52:46:00,+004:39:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+502,DE COCKSDORPS,NETHERLANDS,+53:10:00,+004:52:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+503,DE KOOG,NETHERLANDS,+53:06:00,+004:46:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+504,MAKKUM,NETHERLANDS,+53:04:00,+005:25:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+505,ST. ANNA PAROCHIE,NETHERLANDS,+53:17:00,+005:40:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+506,APPELSCHA,NETHERLANDS,+52:58:00,+006:21:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+507,NIJBEETS,NETHERLANDS,+53:04:00,+006:00:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+508,BERGUMERDAM,NETHERLANDS,+53:11:00,+005:59:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+509,TERNAARD,NETHERLANDS,+53:23:00,+005:59:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+511,DELFZIJL,NETHERLANDS,+53:19:00,+006:56:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+512,WARFFUM,NETHERLANDS,+53:24:00,+006:34:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+513,ZOUTKAMP,NETHERLANDS,+53:20:00,+006:18:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+514,EEXT,NETHERLANDS,+53:00:00,+006:44:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+515,VLAGTWEDDE,NETHERLANDS,+53:02:00,+007:07:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+516,RODEN,NETHERLANDS,+53:09:00,+006:26:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+517,ZEERIJP,NETHERLANDS,+53:21:00,+006:45:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+518,BEVERWIJK,NETHERLANDS,+52:29:00,+004:40:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+519,ENKHUIZEN,NETHERLANDS,+52:42:00,+005:18:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+520,SCHELLINGWOUDE,NETHERLANDS,+52:23:00,+004:58:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+521,ANNA PAULOWNA,NETHERLANDS,+52:52:00,+004:50:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+522,ZANDVOORT,NETHERLANDS,+52:21:00,+004:31:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+523,ZAANDIJK,NETHERLANDS,+52:29:00,+004:48:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+524,MEDEMBLIK,NETHERLANDS,+52:47:00,+005:06:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+525,DEN OEVER,NETHERLANDS,+52:55:00,+005:02:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+526,MARKEN,NETHERLANDS,+52:28:00,+005:06:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+527,HOOGEVEEN-1,NETHERLANDS,+52:43:00,+006:28:00,11 m 
+----------------------------------------------------------------
+* Land use:
+Open area, mainly arable land.
+* Soil type:
+Redigged peat
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19900601- present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19900221-present  Paroscientific barometer <br>
+
+----------------------------------------------------------------
+528,IJSSELMUIDEN,NETHERLANDS,+52:34:00,+005:57:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+529,SCHOONLOO,NETHERLANDS,+52:54:00,+006:42:00,21 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+530,ZWEELO,NETHERLANDS,+52:48:00,+006:44:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+531,TOLLEBEEK,NETHERLANDS,+52:40:00,+005:38:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+532,EMMELOORD,NETHERLANDS,+52:43:00,+005:47:00,-4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+533,KLAZIENAVEEN,NETHERLANDS,+52:46:00,+007:00:00,17 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+534,ELBURG,NETHERLANDS,+52:26:00,+005:50:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+535,DEDEMSVAART,NETHERLANDS,+52:36:00,+006:27:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+536,LEMMER (GEMAAL BUMA),NETHERLANDS,+52:50:00,+005:43:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+537,SWIFTERBANT,NETHERLANDS,+52:35:00,+005:39:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+538,OOSTVAARDERSDIEP,NETHERLANDS,+52:25:00,+005:13:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+539,GROOT AMMERS,NETHERLANDS,+51:56:00,+004:49:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+540,ROELOFARENDSVEEN,NETHERLANDS,+52:13:00,+004:37:00,-4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+541,SCHEVENINGEN,NETHERLANDS,+52:07:00,+004:18:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+542,NUMANSDORP,NETHERLANDS,+51:44:00,+004:25:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+543,IJSSELMONDE,NETHERLANDS,+51:53:00,+004:33:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+544,OOSTVOORNE,NETHERLANDS,+51:55:00,+004:06:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+545,DIRKSLAND,NETHERLANDS,+51:45:00,+004:05:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+546,OUD ALBLAS,NETHERLANDS,+51:51:00,+004:42:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+547,POORTUGAAL,NETHERLANDS,+51:51:00,+004:24:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+548,OUDDORP,NETHERLANDS,+51:49:00,+003:52:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+549,VALKENBURG-1,NETHERLANDS,+52:11:00,+004:25:00,0 m 
+----------------------------------------------------------------
+* Land use:
+Located in coastal area behind the dunes. Flat open area, mainly grass.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+550,NIJMEGEN,NETHERLANDS,+51:49:00,+005:52:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+551,PUTTEN (GLD),NETHERLANDS,+52:15:00,+005:37:00,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+552,APELDOORN,NETHERLANDS,+52:14:00,+005:58:00,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+553,WOUDENBERG,NETHERLANDS,+52:05:00,+005:27:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+554,LOENEN AAN DE VECHT,NETHERLANDS,+52:13:00,+005:02:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+555,CULEMBORG,NETHERLANDS,+51:57:00,+005:14:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+556,TIEL,NETHERLANDS,+51:55:00,+005:26:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+557,WEESP,NETHERLANDS,+52:18:00,+005:02:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+558,BARNEVELD,NETHERLANDS,+52:08:00,+005:35:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+559,DEELEN-1,NETHERLANDS,+52:04:00,+005:53:00,50 m 
+----------------------------------------------------------------
+* Land use:
+Located on lateral moraine (Veluwe), heathland/forestland, slightly sloping area. Airport area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+560,DOETINCHEM,NETHERLANDS,+51:58:00,+006:17:00,12 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+561,TWENTHE-1,NETHERLANDS,+52:16:00,+006:54:00,35 m 
+----------------------------------------------------------------
+* Land use:
+Half open area, slightly sloping area. Trees alternate with arable land and grassland. Airport area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+562,WEERSELO,NETHERLANDS,+52:21:00,+006:51:00,18 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+563,ALMEN,NETHERLANDS,+52:09:00,+006:18:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+564,LETTELE,NETHERLANDS,+52:16:00,+006:16:00,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+565,MARKELO,NETHERLANDS,+52:14:00,+006:30:00,17 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+566,LIEVELDE,NETHERLANDS,+52:01:00,+006:38:00,26 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+567,WILHELMINADORP,NETHERLANDS,+51:31:33,+003:53:01,2 m 
+----------------------------------------------------------------
+* Land use:
+Polder, arable land.
+* Soil type:
+Sandy clay
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+568,HAAMSTEDE,NETHERLANDS,+51:42:00,+003:42:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+569,OVEZANDE,NETHERLANDS,+51:26:00,+003:49:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+570,THOLEN-1,NETHERLANDS,+51:32:00,+004:13:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+571,PHILIPPINE,NETHERLANDS,+51:17:00,+003:45:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+572,SCHOONDIJKE,NETHERLANDS,+51:21:00,+003:33:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+573,KAPELLEBRUG,NETHERLANDS,+51:15:00,+004:04:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+574,ZUNDERT,NETHERLANDS,+51:28:00,+004:40:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+575,ESBEEK,NETHERLANDS,+51:26:00,+005:09:00,22 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+576,OOSTERHOUT,NETHERLANDS,+51:38:00,+004:50:00,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+577,CHAAM,NETHERLANDS,+51:31:00,+004:53:00,12 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+578,ANDEL,NETHERLANDS,+51:47:00,+005:03:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+579,HOOGERHEIDE,NETHERLANDS,+51:26:00,+004:19:00,19 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+580,KLUNDERT,NETHERLANDS,+51:40:00,+004:32:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+581,SEVENUM,NETHERLANDS,+51:24:00,+006:01:00,29 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+582,HELMOND,NETHERLANDS,+51:29:00,+005:37:00,18 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+583,VENLO,NETHERLANDS,+51:21:00,+006:11:00,30 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+584,NULAND,NETHERLANDS,+51:43:00,+005:25:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+585,SOMEREN,NETHERLANDS,+51:24:00,+005:42:00,23 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+586,DINTHER,NETHERLANDS,+51:39:00,+005:29:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+587,EINDHOVEN (VB),NETHERLANDS,+51:27:00,+005:25:00,20 m 
+----------------------------------------------------------------
+* Land use:
+Half open area. Forest and heath alternate with grassland and arable land. Airport area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19510101-19580912 thermograph in Stevensonhut (at 2,20 meter),  <br>
+19580912-19840621 thermograph in Stevensonhut (at 1,50 meter),  <br>
+station relocation (100m in southerly direction),  <br>
+19840622-19920915 electronic measurement in Stevensonhut Brown recorder (at 1,50 meter),  <br>
+19921001-present Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19510101-19930627 barograph en mercury barometer,  <br>
+19930628-present  electronic measurement <br>
+
+----------------------------------------------------------------
+588,EIJSDEN,NETHERLANDS,+50:47:00,+005:43:00,54 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+589,VALKENBURG (L),NETHERLANDS,+50:51:00,+005:50:00,80 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+590,SCHAESBERG,NETHERLANDS,+50:54:00,+006:01:00,140 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+591,BEESEL,NETHERLANDS,+51:16:00,+006:02:00,27 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+592,ECHT,NETHERLANDS,+51:05:00,+005:55:00,34 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+593,SCHIPHOL,NETHERLANDS,+52:18:56,+004:47:25,-3 m 
+----------------------------------------------------------------
+* Land use:
+Polder. Half open area, mainly grassland and arable land alternate with infra structure / buildings. Airport area.
+* Soil type:
+Clay/peat
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19510101-19550414 thermograph in Stevensonhut (at 2,20 meter),  <br>
+19550415-19590625 thermograph in Stevensonhut (at 1,50 meter),  <br>
+19590626-19901104 electronic measurement in Stevensonhut Brown recorder (at 1,50 meter).  <br>
+station relocations on 19631010; 19650504 <br>
+19910913-present electronic sensors in round-plated screen (at 1,50 meter) relocation to airstrip 19R at 19941109  <br>
+Pressure:  <br>
+19510101-19930630 barograph en mercury barometer,  <br>
+19810610-19910912 barograph and digitale aneroid barometer,  <br>
+19910913-present electronic measurement, relocation to airstrip 19R at 19941109 <br>
+
+----------------------------------------------------------------
+594,HOORN TERSCHELLING,NETHERLANDS,+53:23:28,+005:20:45,1 m 
+----------------------------------------------------------------
+* Land use:
+Located in a polder on the sea side of the Dutch Wadden (700m), mainly grassland.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19940601-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19940601-present  Paroscientific barometer  <br>
+
+----------------------------------------------------------------
+595,SOESTERBERG,NETHERLANDS,+52:07:32,+005:16:25,14 m 
+----------------------------------------------------------------
+* Land use:
+Located on Utrecht Hill Ridge in forested area. Airport area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19540101-19641101  Thermograph in Stevensonhut (at 2,20 meter, from 1957 at 1,60 meter, from 1959 at 1,50 meter),  <br>
+19641031-19920630  electronic measurement in Stevensonhut Brown recorder (at 1,50 meter),  <br>
+19920701-20081115  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19510910-19570620  Barograph and mercury barometer,  <br>
+19570701-19891231 Microbarograph Fuess,  <br>
+19900101-20081115  Electronic meting <br>
+
+----------------------------------------------------------------
+596,STAVOREN,NETHERLANDS,+52:53:48,+005:23:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+Located in open area, mainly grassland.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910101-19990831  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height).   <br>
+20000101-present  station relocation, 2 km in NO direction <br>
+
+----------------------------------------------------------------
+597,LELYSTAD,NETHERLANDS,+52:27:26,+005:31:11,-4 m 
+----------------------------------------------------------------
+* Land use:
+Located in a polder, mainly grassland. Airport area.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19910101-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). (relocated at 20020218) <br>
+Pressure:  <br>
+19920801-present  Paroscientific barometer aan windmast (relocated at 20010419) <br>
+
+----------------------------------------------------------------
+598,ROTTERDAM,NETHERLANDS,+51:57:38,+004:26:49,-4 m 
+----------------------------------------------------------------
+* Land use:
+Polder, mainly grassland. SE borders the city Rotterdam. Airport area.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19561001-19641231 thermograph in Stevensonhut (op 1,50 meter),  <br>
+19650101-19881030 electronic measurement in Stevensonhut (at 1,50 meter);  <br>
+relocation on 19851231,  <br>
+19881101-19930808 electronic sensors (at 1,50 meter),  <br>
+19930809-present electronic sensors in round-plated screen (op 1,50 meter) <br>
+Pressure:  <br>
+19561001-19641231 barograph en mercury barometer, <br>
+19650101-19771024 barograph en mercury barometer,  <br>
+station relocation,  <br>
+19771025-19881030 barograph en digitale aneroid barometer,  <br>
+19881101-19930808 barograph en digitale aneroid barometer,  <br>
+19930809-present electronic measurement,  <br>
+station relocation on 19971015 to windmast 24 <br>
+
+----------------------------------------------------------------
+599,GILZE-RIJEN,NETHERLANDS,+51:33:54,+004:56:07,11 m 
+----------------------------------------------------------------
+* Land use:
+Located in partly open landscape, alternate arable land and grassland. Airport area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19510103-19570909 Thermograph en Thermometers in hut,  <br>
+19570909-19761001  Thermograph en Thermometers in hut at 1,50 meter,  <br>
+1976101-19930401  Electronic measurement in hut at 1,50 meter: Brown recorder,  <br>
+19930401-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19510103-19930401  Barograph and mercury barometer,  <br>
+19930401-present  Paroscientific barometer <br>
+
+----------------------------------------------------------------
+600,ELL,NETHERLANDS,+51:11:48,+005:45:45,30 m 
+----------------------------------------------------------------
+* Land use:
+Heathland
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19990715-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+
+----------------------------------------------------------------
+601,VLIELAND,NETHERLANDS,+53:14:24,+004:55:15,4 m 
+----------------------------------------------------------------
+* Land use:
+Dune area
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+602,HOEK VAN HOLLAND,NETHERLANDS,+51:59:28,+004:07:18,12 m 
+----------------------------------------------------------------
+* Land use:
+Dune area, coastal area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19710101-19830817  electronic measurement in hut,  <br>
+19830817-19950503  electronic measurement in hut (at new location),  <br>
+19950503-present  Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19710101-19830817  Barograph, mercury barometer and aneroïde barometer,  <br>
+19921201-present  Paroscientific barometer,  <br>
+19830817-19910901  Aneroïde barometer at 13,04 m (at new location),  <br>
+19910901-20050131  Paroscientific barometer,  <br>
+20050131-present  Paroscientific barometer at 12,1 m  <br>
+
+----------------------------------------------------------------
+603,LEEUWARDEN,NETHERLANDS,+53:13:23,+005:45:06,0 m 
+----------------------------------------------------------------
+* Land use:
+Flat open polder area, mainly grassland, NW of the city Leeuwarden, airport area.
+* Soil type:
+Clay
+* Surface coverage:
+
+* History:
+Temperature:  <br>
+19510101-19571217 thermograph in Stevensonhut (at 2,20 meter),  <br>
+19571218-19711130 thermograph in Stevensonhut (at 1,50 meter),  <br>
+station relocation 100 m in southerly direction,  <br>
+19711201-19920703 electronic measurement in Stevensonhut Brown recorder (at 1,50 meter),  <br>
+19920704-present Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure:  <br>
+19510101-19930627 barograph Fuess and mercury barometer,  <br>
+19930628- present  electronic measurement <br>
+
+----------------------------------------------------------------
+604,WOENSDRECHT,NETHERLANDS,+51:26:52,+004:20:31,15 m 
+----------------------------------------------------------------
+* Land use:
+Forest area, airport area.
+* Soil type:
+Sand
+* Surface coverage:
+
+* History:
+Temperature: <br>
+19930407-present Automatic Weather Station, electronic sensors in round-plated screen (at 1.50 meter height). <br>
+Pressure: <br>
+19930407-present Paroscientific barometer in hut on the 10 m mast.<br>
+
+----------------------------------------------------------------
+2350,'S HEERENHOEK,NETHERLANDS,+51:28:00,+003:46:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2351,AALSMEER,NETHERLANDS,+52:16:00,+004:46:00,-4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2352,AALTEN,NETHERLANDS,+51:55:00,+006:34:00,22 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2353,ABCOUDE,NETHERLANDS,+52:16:00,+004:59:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2354,AKKRUM,NETHERLANDS,+53:03:00,+005:49:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2355,ALMELO,NETHERLANDS,+52:21:00,+006:40:00,11 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2356,AMERONGEN,NETHERLANDS,+52:00:00,+005:28:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2357,AMMERZODEN,NETHERLANDS,+51:45:00,+005:13:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2358,AMSTERDAM,NETHERLANDS,+52:22:00,+004:55:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2359,ANJUM,NETHERLANDS,+53:23:00,+006:08:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2360,ANNA JACOBA POLDER,NETHERLANDS,+51:38:00,+004:08:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2361,ARNHEM,NETHERLANDS,+52:00:00,+005:56:00,85 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2362,ASSEN,NETHERLANDS,+53:00:00,+006:36:00,12 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2363,ASSENDELFT,NETHERLANDS,+52:28:00,+004:44:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2364,BARENDRECHT,NETHERLANDS,+51:52:00,+004:32:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2365,BEEK,NETHERLANDS,+50:56:00,+005:49:00,115 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2366,BEEKBERGEN,NETHERLANDS,+52:10:00,+005:58:00,25 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2367,BENSCHOP,NETHERLANDS,+52:00:00,+004:56:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2368,BERGEN (NH),NETHERLANDS,+52:41:00,+004:41:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2369,BERGEN OP ZOOM,NETHERLANDS,+51:30:00,+004:15:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2370,BERGSCHENHOEK,NETHERLANDS,+51:59:00,+004:30:00,-6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2371,BIDDINGHUIZEN,NETHERLANDS,+52:27:00,+005:41:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2372,BIERVLIET,NETHERLANDS,+51:20:00,+003:41:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2373,BLOKZIJL,NETHERLANDS,+52:44:00,+005:57:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2374,BORCULO,NETHERLANDS,+52:06:00,+006:32:00,17 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2375,BOSKOOP,NETHERLANDS,+52:05:00,+004:41:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2376,BOXTEL,NETHERLANDS,+51:35:00,+005:20:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2377,BRESKENS,NETHERLANDS,+51:24:00,+003:33:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2378,BRIELLE,NETHERLANDS,+51:54:00,+004:09:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2379,BROUWERSHAVEN,NETHERLANDS,+51:44:00,+003:53:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2380,BUCHTEN,NETHERLANDS,+51:03:00,+005:48:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2381,CADZAND,NETHERLANDS,+51:22:00,+003:24:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2382,CALLANTSOOG,NETHERLANDS,+52:51:00,+004:42:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2383,CAPELLE (NB),NETHERLANDS,+51:41:00,+004:59:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2384,CASTRICUM,NETHERLANDS,+52:33:00,+004:39:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2385,DE HAUKES,NETHERLANDS,+52:53:00,+004:56:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2386,DELFT,NETHERLANDS,+52:01:00,+004:22:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2387,DEN BOMMEL,NETHERLANDS,+51:43:00,+004:18:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2388,DEN BURG,NETHERLANDS,+53:03:00,+004:48:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2389,DENEKAMP,NETHERLANDS,+52:23:00,+007:02:00,24 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2390,DEURNE,NETHERLANDS,+51:27:00,+005:46:00,26 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2391,DEVENTER,NETHERLANDS,+52:16:00,+006:13:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2392,DOKKUM,NETHERLANDS,+53:19:00,+005:59:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2393,DOORN,NETHERLANDS,+52:03:00,+005:20:00,20 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2394,DRACHTEN,NETHERLANDS,+53:07:00,+006:06:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2395,DRONTEN,NETHERLANDS,+52:33:00,+005:51:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2396,DUIVEN,NETHERLANDS,+51:58:00,+006:01:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2397,DWINGELO,NETHERLANDS,+52:49:00,+006:25:00,12 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2398,EDAM,NETHERLANDS,+52:31:00,+005:03:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2399,EEMNES,NETHERLANDS,+52:17:00,+005:17:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2400,EENRUM,NETHERLANDS,+53:22:00,+006:28:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2401,EERBEEK,NETHERLANDS,+52:07:00,+006:04:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2402,EERNEWOUDE,NETHERLANDS,+53:08:00,+005:57:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2403,EERSEL,NETHERLANDS,+51:21:00,+005:15:00,30 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2404,ELSPEET,NETHERLANDS,+52:17:00,+005:47:00,34 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2405,EMMEN,NETHERLANDS,+52:47:00,+006:53:00,24 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2406,ENSCHEDE,NETHERLANDS,+52:12:00,+006:55:00,46 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2407,EPE,NETHERLANDS,+52:21:00,+006:00:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2408,EPEN (L),NETHERLANDS,+50:46:00,+005:54:00,155 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2409,EZINGE,NETHERLANDS,+53:17:00,+006:27:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2410,EZUMAZIJL,NETHERLANDS,+53:22:00,+006:09:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2411,FINSTERWOLDE,NETHERLANDS,+53:12:00,+007:06:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2412,FORMERUM,NETHERLANDS,+53:24:00,+005:18:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2413,FREDERIKSOORD,NETHERLANDS,+52:51:00,+006:12:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2414,GELDERMALSEN,NETHERLANDS,+51:52:00,+005:16:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2415,GEMERT,NETHERLANDS,+51:33:00,+005:41:00,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2416,GENDRINGEN,NETHERLANDS,+51:52:00,+006:21:00,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2417,GIERSBERGEN,NETHERLANDS,+51:39:00,+005:09:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2418,GIETERVEEN,NETHERLANDS,+53:02:00,+006:51:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2419,GIETHOORN,NETHERLANDS,+52:43:00,+006:04:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2420,GINNEKEN,NETHERLANDS,+51:33:00,+004:45:00,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2421,GOEDEREEDE,NETHERLANDS,+51:49:00,+003:58:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2422,GORINCHEM,NETHERLANDS,+51:50:00,+004:59:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2423,GORREDIJK,NETHERLANDS,+53:00:00,+006:04:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2424,GOUDA,NETHERLANDS,+52:01:00,+004:43:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2425,HAMERSVELD,NETHERLANDS,+52:08:00,+005:25:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2426,HARDERWIJK,NETHERLANDS,+52:22:00,+005:37:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2427,HARLINGEN,NETHERLANDS,+53:11:00,+005:26:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2428,HARSKAMP,NETHERLANDS,+52:09:00,+005:44:00,19 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2429,HEEG,NETHERLANDS,+52:58:00,+005:36:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2430,HEEMSTEDE,NETHERLANDS,+52:21:00,+004:38:00,-4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2431,HEIBLOEM (L),NETHERLANDS,+51:17:00,+005:54:00,29 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2432,HEILOO,NETHERLANDS,+52:36:00,+004:44:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2433,HELLENDOORN,NETHERLANDS,+52:23:00,+006:27:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2434,HENDRIK IDO AMBACHT,NETHERLANDS,+51:50:00,+004:39:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2435,HENGELO,NETHERLANDS,+52:04:00,+006:18:00,11 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2436,HENGELO (O),NETHERLANDS,+52:16:00,+006:46:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2437,HERBAYUM,NETHERLANDS,+53:11:00,+005:30:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2438,HERWEN,NETHERLANDS,+51:53:00,+006:06:00,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2439,HEUMEN,NETHERLANDS,+51:46:00,+005:50:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2440,HOLLUM,NETHERLANDS,+53:26:00,+005:38:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2441,HOLTEN,NETHERLANDS,+52:18:00,+006:28:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2442,HONSELERSDIJK,NETHERLANDS,+52:00:00,+004:15:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2443,HOOGKARSPEL,NETHERLANDS,+52:41:00,+005:10:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2444,HOOGWOUD,NETHERLANDS,+52:44:00,+004:58:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2445,HULSHORST,NETHERLANDS,+52:22:00,+005:42:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2447,IJSSELSTEYN (L),NETHERLANDS,+51:29:00,+005:53:00,31 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2448,JOURE,NETHERLANDS,+52:58:00,+005:49:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2449,KAPELLE,NETHERLANDS,+51:29:00,+003:57:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2450,KATWIJK AAN DEN RIJN,NETHERLANDS,+52:11:00,+004:25:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2451,KLOOSTERZANDE,NETHERLANDS,+51:23:00,+004:02:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2452,KOLHORN,NETHERLANDS,+52:47:00,+004:54:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2453,KOLLUM,NETHERLANDS,+53:17:00,+006:08:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2454,KOOTWIJK,NETHERLANDS,+52:11:00,+005:50:00,39 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2455,KORNWERDERZAND,NETHERLANDS,+53:04:00,+005:20:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2456,KORTGENE,NETHERLANDS,+51:34:00,+003:50:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2457,KRABBENDIJKE,NETHERLANDS,+51:26:00,+004:06:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2458,KREILEROORD,NETHERLANDS,+52:52:00,+005:06:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2459,KUINRE,NETHERLANDS,+52:47:00,+005:51:00,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2460,LAAGHALEN,NETHERLANDS,+52:55:00,+006:32:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2461,LAREN,NETHERLANDS,+52:15:00,+005:12:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2462,LEENDE,NETHERLANDS,+51:20:00,+005:32:00,25 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2463,LEIDEN,NETHERLANDS,+52:08:00,+004:29:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2464,LICHTENVOORDE,NETHERLANDS,+52:00:00,+006:34:00,19 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2466,LIJNDEN (NH),NETHERLANDS,+52:21:00,+004:45:00,-5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2467,LISSE,NETHERLANDS,+52:16:00,+004:33:00,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2468,LOCHEM,NETHERLANDS,+52:09:00,+006:23:00,12 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2469,LUNTEREN,NETHERLANDS,+52:05:00,+005:36:00,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2470,MAARHEEZE,NETHERLANDS,+51:18:00,+005:35:00,28 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2471,MAASLAND,NETHERLANDS,+51:58:00,+004:15:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2472,MARUM,NETHERLANDS,+53:09:00,+006:17:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2473,MEGEN,NETHERLANDS,+51:49:00,+005:34:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2474,MIDDELBURG,NETHERLANDS,+51:29:00,+003:36:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2475,MIDDELSTUM,NETHERLANDS,+53:19:00,+006:37:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2476,MILL,NETHERLANDS,+51:41:00,+005:48:00,17 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2477,NAGELE,NETHERLANDS,+52:37:00,+005:43:00,-4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2478,NES (AMELAND),NETHERLANDS,+53:27:00,+005:46:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2479,NIEKERK,NETHERLANDS,+53:13:00,+006:21:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2480,NIEUW BUINEN,NETHERLANDS,+52:58:00,+006:57:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2481,NIEUW HELVOET,NETHERLANDS,+51:50:00,+004:07:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2482,NIEUWENDIJK (NB),NETHERLANDS,+51:46:00,+004:56:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2483,NIEUWOLDA,NETHERLANDS,+53:15:00,+006:59:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2484,NIJKERK,NETHERLANDS,+52:14:00,+005:28:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2485,NOORBEEK,NETHERLANDS,+50:46:00,+005:49:00,160 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2486,NOORDGOUWE,NETHERLANDS,+51:42:00,+003:58:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2487,OBDAM,NETHERLANDS,+52:41:00,+004:53:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2488,OIRSCHOT,NETHERLANDS,+51:30:00,+005:20:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2489,OLDEBROEK,NETHERLANDS,+52:23:00,+005:55:00,60 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2490,OLDEHOLTPADE,NETHERLANDS,+52:54:00,+006:03:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2491,ONNEN,NETHERLANDS,+53:09:00,+006:40:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2492,OOST MAARLAND,NETHERLANDS,+50:48:00,+005:43:00,50 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2493,OOST VLIELAND,NETHERLANDS,+53:18:00,+005:05:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2494,OOSTERBEEK,NETHERLANDS,+52:01:00,+005:50:00,21 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2495,OSS,NETHERLANDS,+51:46:00,+005:32:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2496,OUDEMIRDUM,NETHERLANDS,+52:52:00,+005:30:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2497,OVERVEEN,NETHERLANDS,+52:24:00,+004:36:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2498,PURMEREND,NETHERLANDS,+52:31:00,+004:57:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2499,REKKEN,NETHERLANDS,+52:05:00,+006:43:00,27 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2500,REUVER,NETHERLANDS,+51:17:00,+006:05:00,27 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2501,RHEEZERVEEN,NETHERLANDS,+52:34:00,+006:34:00,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2502,RILLAND,NETHERLANDS,+51:25:00,+004:11:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2503,RITTHEM,NETHERLANDS,+51:28:00,+003:37:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2504,ROODESCHOOL,NETHERLANDS,+53:26:00,+006:47:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2505,ROUVEEN,NETHERLANDS,+52:37:00,+006:11:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2506,RUINERWOLD,NETHERLANDS,+52:43:00,+006:14:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2507,SAPPEMEER,NETHERLANDS,+53:10:00,+006:44:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2508,SCHAGEN,NETHERLANDS,+52:47:00,+004:48:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2509,SCHIERMONNIKOOG,NETHERLANDS,+53:29:00,+006:11:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2510,SCHINNEN,NETHERLANDS,+50:56:00,+005:52:00,80 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2511,SCHINVELD,NETHERLANDS,+50:59:00,+005:59:00,55 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2512,SCHOONEBEEK,NETHERLANDS,+52:41:00,+006:54:00,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2513,SIEBENGEWALD,NETHERLANDS,+51:39:00,+006:05:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2514,SKRINS,NETHERLANDS,+53:07:00,+005:39:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2515,SNEEK,NETHERLANDS,+53:02:00,+005:38:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2516,SOEST,NETHERLANDS,+52:10:00,+005:19:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2517,SPAKENBURG,NETHERLANDS,+52:15:00,+005:24:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2518,ST ANTHONIS,NETHERLANDS,+51:38:00,+005:53:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2519,ST KRUIS,NETHERLANDS,+51:16:00,+003:30:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2521,STAVENISSE,NETHERLANDS,+51:35:00,+004:01:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2522,STEENBERGEN (NB),NETHERLANDS,+51:35:00,+004:20:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2523,STEENWIJKSMOER,NETHERLANDS,+52:40:00,+006:41:00,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2524,STEIN (L),NETHERLANDS,+50:58:00,+005:45:00,22 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2525,STRAMPROY,NETHERLANDS,+51:11:00,+005:43:00,31 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2526,STRIJEN,NETHERLANDS,+51:46:00,+004:35:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2527,TERNEUZEN,NETHERLANDS,+51:18:00,+003:52:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2529,TILBURG,NETHERLANDS,+51:34:00,+005:08:00,11 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2530,TUBBERGEN,NETHERLANDS,+52:24:00,+006:47:00,27 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2531,UBACHSBERG,NETHERLANDS,+50:51:00,+005:55:00,175 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2532,UITHUIZEN,NETHERLANDS,+53:24:00,+006:40:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2533,VAALS,NETHERLANDS,+50:47:00,+006:00:00,180 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2534,VAASSEN,NETHERLANDS,+52:17:00,+005:58:00,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2535,VEENDAM,NETHERLANDS,+53:06:00,+006:50:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2536,VEENENDAAL,NETHERLANDS,+52:02:00,+005:36:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2537,VEENHUIZEN (D),NETHERLANDS,+53:03:00,+006:24:00,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2538,VENRAY,NETHERLANDS,+51:31:00,+006:00:00,22 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2539,VILSTEREN,NETHERLANDS,+52:32:00,+006:21:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2540,VLEUTEN,NETHERLANDS,+52:05:00,+005:00:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2541,VOORSCHOTEN,NETHERLANDS,+52:08:00,+004:26:00,-6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2542,VOORTHUIZEN,NETHERLANDS,+52:11:00,+005:37:00,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2543,VROOMSHOOP,NETHERLANDS,+52:27:00,+006:34:00,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2544,VROUWENPOLDER,NETHERLANDS,+51:35:00,+003:35:00,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2545,WAGENINGEN (PD),NETHERLANDS,+51:58:00,+005:39:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2546,WAPENVELD,NETHERLANDS,+52:26:00,+006:05:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2547,WEERT,NETHERLANDS,+51:15:00,+005:42:00,32 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2548,WEST BEEMSTER,NETHERLANDS,+52:35:00,+004:54:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2549,WESTKAPELLE,NETHERLANDS,+51:32:00,+003:27:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2550,WIJK BIJ DUURSTEDE,NETHERLANDS,+51:58:00,+005:19:00,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2551,WINSCHOTEN,NETHERLANDS,+53:08:00,+007:03:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2552,WOLPHAARTSDIJK,NETHERLANDS,+51:32:00,+003:44:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2553,WOLTERSUM,NETHERLANDS,+53:16:00,+006:43:00,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2554,WOOLD,NETHERLANDS,+51:55:00,+006:44:00,48 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2555,ZAANDAM (HEMBRUG),NETHERLANDS,+52:25:00,+004:50:00,18 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2556,ZALTBOMMEL,NETHERLANDS,+51:48:00,+005:16:00,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2557,ZEEWOLDE,NETHERLANDS,+52:23:00,+005:22:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2558,ZEEWOLDE (SCHILLINKWEG),NETHERLANDS,+52:18:00,+005:25:00,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2559,ZEGVELD,NETHERLANDS,+52:08:00,+004:50:00,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2560,ZETTEN,NETHERLANDS,+51:56:00,+005:43:00,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2561,ZOETERMEER,NETHERLANDS,+52:04:00,+004:32:00,-5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2562,ZWOLLE,NETHERLANDS,+52:32:00,+006:08:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2563,DEELEN,NETHERLANDS,+52:03:18,+005:52:20,50 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2564,EELDE-1,NETHERLANDS,+53:07:00,+006:35:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2565,HOOGEVEEN,NETHERLANDS,+52:44:56,+006:34:23,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2566,EINDHOVEN,NETHERLANDS,+51:26:59,+005:22:37,23 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2567,EINDHOVEN-1,NETHERLANDS,+51:25:00,+005:29:00,18 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2568,MAASTRICHT-2,NETHERLANDS,+50:51:00,+005:41:00,126 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2569,TWENTHE,NETHERLANDS,+52:16:23,+006:53:27,33 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2570,VALKENBURG,NETHERLANDS,+52:10:13,+004:25:46,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2571,WESTDORPE,NETHERLANDS,+51:13:29,+003:51:40,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2572,WILHELMINADORP-1,NETHERLANDS,+51:32:00,+003:54:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2573,VLISSINGEN-1,NETHERLANDS,+51:27:00,+003:36:00,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+3167,D15-FA-1,NETHERLANDS,+54:19:32,+002:56:09,43 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 35.6, wind 62.5, temp. and humidity 16.5, cloudcover 41 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3168,K14-FA-1C           ,NETHERLANDS,+53:16:10,+003:37:40,42 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 17.0 wind 75.0, temp. and humidity 16.7, cloudcover 27.9 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3169,A12-CPP             ,NETHERLANDS,+55:23:57,+003:48:37,48 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 33.1 wind 57.0, temp. and humidity 21.7, cloudcover 44.3 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3170,F16-A               ,NETHERLANDS,+54:07:00,+004:00:44,43 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 27.8 wind 75.5, temp. and humidity 16.5, cloudcover 41.8 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3171,L9-FF-1             ,NETHERLANDS,+53:36:52,+004:57:37,0 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 29.8 wind 87.0, temp. and humidity 15.8, cloudcover 42.8 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3172,AWG-1               ,NETHERLANDS,+53:29:30,+005:56:30,41 m 
+----------------------------------------------------------------
+* Land use:
+platform near the coast
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 26.5 wind 60.0, temp. and humidity 24.4, cloudcover 39.1 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3174,J6-A                ,NETHERLANDS,+53:49:27,+002:56:43,46 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 34.3 wind 76.5, temp. and humidity 17.5, cloudcover 43.1 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3175,HOORN-A             ,NETHERLANDS,+52:55:05,+004:09:01,51 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 40.5 wind 71.0, temp. and humidity 16.3, cloudcover 48.0 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3179,K13                 ,NETHERLANDS,+53:13:04,+003:13:13,38 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 30.0 wind 75.3, temp. and humidity 14.7 <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3188,LICHTEILAND_GOEREE  ,NETHERLANDS,+51:55:33,+003:40:12,23 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 19.2 wind 38.3, temp. and humidity 18.0  <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3189,EUROPLATFORM        ,NETHERLANDS,+51:59:52,+003:16:30,19 m 
+----------------------------------------------------------------
+* Land use:
+platform at sea
+* Soil type:
+n.a.
+* Surface coverage:
+water
+* History:
+height of sensors (m): barometer 17.5 wind 29.1, temp. and humidity 17.3  <br> wind measurements reduced to 10m
+
+----------------------------------------------------------------
+3192,ROTTERDAM-GEULHAVEN ,NETHERLANDS,+51:53:31,+004:18:45,4 m 
+----------------------------------------------------------------
+* Land use:
+Open landscape with industry in the distance, near the Rotterdam harbour. Station situated on a pier.
+* Soil type:
+
+* Surface coverage:
+grass and water
+* History:
+height of sensor (m): wind 10.0, temp. 9.0
+
+----------------------------------------------------------------
+8555,WAGENINGEN - VEENKAMPEN,NETHERLANDS,+51:58:53,+005:37:18,5 m 
+----------------------------------------------------------------
+* Land use:
+Open landscape with arable land. Approx. 300 m from the valley canal and 1.5 km west of Wageningen
+* Soil type:
+Clay
+* Surface coverage:
+Grass
+* History:
+Continuation of station Wageningen - Haarweg
+
+----------------------------------------------------------------
+10961,VOORSCHOTEN,NETHERLANDS,+52:08:23,+004:26:11,-1 m 
+----------------------------------------------------------------
+* Land use:
+Situated in an open landscape between the cities Leiden (in NEo direction), Wassenaar (W direction) and Voorschoten (SW direction), all about 1 km away from the station. Meadows and peatlands alternate with isolated farmhouses. The North Sea coast and a v
+* Soil type:
+clay
+* Surface coverage:
+grass
+* History:
+The station is 3437 meter south of station Valkenburg.
+
+----------------------------------------------------------------
+10964,VLIELAND_1,NETHERLANDS,+53:15:25,+004:58:24,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10965,STAVOREN_1,NETHERLANDS,+52:53:09,+005:21:29,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10966,LEEUWARDEN_1,NETHERLANDS,+53:13:14,+005:45:15,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10967,WIJK_AAN_ZEE_1,NETHERLANDS,+52:29:35,+004:36:51,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10968,MARKNESSE_1,NETHERLANDS,+52:42:15,+005:53:24,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10969,HEINO_1,NETHERLANDS,+52:26:13,+006:15:48,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10970,LELYSTAD_(EENDENWEG),NETHERLANDS,+52:27:11,+005:31:41,-4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10971,RDAM-WAALHAVEN,NETHERLANDS,+51:53:35,+004:25:24,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10972,HOEK_VAN_HOLLAND_1,NETHERLANDS,+51:59:07,+004:08:53,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10973,KRIMPEN_AAN_DE_LEK,NETHERLANDS,+51:53:46,+004:36:57,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10974,HUPSEL_1,NETHERLANDS,+52:04:05,+006:38:24,26 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10975,HERWIJNEN_1,NETHERLANDS,+51:49:22,+005:09:09,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10976,GILZE-RIJEN_1,NETHERLANDS,+51:34:04,+004:55:59,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10977,VOLKEL_1,NETHERLANDS,+51:39:29,+005:42:23,21 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10978,ARCEN_1,NETHERLANDS,+51:28:59,+006:11:02,19 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10979,WAALRE,NETHERLANDS,+51:25:00,+005:28:48,18 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10980,KESSEL-EIK,NETHERLANDS,+51:16:59,+006:01:00,26 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+10981,P11-B,NETHERLANDS,+52:22:00,+003:21:00,24 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+19205,LEMMER,NETHERLANDS,+52:50:51,+005:40:45,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+elevation estimated from a digital map
+
+----------------------------------------------------------------
+19206,UTRECHT,NETHERLANDS,+52:04:59,+005:07:59,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+elevation estimated from a digital map
+
+----------------------------------------------------------------
+19207,VELP,NETHERLANDS,+51:58:59,+005:58:59,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+elevation estimated from a digital map
+
+----------------------------------------------------------------
+19208,HEUSDEN,NETHERLANDS,+51:44:12,+005:08:44,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+elevation estimated from a digital map
+
+----------------------------------------------------------------
+20469,'S-HERTOGENBOSCH,NETHERLANDS,+51:41:51,+005:18:18,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20470,AALSUM BIJ DOKKUM,NETHERLANDS,+53:19:24,+006:12:09,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20471,AARDENBURG,NETHERLANDS,+51:17:20,+005:58:31,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20472,AKKRUM,NETHERLANDS,+53:28:11,+005:49:39,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20473,ALKMAAR,NETHERLANDS,+52:37:50,+004:43:22,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20474,AMERSFOORT,NETHERLANDS,+52:09:18,+005:23:26,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20475,AMSTERDAM ANWI (FIL),NETHERLANDS,+52:22:14,+004:55:09,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20476,ANDIJK,NETHERLANDS,+52:44:47,+005:13:18,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20477,AVEREEST/BALKBRUG,NETHERLANDS,+52:37:09,+006:22:05,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20478,BAKEL (DE RIPS),NETHERLANDS,+51:30:00,+005:46:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20479,BAKKUM,NETHERLANDS,+52:33:20,+004:38:10,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20480,BALINGE,NETHERLANDS,+52:48:43,+006:37:50,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20481,BATHMEN,NETHERLANDS,+52:15:05,+006:17:55,9 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20482,BEETSTERZWAAG,NETHERLANDS,+53:59:57,+005:56:56,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20483,BEMMELENHOEVE VAN PROF.,NETHERLANDS,+52:46:59,+005:03:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20484,BENNEBROEK,NETHERLANDS,+52:19:00,+004:35:17,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20485,BIERUM,NETHERLANDS,+53:22:53,+006:51:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20486,BODEGRAVEN,NETHERLANDS,+52:04:41,+004:43:51,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20487,BOORNBERGUM FR,NETHERLANDS,+53:50:46,+006:27:32,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20488,BORNE,NETHERLANDS,+52:18:02,+006:46:03,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20489,BOVENKARSPEL,NETHERLANDS,+52:41:17,+005:13:51,-2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20490,BREDA (II E18),NETHERLANDS,+51:35:27,+004:46:35,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20491,BREDA (III E18),NETHERLANDS,+51:35:27,+004:46:35,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20492,BRESKENS (OUD),NETHERLANDS,+51:23:44,+003:34:10,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20493,BROEK OP LANGEDIJK,NETHERLANDS,+52:40:28,+004:48:18,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20494,BRUINISSE,NETHERLANDS,+51:39:33,+004:05:38,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20495,BUINERVEEN,NETHERLANDS,+52:56:09,+006:52:52,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20496,BUREN (BETUWE),NETHERLANDS,+51:54:32,+005:20:07,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20497,BUSSUM,NETHERLANDS,+52:15:46,+005:09:48,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20498,CADZAND,NETHERLANDS,+51:22:29,+003:22:58,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20499,COEVORDEN,NETHERLANDS,+52:39:30,+006:46:15,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20500,CORLE,NETHERLANDS,+51:57:34,+006:39:06,270 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20501,CRAUBEEK,NETHERLANDS,+50:52:39,+005:54:09,100 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20502,DALMSHOLTE,NETHERLANDS,+52:28:42,+006:20:51,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20503,DE WIJK DR,NETHERLANDS,+52:40:49,+006:17:12,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20504,DEIL,NETHERLANDS,+51:53:15,+005:14:42,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20505,DELLE,NETHERLANDS,+52:24:06,+005:58:31,25 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20506,DEN HULST OV,NETHERLANDS,+52:19:06,+006:56:44,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20507,DEVENTER,NETHERLANDS,+52:15:47,+006:10:22,65 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20508,DOORN (KASTEEL),NETHERLANDS,+52:01:57,+005:20:21,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20509,DORDRECHT,NETHERLANDS,+51:48:46,+004:40:41,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20510,DREISCHOR,NETHERLANDS,+51:41:30,+003:59:15,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20511,DRIEBERGEN,NETHERLANDS,+52:04:00,+005:16:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20512,DUINDAG BIJ DEN HAAG,NETHERLANDS,+52:07:05,+004:18:30,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20513,EETHEN,NETHERLANDS,+51:43:53,+005:03:06,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20514,ELST (UTRECHT),NETHERLANDS,+51:55:00,+005:52:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20515,ENGELUM,NETHERLANDS,+53:13:32,+005:42:56,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20516,ENGWIERUM,NETHERLANDS,+53:19:20,+006:08:11,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20517,ENTER,NETHERLANDS,+52:17:18,+006:34:55,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20518,EPE (WELNA),NETHERLANDS,+52:21:26,+005:54:21,27 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20519,EPEN (OUD) L,NETHERLANDS,+50:46:59,+005:54:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20520,ERMELO,NETHERLANDS,+52:16:59,+005:37:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20521,FRANEKER,NETHERLANDS,+53:11:08,+005:31:27,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20522,GOES,NETHERLANDS,+51:30:03,+003:53:00,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20523,GRAVENZANDE 'S,NETHERLANDS,+52:00:56,+004:09:29,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20524,GROEDE,NETHERLANDS,+51:22:41,+003:30:30,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20525,GROSTHUIZEN,NETHERLANDS,+52:36:53,+004:58:32,-3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20526,HAAMSTEDE (VUURTOREN),NETHERLANDS,+51:42:00,+003:42:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20527,HALLUM FR,NETHERLANDS,+53:18:00,+005:46:28,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20528,HARREVELD,NETHERLANDS,+51:58:44,+006:30:54,19 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20529,HATERT,NETHERLANDS,+51:48:00,+005:49:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20530,HATTEM,NETHERLANDS,+52:27:00,+006:04:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20531,HEERENBERG 'S,NETHERLANDS,+51:52:46,+006:14:30,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20532,HEERENVEEN,NETHERLANDS,+52:57:43,+005:55:13,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20533,HEINKENSZAND,NETHERLANDS,+51:28:09,+003:48:25,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20534,HELENAVEEN,NETHERLANDS,+51:23:36,+005:54:23,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20535,HELLEVOETSLUIS,NETHERLANDS,+51:49:49,+004:07:05,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20536,HEMBRUG,NETHERLANDS,+52:25:08,+004:49:39,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20537,HIEN,NETHERLANDS,+51:54:37,+005:39:54,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20538,HILVERSUM,NETHERLANDS,+52:12:56,+005:09:01,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20539,HOENDERLOO,NETHERLANDS,+52:06:00,+005:54:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20540,HOORN TERSCHELLING,NETHERLANDS,+53:23:51,+005:20:30,-10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20541,HORST,NETHERLANDS,+51:27:33,+006:36:40,24 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20542,IJMUIDEN,NETHERLANDS,+52:27:42,+004:34:57,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20543,IJZENDIJKE,NETHERLANDS,+51:19:54,+003:36:55,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20544,KADIJK BIJ TERWOLDE,NETHERLANDS,+52:15:53,+006:38:15,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20545,KAMPEN,NETHERLANDS,+52:34:42,+005:51:29,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20546,KAMPEREILAND,NETHERLANDS,+52:35:07,+005:53:27,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20547,KILDER (GEM. BERGH),NETHERLANDS,+51:56:14,+006:13:52,16 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20548,KOEDIJK,NETHERLANDS,+52:39:00,+004:45:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20549,KOOTWIJK,NETHERLANDS,+52:10:00,+005:46:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20550,KRAGGENBURG,NETHERLANDS,+52:40:14,+005:55:53,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20551,LAGE ZWALUWE,NETHERLANDS,+51:42:00,+004:39:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20552,LEERSUM,NETHERLANDS,+52:08:12,+005:25:42,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20553,LEEUWARDEN,NETHERLANDS,+53:12:09,+005:48:02,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20554,LELYSTAD,NETHERLANDS,+52:30:00,+005:25:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20555,LEMMER TACOZIJL,NETHERLANDS,+52:50:51,+005:40:45,-6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20556,LOBITH,NETHERLANDS,+51:51:42,+006:07:09,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20557,LOTTUM,NETHERLANDS,+51:27:41,+006:09:52,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20558,MAASTRICHT (HELMSTRAAT),NETHERLANDS,+50:49:59,+005:40:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20559,MANDER,NETHERLANDS,+52:27:36,+006:50:08,38 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20560,MARKEN (OUD),NETHERLANDS,+52:27:33,+005:06:00,8 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20561,MEPPEL,NETHERLANDS,+52:40:45,+006:11:04,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20562,MIDSLAND,NETHERLANDS,+53:22:00,+005:16:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20563,NAALDWIJK,NETHERLANDS,+51:59:16,+004:12:24,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20564,NIEUW BEERTA,NETHERLANDS,+53:11:26,+007:09:30,-10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20565,NIEUW EN SINT JOOSTLAND,NETHERLANDS,+51:28:00,+003:40:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20566,NIEUWE-TONGE,NETHERLANDS,+51:43:05,+004:09:27,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20567,NIEUWVEEN ZH,NETHERLANDS,+52:12:11,+004:45:47,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20568,NIEUWVLIET,NETHERLANDS,+51:22:21,+003:28:17,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20569,NIJBROEK,NETHERLANDS,+52:16:59,+006:04:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20570,NIJKERK SLUIS,NETHERLANDS,+52:15:28,+005:28:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20571,NIJMEGEN RADBOUD,NETHERLANDS,+51:51:20,+005:50:12,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20572,NUNSPEET,NETHERLANDS,+52:22:48,+005:46:55,6 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20573,OBDAM (OUD),NETHERLANDS,+52:40:00,+004:55:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20574,OLDEBROEK (DORP),NETHERLANDS,+52:26:26,+005:54:09,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20575,OLDENZAAL,NETHERLANDS,+52:18:30,+006:55:23,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20576,OOSTDIJK BIJ OUDDORP,NETHERLANDS,+51:49:47,+003:57:51,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20577,OOSTERLAND,NETHERLANDS,+52:55:57,+005:58:59,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20578,OOSTKAPELLE,NETHERLANDS,+51:33:48,+003:33:05,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20579,ORANJE NASSAU'S OORD/RENK,NETHERLANDS,+51:58:00,+005:43:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20580,OSSENISSE,NETHERLANDS,+51:23:23,+003:58:51,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20581,OTERDUM,NETHERLANDS,+53:18:43,+006:59:51,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20582,OUD-ADE,NETHERLANDS,+52:11:34,+004:33:56,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20583,OUD-BEIJERLAND,NETHERLANDS,+51:48:00,+004:28:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20584,OUD-HEUSDEN,NETHERLANDS,+51:43:31,+005:07:42,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20585,OUDESCHOOT,NETHERLANDS,+52:55:59,+005:58:30,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20586,OUDORP,NETHERLANDS,+52:36:33,+004:46:29,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20587,POORTVLIET,NETHERLANDS,+51:33:37,+004:09:16,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20588,R'DAM-WESTERKADE,NETHERLANDS,+51:53:45,+004:28:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20589,RIJSWIJK GLD,NETHERLANDS,+51:57:36,+005:21:15,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20590,RIJSWIJK ZH,NETHERLANDS,+52:03:42,+004:21:07,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20591,ROCKANJE,NETHERLANDS,+51:54:56,+004:50:38,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20592,ROTTERDAM,NETHERLANDS,+51:57:16,+004:26:36,-48 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20593,ROTTERDAM (BLIJDORP),NETHERLANDS,+51:55:31,+004:27:07,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20594,ROTTERDAM KEILEHAVEN,NETHERLANDS,+51:54:00,+004:25:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20595,ROTTUM FR,NETHERLANDS,+52:55:54,+005:52:53,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20596,RUINEN,NETHERLANDS,+52:46:08,+006:20:26,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20597,SASSENHEIM,NETHERLANDS,+52:13:15,+004:33:28,-41 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20598,SCHEEMDA,NETHERLANDS,+53:10:00,+006:58:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20599,SCHERMERHORN,NETHERLANDS,+52:36:00,+004:54:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20600,SCHIPHOL,NETHERLANDS,+52:18:05,+004:46:27,-44 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20601,SCHOORL,NETHERLANDS,+52:41:57,+004:41:37,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20602,SINT JACOBIPAROCHIE,NETHERLANDS,+53:16:26,+005:36:12,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20603,SINT JANSTEEN,NETHERLANDS,+51:15:38,+004:29:36,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20604,SITTARD,NETHERLANDS,+51:00:00,+005:50:47,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20605,SLEEUWIJK,NETHERLANDS,+51:49:02,+004:56:58,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20606,SLIJK-EWIJK,NETHERLANDS,+51:53:08,+005:47:29,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20607,SLUIS,NETHERLANDS,+51:18:24,+003:23:27,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20608,SOESTERBERG,NETHERLANDS,+52:07:46,+005:16:46,119 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20609,SPIJK GR,NETHERLANDS,+53:23:21,+006:50:44,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20610,SPIJKENISSE,NETHERLANDS,+51:50:44,+004:19:41,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20611,ST ANNALAND,NETHERLANDS,+51:35:45,+004:04:45,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20612,STAPHORST,NETHERLANDS,+52:38:54,+006:13:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20613,SUSTEREN,NETHERLANDS,+51:38:20,+005:50:54,30 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20614,TEN BOER,NETHERLANDS,+53:15:51,+006:40:30,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20615,TER IDZARD,NETHERLANDS,+52:54:59,+006:20:39,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20616,TEXEL (WESTERMIENT),NETHERLANDS,+53:39:33,+004:45:55,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20617,ULRUM,NETHERLANDS,+53:23:20,+006:18:21,13 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20618,URK,NETHERLANDS,+52:39:29,+005:36:11,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20619,URK,NETHERLANDS,+52:40:00,+005:36:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20620,VARSSEVELD,NETHERLANDS,+51:56:47,+006:27:19,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20621,VASSE,NETHERLANDS,+52:26:02,+006:50:00,36 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20622,VELDHOVEN,NETHERLANDS,+51:24:51,+005:24:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20623,VELSEN,NETHERLANDS,+52:27:43,+004:39:09,-19 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20624,VELSEN,NETHERLANDS,+52:28:12,+004:38:31,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20625,VENRAY (OUD),NETHERLANDS,+51:31:59,+005:48:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20626,VLAARDINGEN,NETHERLANDS,+51:54:00,+004:19:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20627,VOORSCHOTEN,NETHERLANDS,+52:07:00,+004:27:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20628,VUGHT,NETHERLANDS,+51:39:32,+005:18:29,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20629,WAALWIJK,NETHERLANDS,+51:41:44,+005:04:09,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20630,WAGENINGEN,NETHERLANDS,+51:58:12,+005:39:24,7 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20631,WAGENINGEN HAARWEG,NETHERLANDS,+51:58:33,+005:40:30,20 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20632,WARNSVELD,NETHERLANDS,+52:09:00,+006:13:59,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20633,WASSENAAR,NETHERLANDS,+52:08:51,+004:23:35,5 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20634,WASSENAAR-WEST,NETHERLANDS,+52:08:51,+004:23:35,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20635,WEHL,NETHERLANDS,+51:57:45,+006:12:40,14 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20636,WEMELDINGE,NETHERLANDS,+51:31:03,+003:59:08,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20637,WERKENDAM,NETHERLANDS,+51:48:29,+004:53:39,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20638,WESTERSCHOUWEN,NETHERLANDS,+51:40:30,+003:43:23,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20639,WESTFRIESESLUIS,NETHERLANDS,+52:46:00,+004:55:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20640,WIERINGEN,NETHERLANDS,+52:52:47,+004:59:06,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20641,WIERINGERWERF,NETHERLANDS,+52:51:30,+005:02:43,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20642,WIJSTER,NETHERLANDS,+52:48:00,+006:30:00,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20643,WISSEKERKE ZLD,NETHERLANDS,+51:35:13,+003:44:58,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20644,WITMARSUM,NETHERLANDS,+53:06:43,+006:06:06,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20645,WITTEVEEN,NETHERLANDS,+52:46:59,+006:21:15,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20646,WOENSDRECHT,NETHERLANDS,+51:25:39,+004:18:32,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20647,ZAANDAM,NETHERLANDS,+52:25:31,+004:52:18,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20648,ZAANDAM,NETHERLANDS,+52:26:32,+004:49:16,0 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20649,ZEIJEN,NETHERLANDS,+53:03:09,+006:32:36,101 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20650,ZEVENHUIZEN GR,NETHERLANDS,+53:07:29,+006:20:51,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20651,ZIERIKZEE,NETHERLANDS,+51:39:19,+003:54:57,-40 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20652,ZUID-SCHARWOUDE,NETHERLANDS,+52:41:48,+004:49:26,-1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20653,ZUIDBARGE,NETHERLANDS,+52:45:24,+006:54:11,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20654,ZUIDBROEK,NETHERLANDS,+53:10:08,+006:51:44,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+20655,ZUTPHEN,NETHERLANDS,+52:09:07,+006:13:24,9999 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+

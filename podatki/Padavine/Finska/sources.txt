@@ -1,0 +1,948 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+   28,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+   28,117994,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510102,20011231,   50,GHCND                                             
+   29,100090,JYVASKYLA LENTOASEMA                    ,FI,+62:24:08,+025:40:43, 139, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+   30,100094,SODANKYLA. LAPIN ILMATIET. TUTK.KESKUS  ,FI,+67:21:58,+026:37:59, 179, RR1,19080101,20211031,    9,Pauli Jokinen                                     
+  339,140622,HAPARANDA_A                             ,SE,+65:49:12,+024:07:12,  16, RR9,20081101,20211031,   56,Marcus Flarup                                     
+  339,140626,HAPARANDA                               ,SE,+65:49:38,+024:08:38,   5, RR9,18590716,20211031,   56,Marcus Flarup                                     
+ 5813,140712,OVERTORNEA                              ,SE,+66:22:48,+023:39:00,  70, RR9,19510101,20211031,   56,Marcus Flarup                                     
+ 5813,145847,YLITORNIO PORTIMOJARVI                  ,FI,+66:22:00,+023:55:00,  79, RR3,19590101,20020228,    9,Pauli Jokinen                                     
+ 6860,140754,SVANSTEIN                               ,SE,+66:39:00,+023:51:36,  80, RR9,19600901,20210930,   56,Marcus Flarup                                     
+ 6860,146142,PELLO TURTOLANKYLA                      ,FI,+66:35:00,+023:54:00,  70, RR3,19650101,20040612,    9,Pauli Jokinen                                     
+ 1409,140956,KARESUANDO                              ,SE,+68:26:32,+022:27:01, 330, RR9,18781015,20211031,   56,Marcus Flarup                                     
+ 1409,140958,KARESUANDO_A                            ,SE,+68:26:24,+022:27:00, 330, RR9,20081101,20211031,   56,Marcus Flarup                                     
+ 5873,140956,KARESUANDO                              ,SE,+68:26:32,+022:27:01, 330, RR9,18781015,20211031,   56,Marcus Flarup                                     
+ 5873,140958,KARESUANDO_A                            ,SE,+68:26:24,+022:27:00, 330, RR9,20081101,20211031,   56,Marcus Flarup                                     
+ 5874,140960,NAIMAKKA_A                              ,SE,+68:40:48,+021:31:48, 402, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5874,140962,NAIMAKKA                                ,SE,+68:40:48,+021:31:48, 403, RR9,19610101,19960131,   56,Marcus Flarup                                     
+ 5874,902055,NAIMAKKA                                ,SE,+68:41:00,+021:32:00, 402, RR8,20001024,20200229,     ,                    
+ 5875,140960,NAIMAKKA_A                              ,SE,+68:40:48,+021:31:48, 402, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5875,140962,NAIMAKKA                                ,SE,+68:40:48,+021:31:48, 403, RR9,19610101,19960131,   56,Marcus Flarup                                     
+ 5875,902055,NAIMAKKA                                ,SE,+68:41:00,+021:32:00, 402, RR8,20001024,20200229,     ,                    
+ 6938,141805,JOMALA MAARIANHAMINAN LENTOASEMA        ,FI,+60:07:29,+019:54:24,   5, RR3,19590101,20040809,    9,Pauli Jokinen                                     
+ 6938,141855,JOMALA JOMALABY                         ,FI,+60:10:42,+019:59:23,  11, RR3,19710601,20211031,    9,Pauli Jokinen                                     
+ 6938,141895,JOMALA SODERSUNDA                       ,FI,+60:09:15,+019:52:31,   9, RR3,19951001,20070101,    9,Pauli Jokinen                                     
+ 6938,902970,JOMALA MARIEHAMN AIRPORT                ,FI,+60:07:38,+019:54:01,   6, RR8,19820101,20191103,     ,                    
+ 6939,141810,PARAINEN UTO                            ,FI,+59:47:03,+021:22:16,   9, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 6942,141825,KORPPOO KORPOGARD                       ,FI,+60:10:00,+021:34:00,   7, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 6942,141890,PARAINEN FAGERHOLM                      ,FI,+60:06:42,+021:42:10,   4, RR3,20090428,20211027,    9,Pauli Jokinen                                     
+ 6942,902950,FAGERHOLM                               ,FI,+60:07:00,+021:42:00,   6, RR8,20080612,20200227,     ,                    
+ 6944,141835,SALTVIK KVARNBO                         ,FI,+60:17:00,+020:03:00,  10, RR3,19680101,19991130,    9,Pauli Jokinen                                     
+ 6944,141855,JOMALA JOMALABY                         ,FI,+60:10:42,+019:59:23,  11, RR3,19710601,20211031,    9,Pauli Jokinen                                     
+ 6946,141845,RYMATTYLA KK                            ,FI,+60:24:00,+021:58:00,   7, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 6946,141945,NAANTALI KESKUSTA                       ,FI,+60:28:00,+022:02:00,  16, RR3,19590101,19721210,    9,Pauli Jokinen                                     
+ 6948,141805,JOMALA MAARIANHAMINAN LENTOASEMA        ,FI,+60:07:29,+019:54:24,   5, RR3,19590101,20040809,    9,Pauli Jokinen                                     
+ 6948,141855,JOMALA JOMALABY                         ,FI,+60:10:42,+019:59:23,  11, RR3,19710601,20211031,    9,Pauli Jokinen                                     
+ 6948,141895,JOMALA SODERSUNDA                       ,FI,+60:09:15,+019:52:31,   9, RR3,19951001,20070101,    9,Pauli Jokinen                                     
+ 6948,902970,JOMALA MARIEHAMN AIRPORT                ,FI,+60:07:38,+019:54:01,   6, RR8,19820101,20191103,     ,                    
+ 6955,141825,KORPPOO KORPOGARD                       ,FI,+60:10:00,+021:34:00,   7, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 6955,141890,PARAINEN FAGERHOLM                      ,FI,+60:06:42,+021:42:10,   4, RR3,20090428,20211027,    9,Pauli Jokinen                                     
+ 6955,902950,FAGERHOLM                               ,FI,+60:07:00,+021:42:00,   6, RR8,20080612,20200227,     ,                    
+ 6956,141805,JOMALA MAARIANHAMINAN LENTOASEMA        ,FI,+60:07:29,+019:54:24,   5, RR3,19590101,20040809,    9,Pauli Jokinen                                     
+ 6956,141855,JOMALA JOMALABY                         ,FI,+60:10:42,+019:59:23,  11, RR3,19710601,20211031,    9,Pauli Jokinen                                     
+ 6956,141895,JOMALA SODERSUNDA                       ,FI,+60:09:15,+019:52:31,   9, RR3,19951001,20070101,    9,Pauli Jokinen                                     
+ 6956,902970,JOMALA MARIEHAMN AIRPORT                ,FI,+60:07:38,+019:54:01,   6, RR8,19820101,20191103,     ,                    
+ 6962,141925,HANKO RUSSARO                           ,FI,+59:46:25,+022:57:07,   5, RR3,19590101,20211023,    9,Pauli Jokinen                                     
+ 6962,902982,RUSSARO                                 ,FI,+59:46:00,+022:57:00,  11, RR8,19820101,20200227,     ,                    
+ 6964,141935,KAARINA YLTOINEN                        ,FI,+60:23:12,+022:33:17,   6, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 6965,141935,KAARINA YLTOINEN                        ,FI,+60:23:12,+022:33:17,   6, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 6965,141940,PIIKKIO TUORLA                          ,FI,+60:25:00,+022:26:00,  26, RR3,19600101,19710831,    9,Pauli Jokinen                                     
+ 6965,141965,TURKU KAARNINKO                         ,FI,+60:26:00,+022:17:00,  30, RR3,19650101,19951231,    9,Pauli Jokinen                                     
+ 6968,141955,KEMIO MATTKARR                          ,FI,+60:07:46,+022:38:57,  21, RR3,19670101,20040224,    9,Pauli Jokinen                                     
+ 6968,141985,KEMIONSAARI LOVBOLE                     ,FI,+60:09:11,+022:33:40,   7, RR3,19840801,20090713,    9,Pauli Jokinen                                     
+ 6968,142015,KEMIONSAARI KEMIO KK                    ,FI,+60:10:17,+022:45:39,  13, RR3,20090907,20211031,    9,Pauli Jokinen                                     
+ 6968,902906,KEMIONSAARI KEMIO                       ,FI,+60:10:16,+022:45:28,  12, RR8,20130828,20200227,     ,                    
+ 6970,141940,PIIKKIO TUORLA                          ,FI,+60:25:00,+022:26:00,  26, RR3,19600101,19710831,    9,Pauli Jokinen                                     
+ 6970,141965,TURKU KAARNINKO                         ,FI,+60:26:00,+022:17:00,  30, RR3,19650101,19951231,    9,Pauli Jokinen                                     
+ 6970,142010,TURKU ARTUKAINEN                        ,FI,+60:27:16,+022:10:54,   8, RR3,20050801,20211031,    9,Pauli Jokinen                                     
+ 6970,142511,TURKU TURUN LENTOASEMA                  ,FI,+60:30:55,+022:16:39,  49, RR3,19590101,20060702,    9,Pauli Jokinen                                     
+ 6971,141845,RYMATTYLA KK                            ,FI,+60:24:00,+021:58:00,   7, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 6971,141945,NAANTALI KESKUSTA                       ,FI,+60:28:00,+022:02:00,  16, RR3,19590101,19721210,    9,Pauli Jokinen                                     
+ 6971,141970,TURKU RUISSALO                          ,FI,+60:26:00,+022:11:00,   4, RR3,19710601,19901130,    9,Pauli Jokinen                                     
+ 6971,142010,TURKU ARTUKAINEN                        ,FI,+60:27:16,+022:10:54,   8, RR3,20050801,20211031,    9,Pauli Jokinen                                     
+ 6974,141955,KEMIO MATTKARR                          ,FI,+60:07:46,+022:38:57,  21, RR3,19670101,20040224,    9,Pauli Jokinen                                     
+ 6974,141985,KEMIONSAARI LOVBOLE                     ,FI,+60:09:11,+022:33:40,   7, RR3,19840801,20090713,    9,Pauli Jokinen                                     
+ 6974,142015,KEMIONSAARI KEMIO KK                    ,FI,+60:10:17,+022:45:39,  13, RR3,20090907,20211031,    9,Pauli Jokinen                                     
+ 6974,902906,KEMIONSAARI KEMIO                       ,FI,+60:10:16,+022:45:28,  12, RR8,20130828,20200227,     ,                    
+ 6979,141945,NAANTALI KESKUSTA                       ,FI,+60:28:00,+022:02:00,  16, RR3,19590101,19721210,    9,Pauli Jokinen                                     
+ 6979,141965,TURKU KAARNINKO                         ,FI,+60:26:00,+022:17:00,  30, RR3,19650101,19951231,    9,Pauli Jokinen                                     
+ 6979,141970,TURKU RUISSALO                          ,FI,+60:26:00,+022:11:00,   4, RR3,19710601,19901130,    9,Pauli Jokinen                                     
+ 6979,142010,TURKU ARTUKAINEN                        ,FI,+60:27:16,+022:10:54,   8, RR3,20050801,20211031,    9,Pauli Jokinen                                     
+ 6980,141955,KEMIO MATTKARR                          ,FI,+60:07:46,+022:38:57,  21, RR3,19670101,20040224,    9,Pauli Jokinen                                     
+ 6980,141985,KEMIONSAARI LOVBOLE                     ,FI,+60:09:11,+022:33:40,   7, RR3,19840801,20090713,    9,Pauli Jokinen                                     
+ 6980,142015,KEMIONSAARI KEMIO KK                    ,FI,+60:10:17,+022:45:39,  13, RR3,20090907,20211031,    9,Pauli Jokinen                                     
+ 6980,902906,KEMIONSAARI KEMIO                       ,FI,+60:10:16,+022:45:28,  12, RR8,20130828,20200227,     ,                    
+ 6981,142020,SUOMUSJARVI KETTULA                     ,FI,+60:24:00,+023:46:00,  84, RR3,19590101,19890101,    9,Pauli Jokinen                                     
+ 6981,142055,SALO SUOMUSJARVI                        ,FI,+60:19:26,+023:42:36,  69, RR3,19700201,20120731,    9,Pauli Jokinen                                     
+ 6981,142060,NUMMI-PUSULA LEPPAKORPI                 ,FI,+60:29:28,+023:46:10,  96, RR3,19690101,20211030,    9,Pauli Jokinen                                     
+ 6982,142025,HANKO TVARMINNE                         ,FI,+59:50:38,+023:15:06,   3, RR3,19630101,20211031,    9,Pauli Jokinen                                     
+  701,142035,SALO KARKKA                             ,FI,+60:22:25,+023:06:58,   3, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 6987,142020,SUOMUSJARVI KETTULA                     ,FI,+60:24:00,+023:46:00,  84, RR3,19590101,19890101,    9,Pauli Jokinen                                     
+ 6987,142055,SALO SUOMUSJARVI                        ,FI,+60:19:26,+023:42:36,  69, RR3,19700201,20120731,    9,Pauli Jokinen                                     
+ 6987,902973,SUOMUSJARVI                             ,FI,+60:24:00,+023:46:00,  86, RR8,19820101,20030227,     ,                    
+ 6988,142020,SUOMUSJARVI KETTULA                     ,FI,+60:24:00,+023:46:00,  84, RR3,19590101,19890101,    9,Pauli Jokinen                                     
+ 6988,142060,NUMMI-PUSULA LEPPAKORPI                 ,FI,+60:29:28,+023:46:10,  96, RR3,19690101,20211030,    9,Pauli Jokinen                                     
+ 6988,142075,SALO KIIKALA LENTOKENTTA                ,FI,+60:27:48,+023:39:09, 117, RR3,20130621,20211031,    9,Pauli Jokinen                                     
+ 6988,142651,SOMERO SUOJOKI                          ,FI,+60:31:07,+023:40:43,  83, RR3,19681101,20071231,    9,Pauli Jokinen                                     
+ 6991,142060,NUMMI-PUSULA LEPPAKORPI                 ,FI,+60:29:28,+023:46:10,  96, RR3,19690101,20211030,    9,Pauli Jokinen                                     
+ 6991,142075,SALO KIIKALA LENTOKENTTA                ,FI,+60:27:48,+023:39:09, 117, RR3,20130621,20211031,    9,Pauli Jokinen                                     
+ 6991,902777,KIKALA AIRPORT                          ,FI,+60:27:00,+023:39:00, 121, RR8,20030616,20200226,     ,                    
+ 6992,142080,VANTAA HELSINKI-VANTAAN LENTOASEMA      ,FI,+60:19:38,+024:57:37,  51, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 6992,142261,TUUSULA RUOTSINKYLA                     ,FI,+60:22:00,+024:59:00,  49, RR3,19640301,19990131,    9,Pauli Jokinen                                     
+ 6992,142271,TUUSULA HYRYLA                          ,FI,+60:25:00,+025:02:00,  45, RR3,19590101,19911231,    9,Pauli Jokinen                                     
+ 6994,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 6994,117994,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510102,20011231,   50,GHCND                                             
+ 6994,142090,HELSINKI KATAJALUOTO                    ,FI,+60:06:00,+024:55:00,   5, RR3,19590101,19840930,    9,Pauli Jokinen                                     
+ 6994,142246,VALLISAARI                              ,FI,+60:08:00,+025:00:00,  10, RR3,19590101,19650521,    9,Pauli Jokinen                                     
+ 6995,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 6995,117994,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510102,20011231,   50,GHCND                                             
+ 6995,142096,ESPOO OTANIEMI                          ,FI,+60:11:00,+024:50:00,   2, RR3,19680101,19790228,    9,Pauli Jokinen                                     
+ 6996,142101,HELSINKI ILMALA                         ,FI,+60:12:00,+024:55:00,  47, RR3,19590101,19810427,    9,Pauli Jokinen                                     
+ 6996,142226,HELSINKI KUMPULA                        ,FI,+60:12:10,+024:57:52,  24, RR3,20061012,20211031,    9,Pauli Jokinen                                     
+  702,142106,LOHJA PORLA                             ,FI,+60:14:38,+024:03:09,  37, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7020,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 7020,117994,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510102,20011231,   50,GHCND                                             
+ 7020,142226,HELSINKI KUMPULA                        ,FI,+60:12:10,+024:57:52,  24, RR3,20061012,20211031,    9,Pauli Jokinen                                     
+ 7023,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 7023,142226,HELSINKI KUMPULA                        ,FI,+60:12:10,+024:57:52,  24, RR3,20061012,20211031,    9,Pauli Jokinen                                     
+ 7023,142241,HELSINKI-MALMIN LENTOASEMA              ,FI,+60:15:12,+025:02:54,  15, RR3,19590101,19921231,    9,Pauli Jokinen                                     
+ 7026,142226,HELSINKI KUMPULA                        ,FI,+60:12:10,+024:57:52,  24, RR3,20061012,20211031,    9,Pauli Jokinen                                     
+ 7026,142241,HELSINKI-MALMIN LENTOASEMA              ,FI,+60:15:12,+025:02:54,  15, RR3,19590101,19921231,    9,Pauli Jokinen                                     
+ 7026,142256,VANTAA TIKKURILA                        ,FI,+60:17:00,+025:04:00,  20, RR3,19590101,19790930,    9,Pauli Jokinen                                     
+ 7027,142080,VANTAA HELSINKI-VANTAAN LENTOASEMA      ,FI,+60:19:38,+024:57:37,  51, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7027,142261,TUUSULA RUOTSINKYLA                     ,FI,+60:22:00,+024:59:00,  49, RR3,19640301,19990131,    9,Pauli Jokinen                                     
+ 7027,142271,TUUSULA HYRYLA                          ,FI,+60:25:00,+025:02:00,  45, RR3,19590101,19911231,    9,Pauli Jokinen                                     
+  703,142266,PORVOO JERNBOLE                         ,FI,+60:24:21,+025:39:32,  17, RR3,19590101,20051231,    9,Pauli Jokinen                                     
+  703,142286,PORVOO NORRVECKOSKI                     ,FI,+60:23:35,+025:26:02,  24, RR3,19680101,20061231,    9,Pauli Jokinen                                     
+  703,142326,PORVOO LEHTIMAKI                        ,FI,+60:22:06,+025:37:37,  10, RR3,20060119,20060627,    9,Pauli Jokinen                                     
+  703,142331,PORVOO HARABACKA                        ,FI,+60:23:29,+025:36:41,  22, RR3,20061002,20211031,    9,Pauli Jokinen                                     
+ 7028,142080,VANTAA HELSINKI-VANTAAN LENTOASEMA      ,FI,+60:19:38,+024:57:37,  51, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7028,142261,TUUSULA RUOTSINKYLA                     ,FI,+60:22:00,+024:59:00,  49, RR3,19640301,19990131,    9,Pauli Jokinen                                     
+ 7028,142271,TUUSULA HYRYLA                          ,FI,+60:25:00,+025:02:00,  45, RR3,19590101,19911231,    9,Pauli Jokinen                                     
+ 7030,142281,PORVOO BENGTSBY                         ,FI,+60:15:50,+025:38:15,  11, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7031,142266,PORVOO JERNBOLE                         ,FI,+60:24:21,+025:39:32,  17, RR3,19590101,20051231,    9,Pauli Jokinen                                     
+ 7031,142286,PORVOO NORRVECKOSKI                     ,FI,+60:23:35,+025:26:02,  24, RR3,19680101,20061231,    9,Pauli Jokinen                                     
+ 7031,142331,PORVOO HARABACKA                        ,FI,+60:23:29,+025:36:41,  22, RR3,20061002,20211031,    9,Pauli Jokinen                                     
+ 7033,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 7033,142226,HELSINKI KUMPULA                        ,FI,+60:12:10,+024:57:52,  24, RR3,20061012,20211031,    9,Pauli Jokinen                                     
+ 7033,142241,HELSINKI-MALMIN LENTOASEMA              ,FI,+60:15:12,+025:02:54,  15, RR3,19590101,19921231,    9,Pauli Jokinen                                     
+ 7033,142251,HELSINKI VIIKIN KOETILA                 ,FI,+60:13:00,+025:02:00,   8, RR3,19590101,19691231,    9,Pauli Jokinen                                     
+ 7033,142296,HELSINKI MARJANIEMI                     ,FI,+60:12:00,+025:05:00,  22, RR3,19700101,19871231,    9,Pauli Jokinen                                     
+ 7036,100086,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 7036,117994,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4, RR1,19510102,20011231,   50,GHCND                                             
+ 7036,142090,HELSINKI KATAJALUOTO                    ,FI,+60:06:00,+024:55:00,   5, RR3,19590101,19840930,    9,Pauli Jokinen                                     
+ 7036,142246,VALLISAARI                              ,FI,+60:08:00,+025:00:00,  10, RR3,19590101,19650521,    9,Pauli Jokinen                                     
+ 7036,142311,HELSINKI ISOSAARI                       ,FI,+60:06:15,+025:04:16,   4, RR3,19841001,20080930,    9,Pauli Jokinen                                     
+ 7039,142266,PORVOO JERNBOLE                         ,FI,+60:24:21,+025:39:32,  17, RR3,19590101,20051231,    9,Pauli Jokinen                                     
+ 7039,142281,PORVOO BENGTSBY                         ,FI,+60:15:50,+025:38:15,  11, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7039,142286,PORVOO NORRVECKOSKI                     ,FI,+60:23:35,+025:26:02,  24, RR3,19680101,20061231,    9,Pauli Jokinen                                     
+ 7039,142326,PORVOO LEHTIMAKI                        ,FI,+60:22:06,+025:37:37,  10, RR3,20060119,20060627,    9,Pauli Jokinen                                     
+ 7039,142331,PORVOO HARABACKA                        ,FI,+60:23:29,+025:36:41,  22, RR3,20061002,20211031,    9,Pauli Jokinen                                     
+ 7040,142266,PORVOO JERNBOLE                         ,FI,+60:24:21,+025:39:32,  17, RR3,19590101,20051231,    9,Pauli Jokinen                                     
+ 7040,142286,PORVOO NORRVECKOSKI                     ,FI,+60:23:35,+025:26:02,  24, RR3,19680101,20061231,    9,Pauli Jokinen                                     
+ 7040,142326,PORVOO LEHTIMAKI                        ,FI,+60:22:06,+025:37:37,  10, RR3,20060119,20060627,    9,Pauli Jokinen                                     
+ 7040,142331,PORVOO HARABACKA                        ,FI,+60:23:29,+025:36:41,  22, RR3,20061002,20211031,    9,Pauli Jokinen                                     
+ 7042,142341,KOTKA RANKKI                            ,FI,+60:22:31,+026:57:42,   9, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7042,142406,KOTKA KIRKONMAA                         ,FI,+60:23:06,+027:03:06,  17, RR3,20061101,20130831,    9,Pauli Jokinen                                     
+ 7042,902976,RANKKI                                  ,FI,+60:22:00,+026:58:00,  12, RR8,19820101,20200227,     ,                    
+ 7055,142341,KOTKA RANKKI                            ,FI,+60:22:31,+026:57:42,   9, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7055,142406,KOTKA KIRKONMAA                         ,FI,+60:23:06,+027:03:06,  17, RR3,20061101,20130831,    9,Pauli Jokinen                                     
+ 7055,902976,RANKKI                                  ,FI,+60:22:00,+026:58:00,  12, RR8,19820101,20200227,     ,                    
+  704,142411,PORI PORIN LENTOASEMA                   ,FI,+61:27:56,+021:47:49,  13, RR3,19590101,19991231,    9,Pauli Jokinen                                     
+  704,142506,PORI RAUTATIEASEMA                      ,FI,+61:28:44,+021:47:11,   9, RR3,20081010,20211031,    9,Pauli Jokinen                                     
+  704,902952,PORI                                    ,FI,+61:28:00,+021:48:00,  17, RR8,19820101,20050531,     ,                    
+ 7059,142436,UUSIKAUPUNKI NERVANDERINPUISTO          ,FI,+60:48:07,+021:25:41,   6, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7059,142446,UUSIKAUPUNKI KORSAARI                   ,FI,+60:50:44,+021:14:35,   5, RR3,19680101,20080731,    9,Pauli Jokinen                                     
+ 7061,142436,UUSIKAUPUNKI NERVANDERINPUISTO          ,FI,+60:48:07,+021:25:41,   6, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7061,142446,UUSIKAUPUNKI KORSAARI                   ,FI,+60:50:44,+021:14:35,   5, RR3,19680101,20080731,    9,Pauli Jokinen                                     
+ 7073,142411,PORI PORIN LENTOASEMA                   ,FI,+61:27:56,+021:47:49,  13, RR3,19590101,19991231,    9,Pauli Jokinen                                     
+ 7073,142506,PORI RAUTATIEASEMA                      ,FI,+61:28:44,+021:47:11,   9, RR3,20081010,20211031,    9,Pauli Jokinen                                     
+ 7073,902952,PORI                                    ,FI,+61:28:00,+021:48:00,  17, RR8,19820101,20050531,     ,                    
+  706,142511,TURKU TURUN LENTOASEMA                  ,FI,+60:30:55,+022:16:39,  49, RR3,19590101,20060702,    9,Pauli Jokinen                                     
+  706,142536,LIETO TAMMENTAKA                        ,FI,+60:34:26,+022:26:59,  39, RR3,19650101,20170131,    9,Pauli Jokinen                                     
+  707,142526,KOKEMAKI PEIPOHJA HYRKOLA               ,FI,+61:16:15,+022:15:08,  37, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+  707,142631,KOKEMAKI TULKKILA                       ,FI,+61:15:10,+022:20:59,  38, RR3,20100526,20211031,    9,Pauli Jokinen                                     
+ 7079,142546,ORIPAA KK                               ,FI,+60:51:00,+022:43:00,  70, RR3,19650101,19811229,    9,Pauli Jokinen                                     
+ 7079,142586,ORIPAA TEINIKIVI                        ,FI,+60:54:15,+022:42:54,  82, RR3,19700101,20211030,    9,Pauli Jokinen                                     
+ 7080,142551,YLANE VANHAKARTANO                      ,FI,+60:52:00,+022:24:00,  50, RR3,19650101,19741231,    9,Pauli Jokinen                                     
+ 7080,142611,POYTYA YLANE                            ,FI,+60:52:17,+022:23:29,  53, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7082,142561,HUITTINEN SALLILA                       ,FI,+61:01:24,+022:42:07,  70, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7085,142526,KOKEMAKI PEIPOHJA HYRKOLA               ,FI,+61:16:15,+022:15:08,  37, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7085,142576,KOKEMAKI KARTANO                        ,FI,+61:14:00,+022:17:00,  40, RR3,19650901,19950131,    9,Pauli Jokinen                                     
+ 7085,142631,KOKEMAKI TULKKILA                       ,FI,+61:15:10,+022:20:59,  38, RR3,20100526,20211031,    9,Pauli Jokinen                                     
+ 7086,142526,KOKEMAKI PEIPOHJA HYRKOLA               ,FI,+61:16:15,+022:15:08,  37, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7086,142581,HARJAVALTA TORTTILA                     ,FI,+61:18:53,+022:07:38,  31, RR3,19650101,20070131,    9,Pauli Jokinen                                     
+ 7087,142546,ORIPAA KK                               ,FI,+60:51:00,+022:43:00,  70, RR3,19650101,19811229,    9,Pauli Jokinen                                     
+ 7087,142586,ORIPAA TEINIKIVI                        ,FI,+60:54:15,+022:42:54,  82, RR3,19700101,20211030,    9,Pauli Jokinen                                     
+ 7088,142526,KOKEMAKI PEIPOHJA HYRKOLA               ,FI,+61:16:15,+022:15:08,  37, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7088,142591,KOKEMAKI ASKOLA                         ,FI,+61:16:00,+022:17:00,  35, RR3,19670101,20081231,    9,Pauli Jokinen                                     
+ 7088,142631,KOKEMAKI TULKKILA                       ,FI,+61:15:10,+022:20:59,  38, RR3,20100526,20211031,    9,Pauli Jokinen                                     
+ 7092,142551,YLANE VANHAKARTANO                      ,FI,+60:52:00,+022:24:00,  50, RR3,19650101,19741231,    9,Pauli Jokinen                                     
+ 7092,142611,POYTYA YLANE                            ,FI,+60:52:17,+022:23:29,  53, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7096,142526,KOKEMAKI PEIPOHJA HYRKOLA               ,FI,+61:16:15,+022:15:08,  37, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7096,142576,KOKEMAKI KARTANO                        ,FI,+61:14:00,+022:17:00,  40, RR3,19650901,19950131,    9,Pauli Jokinen                                     
+ 7096,142591,KOKEMAKI ASKOLA                         ,FI,+61:16:00,+022:17:00,  35, RR3,19670101,20081231,    9,Pauli Jokinen                                     
+ 7096,142631,KOKEMAKI TULKKILA                       ,FI,+61:15:10,+022:20:59,  38, RR3,20100526,20211031,    9,Pauli Jokinen                                     
+  708,142636,JOKIOINEN JOKIOISTEN OBSERVATORIO       ,FI,+60:48:50,+023:30:03, 104, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7097,142641,TAMPERE HARMALA-1                       ,FI,+61:28:00,+023:45:00,  85, RR3,19590101,19990430,    9,Pauli Jokinen                                     
+ 7097,142731,TAMPERE HATANPAA                        ,FI,+61:29:12,+023:46:25,  83, RR3,20050801,20061001,    9,Pauli Jokinen                                     
+ 7097,142736,TAMPERE HARMALA                         ,FI,+61:27:56,+023:45:00,  85, RR3,20070621,20211031,    9,Pauli Jokinen                                     
+ 7097,143556,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99, RR3,19650104,19701124,    9,Pauli Jokinen                                     
+ 7099,142060,NUMMI-PUSULA LEPPAKORPI                 ,FI,+60:29:28,+023:46:10,  96, RR3,19690101,20211030,    9,Pauli Jokinen                                     
+ 7099,142651,SOMERO SUOJOKI                          ,FI,+60:31:07,+023:40:43,  83, RR3,19681101,20071231,    9,Pauli Jokinen                                     
+ 7100,142656,NUMMI-PUSULA KARKOLA                    ,FI,+60:37:44,+023:55:26, 148, RR3,19660101,20080731,    9,Pauli Jokinen                                     
+ 7100,142741,SOMERO SALKOLA                          ,FI,+60:38:47,+023:48:33, 143, RR3,20140523,20211031,    9,Pauli Jokinen                                     
+ 7100,902949,SOMERO SALKOLA                          ,FI,+60:38:48,+023:48:20, 143, RR8,20141010,20200227,     ,                    
+ 7108,142696,NOKIA TOTTIJARVI                        ,FI,+61:23:47,+023:20:23,  99, RR3,19650101,20211029,    9,Pauli Jokinen                                     
+ 7109,142641,TAMPERE HARMALA-1                       ,FI,+61:28:00,+023:45:00,  85, RR3,19590101,19990430,    9,Pauli Jokinen                                     
+ 7109,142701,TAMPERE KOIVISTONKYLA                   ,FI,+61:28:00,+023:48:00, 100, RR3,19690926,19760331,    9,Pauli Jokinen                                     
+ 7109,142706,PIRKKALA TAMPERE-PIRKKALAN LENTOASEMA   ,FI,+61:25:14,+023:37:24, 119, RR3,19791001,20060702,    9,Pauli Jokinen                                     
+ 7109,142731,TAMPERE HATANPAA                        ,FI,+61:29:12,+023:46:25,  83, RR3,20050801,20061001,    9,Pauli Jokinen                                     
+ 7109,142736,TAMPERE HARMALA                         ,FI,+61:27:56,+023:45:00,  85, RR3,20070621,20211031,    9,Pauli Jokinen                                     
+ 7109,143556,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99, RR3,19650104,19701124,    9,Pauli Jokinen                                     
+ 7110,142701,TAMPERE KOIVISTONKYLA                   ,FI,+61:28:00,+023:48:00, 100, RR3,19690926,19760331,    9,Pauli Jokinen                                     
+ 7110,142706,PIRKKALA TAMPERE-PIRKKALAN LENTOASEMA   ,FI,+61:25:14,+023:37:24, 119, RR3,19791001,20060702,    9,Pauli Jokinen                                     
+ 7110,143556,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99, RR3,19650104,19701124,    9,Pauli Jokinen                                     
+ 7114,142636,JOKIOINEN JOKIOISTEN OBSERVATORIO       ,FI,+60:48:50,+023:30:03, 104, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7114,142726,JOKIOINEN JOKIOISTEN OBSERVATORIO AWS   ,FI,+60:48:50,+023:30:03, 104, RR3,20120531,20121231,    9,Pauli Jokinen                                     
+ 7115,142641,TAMPERE HARMALA-1                       ,FI,+61:28:00,+023:45:00,  85, RR3,19590101,19990430,    9,Pauli Jokinen                                     
+ 7115,142731,TAMPERE HATANPAA                        ,FI,+61:29:12,+023:46:25,  83, RR3,20050801,20061001,    9,Pauli Jokinen                                     
+ 7115,142736,TAMPERE HARMALA                         ,FI,+61:27:56,+023:45:00,  85, RR3,20070621,20211031,    9,Pauli Jokinen                                     
+ 7115,143556,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99, RR3,19650104,19701124,    9,Pauli Jokinen                                     
+ 7116,142641,TAMPERE HARMALA-1                       ,FI,+61:28:00,+023:45:00,  85, RR3,19590101,19990430,    9,Pauli Jokinen                                     
+ 7116,142731,TAMPERE HATANPAA                        ,FI,+61:29:12,+023:46:25,  83, RR3,20050801,20061001,    9,Pauli Jokinen                                     
+ 7116,142736,TAMPERE HARMALA                         ,FI,+61:27:56,+023:45:00,  85, RR3,20070621,20211031,    9,Pauli Jokinen                                     
+ 7116,143556,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99, RR3,19650104,19701124,    9,Pauli Jokinen                                     
+ 7117,142656,NUMMI-PUSULA KARKOLA                    ,FI,+60:37:44,+023:55:26, 148, RR3,19660101,20080731,    9,Pauli Jokinen                                     
+ 7117,142741,SOMERO SALKOLA                          ,FI,+60:38:47,+023:48:33, 143, RR3,20140523,20211031,    9,Pauli Jokinen                                     
+ 7117,902949,SOMERO SALKOLA                          ,FI,+60:38:48,+023:48:20, 143, RR8,20141010,20200227,     ,                    
+ 7118,142746,HAMEENLINNA KAURIALA                    ,FI,+61:00:00,+024:27:00,  92, RR3,19590101,19761231,    9,Pauli Jokinen                                     
+ 7118,142851,HAMEENLINNA KATINEN                     ,FI,+60:59:57,+024:29:41,  87, RR3,20050801,20211031,    9,Pauli Jokinen                                     
+ 7119,142751,HYVINKAA HYVINKAANKYLA                  ,FI,+60:35:45,+024:48:23,  86, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7119,142781,NURMIJARVI RAJAMAKI                     ,FI,+60:32:00,+024:45:00,  90, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7120,142756,HATTULA LETEENSUO                       ,FI,+61:04:00,+024:14:00,  88, RR3,19590101,20021231,    9,Pauli Jokinen                                     
+ 7120,142761,HATTULA LEPAA-1                         ,FI,+61:07:38,+024:20:10,  87, RR3,19590101,20071231,    9,Pauli Jokinen                                     
+ 7120,142856,HATTULA LEPAA                           ,FI,+61:06:53,+024:19:46,  87, RR3,20130829,20211031,    9,Pauli Jokinen                                     
+  709,142761,HATTULA LEPAA-1                         ,FI,+61:07:38,+024:20:10,  87, RR3,19590101,20071231,    9,Pauli Jokinen                                     
+  709,142856,HATTULA LEPAA                           ,FI,+61:06:53,+024:19:46,  87, RR3,20130829,20211031,    9,Pauli Jokinen                                     
+ 7123,142776,VIHTI HIISKULA                          ,FI,+60:31:29,+024:31:08, 100, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7123,142846,NURMIJARVI GEOFYSIIKAN OBSERVATORIO     ,FI,+60:30:31,+024:39:25, 111, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7124,142751,HYVINKAA HYVINKAANKYLA                  ,FI,+60:35:45,+024:48:23,  86, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7124,142781,NURMIJARVI RAJAMAKI                     ,FI,+60:32:00,+024:45:00,  90, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7124,142846,NURMIJARVI GEOFYSIIKAN OBSERVATORIO     ,FI,+60:30:31,+024:39:25, 111, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7130,142811,LAMMI NIIPALA                           ,FI,+61:03:00,+024:59:00, 144, RR3,19690101,19780228,    9,Pauli Jokinen                                     
+ 7130,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7130,142911,LAMMI TIRMULA                           ,FI,+61:03:33,+025:00:00, 128, RR3,19680101,20080630,    9,Pauli Jokinen                                     
+ 7130,142971,LAMMI JAHKOLA                           ,FI,+61:02:29,+025:00:54, 145, RR3,19680101,20080531,    9,Pauli Jokinen                                     
+ 7131,142816,HAMEENLINNA PIRTTIKOSKI                 ,FI,+61:00:23,+023:55:24, 129, RR3,19660401,20211031,    9,Pauli Jokinen                                     
+ 7132,142821,TUULOS TEURO                            ,FI,+61:04:35,+024:50:10, 122, RR3,19650101,20071231,    9,Pauli Jokinen                                     
+ 7132,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7132,142911,LAMMI TIRMULA                           ,FI,+61:03:33,+025:00:00, 128, RR3,19680101,20080630,    9,Pauli Jokinen                                     
+ 7137,142776,VIHTI HIISKULA                          ,FI,+60:31:29,+024:31:08, 100, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7137,142781,NURMIJARVI RAJAMAKI                     ,FI,+60:32:00,+024:45:00,  90, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7137,142846,NURMIJARVI GEOFYSIIKAN OBSERVATORIO     ,FI,+60:30:31,+024:39:25, 111, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7138,142746,HAMEENLINNA KAURIALA                    ,FI,+61:00:00,+024:27:00,  92, RR3,19590101,19761231,    9,Pauli Jokinen                                     
+ 7138,142851,HAMEENLINNA KATINEN                     ,FI,+60:59:57,+024:29:41,  87, RR3,20050801,20211031,    9,Pauli Jokinen                                     
+ 7139,142761,HATTULA LEPAA-1                         ,FI,+61:07:38,+024:20:10,  87, RR3,19590101,20071231,    9,Pauli Jokinen                                     
+ 7139,142856,HATTULA LEPAA                           ,FI,+61:06:53,+024:19:46,  87, RR3,20130829,20211031,    9,Pauli Jokinen                                     
+ 7142,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7147,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7147,142896,HAMEENKOSKI PALOMAA                     ,FI,+61:03:47,+025:14:51, 119, RR3,19690801,20071231,    9,Pauli Jokinen                                     
+ 7147,142901,HOLLOLA KK                              ,FI,+61:04:02,+025:25:03, 101, RR3,19640101,20071231,    9,Pauli Jokinen                                     
+ 7147,142951,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120, RR3,19680801,19981231,    9,Pauli Jokinen                                     
+ 7149,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7149,142906,LAMMI JAHKOLA-1                         ,FI,+61:03:00,+025:01:00, 120, RR3,19680101,19690829,    9,Pauli Jokinen                                     
+ 7150,142811,LAMMI NIIPALA                           ,FI,+61:03:00,+024:59:00, 144, RR3,19690101,19780228,    9,Pauli Jokinen                                     
+ 7150,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7150,142911,LAMMI TIRMULA                           ,FI,+61:03:33,+025:00:00, 128, RR3,19680101,20080630,    9,Pauli Jokinen                                     
+ 7151,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7151,142896,HAMEENKOSKI PALOMAA                     ,FI,+61:03:47,+025:14:51, 119, RR3,19690801,20071231,    9,Pauli Jokinen                                     
+ 7151,142901,HOLLOLA KK                              ,FI,+61:04:02,+025:25:03, 101, RR3,19640101,20071231,    9,Pauli Jokinen                                     
+ 7151,142916,KOSKI HL HYRKKALA                       ,FI,+61:05:00,+025:14:00, 108, RR3,19700101,19760531,    9,Pauli Jokinen                                     
+ 7151,142951,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120, RR3,19680801,19981231,    9,Pauli Jokinen                                     
+ 7158,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7158,142896,HAMEENKOSKI PALOMAA                     ,FI,+61:03:47,+025:14:51, 119, RR3,19690801,20071231,    9,Pauli Jokinen                                     
+ 7158,142951,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120, RR3,19680801,19981231,    9,Pauli Jokinen                                     
+ 7159,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7159,142876,LAMMI EVO                               ,FI,+61:11:00,+025:05:00, 127, RR3,19590101,19641130,    9,Pauli Jokinen                                     
+ 7159,142956,LAMMI KUURIKKA                          ,FI,+61:07:00,+025:05:00, 125, RR3,19690629,19751231,    9,Pauli Jokinen                                     
+ 7159,142961,LAMMI RONNI                             ,FI,+61:05:00,+025:08:00, 120, RR3,19680908,19930101,    9,Pauli Jokinen                                     
+ 7159,142966,LAMMI KOSTILA                           ,FI,+61:07:26,+025:08:11, 132, RR3,19680901,20060930,    9,Pauli Jokinen                                     
+ 7160,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7160,142876,LAMMI EVO                               ,FI,+61:11:00,+025:05:00, 127, RR3,19590101,19641130,    9,Pauli Jokinen                                     
+ 7160,142951,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120, RR3,19680801,19981231,    9,Pauli Jokinen                                     
+ 7160,142961,LAMMI RONNI                             ,FI,+61:05:00,+025:08:00, 120, RR3,19680908,19930101,    9,Pauli Jokinen                                     
+ 7160,142966,LAMMI KOSTILA                           ,FI,+61:07:26,+025:08:11, 132, RR3,19680901,20060930,    9,Pauli Jokinen                                     
+ 7161,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7161,142876,LAMMI EVO                               ,FI,+61:11:00,+025:05:00, 127, RR3,19590101,19641130,    9,Pauli Jokinen                                     
+ 7161,142921,LAMMI VESTOLA                           ,FI,+61:09:00,+025:15:00, 147, RR3,19700101,20000531,    9,Pauli Jokinen                                     
+ 7161,142951,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120, RR3,19680801,19981231,    9,Pauli Jokinen                                     
+ 7161,142956,LAMMI KUURIKKA                          ,FI,+61:07:00,+025:05:00, 125, RR3,19690629,19751231,    9,Pauli Jokinen                                     
+ 7161,142961,LAMMI RONNI                             ,FI,+61:05:00,+025:08:00, 120, RR3,19680908,19930101,    9,Pauli Jokinen                                     
+ 7161,142966,LAMMI KOSTILA                           ,FI,+61:07:26,+025:08:11, 132, RR3,19680901,20060930,    9,Pauli Jokinen                                     
+ 7161,143011,HAMEENLINNA LAMMI ISO-EVO               ,FI,+61:10:58,+025:02:24, 129, RR3,19890101,20090131,    9,Pauli Jokinen                                     
+ 7162,142811,LAMMI NIIPALA                           ,FI,+61:03:00,+024:59:00, 144, RR3,19690101,19780228,    9,Pauli Jokinen                                     
+ 7162,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7162,142971,LAMMI JAHKOLA                           ,FI,+61:02:29,+025:00:54, 145, RR3,19680101,20080531,    9,Pauli Jokinen                                     
+ 7163,142871,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125, RR3,19630701,20211031,    9,Pauli Jokinen                                     
+ 7163,142951,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120, RR3,19680801,19981231,    9,Pauli Jokinen                                     
+ 7163,142976,KOSKI HL TOIJALA                        ,FI,+61:01:00,+025:08:00, 135, RR3,19710101,19831031,    9,Pauli Jokinen                                     
+ 7170,142876,LAMMI EVO                               ,FI,+61:11:00,+025:05:00, 127, RR3,19590101,19641130,    9,Pauli Jokinen                                     
+ 7170,142921,LAMMI VESTOLA                           ,FI,+61:09:00,+025:15:00, 147, RR3,19700101,20000531,    9,Pauli Jokinen                                     
+ 7170,142956,LAMMI KUURIKKA                          ,FI,+61:07:00,+025:05:00, 125, RR3,19690629,19751231,    9,Pauli Jokinen                                     
+ 7170,142961,LAMMI RONNI                             ,FI,+61:05:00,+025:08:00, 120, RR3,19680908,19930101,    9,Pauli Jokinen                                     
+ 7170,142966,LAMMI KOSTILA                           ,FI,+61:07:26,+025:08:11, 132, RR3,19680901,20060930,    9,Pauli Jokinen                                     
+ 7170,142991,LAMMI EVO                               ,FI,+61:12:00,+025:08:00, 132, RR3,19860701,19880831,    9,Pauli Jokinen                                     
+ 7170,143011,HAMEENLINNA LAMMI ISO-EVO               ,FI,+61:10:58,+025:02:24, 129, RR3,19890101,20090131,    9,Pauli Jokinen                                     
+ 7176,143041,KOUVOLA UTTI LENTOKENTTA                ,FI,+60:53:25,+026:56:39,  99, RR3,19590101,20090630,    9,Pauli Jokinen                                     
+ 7176,143151,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:25,+026:56:40,  99, RR3,20081001,20211028,    9,Pauli Jokinen                                     
+ 7176,902956,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:27,+026:55:45, 100, RR8,20130822,20191103,     ,                    
+ 7176,902966,UTTI                                    ,FI,+60:54:00,+026:56:00, 100, RR8,19820101,20191103,     ,                    
+ 7179,143056,KOUVOLA ANJALA                          ,FI,+60:41:47,+026:48:49,  33, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7179,143076,ANJALANKOSKI RAUTAKORPI                 ,FI,+60:46:00,+026:46:00,  43, RR3,19610101,20080731,    9,Pauli Jokinen                                     
+ 7179,902830,ANJALANKOSKI ANJALA                     ,FI,+60:42:00,+026:49:00,  33, RR8,20080816,20200227,     ,                    
+ 7180,143061,KUUSANKOSKI KESKUSTA                    ,FI,+60:54:00,+026:39:00,  61, RR3,19590101,19901231,    9,Pauli Jokinen                                     
+ 7180,143081,VALKEALA KOUVOLA                        ,FI,+60:50:00,+026:45:00,  60, RR3,19690101,20000630,    9,Pauli Jokinen                                     
+ 7180,143101,KOUVOLA TORNIONMAKI                     ,FI,+60:53:00,+026:47:00,  75, RR3,19670813,19931231,    9,Pauli Jokinen                                     
+ 7180,143141,VALKEALA KOUVOLANKYLA                   ,FI,+60:51:00,+026:47:00,  50, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7181,143066,HEINOLA ASEMANTAUS                      ,FI,+61:11:59,+026:03:10,  92, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7183,143056,KOUVOLA ANJALA                          ,FI,+60:41:47,+026:48:49,  33, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7183,143076,ANJALANKOSKI RAUTAKORPI                 ,FI,+60:46:00,+026:46:00,  43, RR3,19610101,20080731,    9,Pauli Jokinen                                     
+ 7183,143081,VALKEALA KOUVOLA                        ,FI,+60:50:00,+026:45:00,  60, RR3,19690101,20000630,    9,Pauli Jokinen                                     
+ 7183,902830,ANJALANKOSKI ANJALA                     ,FI,+60:42:00,+026:49:00,  33, RR8,20080816,20200227,     ,                    
+ 7184,143061,KUUSANKOSKI KESKUSTA                    ,FI,+60:54:00,+026:39:00,  61, RR3,19590101,19901231,    9,Pauli Jokinen                                     
+ 7184,143076,ANJALANKOSKI RAUTAKORPI                 ,FI,+60:46:00,+026:46:00,  43, RR3,19610101,20080731,    9,Pauli Jokinen                                     
+ 7184,143081,VALKEALA KOUVOLA                        ,FI,+60:50:00,+026:45:00,  60, RR3,19690101,20000630,    9,Pauli Jokinen                                     
+ 7184,143096,KOUVOLA KESKUSTA                        ,FI,+60:52:00,+026:44:00,  70, RR3,19680101,19791022,    9,Pauli Jokinen                                     
+ 7184,143101,KOUVOLA TORNIONMAKI                     ,FI,+60:53:00,+026:47:00,  75, RR3,19670813,19931231,    9,Pauli Jokinen                                     
+ 7184,143141,VALKEALA KOUVOLANKYLA                   ,FI,+60:51:00,+026:47:00,  50, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7187,143061,KUUSANKOSKI KESKUSTA                    ,FI,+60:54:00,+026:39:00,  61, RR3,19590101,19901231,    9,Pauli Jokinen                                     
+ 7187,143081,VALKEALA KOUVOLA                        ,FI,+60:50:00,+026:45:00,  60, RR3,19690101,20000630,    9,Pauli Jokinen                                     
+ 7187,143096,KOUVOLA KESKUSTA                        ,FI,+60:52:00,+026:44:00,  70, RR3,19680101,19791022,    9,Pauli Jokinen                                     
+ 7187,143101,KOUVOLA TORNIONMAKI                     ,FI,+60:53:00,+026:47:00,  75, RR3,19670813,19931231,    9,Pauli Jokinen                                     
+ 7187,143141,VALKEALA KOUVOLANKYLA                   ,FI,+60:51:00,+026:47:00,  50, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7188,143041,KOUVOLA UTTI LENTOKENTTA                ,FI,+60:53:25,+026:56:39,  99, RR3,19590101,20090630,    9,Pauli Jokinen                                     
+ 7188,143061,KUUSANKOSKI KESKUSTA                    ,FI,+60:54:00,+026:39:00,  61, RR3,19590101,19901231,    9,Pauli Jokinen                                     
+ 7188,143081,VALKEALA KOUVOLA                        ,FI,+60:50:00,+026:45:00,  60, RR3,19690101,20000630,    9,Pauli Jokinen                                     
+ 7188,143096,KOUVOLA KESKUSTA                        ,FI,+60:52:00,+026:44:00,  70, RR3,19680101,19791022,    9,Pauli Jokinen                                     
+ 7188,143101,KOUVOLA TORNIONMAKI                     ,FI,+60:53:00,+026:47:00,  75, RR3,19670813,19931231,    9,Pauli Jokinen                                     
+ 7188,143151,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:25,+026:56:40,  99, RR3,20081001,20211028,    9,Pauli Jokinen                                     
+ 7188,902956,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:27,+026:55:45, 100, RR8,20130822,20191103,     ,                    
+ 7193,143056,KOUVOLA ANJALA                          ,FI,+60:41:47,+026:48:49,  33, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7193,143076,ANJALANKOSKI RAUTAKORPI                 ,FI,+60:46:00,+026:46:00,  43, RR3,19610101,20080731,    9,Pauli Jokinen                                     
+ 7193,143126,ANJALANKOSKI                            ,FI,+60:42:00,+026:50:00,  30, RR3,19700101,19900629,    9,Pauli Jokinen                                     
+ 7193,902830,ANJALANKOSKI ANJALA                     ,FI,+60:42:00,+026:49:00,  33, RR8,20080816,20200227,     ,                    
+ 7195,143136,KOUVOLA VOIKOSKI                        ,FI,+61:15:04,+026:46:56,  90, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7198,143041,KOUVOLA UTTI LENTOKENTTA                ,FI,+60:53:25,+026:56:39,  99, RR3,19590101,20090630,    9,Pauli Jokinen                                     
+ 7198,143151,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:25,+026:56:40,  99, RR3,20081001,20211028,    9,Pauli Jokinen                                     
+ 7198,902956,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:27,+026:55:45, 100, RR8,20130822,20191103,     ,                    
+ 7198,902966,UTTI                                    ,FI,+60:54:00,+026:56:00, 100, RR8,19820101,20191103,     ,                    
+ 7199,143156,VIROLAHTI RAVIJOKI                      ,FI,+60:32:00,+027:33:00,  22, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7199,143211,VIROLAHTI KOIVUNIEMI                    ,FI,+60:31:38,+027:40:33,   5, RR3,19770101,20211031,    9,Pauli Jokinen                                     
+ 7200,143156,VIROLAHTI RAVIJOKI                      ,FI,+60:32:00,+027:33:00,  22, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7200,143161,VIROLAHTI RAVIJARVI                     ,FI,+60:35:00,+027:29:00,  25, RR3,19650801,19930101,    9,Pauli Jokinen                                     
+ 7200,143171,VIROLAHTI NOPALA                        ,FI,+60:38:00,+027:27:00,  20, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7200,143211,VIROLAHTI KOIVUNIEMI                    ,FI,+60:31:38,+027:40:33,   5, RR3,19770101,20211031,    9,Pauli Jokinen                                     
+ 7202,143171,VIROLAHTI NOPALA                        ,FI,+60:38:00,+027:27:00,  20, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7202,143176,HAMINA ONKAMAA                          ,FI,+60:39:00,+027:25:00,  35, RR3,19690101,20081231,    9,Pauli Jokinen                                     
+ 7210,143156,VIROLAHTI RAVIJOKI                      ,FI,+60:32:00,+027:33:00,  22, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7210,143211,VIROLAHTI KOIVUNIEMI                    ,FI,+60:31:38,+027:40:33,   5, RR3,19770101,20211031,    9,Pauli Jokinen                                     
+ 7214,143231,LAPPEENRANTA LENTOASEMA                 ,FI,+61:02:38,+028:09:15, 106, RR3,19590101,20060702,    9,Pauli Jokinen                                     
+ 7214,143276,LAPPEENRANTA LEPOLA                     ,FI,+61:03:26,+028:12:42, 103, RR3,19950901,20211031,    9,Pauli Jokinen                                     
+ 7214,902958,LAPPEENRANTA                            ,FI,+61:03:00,+028:12:00, 106, RR8,19820101,20191103,     ,                    
+ 7215,143236,RUOKOLAHTI KOTANIEMI                    ,FI,+61:22:00,+028:40:00,  95, RR3,19640901,19980126,    9,Pauli Jokinen                                     
+ 7215,143256,RUOKOLAHTI KOTALAHTI SIPINEN            ,FI,+61:23:00,+028:40:00, 100, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7215,143281,RUOKOLAHTI KOTANIEMI SIITONEN           ,FI,+61:22:05,+028:41:00,  95, RR3,19971231,20211031,    9,Pauli Jokinen                                     
+ 7219,143236,RUOKOLAHTI KOTANIEMI                    ,FI,+61:22:00,+028:40:00,  95, RR3,19640901,19980126,    9,Pauli Jokinen                                     
+ 7219,143256,RUOKOLAHTI KOTALAHTI SIPINEN            ,FI,+61:23:00,+028:40:00, 100, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7219,143281,RUOKOLAHTI KOTANIEMI SIITONEN           ,FI,+61:22:05,+028:41:00,  95, RR3,19971231,20211031,    9,Pauli Jokinen                                     
+ 7220,143236,RUOKOLAHTI KOTANIEMI                    ,FI,+61:22:00,+028:40:00,  95, RR3,19640901,19980126,    9,Pauli Jokinen                                     
+ 7220,143256,RUOKOLAHTI KOTALAHTI SIPINEN            ,FI,+61:23:00,+028:40:00, 100, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7220,143261,RUOKOLAHTI VALKJARVI                    ,FI,+61:25:00,+028:39:00, 110, RR3,19650801,19950930,    9,Pauli Jokinen                                     
+ 7220,143281,RUOKOLAHTI KOTANIEMI SIITONEN           ,FI,+61:22:05,+028:41:00,  95, RR3,19971231,20211031,    9,Pauli Jokinen                                     
+ 7223,143231,LAPPEENRANTA LENTOASEMA                 ,FI,+61:02:38,+028:09:15, 106, RR3,19590101,20060702,    9,Pauli Jokinen                                     
+ 7223,143276,LAPPEENRANTA LEPOLA                     ,FI,+61:03:26,+028:12:42, 103, RR3,19950901,20211031,    9,Pauli Jokinen                                     
+ 7223,902958,LAPPEENRANTA                            ,FI,+61:03:00,+028:12:00, 106, RR8,19820101,20191103,     ,                    
+ 7224,143236,RUOKOLAHTI KOTANIEMI                    ,FI,+61:22:00,+028:40:00,  95, RR3,19640901,19980126,    9,Pauli Jokinen                                     
+ 7224,143256,RUOKOLAHTI KOTALAHTI SIPINEN            ,FI,+61:23:00,+028:40:00, 100, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7224,143281,RUOKOLAHTI KOTANIEMI SIITONEN           ,FI,+61:22:05,+028:41:00,  95, RR3,19971231,20211031,    9,Pauli Jokinen                                     
+ 7228,143301,RAUTJARVI SIMPELE KANGASKOSKI           ,FI,+61:25:21,+029:23:41,  75, RR3,19590101,20160531,    9,Pauli Jokinen                                     
+ 7228,143306,PARIKKALA KOITSANLAHTI                  ,FI,+61:26:40,+029:27:50,  74, RR3,20160510,20211031,    9,Pauli Jokinen                                     
+ 7228,902734,PARIKKALA KOITSANLAHTI                  ,FI,+61:27:00,+029:28:00,  75, RR8,20160504,20200227,     ,                    
+ 7229,143301,RAUTJARVI SIMPELE KANGASKOSKI           ,FI,+61:25:21,+029:23:41,  75, RR3,19590101,20160531,    9,Pauli Jokinen                                     
+ 7229,143306,PARIKKALA KOITSANLAHTI                  ,FI,+61:26:40,+029:27:50,  74, RR3,20160510,20211031,    9,Pauli Jokinen                                     
+ 7229,144137,PARIKKALA KK                            ,FI,+61:33:00,+029:30:00,  73, RR3,19650101,19810526,    9,Pauli Jokinen                                     
+ 7229,902734,PARIKKALA KOITSANLAHTI                  ,FI,+61:27:00,+029:28:00,  75, RR8,20160504,20200227,     ,                    
+ 7231,143316,KASKINEN SALGRUND                       ,FI,+62:20:02,+021:11:38,   5, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7231,143346,KRISTIINANKAUPUNKI KARHUSAARI           ,FI,+62:15:27,+021:19:16,   1, RR3,19740101,19850615,    9,Pauli Jokinen                                     
+ 7231,902931,KASKINEN SALGRUND                       ,FI,+62:20:02,+021:11:27,   5, RR8,20141010,20200227,     ,                    
+ 7232,143321,MERIKARVIA TUORILA ALAKYLA              ,FI,+61:50:54,+021:39:16,  39, RR3,19670101,20211031,    9,Pauli Jokinen                                     
+ 7233,143326,ISOJOKI KARJENKOSKI                     ,FI,+62:07:58,+021:40:38,  54, RR3,19680101,20211031,    9,Pauli Jokinen                                     
+ 7233,143331,ISOJOKI VANHAKYLA                       ,FI,+62:11:00,+021:48:00,  70, RR3,19650101,20031231,    9,Pauli Jokinen                                     
+ 7234,143326,ISOJOKI KARJENKOSKI                     ,FI,+62:07:58,+021:40:38,  54, RR3,19680101,20211031,    9,Pauli Jokinen                                     
+ 7234,143331,ISOJOKI VANHAKYLA                       ,FI,+62:11:00,+021:48:00,  70, RR3,19650101,20031231,    9,Pauli Jokinen                                     
+ 7235,143336,KRISTIINANKAUPUNKI KESKUSTA             ,FI,+62:16:00,+021:24:00,   5, RR3,19640125,19900406,    9,Pauli Jokinen                                     
+ 7235,143346,KRISTIINANKAUPUNKI KARHUSAARI           ,FI,+62:15:27,+021:19:16,   1, RR3,19740101,19850615,    9,Pauli Jokinen                                     
+ 7236,143341,TEUVA KAUPPILANKYLA                     ,FI,+62:29:30,+021:45:46,  60, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7237,143316,KASKINEN SALGRUND                       ,FI,+62:20:02,+021:11:38,   5, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7237,143336,KRISTIINANKAUPUNKI KESKUSTA             ,FI,+62:16:00,+021:24:00,   5, RR3,19640125,19900406,    9,Pauli Jokinen                                     
+ 7237,143346,KRISTIINANKAUPUNKI KARHUSAARI           ,FI,+62:15:27,+021:19:16,   1, RR3,19740101,19850615,    9,Pauli Jokinen                                     
+ 7237,902931,KASKINEN SALGRUND                       ,FI,+62:20:02,+021:11:27,   5, RR8,20141010,20200227,     ,                    
+  713,143381,KANKAANPAA NIINISALO PUOLUSTUSVOIMAT    ,FI,+61:50:18,+022:28:02, 124, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+  713,143481,KANKAANPAA NIINISALO LENTOKENTTA        ,FI,+61:50:18,+022:28:02, 122, RR3,20070524,20211031,    9,Pauli Jokinen                                     
+ 7245,143391,KARVIA ALKKIA                           ,FI,+62:10:59,+022:48:12, 160, RR3,19660301,20211031,    9,Pauli Jokinen                                     
+ 7247,143401,IKAALINEN KURKELA                       ,FI,+61:42:00,+022:47:00, 105, RR3,19660112,19951022,    9,Pauli Jokinen                                     
+ 7247,143411,IKAALINEN VARPEE                        ,FI,+61:43:00,+022:48:00, 125, RR3,19670901,19880430,    9,Pauli Jokinen                                     
+ 7247,143416,IKAALINEN VEHUVARPEE                    ,FI,+61:44:20,+022:49:35, 124, RR3,19660101,20210930,    9,Pauli Jokinen                                     
+ 7247,143421,JAMIJARVI PIRTTIJARVI                   ,FI,+61:44:00,+022:43:00, 115, RR3,19660101,20081231,    9,Pauli Jokinen                                     
+ 7249,143401,IKAALINEN KURKELA                       ,FI,+61:42:00,+022:47:00, 105, RR3,19660112,19951022,    9,Pauli Jokinen                                     
+ 7249,143411,IKAALINEN VARPEE                        ,FI,+61:43:00,+022:48:00, 125, RR3,19670901,19880430,    9,Pauli Jokinen                                     
+ 7249,143416,IKAALINEN VEHUVARPEE                    ,FI,+61:44:20,+022:49:35, 124, RR3,19660101,20210930,    9,Pauli Jokinen                                     
+ 7249,143421,JAMIJARVI PIRTTIJARVI                   ,FI,+61:44:00,+022:43:00, 115, RR3,19660101,20081231,    9,Pauli Jokinen                                     
+ 7250,143401,IKAALINEN KURKELA                       ,FI,+61:42:00,+022:47:00, 105, RR3,19660112,19951022,    9,Pauli Jokinen                                     
+ 7250,143416,IKAALINEN VEHUVARPEE                    ,FI,+61:44:20,+022:49:35, 124, RR3,19660101,20210930,    9,Pauli Jokinen                                     
+ 7250,143421,JAMIJARVI PIRTTIJARVI                   ,FI,+61:44:00,+022:43:00, 115, RR3,19660101,20081231,    9,Pauli Jokinen                                     
+ 7251,143401,IKAALINEN KURKELA                       ,FI,+61:42:00,+022:47:00, 105, RR3,19660112,19951022,    9,Pauli Jokinen                                     
+ 7251,143416,IKAALINEN VEHUVARPEE                    ,FI,+61:44:20,+022:49:35, 124, RR3,19660101,20210930,    9,Pauli Jokinen                                     
+ 7251,143421,JAMIJARVI PIRTTIJARVI                   ,FI,+61:44:00,+022:43:00, 115, RR3,19660101,20081231,    9,Pauli Jokinen                                     
+ 7257,143451,KAUHAJOKI KAUPUNKI                      ,FI,+62:24:55,+022:11:36,  97, RR3,19650101,20171231,    9,Pauli Jokinen                                     
+ 7257,143471,KAUHAJOKI KUJA-KOKKO                    ,FI,+62:24:48,+022:11:12,  93, RR3,20080826,20211027,    9,Pauli Jokinen                                     
+ 7257,902769,KAUHAJOKI KUJA-KOKKO                    ,FI,+62:25:00,+022:11:00,  95, RR8,20080826,20200227,     ,                    
+ 7258,143456,JALASJARVI HIRVIJARVI                   ,FI,+62:28:22,+022:54:49, 100, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7258,144402,PERASEINAJOKI HAUKINEVA                 ,FI,+62:33:00,+022:57:00, 102, RR3,19750810,19930930,    9,Pauli Jokinen                                     
+ 7261,143451,KAUHAJOKI KAUPUNKI                      ,FI,+62:24:55,+022:11:36,  97, RR3,19650101,20171231,    9,Pauli Jokinen                                     
+ 7261,143471,KAUHAJOKI KUJA-KOKKO                    ,FI,+62:24:48,+022:11:12,  93, RR3,20080826,20211027,    9,Pauli Jokinen                                     
+ 7261,902769,KAUHAJOKI KUJA-KOKKO                    ,FI,+62:25:00,+022:11:00,  95, RR8,20080826,20200227,     ,                    
+ 7263,143381,KANKAANPAA NIINISALO PUOLUSTUSVOIMAT    ,FI,+61:50:18,+022:28:02, 124, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7263,143481,KANKAANPAA NIINISALO LENTOKENTTA        ,FI,+61:50:18,+022:28:02, 122, RR3,20070524,20211031,    9,Pauli Jokinen                                     
+ 7275,143546,ALAVUS SULKAVANKYLA                     ,FI,+62:26:57,+023:33:30, 120, RR3,19660101,20211031,    9,Pauli Jokinen                                     
+ 7275,143551,ALAVUS KATTELUS                         ,FI,+62:29:00,+023:46:00, 130, RR3,19630101,20051031,    9,Pauli Jokinen                                     
+ 7275,144427,ALAVUS AUTIONMAKI                       ,FI,+62:33:00,+023:39:00, 115, RR3,19610101,20090106,    9,Pauli Jokinen                                     
+ 7276,143546,ALAVUS SULKAVANKYLA                     ,FI,+62:26:57,+023:33:30, 120, RR3,19660101,20211031,    9,Pauli Jokinen                                     
+ 7276,143551,ALAVUS KATTELUS                         ,FI,+62:29:00,+023:46:00, 130, RR3,19630101,20051031,    9,Pauli Jokinen                                     
+ 7276,144417,ALAVUS POLLARI                          ,FI,+62:31:00,+023:42:00, 130, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7276,144422,ALAVUS SALONKYLA                        ,FI,+62:32:00,+023:46:00, 145, RR3,19650801,20060228,    9,Pauli Jokinen                                     
+ 7276,144427,ALAVUS AUTIONMAKI                       ,FI,+62:33:00,+023:39:00, 115, RR3,19610101,20090106,    9,Pauli Jokinen                                     
+ 7277,142641,TAMPERE HARMALA-1                       ,FI,+61:28:00,+023:45:00,  85, RR3,19590101,19990430,    9,Pauli Jokinen                                     
+ 7277,142706,PIRKKALA TAMPERE-PIRKKALAN LENTOASEMA   ,FI,+61:25:14,+023:37:24, 119, RR3,19791001,20060702,    9,Pauli Jokinen                                     
+ 7277,142731,TAMPERE HATANPAA                        ,FI,+61:29:12,+023:46:25,  83, RR3,20050801,20061001,    9,Pauli Jokinen                                     
+ 7277,142736,TAMPERE HARMALA                         ,FI,+61:27:56,+023:45:00,  85, RR3,20070621,20211031,    9,Pauli Jokinen                                     
+ 7277,143556,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99, RR3,19650104,19701124,    9,Pauli Jokinen                                     
+ 7283,143586,JAMSA HALLI LENTOKENTTA                 ,FI,+61:51:23,+024:47:21, 145, RR3,19640401,20090616,    9,Pauli Jokinen                                     
+ 7283,143691,JAMSA HALLI LENTOASEMANTIE              ,FI,+61:51:34,+024:49:06, 144, RR3,20081001,20211031,    9,Pauli Jokinen                                     
+ 7285,143596,JUUPAJOKI HYYTIALA                      ,FI,+61:50:44,+024:17:26, 153, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7304,143586,JAMSA HALLI LENTOKENTTA                 ,FI,+61:51:23,+024:47:21, 145, RR3,19640401,20090616,    9,Pauli Jokinen                                     
+ 7304,143691,JAMSA HALLI LENTOASEMANTIE              ,FI,+61:51:34,+024:49:06, 144, RR3,20081001,20211031,    9,Pauli Jokinen                                     
+ 7307,143707,SYSMA JOUTSJARVI                        ,FI,+61:30:39,+025:48:53,  92, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7308,143707,SYSMA JOUTSJARVI                        ,FI,+61:30:39,+025:48:53,  92, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7308,143712,HARTOLA HOTILA                          ,FI,+61:32:36,+025:58:11, 100, RR3,19660401,20071231,    9,Pauli Jokinen                                     
+ 7317,143757,JYVASKYLA MUURATJARVI                   ,FI,+62:09:17,+025:25:41, 125, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7323,143787,MULTIA SAHRAJARVI                       ,FI,+62:26:30,+025:01:06, 185, RR3,19700101,20031230,    9,Pauli Jokinen                                     
+ 7323,143812,MULTIA PIRTTIPERA                       ,FI,+62:24:37,+025:03:14, 181, RR3,19910101,20211031,    9,Pauli Jokinen                                     
+ 7325,100090,JYVASKYLA LENTOASEMA                    ,FI,+62:24:08,+025:40:43, 139, RR1,19510101,20211031,    9,Pauli Jokinen                                     
+ 7325,143797,JYVASKYLAN MLK TIKKAKOSKI               ,FI,+62:24:00,+025:36:00, 148, RR3,19770801,19880831,    9,Pauli Jokinen                                     
+ 7328,143787,MULTIA SAHRAJARVI                       ,FI,+62:26:30,+025:01:06, 185, RR3,19700101,20031230,    9,Pauli Jokinen                                     
+ 7328,143812,MULTIA PIRTTIPERA                       ,FI,+62:24:37,+025:03:14, 181, RR3,19910101,20211031,    9,Pauli Jokinen                                     
+ 7330,143822,JOUTSA LEIVONMAKI SAVENAHO              ,FI,+61:52:45,+026:05:56, 146, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7330,143932,JOUTSA LEIVONMAKI                       ,FI,+61:54:36,+026:07:39, 147, RR3,19771001,20100131,    9,Pauli Jokinen                                     
+ 7343,143887,JOUTSA MIESKONMAKI SAYNATNIEMI          ,FI,+61:48:00,+026:13:00, 100, RR3,19680101,20071231,    9,Pauli Jokinen                                     
+ 7343,143892,JOUTSA MIESKONMAKI KALA                 ,FI,+61:51:00,+026:16:00, 101, RR3,19680101,20071231,    9,Pauli Jokinen                                     
+ 7343,143917,JOUTSA PARNAMAKI                        ,FI,+61:45:57,+026:23:44, 122, RR3,19671101,20211031,    9,Pauli Jokinen                                     
+ 7344,143887,JOUTSA MIESKONMAKI SAYNATNIEMI          ,FI,+61:48:00,+026:13:00, 100, RR3,19680101,20071231,    9,Pauli Jokinen                                     
+ 7344,143892,JOUTSA MIESKONMAKI KALA                 ,FI,+61:51:00,+026:16:00, 101, RR3,19680101,20071231,    9,Pauli Jokinen                                     
+ 7344,143917,JOUTSA PARNAMAKI                        ,FI,+61:45:57,+026:23:44, 122, RR3,19671101,20211031,    9,Pauli Jokinen                                     
+ 7345,143897,KANGASNIEMI KIRKONKYLA                  ,FI,+61:58:51,+026:38:44, 105, RR3,19650101,20211029,    9,Pauli Jokinen                                     
+ 7349,143887,JOUTSA MIESKONMAKI SAYNATNIEMI          ,FI,+61:48:00,+026:13:00, 100, RR3,19680101,20071231,    9,Pauli Jokinen                                     
+ 7349,143917,JOUTSA PARNAMAKI                        ,FI,+61:45:57,+026:23:44, 122, RR3,19671101,20211031,    9,Pauli Jokinen                                     
+ 7352,143822,JOUTSA LEIVONMAKI SAVENAHO              ,FI,+61:52:45,+026:05:56, 146, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7352,143932,JOUTSA LEIVONMAKI                       ,FI,+61:54:36,+026:07:39, 147, RR3,19771001,20100131,    9,Pauli Jokinen                                     
+ 7356,143952,MIKKELI LENTOASEMA                      ,FI,+61:41:14,+027:12:36, 101, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7356,143967,MIKKELI RANTAKYLA                       ,FI,+61:40:27,+027:13:32, 107, RR3,19650101,20131231,    9,Pauli Jokinen                                     
+  715,143962,VARKAUS KAPYKANGAS                      ,FI,+62:18:30,+027:50:40,  91, RR3,19590101,20080630,    9,Pauli Jokinen                                     
+  715,144057,VARKAUS KOSULANNIEMI                    ,FI,+62:19:19,+027:54:40,  83, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7358,143952,MIKKELI LENTOASEMA                      ,FI,+61:41:14,+027:12:36, 101, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7358,143967,MIKKELI RANTAKYLA                       ,FI,+61:40:27,+027:13:32, 107, RR3,19650101,20131231,    9,Pauli Jokinen                                     
+ 7365,144002,MIKKELI PITKAHIEKKA                     ,FI,+62:02:02,+027:11:50, 103, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7365,144027,MIKKELI PITKAAHO                        ,FI,+61:57:00,+027:16:00, 124, RR3,19800101,20070630,    9,Pauli Jokinen                                     
+ 7370,144002,MIKKELI PITKAHIEKKA                     ,FI,+62:02:02,+027:11:50, 103, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7370,144027,MIKKELI PITKAAHO                        ,FI,+61:57:00,+027:16:00, 124, RR3,19800101,20070630,    9,Pauli Jokinen                                     
+ 7376,143962,VARKAUS KAPYKANGAS                      ,FI,+62:18:30,+027:50:40,  91, RR3,19590101,20080630,    9,Pauli Jokinen                                     
+ 7376,144057,VARKAUS KOSULANNIEMI                    ,FI,+62:19:19,+027:54:40,  83, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7378,144067,SAVONLINNA LAUKANSAARI                  ,FI,+61:47:45,+028:50:57,  94, RR3,19680101,20211031,    9,Pauli Jokinen                                     
+ 7380,144077,SULKAVA HALTTULA                        ,FI,+61:55:24,+028:19:24, 110, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7382,144077,SULKAVA HALTTULA                        ,FI,+61:55:24,+028:19:24, 110, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7382,144087,RANTASALMI OSIKONMAKI                   ,FI,+62:02:00,+028:17:00, 120, RR3,19650101,19720331,    9,Pauli Jokinen                                     
+ 7391,144132,PUNKAHARJU LAUKANSAARI                  ,FI,+61:48:06,+029:19:06,  78, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7392,143306,PARIKKALA KOITSANLAHTI                  ,FI,+61:26:40,+029:27:50,  74, RR3,20160510,20211031,    9,Pauli Jokinen                                     
+ 7392,144137,PARIKKALA KK                            ,FI,+61:33:00,+029:30:00,  73, RR3,19650101,19810526,    9,Pauli Jokinen                                     
+ 7392,902734,PARIKKALA KOITSANLAHTI                  ,FI,+61:27:00,+029:28:00,  75, RR8,20160504,20200227,     ,                    
+ 7396,144157,ENONKOSKI SIMANALA                      ,FI,+62:03:19,+029:02:50,  95, RR3,19610101,20211031,    9,Pauli Jokinen                                     
+ 7398,144167,SAVONLINNA SAVONRANTA                   ,FI,+62:10:07,+029:16:49,  90, RR3,19700301,20211028,    9,Pauli Jokinen                                     
+ 7399,144172,RAAKKYLA KK                             ,FI,+62:18:40,+029:37:58,  90, RR3,19710301,20211030,    9,Pauli Jokinen                                     
+  716,144202,TOHMAJARVI KEMIE                        ,FI,+62:14:06,+030:20:59,  90, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7405,144207,JOENSUU HUHTILAMPI                      ,FI,+62:26:10,+030:24:41, 115, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7406,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7406,144227,VAASA HIETALAHTI                        ,FI,+63:05:00,+021:39:00,   9, RR3,19590101,19790827,    9,Pauli Jokinen                                     
+ 7406,144272,MUSTASAARI RIIMALA                      ,FI,+62:58:13,+021:46:48,  15, RR3,19690101,20211031,    9,Pauli Jokinen                                     
+ 7406,144277,MUSTASAARI SULVA FORSBACKEN             ,FI,+62:58:00,+021:41:00,  13, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7406,144317,VAASA KLEMETTILA                        ,FI,+63:05:55,+021:38:36,   7, RR3,20111231,20211031,    9,Pauli Jokinen                                     
+ 7409,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7409,144227,VAASA HIETALAHTI                        ,FI,+63:05:00,+021:39:00,   9, RR3,19590101,19790827,    9,Pauli Jokinen                                     
+ 7409,144302,VAASA PALOSAARI                         ,FI,+63:06:00,+021:36:00,   4, RR3,19950703,20010331,    9,Pauli Jokinen                                     
+ 7409,144312,VAASA KESKUSTA KOULUKATU                ,FI,+63:05:49,+021:36:33,  15, RR3,20050801,20111101,    9,Pauli Jokinen                                     
+ 7409,144317,VAASA KLEMETTILA                        ,FI,+63:05:55,+021:38:36,   7, RR3,20111231,20211031,    9,Pauli Jokinen                                     
+ 7409,902711,VAASA KESKUSTA                          ,FI,+63:06:00,+021:37:00,  13, RR8,20080126,20111101,     ,                    
+ 7409,902911,VAASA AIRPORT                           ,FI,+63:03:00,+021:46:00,   8, RR8,19820101,20050531,     ,                    
+ 7411,144237,NARPIO YLIMARKKU                        ,FI,+62:37:00,+021:28:00,  20, RR3,19680101,19930324,    9,Pauli Jokinen                                     
+ 7411,144242,NARPIO ALAMARKKU                        ,FI,+62:39:00,+021:33:00,  35, RR3,19680101,20210831,    9,Pauli Jokinen                                     
+ 7411,144247,NARPIO YLIMARKKU BODBACKA               ,FI,+62:41:00,+021:21:00,  10, RR3,19650901,20040630,    9,Pauli Jokinen                                     
+ 7412,144242,NARPIO ALAMARKKU                        ,FI,+62:39:00,+021:33:00,  35, RR3,19680101,20210831,    9,Pauli Jokinen                                     
+ 7412,144252,NARPIO PIRTTIKYLA                       ,FI,+62:44:00,+021:39:35,  35, RR3,19650101,20071231,    9,Pauli Jokinen                                     
+ 7413,144247,NARPIO YLIMARKKU BODBACKA               ,FI,+62:41:00,+021:21:00,  10, RR3,19650901,20040630,    9,Pauli Jokinen                                     
+ 7414,144242,NARPIO ALAMARKKU                        ,FI,+62:39:00,+021:33:00,  35, RR3,19680101,20210831,    9,Pauli Jokinen                                     
+ 7414,144252,NARPIO PIRTTIKYLA                       ,FI,+62:44:00,+021:39:35,  35, RR3,19650101,20071231,    9,Pauli Jokinen                                     
+ 7415,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7415,144257,MUSTASAARI SULVA LANGMOSSEN             ,FI,+62:57:00,+021:42:00,   8, RR3,19650901,20011231,    9,Pauli Jokinen                                     
+ 7415,144272,MUSTASAARI RIIMALA                      ,FI,+62:58:13,+021:46:48,  15, RR3,19690101,20211031,    9,Pauli Jokinen                                     
+ 7415,144277,MUSTASAARI SULVA FORSBACKEN             ,FI,+62:58:00,+021:41:00,  13, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7416,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7416,144257,MUSTASAARI SULVA LANGMOSSEN             ,FI,+62:57:00,+021:42:00,   8, RR3,19650901,20011231,    9,Pauli Jokinen                                     
+ 7416,144262,MAALAHTI OVER-MALAX                     ,FI,+62:57:00,+021:38:00,  12, RR3,19690126,20010930,    9,Pauli Jokinen                                     
+ 7416,144272,MUSTASAARI RIIMALA                      ,FI,+62:58:13,+021:46:48,  15, RR3,19690101,20211031,    9,Pauli Jokinen                                     
+ 7416,144277,MUSTASAARI SULVA FORSBACKEN             ,FI,+62:58:00,+021:41:00,  13, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7418,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7418,144257,MUSTASAARI SULVA LANGMOSSEN             ,FI,+62:57:00,+021:42:00,   8, RR3,19650901,20011231,    9,Pauli Jokinen                                     
+ 7418,144272,MUSTASAARI RIIMALA                      ,FI,+62:58:13,+021:46:48,  15, RR3,19690101,20211031,    9,Pauli Jokinen                                     
+ 7418,144277,MUSTASAARI SULVA FORSBACKEN             ,FI,+62:58:00,+021:41:00,  13, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7419,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7419,144257,MUSTASAARI SULVA LANGMOSSEN             ,FI,+62:57:00,+021:42:00,   8, RR3,19650901,20011231,    9,Pauli Jokinen                                     
+ 7419,144272,MUSTASAARI RIIMALA                      ,FI,+62:58:13,+021:46:48,  15, RR3,19690101,20211031,    9,Pauli Jokinen                                     
+ 7419,144277,MUSTASAARI SULVA FORSBACKEN             ,FI,+62:58:00,+021:41:00,  13, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7424,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7424,144227,VAASA HIETALAHTI                        ,FI,+63:05:00,+021:39:00,   9, RR3,19590101,19790827,    9,Pauli Jokinen                                     
+ 7424,144302,VAASA PALOSAARI                         ,FI,+63:06:00,+021:36:00,   4, RR3,19950703,20010331,    9,Pauli Jokinen                                     
+ 7424,144312,VAASA KESKUSTA KOULUKATU                ,FI,+63:05:49,+021:36:33,  15, RR3,20050801,20111101,    9,Pauli Jokinen                                     
+ 7424,144317,VAASA KLEMETTILA                        ,FI,+63:05:55,+021:38:36,   7, RR3,20111231,20211031,    9,Pauli Jokinen                                     
+ 7424,902711,VAASA KESKUSTA                          ,FI,+63:06:00,+021:37:00,  13, RR8,20080126,20111101,     ,                    
+ 7424,902911,VAASA AIRPORT                           ,FI,+63:03:00,+021:46:00,   8, RR8,19820101,20050531,     ,                    
+ 7426,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7426,144227,VAASA HIETALAHTI                        ,FI,+63:05:00,+021:39:00,   9, RR3,19590101,19790827,    9,Pauli Jokinen                                     
+ 7426,144302,VAASA PALOSAARI                         ,FI,+63:06:00,+021:36:00,   4, RR3,19950703,20010331,    9,Pauli Jokinen                                     
+ 7426,144312,VAASA KESKUSTA KOULUKATU                ,FI,+63:05:49,+021:36:33,  15, RR3,20050801,20111101,    9,Pauli Jokinen                                     
+ 7426,144317,VAASA KLEMETTILA                        ,FI,+63:05:55,+021:38:36,   7, RR3,20111231,20211031,    9,Pauli Jokinen                                     
+ 7426,902711,VAASA KESKUSTA                          ,FI,+63:06:00,+021:37:00,  13, RR8,20080126,20111101,     ,                    
+ 7426,902911,VAASA AIRPORT                           ,FI,+63:03:00,+021:46:00,   8, RR8,19820101,20050531,     ,                    
+ 7427,144212,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6, RR3,19590101,20010330,    9,Pauli Jokinen                                     
+ 7427,144227,VAASA HIETALAHTI                        ,FI,+63:05:00,+021:39:00,   9, RR3,19590101,19790827,    9,Pauli Jokinen                                     
+ 7427,144302,VAASA PALOSAARI                         ,FI,+63:06:00,+021:36:00,   4, RR3,19950703,20010331,    9,Pauli Jokinen                                     
+ 7427,144312,VAASA KESKUSTA KOULUKATU                ,FI,+63:05:49,+021:36:33,  15, RR3,20050801,20111101,    9,Pauli Jokinen                                     
+ 7427,144317,VAASA KLEMETTILA                        ,FI,+63:05:55,+021:38:36,   7, RR3,20111231,20211031,    9,Pauli Jokinen                                     
+ 7427,902711,VAASA KESKUSTA                          ,FI,+63:06:00,+021:37:00,  13, RR8,20080126,20111101,     ,                    
+ 7427,902911,VAASA AIRPORT                           ,FI,+63:03:00,+021:46:00,   8, RR8,19820101,20050531,     ,                    
+ 7428,144322,SEINAJOKI PELMAA                        ,FI,+62:56:12,+022:29:28,  26, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7433,144347,ILMAJOKI HIIRIPELTO                     ,FI,+62:50:00,+022:39:00,  45, RR3,19680101,20081231,    9,Pauli Jokinen                                     
+ 7433,144352,YLISTARO JAASKANJOKI                    ,FI,+62:53:00,+022:32:00,  35, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7434,144322,SEINAJOKI PELMAA                        ,FI,+62:56:12,+022:29:28,  26, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7434,144352,YLISTARO JAASKANJOKI                    ,FI,+62:53:00,+022:32:00,  35, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7435,144322,SEINAJOKI PELMAA                        ,FI,+62:56:12,+022:29:28,  26, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7435,144352,YLISTARO JAASKANJOKI                    ,FI,+62:53:00,+022:32:00,  35, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7435,144357,YLISTARO ASEMANSEUTU                    ,FI,+62:54:00,+022:33:00,  40, RR3,19680101,20081231,    9,Pauli Jokinen                                     
+ 7437,144322,SEINAJOKI PELMAA                        ,FI,+62:56:12,+022:29:28,  26, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7437,144352,YLISTARO JAASKANJOKI                    ,FI,+62:53:00,+022:32:00,  35, RR3,19650101,20081231,    9,Pauli Jokinen                                     
+ 7437,144357,YLISTARO ASEMANSEUTU                    ,FI,+62:54:00,+022:33:00,  40, RR3,19680101,20081231,    9,Pauli Jokinen                                     
+ 7437,144367,YLISTARO KAINASTO                       ,FI,+62:55:00,+022:37:00,  35, RR3,19660101,20071231,    9,Pauli Jokinen                                     
+ 7438,144322,SEINAJOKI PELMAA                        ,FI,+62:56:12,+022:29:28,  26, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7438,144372,YLISTARO PELMA                          ,FI,+62:56:00,+022:30:00,  28, RR3,19670901,19790829,    9,Pauli Jokinen                                     
+ 7444,143456,JALASJARVI HIRVIJARVI                   ,FI,+62:28:22,+022:54:49, 100, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7444,144402,PERASEINAJOKI HAUKINEVA                 ,FI,+62:33:00,+022:57:00, 102, RR3,19750810,19930930,    9,Pauli Jokinen                                     
+ 7445,144407,KAUHAVA LENTOKENTTA                     ,FI,+63:07:13,+023:02:50,  42, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7445,144477,KAUHAVA KK UUNIMAANTIE                  ,FI,+63:07:12,+023:02:50,  40, RR3,20081114,20150108,    9,Pauli Jokinen                                     
+ 7447,143546,ALAVUS SULKAVANKYLA                     ,FI,+62:26:57,+023:33:30, 120, RR3,19660101,20211031,    9,Pauli Jokinen                                     
+ 7447,143551,ALAVUS KATTELUS                         ,FI,+62:29:00,+023:46:00, 130, RR3,19630101,20051031,    9,Pauli Jokinen                                     
+ 7447,144417,ALAVUS POLLARI                          ,FI,+62:31:00,+023:42:00, 130, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7447,144422,ALAVUS SALONKYLA                        ,FI,+62:32:00,+023:46:00, 145, RR3,19650801,20060228,    9,Pauli Jokinen                                     
+ 7447,144427,ALAVUS AUTIONMAKI                       ,FI,+62:33:00,+023:39:00, 115, RR3,19610101,20090106,    9,Pauli Jokinen                                     
+ 7449,143546,ALAVUS SULKAVANKYLA                     ,FI,+62:26:57,+023:33:30, 120, RR3,19660101,20211031,    9,Pauli Jokinen                                     
+ 7449,144417,ALAVUS POLLARI                          ,FI,+62:31:00,+023:42:00, 130, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7449,144427,ALAVUS AUTIONMAKI                       ,FI,+62:33:00,+023:39:00, 115, RR3,19610101,20090106,    9,Pauli Jokinen                                     
+ 7459,144407,KAUHAVA LENTOKENTTA                     ,FI,+63:07:13,+023:02:50,  42, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7459,144477,KAUHAVA KK UUNIMAANTIE                  ,FI,+63:07:12,+023:02:50,  40, RR3,20081114,20150108,    9,Pauli Jokinen                                     
+  718,144482,AHTARI MYLLYMAKI                        ,FI,+62:32:05,+024:13:15, 157, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7465,144517,HALSUA KANALA KOSKI                     ,FI,+63:26:00,+024:30:00, 160, RR3,19650101,20080229,    9,Pauli Jokinen                                     
+ 7465,144522,HALSUA KANALA PUROLA                    ,FI,+63:26:43,+024:26:52, 153, RR3,19670101,20211031,    9,Pauli Jokinen                                     
+ 7466,144517,HALSUA KANALA KOSKI                     ,FI,+63:26:00,+024:30:00, 160, RR3,19650101,20080229,    9,Pauli Jokinen                                     
+ 7466,144522,HALSUA KANALA PUROLA                    ,FI,+63:26:43,+024:26:52, 153, RR3,19670101,20211031,    9,Pauli Jokinen                                     
+ 7473,144557,VIITASAARI HAAPANIEMI                   ,FI,+63:04:55,+025:51:43, 132, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7473,144592,VIITASAARI KK MAKIPIRTTI                ,FI,+63:05:00,+025:51:00, 110, RR3,19650101,19811029,    9,Pauli Jokinen                                     
+ 7473,144597,VIITASAARI KOLIMA KARNA                 ,FI,+63:10:02,+025:56:22, 115, RR3,19650101,20201231,    9,Pauli Jokinen                                     
+ 7477,144577,AANEKOSKI KALANIEMI                     ,FI,+62:52:30,+025:51:55, 107, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7480,144557,VIITASAARI HAAPANIEMI                   ,FI,+63:04:55,+025:51:43, 132, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7480,144592,VIITASAARI KK MAKIPIRTTI                ,FI,+63:05:00,+025:51:00, 110, RR3,19650101,19811029,    9,Pauli Jokinen                                     
+ 7480,144597,VIITASAARI KOLIMA KARNA                 ,FI,+63:10:02,+025:56:22, 115, RR3,19650101,20201231,    9,Pauli Jokinen                                     
+ 7481,144557,VIITASAARI HAAPANIEMI                   ,FI,+63:04:55,+025:51:43, 132, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7481,144597,VIITASAARI KOLIMA KARNA                 ,FI,+63:10:02,+025:56:22, 115, RR3,19650101,20201231,    9,Pauli Jokinen                                     
+ 7489,144637,VESANTO SONKARI                         ,FI,+62:55:17,+026:25:41, 120, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7489,902710,VESANTO KK                              ,FI,+62:57:00,+026:24:00, 127, RR8,20090918,20200227,     ,                    
+ 7496,144672,PIELAVESI VENETMAKI-1                   ,FI,+63:19:00,+026:58:00, 180, RR3,19650101,19770930,    9,Pauli Jokinen                                     
+ 7496,144697,PIELAVESI VENETMAKI                     ,FI,+63:18:53,+026:58:57, 189, RR3,19870101,20211031,    9,Pauli Jokinen                                     
+ 7501,144672,PIELAVESI VENETMAKI-1                   ,FI,+63:19:00,+026:58:00, 180, RR3,19650101,19770930,    9,Pauli Jokinen                                     
+ 7501,144697,PIELAVESI VENETMAKI                     ,FI,+63:18:53,+026:58:57, 189, RR3,19870101,20211031,    9,Pauli Jokinen                                     
+  722,144712,MAANINKA HALOLA                         ,FI,+63:08:36,+027:18:58,  90, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7505,144722,SUONENJOKI KPLA                         ,FI,+62:36:00,+027:12:00, 120, RR3,19650101,19750927,    9,Pauli Jokinen                                     
+ 7505,144732,SUONENJOKI IISVESI-1                    ,FI,+62:40:00,+027:01:00, 100, RR3,19700101,19771025,    9,Pauli Jokinen                                     
+ 7505,144742,SUONENJOKI IISVESI                      ,FI,+62:39:51,+027:03:01, 103, RR3,19780301,20211029,    9,Pauli Jokinen                                     
+ 7507,144722,SUONENJOKI KPLA                         ,FI,+62:36:00,+027:12:00, 120, RR3,19650101,19750927,    9,Pauli Jokinen                                     
+ 7507,144732,SUONENJOKI IISVESI-1                    ,FI,+62:40:00,+027:01:00, 100, RR3,19700101,19771025,    9,Pauli Jokinen                                     
+ 7507,144742,SUONENJOKI IISVESI                      ,FI,+62:39:51,+027:03:01, 103, RR3,19780301,20211029,    9,Pauli Jokinen                                     
+ 7508,144737,LAPINLAHTI LAMMINKAYRA                  ,FI,+63:22:38,+027:22:24,  89, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7509,144722,SUONENJOKI KPLA                         ,FI,+62:36:00,+027:12:00, 120, RR3,19650101,19750927,    9,Pauli Jokinen                                     
+ 7509,144732,SUONENJOKI IISVESI-1                    ,FI,+62:40:00,+027:01:00, 100, RR3,19700101,19771025,    9,Pauli Jokinen                                     
+ 7509,144742,SUONENJOKI IISVESI                      ,FI,+62:39:51,+027:03:01, 103, RR3,19780301,20211029,    9,Pauli Jokinen                                     
+ 7518,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7518,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7518,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7518,144822,OUTOKUMPU MALJASALMI VOUTILAINEN        ,FI,+62:42:00,+028:54:00, 124, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7518,144897,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100, RR3,19650101,20111231,    9,Pauli Jokinen                                     
+ 7519,144797,HEINAVESI PALOKKI                       ,FI,+62:34:13,+028:35:45, 100, RR3,19640101,20211025,    9,Pauli Jokinen                                     
+ 7520,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7520,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7520,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7521,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7521,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7521,144807,LIPERI AHONKYLA LEPPILAMPI              ,FI,+62:38:00,+028:59:00, 110, RR3,19650801,19751001,    9,Pauli Jokinen                                     
+ 7521,144812,OUTOKUMPU LUKANVAARA                    ,FI,+62:39:00,+028:59:00, 122, RR3,19670901,19970930,    9,Pauli Jokinen                                     
+ 7521,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7522,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7522,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7522,144807,LIPERI AHONKYLA LEPPILAMPI              ,FI,+62:38:00,+028:59:00, 110, RR3,19650801,19751001,    9,Pauli Jokinen                                     
+ 7522,144812,OUTOKUMPU LUKANVAARA                    ,FI,+62:39:00,+028:59:00, 122, RR3,19670901,19970930,    9,Pauli Jokinen                                     
+ 7522,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7522,144897,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100, RR3,19650101,20111231,    9,Pauli Jokinen                                     
+ 7523,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7523,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7523,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7523,144822,OUTOKUMPU MALJASALMI VOUTILAINEN        ,FI,+62:42:00,+028:54:00, 124, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7523,144897,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100, RR3,19650101,20111231,    9,Pauli Jokinen                                     
+ 7524,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7524,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7524,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7524,144822,OUTOKUMPU MALJASALMI VOUTILAINEN        ,FI,+62:42:00,+028:54:00, 124, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7524,144897,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100, RR3,19650101,20111231,    9,Pauli Jokinen                                     
+ 7525,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7525,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7525,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7525,144822,OUTOKUMPU MALJASALMI VOUTILAINEN        ,FI,+62:42:00,+028:54:00, 124, RR3,19670901,20081231,    9,Pauli Jokinen                                     
+ 7525,144827,OUTOKUMPU MALJASALMI SARVIJARVI         ,FI,+62:42:00,+028:53:00, 127, RR3,19680101,20011231,    9,Pauli Jokinen                                     
+ 7528,144842,RAUTAVAARA ALA-LUOSTA                   ,FI,+63:16:16,+028:28:24, 115, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7532,144862,RAUTAVAARA YLA-LUOSTA                   ,FI,+63:22:40,+028:39:54, 166, RR3,19760601,20211031,    9,Pauli Jokinen                                     
+ 7536,144882,JUUKA NIEMELA                           ,FI,+63:13:54,+029:14:16, 116, RR3,19620101,20211031,    9,Pauli Jokinen                                     
+ 7537,144887,JOENSUU PYHASELKA                       ,FI,+62:31:00,+029:48:39,  85, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7537,144957,JOENSUU LINNUNLAHTI                     ,FI,+62:36:05,+029:43:36,  81, RR3,20081114,20211031,    9,Pauli Jokinen                                     
+ 7539,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7539,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7539,144812,OUTOKUMPU LUKANVAARA                    ,FI,+62:39:00,+028:59:00, 122, RR3,19670901,19970930,    9,Pauli Jokinen                                     
+ 7539,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7539,144897,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100, RR3,19650101,20111231,    9,Pauli Jokinen                                     
+ 7539,144932,LIPERI AHONKYLA KULMALA                 ,FI,+62:40:00,+029:06:00,  95, RR3,19650101,19731130,    9,Pauli Jokinen                                     
+ 7543,144917,LIEKSA KOLI                             ,FI,+63:06:30,+029:45:42, 165, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7546,144792,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116, RR3,19590101,19790529,    9,Pauli Jokinen                                     
+ 7546,144802,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7546,144817,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114, RR3,19630401,19980930,    9,Pauli Jokinen                                     
+ 7546,144897,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100, RR3,19650101,20111231,    9,Pauli Jokinen                                     
+ 7546,144932,LIPERI AHONKYLA KULMALA                 ,FI,+62:40:00,+029:06:00,  95, RR3,19650101,19731130,    9,Pauli Jokinen                                     
+ 7551,144887,JOENSUU PYHASELKA                       ,FI,+62:31:00,+029:48:39,  85, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7551,144957,JOENSUU LINNUNLAHTI                     ,FI,+62:36:05,+029:43:36,  81, RR3,20081114,20211031,    9,Pauli Jokinen                                     
+ 7554,144972,ILOMANTSI KK                            ,FI,+62:40:00,+030:56:00, 162, RR3,19590101,20000531,    9,Pauli Jokinen                                     
+ 7554,145052,ILOMANTSI MEKRIJARVI                    ,FI,+62:46:09,+030:58:40, 155, RR3,19990918,20211031,    9,Pauli Jokinen                                     
+ 7554,902939,ILOMANTSI MEKRIJARVI                    ,FI,+62:46:00,+030:58:00, 157, RR8,20021130,20200227,     ,                    
+ 7555,144977,PIELISJARVI                             ,FI,+63:18:00,+030:01:00, 106, RR3,19590103,19701231,    9,Pauli Jokinen                                     
+ 7555,144982,LIEKSA LAMPELA                          ,FI,+63:19:15,+030:02:57,  98, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7555,902796,LIEKSA LAMPELA                          ,FI,+63:19:00,+030:03:00,  98, RR8,20080909,20200227,     ,                    
+ 7556,144977,PIELISJARVI                             ,FI,+63:18:00,+030:01:00, 106, RR3,19590103,19701231,    9,Pauli Jokinen                                     
+ 7556,144982,LIEKSA LAMPELA                          ,FI,+63:19:15,+030:02:57,  98, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7556,902796,LIEKSA LAMPELA                          ,FI,+63:19:00,+030:03:00,  98, RR8,20080909,20200227,     ,                    
+ 7561,145007,ILOMANTSI NAARVA                        ,FI,+63:01:56,+031:03:44, 231, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7561,145042,ILOMANTSI POTSONVAARA                   ,FI,+63:08:31,+031:02:51, 235, RR3,19810901,20211031,    9,Pauli Jokinen                                     
+ 7561,902766,ILOMANTSI POTSONVAARA                   ,FI,+63:08:30,+031:02:40, 237, RR8,20121031,20191008,     ,                    
+ 7568,145007,ILOMANTSI NAARVA                        ,FI,+63:01:56,+031:03:44, 231, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7568,145042,ILOMANTSI POTSONVAARA                   ,FI,+63:08:31,+031:02:51, 235, RR3,19810901,20211031,    9,Pauli Jokinen                                     
+ 7568,902766,ILOMANTSI POTSONVAARA                   ,FI,+63:08:30,+031:02:40, 237, RR8,20121031,20191008,     ,                    
+ 7570,144972,ILOMANTSI KK                            ,FI,+62:40:00,+030:56:00, 162, RR3,19590101,20000531,    9,Pauli Jokinen                                     
+ 7570,145052,ILOMANTSI MEKRIJARVI                    ,FI,+62:46:09,+030:58:40, 155, RR3,19990918,20211031,    9,Pauli Jokinen                                     
+ 7570,902939,ILOMANTSI MEKRIJARVI                    ,FI,+62:46:00,+030:58:00, 157, RR8,20021130,20200227,     ,                    
+ 7572,145062,TANKAR/OJA                              ,FI,+63:57:00,+022:51:00,   8, RR3,19590102,19770430,    9,Pauli Jokinen                                     
+ 7572,145087,KOKKOLA OJA MARASKAR                    ,FI,+63:53:00,+022:56:00,  10, RR3,19910101,19990228,    9,Pauli Jokinen                                     
+ 7577,145062,TANKAR/OJA                              ,FI,+63:57:00,+022:51:00,   8, RR3,19590102,19770430,    9,Pauli Jokinen                                     
+ 7577,145087,KOKKOLA OJA MARASKAR                    ,FI,+63:53:00,+022:56:00,  10, RR3,19910101,19990228,    9,Pauli Jokinen                                     
+ 7577,145157,KOKKOLA HOLLIHAKA                       ,FI,+63:50:39,+023:07:41,   6, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7577,902721,KOKKOLA TANKAR                          ,FI,+63:57:00,+022:51:00,   6, RR8,20191004,20191103,     ,                    
+ 7582,145112,KAUSTINEN TASTULA                       ,FI,+63:35:36,+023:43:13,  70, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7584,145122,KOKKOLA KORPLAX                         ,FI,+63:52:59,+023:14:18,   9, RR3,19680101,20141231,    9,Pauli Jokinen                                     
+ 7584,145137,KALVIA RUOTSALO                         ,FI,+63:55:00,+023:24:00,   5, RR3,19660101,20081231,    9,Pauli Jokinen                                     
+ 7584,145157,KOKKOLA HOLLIHAKA                       ,FI,+63:50:39,+023:07:41,   6, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7587,145122,KOKKOLA KORPLAX                         ,FI,+63:52:59,+023:14:18,   9, RR3,19680101,20141231,    9,Pauli Jokinen                                     
+ 7587,145127,KOKKOLA KALVIA                          ,FI,+63:52:00,+023:26:00,  10, RR3,19680101,20081231,    9,Pauli Jokinen                                     
+ 7587,145137,KALVIA RUOTSALO                         ,FI,+63:55:00,+023:24:00,   5, RR3,19660101,20081231,    9,Pauli Jokinen                                     
+ 7591,145122,KOKKOLA KORPLAX                         ,FI,+63:52:59,+023:14:18,   9, RR3,19680101,20141231,    9,Pauli Jokinen                                     
+ 7591,145157,KOKKOLA HOLLIHAKA                       ,FI,+63:50:39,+023:07:41,   6, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7594,145177,TOHOLAMPI ORAVALA                       ,FI,+63:45:48,+024:17:04,  90, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7594,145222,TOHOLAMPI LAITALA                       ,FI,+63:49:16,+024:10:02,  83, RR3,20180915,20211031,    9,Pauli Jokinen                                     
+ 7595,145182,KANNUS YLIKANNUS                        ,FI,+63:52:00,+024:03:00,  70, RR3,19650101,19901222,    9,Pauli Jokinen                                     
+ 7595,145222,TOHOLAMPI LAITALA                       ,FI,+63:49:16,+024:10:02,  83, RR3,20180915,20211031,    9,Pauli Jokinen                                     
+ 7595,902737,TOHOLAMPI LAITALA                       ,FI,+63:49:00,+024:10:00,  85, RR8,20180915,20200227,     ,                    
+ 7597,145192,KALAJOKI KAANNANKYLA                    ,FI,+64:12:00,+024:09:00,  33, RR3,19650901,20011231,    9,Pauli Jokinen                                     
+ 7597,145197,KALAJOKI PITKASENKYLA                   ,FI,+64:13:51,+024:01:10,  20, RR3,19690101,20211029,    9,Pauli Jokinen                                     
+ 7597,145207,KALAJOKI METSAKYLA                      ,FI,+64:16:24,+024:12:40,  40, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7598,145192,KALAJOKI KAANNANKYLA                    ,FI,+64:12:00,+024:09:00,  33, RR3,19650901,20011231,    9,Pauli Jokinen                                     
+ 7598,145197,KALAJOKI PITKASENKYLA                   ,FI,+64:13:51,+024:01:10,  20, RR3,19690101,20211029,    9,Pauli Jokinen                                     
+ 7598,145207,KALAJOKI METSAKYLA                      ,FI,+64:16:24,+024:12:40,  40, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7600,145197,KALAJOKI PITKASENKYLA                   ,FI,+64:13:51,+024:01:10,  20, RR3,19690101,20211029,    9,Pauli Jokinen                                     
+ 7600,145207,KALAJOKI METSAKYLA                      ,FI,+64:16:24,+024:12:40,  40, RR3,19650101,20211030,    9,Pauli Jokinen                                     
+ 7603,145177,TOHOLAMPI ORAVALA                       ,FI,+63:45:48,+024:17:04,  90, RR3,19650101,20211027,    9,Pauli Jokinen                                     
+ 7603,145182,KANNUS YLIKANNUS                        ,FI,+63:52:00,+024:03:00,  70, RR3,19650101,19901222,    9,Pauli Jokinen                                     
+ 7603,145222,TOHOLAMPI LAITALA                       ,FI,+63:49:16,+024:10:02,  83, RR3,20180915,20211031,    9,Pauli Jokinen                                     
+ 7607,145242,HAAPAVESI MUSTIKKAMAKI                  ,FI,+64:08:30,+025:25:42, 112, RR3,19590101,20211028,    9,Pauli Jokinen                                     
+ 7610,145257,HAAPAJARVI VALIOJA NOKKOUS              ,FI,+63:45:00,+025:28:00, 130, RR3,19670801,20081231,    9,Pauli Jokinen                                     
+ 7610,145262,HAAPAJARVI UUSIMAA                      ,FI,+63:47:00,+025:22:00, 140, RR3,19650807,19821231,    9,Pauli Jokinen                                     
+ 7610,145292,PYHAJARVI OJAKYLA                       ,FI,+63:44:09,+025:42:33, 152, RR3,20140918,20211031,    9,Pauli Jokinen                                     
+ 7610,902738,PYHAJARVI OL OJAKYLA                    ,FI,+63:44:00,+025:43:00, 153, RR8,20130410,20200227,     ,                    
+ 7614,145242,HAAPAVESI MUSTIKKAMAKI                  ,FI,+64:08:30,+025:25:42, 112, RR3,19590101,20211028,    9,Pauli Jokinen                                     
+ 7614,145277,HAAPAVESI KK                            ,FI,+64:08:00,+025:23:00, 100, RR3,19630101,19961031,    9,Pauli Jokinen                                     
+ 7617,145257,HAAPAJARVI VALIOJA NOKKOUS              ,FI,+63:45:00,+025:28:00, 130, RR3,19670801,20081231,    9,Pauli Jokinen                                     
+ 7617,145292,PYHAJARVI OJAKYLA                       ,FI,+63:44:09,+025:42:33, 152, RR3,20140918,20211031,    9,Pauli Jokinen                                     
+ 7617,902738,PYHAJARVI OL OJAKYLA                    ,FI,+63:44:00,+025:43:00, 153, RR8,20130410,20200227,     ,                    
+ 7623,145322,KIURUVESI KORPIJOKI                     ,FI,+63:43:42,+026:22:24, 110, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7624,145322,KIURUVESI KORPIJOKI                     ,FI,+63:43:42,+026:22:24, 110, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7624,145327,PYHAJARVI OL LIITTOPERA                 ,FI,+63:45:00,+026:13:00, 130, RR3,19650101,20010930,    9,Pauli Jokinen                                     
+ 7624,145367,PYHAJARVI OL RAMILA KUUSENMAKI          ,FI,+63:42:00,+026:13:00, 150, RR3,19710901,20081231,    9,Pauli Jokinen                                     
+ 7628,145347,SIIKALATVA KESTILA                      ,FI,+64:21:19,+026:18:09,  91, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7632,145327,PYHAJARVI OL LIITTOPERA                 ,FI,+63:45:00,+026:13:00, 130, RR3,19650101,20010930,    9,Pauli Jokinen                                     
+ 7632,145332,PYHAJARVI OL LOHVANPERA                 ,FI,+63:46:00,+026:05:00, 160, RR3,19650801,20081231,    9,Pauli Jokinen                                     
+ 7632,145367,PYHAJARVI OL RAMILA KUUSENMAKI          ,FI,+63:42:00,+026:13:00, 150, RR3,19710901,20081231,    9,Pauli Jokinen                                     
+  725,145377,KAJAANI LENTOASEMA-1                    ,FI,+64:16:53,+027:40:43, 147, RR3,19590101,20000731,    9,Pauli Jokinen                                     
+  725,145442,KAJAANI PALTANIEMI                      ,FI,+64:17:28,+027:38:25, 128, RR3,20000725,20211031,    9,Pauli Jokinen                                     
+  725,145447,KAJAANI PETAISENNISKA                   ,FI,+64:13:00,+027:45:18, 160, RR3,20130627,20211031,    9,Pauli Jokinen                                     
+  725,902897,KAJAANI                                 ,FI,+64:17:00,+027:41:00, 136, RR8,19820101,20191103,     ,                    
+  726,145382,VIEREMA KAARAKKALA                      ,FI,+63:50:27,+027:13:27, 207, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7638,145377,KAJAANI LENTOASEMA-1                    ,FI,+64:16:53,+027:40:43, 147, RR3,19590101,20000731,    9,Pauli Jokinen                                     
+ 7638,145407,KAJAANI KPKI                            ,FI,+64:13:00,+027:43:00, 144, RR3,19650101,19750331,    9,Pauli Jokinen                                     
+ 7638,145442,KAJAANI PALTANIEMI                      ,FI,+64:17:28,+027:38:25, 128, RR3,20000725,20211031,    9,Pauli Jokinen                                     
+ 7638,145447,KAJAANI PETAISENNISKA                   ,FI,+64:13:00,+027:45:18, 160, RR3,20130627,20211031,    9,Pauli Jokinen                                     
+ 7638,902897,KAJAANI                                 ,FI,+64:17:00,+027:41:00, 136, RR8,19820101,20191103,     ,                    
+ 7645,145377,KAJAANI LENTOASEMA-1                    ,FI,+64:16:53,+027:40:43, 147, RR3,19590101,20000731,    9,Pauli Jokinen                                     
+ 7645,145442,KAJAANI PALTANIEMI                      ,FI,+64:17:28,+027:38:25, 128, RR3,20000725,20211031,    9,Pauli Jokinen                                     
+ 7645,902897,KAJAANI                                 ,FI,+64:17:00,+027:41:00, 136, RR8,19820101,20191103,     ,                    
+ 7646,145377,KAJAANI LENTOASEMA-1                    ,FI,+64:16:53,+027:40:43, 147, RR3,19590101,20000731,    9,Pauli Jokinen                                     
+ 7646,145407,KAJAANI KPKI                            ,FI,+64:13:00,+027:43:00, 144, RR3,19650101,19750331,    9,Pauli Jokinen                                     
+ 7646,145447,KAJAANI PETAISENNISKA                   ,FI,+64:13:00,+027:45:18, 160, RR3,20130627,20211031,    9,Pauli Jokinen                                     
+ 7646,902883,KAJAANI PETAISENNISKA                   ,FI,+64:13:00,+027:45:07, 162, RR8,20130822,20200227,     ,                    
+ 7646,902897,KAJAANI                                 ,FI,+64:17:00,+027:41:00, 136, RR8,19820101,20191103,     ,                    
+ 7647,145452,VALTIMO KK                              ,FI,+63:40:01,+028:49:57, 115, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7650,145467,SOTKAMO YLISOTKAMO                      ,FI,+64:08:00,+028:33:00, 152, RR3,19650101,19930930,    9,Pauli Jokinen                                     
+ 7650,145502,SOTKAMO KUOLANIEMI                      ,FI,+64:06:40,+028:20:32, 161, RR3,20090724,20211031,    9,Pauli Jokinen                                     
+ 7650,902739,SOTKAMI KUOLANIEMI                      ,FI,+64:06:59,+028:21:00, 163, RR8,20091013,20200227,     ,                    
+ 7651,145472,SOTKAMO VIHTAMOJARVI                    ,FI,+64:12:00,+028:20:00, 170, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7651,145502,SOTKAMO KUOLANIEMI                      ,FI,+64:06:40,+028:20:32, 161, RR3,20090724,20211031,    9,Pauli Jokinen                                     
+ 7651,902739,SOTKAMI KUOLANIEMI                      ,FI,+64:06:59,+028:21:00, 163, RR8,20091013,20200227,     ,                    
+ 7654,145487,RISTIJARVI MUSTAVAARA                   ,FI,+64:28:09,+028:37:18, 268, RR3,19780301,20211030,    9,Pauli Jokinen                                     
+ 7657,145467,SOTKAMO YLISOTKAMO                      ,FI,+64:08:00,+028:33:00, 152, RR3,19650101,19930930,    9,Pauli Jokinen                                     
+ 7657,145472,SOTKAMO VIHTAMOJARVI                    ,FI,+64:12:00,+028:20:00, 170, RR3,19650101,20080731,    9,Pauli Jokinen                                     
+ 7657,145502,SOTKAMO KUOLANIEMI                      ,FI,+64:06:40,+028:20:32, 161, RR3,20090724,20211031,    9,Pauli Jokinen                                     
+ 7657,902739,SOTKAMI KUOLANIEMI                      ,FI,+64:06:59,+028:21:00, 163, RR8,20091013,20200227,     ,                    
+ 7661,145522,NURMES MUJEJARVI                        ,FI,+63:49:28,+029:27:30, 258, RR3,19660801,20211031,    9,Pauli Jokinen                                     
+ 7672,145577,HAILUOTO OJAKYLA                        ,FI,+65:01:09,+024:43:53,   8, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7681,145622,OULUNSALO OULUN LENTOASEMA              ,FI,+64:55:43,+025:21:03,  14, RR3,19590101,20011231,    9,Pauli Jokinen                                     
+ 7681,145667,OULU / OULUNSALO                        ,FI,+64:56:30,+025:22:30,  12, RR3,20000610,20060530,    9,Pauli Jokinen                                     
+ 7681,145672,OULUNSALO PELLONPAA                     ,FI,+64:56:15,+025:22:32,  10, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7681,902875,OULU                                    ,FI,+64:56:00,+025:22:00,  15, RR8,19820101,20050531,     ,                    
+ 7682,145627,SIIKAJOKI REVONLAHTI                    ,FI,+64:41:01,+025:05:33,  48, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7683,145637,OULU LINNANMAA                          ,FI,+65:02:00,+025:29:00,  13, RR3,19590101,19960930,    9,Pauli Jokinen                                     
+ 7683,145667,OULU / OULUNSALO                        ,FI,+64:56:30,+025:22:30,  12, RR3,20000610,20060530,    9,Pauli Jokinen                                     
+ 7683,145672,OULUNSALO PELLONPAA                     ,FI,+64:56:15,+025:22:32,  10, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7683,902875,OULU                                    ,FI,+64:56:00,+025:22:00,  15, RR8,19820101,20050531,     ,                    
+  727,145622,OULUNSALO OULUN LENTOASEMA              ,FI,+64:55:43,+025:21:03,  14, RR3,19590101,20011231,    9,Pauli Jokinen                                     
+  727,145667,OULU / OULUNSALO                        ,FI,+64:56:30,+025:22:30,  12, RR3,20000610,20060530,    9,Pauli Jokinen                                     
+  727,145672,OULUNSALO PELLONPAA                     ,FI,+64:56:15,+025:22:32,  10, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+  727,902875,OULU                                    ,FI,+64:56:00,+025:22:00,  15, RR8,19820101,20050531,     ,                    
+ 7689,145622,OULUNSALO OULUN LENTOASEMA              ,FI,+64:55:43,+025:21:03,  14, RR3,19590101,20011231,    9,Pauli Jokinen                                     
+ 7689,145667,OULU / OULUNSALO                        ,FI,+64:56:30,+025:22:30,  12, RR3,20000610,20060530,    9,Pauli Jokinen                                     
+ 7689,145672,OULUNSALO PELLONPAA                     ,FI,+64:56:15,+025:22:32,  10, RR3,20080101,20211031,    9,Pauli Jokinen                                     
+ 7689,902875,OULU                                    ,FI,+64:56:00,+025:22:00,  15, RR8,19820101,20050531,     ,                    
+  730,145677,VAALA PELSO                             ,FI,+64:30:04,+026:25:39, 114, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7693,145697,PUDASJARVI MAATALOUSOPPILAITOS          ,FI,+65:23:27,+026:59:24, 114, RR3,19990701,20070123,    9,Pauli Jokinen                                     
+ 7693,145702,PUDASJARVI LENTOKENTTA                  ,FI,+65:23:58,+026:58:01, 121, RR3,19990826,20211031,    9,Pauli Jokinen                                     
+ 7693,145712,PUDASJARVI KURENALUS                    ,FI,+65:22:00,+027:01:00, 116, RR3,19590101,19990831,    9,Pauli Jokinen                                     
+ 7693,902866,PUDASJARVI                              ,FI,+65:24:00,+026:58:00, 123, RR8,19991006,20200227,     ,                    
+ 7694,145697,PUDASJARVI MAATALOUSOPPILAITOS          ,FI,+65:23:27,+026:59:24, 114, RR3,19990701,20070123,    9,Pauli Jokinen                                     
+ 7694,145702,PUDASJARVI LENTOKENTTA                  ,FI,+65:23:58,+026:58:01, 121, RR3,19990826,20211031,    9,Pauli Jokinen                                     
+ 7694,145712,PUDASJARVI KURENALUS                    ,FI,+65:22:00,+027:01:00, 116, RR3,19590101,19990831,    9,Pauli Jokinen                                     
+ 7694,902866,PUDASJARVI                              ,FI,+65:24:00,+026:58:00, 123, RR8,19991006,20200227,     ,                    
+ 7695,145677,VAALA PELSO                             ,FI,+64:30:04,+026:25:39, 114, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7695,145707,VAALA PELSO PUUTTEENPERA                ,FI,+64:30:00,+026:27:00, 115, RR3,20110805,20140320,    9,Pauli Jokinen                                     
+ 7696,145697,PUDASJARVI MAATALOUSOPPILAITOS          ,FI,+65:23:27,+026:59:24, 114, RR3,19990701,20070123,    9,Pauli Jokinen                                     
+ 7696,145702,PUDASJARVI LENTOKENTTA                  ,FI,+65:23:58,+026:58:01, 121, RR3,19990826,20211031,    9,Pauli Jokinen                                     
+ 7696,145712,PUDASJARVI KURENALUS                    ,FI,+65:22:00,+027:01:00, 116, RR3,19590101,19990831,    9,Pauli Jokinen                                     
+ 7696,902866,PUDASJARVI                              ,FI,+65:24:00,+026:58:00, 123, RR8,19991006,20200227,     ,                    
+ 7699,145727,UTAJARVI SARKIJARVI                     ,FI,+64:55:38,+027:11:32, 132, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7702,145742,PUDASJARVI JAURAKKAJARVI                ,FI,+65:09:37,+027:39:01, 135, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7705,145757,SUOMUSSALMI HULKONNIEMI                 ,FI,+64:55:00,+028:57:00, 201, RR3,19700101,19700601,    9,Pauli Jokinen                                     
+ 7705,145782,SUOMUSSALMI AMMANSAARI                  ,FI,+64:53:00,+028:55:00, 191, RR3,19760101,20041130,    9,Pauli Jokinen                                     
+ 7705,145787,SUOMUSSALMI PESIO                       ,FI,+64:55:51,+028:45:01, 223, RR3,19810101,20211031,    9,Pauli Jokinen                                     
+ 7705,145817,SUOMUSSALMI KK                          ,FI,+64:54:09,+029:01:01, 220, RR3,19590101,20001031,    9,Pauli Jokinen                                     
+ 7708,145772,SUOMUSSALMI NALJANKA                    ,FI,+65:14:21,+028:27:07, 251, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7710,145757,SUOMUSSALMI HULKONNIEMI                 ,FI,+64:55:00,+028:57:00, 201, RR3,19700101,19700601,    9,Pauli Jokinen                                     
+ 7710,145782,SUOMUSSALMI AMMANSAARI                  ,FI,+64:53:00,+028:55:00, 191, RR3,19760101,20041130,    9,Pauli Jokinen                                     
+ 7711,145757,SUOMUSSALMI HULKONNIEMI                 ,FI,+64:55:00,+028:57:00, 201, RR3,19700101,19700601,    9,Pauli Jokinen                                     
+ 7711,145787,SUOMUSSALMI PESIO                       ,FI,+64:55:51,+028:45:01, 223, RR3,19810101,20211031,    9,Pauli Jokinen                                     
+ 7717,145817,SUOMUSSALMI KK                          ,FI,+64:54:09,+029:01:01, 220, RR3,19590101,20001031,    9,Pauli Jokinen                                     
+ 7723,140712,OVERTORNEA                              ,SE,+66:22:48,+023:39:00,  70, RR9,19510101,20211031,   56,Marcus Flarup                                     
+ 7723,145847,YLITORNIO PORTIMOJARVI                  ,FI,+66:22:00,+023:55:00,  79, RR3,19590101,20020228,    9,Pauli Jokinen                                     
+ 7723,145867,YLITORNIO TORMASJARVI                   ,FI,+66:23:00,+024:09:00, 100, RR3,19650101,20020331,    9,Pauli Jokinen                                     
+ 7727,145847,YLITORNIO PORTIMOJARVI                  ,FI,+66:22:00,+023:55:00,  79, RR3,19590101,20020228,    9,Pauli Jokinen                                     
+ 7727,145867,YLITORNIO TORMASJARVI                   ,FI,+66:23:00,+024:09:00, 100, RR3,19650101,20020331,    9,Pauli Jokinen                                     
+ 7735,140626,HAPARANDA                               ,SE,+65:49:38,+024:08:38,   5, RR9,18590716,20211031,   56,Marcus Flarup                                     
+ 7735,145907,TORNIO TORPPI                           ,FI,+65:50:48,+024:10:39,   8, RR3,20080730,20211031,    9,Pauli Jokinen                                     
+ 7743,145947,RANUA KK                                ,FI,+65:55:57,+026:30:59, 154, RR3,19630101,20080731,    9,Pauli Jokinen                                     
+ 7743,145997,RANUA LENTOKENTTA                       ,FI,+65:58:35,+026:22:17, 161, RR3,20080912,20211031,    9,Pauli Jokinen                                     
+ 7753,145947,RANUA KK                                ,FI,+65:55:57,+026:30:59, 154, RR3,19630101,20080731,    9,Pauli Jokinen                                     
+ 7753,145997,RANUA LENTOKENTTA                       ,FI,+65:58:35,+026:22:17, 161, RR3,20080912,20211031,    9,Pauli Jokinen                                     
+ 7757,146017,PUDASJARVI SARAKYLA                     ,FI,+65:47:22,+027:20:12, 162, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+  731,146027,TAIVALKOSKI KK                          ,FI,+65:35:00,+028:15:00, 209, RR3,19590101,20050821,    9,Pauli Jokinen                                     
+  731,146057,TAIVALKOSKI KK KAUPPATIE                ,FI,+65:34:26,+028:14:53, 203, RR3,20020919,20211031,    9,Pauli Jokinen                                     
+ 7760,146037,POSIO RAISTAKKA                         ,FI,+65:58:42,+028:10:29, 262, RR3,19680701,20211031,    9,Pauli Jokinen                                     
+ 7761,146042,TAIVALKOSKI INKEE                       ,FI,+65:44:03,+028:33:52, 248, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7764,146027,TAIVALKOSKI KK                          ,FI,+65:35:00,+028:15:00, 209, RR3,19590101,20050821,    9,Pauli Jokinen                                     
+ 7764,146057,TAIVALKOSKI KK KAUPPATIE                ,FI,+65:34:26,+028:14:53, 203, RR3,20020919,20211031,    9,Pauli Jokinen                                     
+ 7765,146067,KUUSAMO KIUTAKONGAS                     ,FI,+66:22:06,+029:19:09, 160, RR3,19660801,20211031,    9,Pauli Jokinen                                     
+ 7771,146097,KUUSAMO KURVINEN                        ,FI,+65:35:00,+029:31:00, 235, RR3,19700101,19980930,    9,Pauli Jokinen                                     
+ 7771,146117,KUUSAMO TEERIRANTA                      ,FI,+65:31:11,+029:31:27, 225, RR3,19981001,20211031,    9,Pauli Jokinen                                     
+ 7775,146097,KUUSAMO KURVINEN                        ,FI,+65:35:00,+029:31:00, 235, RR3,19700101,19980930,    9,Pauli Jokinen                                     
+ 7775,146117,KUUSAMO TEERIRANTA                      ,FI,+65:31:11,+029:31:27, 225, RR3,19981001,20211031,    9,Pauli Jokinen                                     
+ 7780,140754,SVANSTEIN                               ,SE,+66:39:00,+023:51:36,  80, RR9,19600901,20210930,   56,Marcus Flarup                                     
+ 7780,146142,PELLO TURTOLANKYLA                      ,FI,+66:35:00,+023:54:00,  70, RR3,19650101,20040612,    9,Pauli Jokinen                                     
+ 7784,146162,YLITORNIO MELTOSJARVI                   ,FI,+66:31:44,+024:39:12,  92, RR3,19640101,20211031,    9,Pauli Jokinen                                     
+ 7787,146177,KITTILA ALAKYLA-1                       ,FI,+67:17:00,+024:53:00, 170, RR3,19690801,20040301,    9,Pauli Jokinen                                     
+ 7787,146202,KITTILA ALAKYLA                         ,FI,+67:15:43,+024:58:12, 192, RR3,20040101,20210506,    9,Pauli Jokinen                                     
+ 7788,146182,KOLARI KATTILAMAA                       ,FI,+67:23:02,+024:00:58, 171, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 2269,146187,PELLO KK MUSEOTIE                       ,FI,+66:46:21,+023:58:02,  84, RR3,19700801,20211031,    9,Pauli Jokinen                                     
+ 7791,146177,KITTILA ALAKYLA-1                       ,FI,+67:17:00,+024:53:00, 170, RR3,19690801,20040301,    9,Pauli Jokinen                                     
+ 7791,146202,KITTILA ALAKYLA                         ,FI,+67:15:43,+024:58:12, 192, RR3,20040101,20210506,    9,Pauli Jokinen                                     
+  733,146207,ROVANIEMI LENTOASEMA                    ,FI,+66:33:30,+025:50:07, 195, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7801,146258,ROVANIEMI APUKKA                        ,FI,+66:34:44,+026:00:54, 106, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7809,100094,SODANKYLA. LAPIN ILMATIET. TUTK.KESKUS  ,FI,+67:21:58,+026:37:59, 179, RR1,19080101,20211031,    9,Pauli Jokinen                                     
+ 7809,146298,SODANKYLA AWS                           ,FI,+67:22:04,+026:37:58, 179, RR3,20050913,20080203,    9,Pauli Jokinen                                     
+ 7813,146318,PELKOSENNIEMI KIRKONKYLA                ,FI,+67:05:59,+027:30:50, 155, RR3,19700101,20211030,    9,Pauli Jokinen                                     
+ 7817,146338,SALLA KK                                ,FI,+66:49:16,+028:40:39, 221, RR3,19610101,19990731,    9,Pauli Jokinen                                     
+ 7817,146378,SALLA KK MYLLYTIE                       ,FI,+66:50:00,+028:40:41, 215, RR3,19990721,20211031,    9,Pauli Jokinen                                     
+ 7817,902849,SALLA KK                                ,FI,+66:49:59,+028:41:00, 222, RR8,19991015,20200226,     ,                    
+ 7818,146343,SAVUKOSKI KK                            ,FI,+67:17:07,+028:10:48, 180, RR3,19640101,20211031,    9,Pauli Jokinen                                     
+ 7822,146363,SALLA KELLOSELKA                        ,FI,+66:56:43,+028:58:47, 197, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7825,146338,SALLA KK                                ,FI,+66:49:16,+028:40:39, 221, RR3,19610101,19990731,    9,Pauli Jokinen                                     
+ 7825,146378,SALLA KK MYLLYTIE                       ,FI,+66:50:00,+028:40:41, 215, RR3,19990721,20211031,    9,Pauli Jokinen                                     
+ 7825,902849,SALLA KK                                ,FI,+66:49:59,+028:41:00, 222, RR8,19991015,20200226,     ,                    
+ 7830,146403,SALLA NARUSKA-1                         ,FI,+67:12:54,+029:14:28, 222, RR3,19650101,20050321,    9,Pauli Jokinen                                     
+ 7830,146413,SALLA NARUSKA                           ,FI,+67:09:45,+029:10:53, 213, RR3,20070815,20211031,    9,Pauli Jokinen                                     
+ 7832,146403,SALLA NARUSKA-1                         ,FI,+67:12:54,+029:14:28, 222, RR3,19650101,20050321,    9,Pauli Jokinen                                     
+ 7832,146413,SALLA NARUSKA                           ,FI,+67:09:45,+029:10:53, 213, RR3,20070815,20211031,    9,Pauli Jokinen                                     
+ 7833,140956,KARESUANDO                              ,SE,+68:26:32,+022:27:01, 330, RR9,18781015,20211031,   56,Marcus Flarup                                     
+ 7833,140958,KARESUANDO_A                            ,SE,+68:26:24,+022:27:00, 330, RR9,20081101,20211031,   56,Marcus Flarup                                     
+ 7833,146418,ENONTEKIO KARESUVANTO                   ,FI,+68:27:01,+022:29:54, 320, RR3,19920701,20211031,    9,Pauli Jokinen                                     
+ 7838,146448,KITTILA HUKKAKUMPU                      ,FI,+67:43:00,+024:51:00, 197, RR3,19700101,19730831,    9,Pauli Jokinen                                     
+ 7838,146498,KITTILA KK                              ,FI,+67:39:06,+024:54:21, 181, RR3,20091127,20211031,    9,Pauli Jokinen                                     
+ 7840,146458,KITTILA PULJU                           ,FI,+68:13:47,+024:50:30, 279, RR3,19700101,20211031,    9,Pauli Jokinen                                     
+ 7848,146448,KITTILA HUKKAKUMPU                      ,FI,+67:43:00,+024:51:00, 197, RR3,19700101,19730831,    9,Pauli Jokinen                                     
+ 7848,146498,KITTILA KK                              ,FI,+67:39:06,+024:54:21, 181, RR3,20091127,20211031,    9,Pauli Jokinen                                     
+ 7850,146508,KITTILA POKKA                           ,FI,+68:10:09,+025:47:12, 275, RR3,19710701,20211031,    9,Pauli Jokinen                                     
+ 7850,902717,KITTILA POKKA                           ,FI,+68:10:00,+025:46:00, 272, RR8,20080125,20200227,     ,                    
+ 7856,146538,SODANKYLA LOKKA                         ,FI,+67:49:15,+027:45:01, 240, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7856,902719,SODANKYLA LOKKA                         ,FI,+67:49:00,+027:45:00, 243, RR8,20090901,20200227,     ,                    
+ 7857,146543,SODANKYLA VUOTSO                        ,FI,+68:05:02,+027:11:23, 247, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7857,146553,SODANKYLA VUOTSO VIRASTOTALO            ,FI,+68:06:04,+027:07:25, 246, RR3,19650101,20030614,    9,Pauli Jokinen                                     
+ 7858,146548,INARI LAANILA                           ,FI,+68:24:00,+027:23:00, 285, RR3,19600401,19711031,    9,Pauli Jokinen                                     
+ 7858,146563,INARI SAARISELKA MATKAILUKESKUS         ,FI,+68:24:52,+027:25:03, 302, RR3,19761101,20211031,    9,Pauli Jokinen                                     
+ 7859,146543,SODANKYLA VUOTSO                        ,FI,+68:05:02,+027:11:23, 247, RR3,19590101,20211031,    9,Pauli Jokinen                                     
+ 7859,146553,SODANKYLA VUOTSO VIRASTOTALO            ,FI,+68:06:04,+027:07:25, 246, RR3,19650101,20030614,    9,Pauli Jokinen                                     
+ 7860,146558,INARI KIILOPAA                          ,FI,+68:21:00,+027:27:00, 326, RR3,19700101,19790430,    9,Pauli Jokinen                                     
+ 7860,146563,INARI SAARISELKA MATKAILUKESKUS         ,FI,+68:24:52,+027:25:03, 302, RR3,19761101,20211031,    9,Pauli Jokinen                                     
+ 7861,146548,INARI LAANILA                           ,FI,+68:24:00,+027:23:00, 285, RR3,19600401,19711031,    9,Pauli Jokinen                                     
+ 7861,146558,INARI KIILOPAA                          ,FI,+68:21:00,+027:27:00, 326, RR3,19700101,19790430,    9,Pauli Jokinen                                     
+ 7861,146563,INARI SAARISELKA MATKAILUKESKUS         ,FI,+68:24:52,+027:25:03, 302, RR3,19761101,20211031,    9,Pauli Jokinen                                     
+ 7864,146578,INARI RAJA-JOOSEPPI AKUJARVI            ,FI,+68:28:18,+028:19:28, 185, RR3,19650101,20211031,    9,Pauli Jokinen                                     
+ 7868,146598,SALLA VARRIOTUNTURI                     ,FI,+67:44:51,+029:36:54, 370, RR3,19740801,20211031,    9,Pauli Jokinen                                     
+ 7871,140960,NAIMAKKA_A                              ,SE,+68:40:48,+021:31:48, 402, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 7871,140962,NAIMAKKA                                ,SE,+68:40:48,+021:31:48, 403, RR9,19610101,19960131,   56,Marcus Flarup                                     
+ 7871,146613,ENONTEKIO KELOTTIJARVI IITTO            ,FI,+68:45:00,+021:25:00, 415, RR3,19760703,19931012,    9,Pauli Jokinen                                     
+ 7871,902055,NAIMAKKA                                ,SE,+68:41:00,+021:32:00, 402, RR8,20001024,20200229,     ,                    
+ 7872,146608,ENONTEKIO KILPISJARVI                   ,FI,+69:03:00,+020:48:00, 483, RR3,19590101,19781231,    9,Pauli Jokinen                                     
+ 7872,146618,ENONTEKIO KILPISJARVI KYLAKESKUS        ,FI,+69:02:55,+020:47:44, 480, RR3,19781231,20211031,    9,Pauli Jokinen                                     
+ 7872,201374,HELLIGSKOGEN                            ,NO,+69:09:35,+020:45:10, 475, RR2,19600901,19770625,   22,Hans Olav Hygen                                   
+ 7875,146633,ENONTEKIO NAKKALA                       ,FI,+68:36:09,+023:34:49, 370, RR3,19610101,20211031,    9,Pauli Jokinen                                     
+ 7875,146638,ENONTEKIO PALOJARVI                     ,FI,+68:34:16,+023:20:21, 356, RR3,19721001,20001024,    9,Pauli Jokinen                                     
+ 7875,902726,ENONTEKIO NAKKALA                       ,FI,+68:35:59,+023:35:00, 377, RR8,20080128,20200227,     ,                    
+ 7876,146633,ENONTEKIO NAKKALA                       ,FI,+68:36:09,+023:34:49, 370, RR3,19610101,20211031,    9,Pauli Jokinen                                     
+ 7876,146638,ENONTEKIO PALOJARVI                     ,FI,+68:34:16,+023:20:21, 356, RR3,19721001,20001024,    9,Pauli Jokinen                                     
+ 7876,902726,ENONTEKIO NAKKALA                       ,FI,+68:35:59,+023:35:00, 377, RR8,20080128,20200227,     ,                    
+ 7883,146673,INARI RIUTULA                           ,FI,+68:56:00,+026:49:00, 148, RR3,19650101,20030331,    9,Pauli Jokinen                                     
+ 7883,146748,INARI KIRKONKYLA                        ,FI,+68:54:19,+027:01:06, 128, RR3,20030930,20211031,    9,Pauli Jokinen                                     
+ 7884,146673,INARI RIUTULA                           ,FI,+68:56:00,+026:49:00, 148, RR3,19650101,20030331,    9,Pauli Jokinen                                     
+ 7884,146678,INARI SOLOJARVI                         ,FI,+68:52:00,+026:50:00, 145, RR3,19700101,19900615,    9,Pauli Jokinen                                     
+ 7884,146748,INARI KIRKONKYLA                        ,FI,+68:54:19,+027:01:06, 128, RR3,20030930,20211031,    9,Pauli Jokinen                                     
+ 7886,146693,INARI TOIVONIEMI                        ,FI,+69:04:02,+027:07:22, 152, RR3,19590101,19951220,    9,Pauli Jokinen                                     
+ 7886,146753,INARI KAAMANEN                          ,FI,+69:08:25,+027:16:12, 156, RR3,20080801,20211031,    9,Pauli Jokinen                                     
+ 7887,146698,UTSJOKI KEVO-1                          ,FI,+69:45:21,+027:00:44, 107, RR3,19620101,20211031,    9,Pauli Jokinen                                     
+ 7888,146703,UTSJOKI NUORGAM                         ,FI,+70:04:53,+027:54:03,  22, RR3,19680101,20211031,    9,Pauli Jokinen                                     
+ 7888,201181,POLMAK II                               ,NO,+70:04:09,+028:00:40,  21, RR2,19680106,19800514,   22,Hans Olav Hygen                                   
+ 7888,201243,POLMAK TOLLSTED                         ,NO,+70:04:24,+028:00:04,  18, RR2,19990807,20211030,   22,Hans Olav Hygen                                   
+ 7888,202065,POLMAK                                  ,NO,+70:04:43,+027:59:11,  21, RR2,18991231,19680129,   22,Hans Olav Hygen                                   
+ 7892,146698,UTSJOKI KEVO-1                          ,FI,+69:45:21,+027:00:44, 107, RR3,19620101,20211031,    9,Pauli Jokinen                                     
+ 7892,146723,UTSJOKI LEPPALA                         ,FI,+69:39:47,+027:04:41, 110, RR3,19690901,20160831,    9,Pauli Jokinen                                     
+ 7897,146673,INARI RIUTULA                           ,FI,+68:56:00,+026:49:00, 148, RR3,19650101,20030331,    9,Pauli Jokinen                                     
+ 7897,146748,INARI KIRKONKYLA                        ,FI,+68:54:19,+027:01:06, 128, RR3,20030930,20211031,    9,Pauli Jokinen                                     
+ 7898,146693,INARI TOIVONIEMI                        ,FI,+69:04:02,+027:07:22, 152, RR3,19590101,19951220,    9,Pauli Jokinen                                     
+ 7898,146753,INARI KAAMANEN                          ,FI,+69:08:25,+027:16:12, 156, RR3,20080801,20211031,    9,Pauli Jokinen                                     
+ 7901,146768,INARI NELLIM-1                          ,FI,+68:50:55,+028:18:12, 120, RR3,19590101,19990930,    9,Pauli Jokinen                                     
+ 7901,146783,INARI NELLIM                            ,FI,+68:50:56,+028:18:14, 123, RR3,19991001,20211031,    9,Pauli Jokinen                                     
+ 7902,146773,INARI SEVETTIJARVI-1                    ,FI,+69:33:00,+028:38:00,  96, RR3,19710101,19770131,    9,Pauli Jokinen                                     
+ 7902,146778,INARI SEVETTIJARVI                      ,FI,+69:30:27,+028:35:51, 100, RR3,19860101,20090713,    9,Pauli Jokinen                                     
+ 7902,146798,INARI KIRAKKAJARVI                      ,FI,+69:34:54,+028:53:57, 103, RR3,20090901,20211031,    9,Pauli Jokinen                                     
+ 7903,146773,INARI SEVETTIJARVI-1                    ,FI,+69:33:00,+028:38:00,  96, RR3,19710101,19770131,    9,Pauli Jokinen                                     
+ 7903,146778,INARI SEVETTIJARVI                      ,FI,+69:30:27,+028:35:51, 100, RR3,19860101,20090713,    9,Pauli Jokinen                                     
+ 7904,146768,INARI NELLIM-1                          ,FI,+68:50:55,+028:18:12, 120, RR3,19590101,19990930,    9,Pauli Jokinen                                     
+ 7904,146783,INARI NELLIM                            ,FI,+68:50:56,+028:18:14, 123, RR3,19991001,20211031,    9,Pauli Jokinen                                     
+ 7907,146773,INARI SEVETTIJARVI-1                    ,FI,+69:33:00,+028:38:00,  96, RR3,19710101,19770131,    9,Pauli Jokinen                                     
+ 7907,146798,INARI KIRAKKAJARVI                      ,FI,+69:34:54,+028:53:57, 103, RR3,20090901,20211031,    9,Pauli Jokinen                                     
+ 7907,146803,INARI NAATAMO                           ,FI,+69:40:09,+029:05:49,  85, RR3,19650101,20060630,    9,Pauli Jokinen                                     
+ 7908,146798,INARI KIRAKKAJARVI                      ,FI,+69:34:54,+028:53:57, 103, RR3,20090901,20211031,    9,Pauli Jokinen                                     
+ 7908,146803,INARI NAATAMO                           ,FI,+69:40:09,+029:05:49,  85, RR3,19650101,20060630,    9,Pauli Jokinen                                     
+ 7908,201957,OEVRE NEIDEN                            ,NO,+69:40:55,+029:08:54,  85, RR2,20110831,20211030,   22,Hans Olav Hygen                                   
+19328,146703,UTSJOKI NUORGAM                         ,FI,+70:04:53,+027:54:03,  22, RR3,19680101,20211031,    9,Pauli Jokinen                                     
+19328,201181,POLMAK II                               ,NO,+70:04:09,+028:00:40,  21, RR2,19680106,19800514,   22,Hans Olav Hygen                                   
+19328,201243,POLMAK TOLLSTED                         ,NO,+70:04:24,+028:00:04,  18, RR2,19990807,20211030,   22,Hans Olav Hygen                                   
+19328,201764,POLMAK                                  ,NO,+70:04:52,+027:58:45,  30, RR2,19800531,19980720,   22,Hans Olav Hygen                                   
+19328,202065,POLMAK                                  ,NO,+70:04:43,+027:59:11,  21, RR2,18991231,19680129,   22,Hans Olav Hygen                                   
+19732,146803,INARI NAATAMO                           ,FI,+69:40:09,+029:05:49,  85, RR3,19650101,20060630,    9,Pauli Jokinen                                     
+19732,201957,OEVRE NEIDEN                            ,NO,+69:40:55,+029:08:54,  85, RR2,20110831,20211030,   22,Hans Olav Hygen                                   

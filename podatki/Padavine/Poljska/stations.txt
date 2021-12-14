@@ -1,0 +1,53 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  204,BIALYSTOK                               ,PL,+53:06:26,+023:09:44, 148
+  205,HEL                                     ,PL,+54:36:13,+018:48:43,   1
+  206,POZNAN                                  ,PL,+52:11:59,+018:39:37, 115
+  207,RZESZOW JASIONKA                        ,PL,+50:06:39,+022:02:32, 206
+  208,SZCZECIN                                ,PL,+53:23:43,+014:37:22,   1
+  209,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107
+  210,WROCLAW                                 ,PL,+51:06:12,+016:54:00, 120
+  332,LEBA                                    ,PL,+54:45:13,+017:32:05,   2
+ 2022,KOSZALIN                                ,PL,+54:12:16,+016:09:19,  33
+ 2024,SUWALKI                                 ,PL,+54:07:51,+022:56:56, 184
+  696,SWINOUJSCIE                             ,PL,+53:55:24,+014:14:32,   5
+ 2026,CHOJNICE                                ,PL,+53:42:55,+017:31:57, 164
+ 2027,TORUN                                   ,PL,+53:02:31,+018:35:44,  69
+ 2028,MLAWA                                   ,PL,+53:06:15,+020:21:40, 147
+  752,OLSZTYN                                 ,PL,+53:46:07,+020:25:17, 133
+ 2029,GORZOW WLKP                             ,PL,+52:44:28,+015:16:38,  71
+  779,SLUBICE                                 ,PL,+52:20:55,+014:37:11,  53
+  333,SIEDLCE                                 ,PL,+52:10:52,+022:14:41, 152
+  922,TERESPOL                                ,PL,+52:04:43,+023:37:19, 133
+ 2031,ZIELONA GORA                            ,PL,+51:55:48,+015:31:29, 192
+  923,LESZNO                                  ,PL,+51:50:08,+016:32:05,  91
+  924,WIELUN                                  ,PL,+51:12:37,+018:33:24, 199
+  926,SULEJOW                                 ,PL,+51:21:12,+019:51:59, 188
+  927,WLODAWA                                 ,PL,+51:33:12,+023:31:46, 177
+ 2036,KLODZKO                                 ,PL,+50:26:13,+016:36:51, 356
+  928,RACIBORZ                                ,PL,+50:03:40,+018:11:27, 206
+ 2037,KATOWICE                                ,PL,+50:14:26,+019:01:58, 278
+  929,KRAKOW                                  ,PL,+50:04:40,+019:47:42, 237
+ 2038,KIELCE                                  ,PL,+50:48:38,+020:41:32, 260
+  930,BIELSKO-BIALA                           ,PL,+49:48:26,+019:00:01, 396
+  932,NOWY SACZ                               ,PL,+49:37:38,+020:41:19, 292
+  933,LESKO                                   ,PL,+49:27:59,+022:20:30, 420
+ 4108,FRANKFURT/ODER                          ,DE,+52:21:55,+014:32:16,  48
+13332,HERINGSDORF SEEBAD                      ,DE,+53:57:17,+014:10:00,   1

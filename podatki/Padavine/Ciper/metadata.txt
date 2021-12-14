@@ -1,0 +1,125 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+22,AMIANDOS,CYPRUS,+34:56:00,+032:55:00,1360 m 
+----------------------------------------------------------------
+* Land use:
+Hilly area in the E portion of Troodos Mountain.
+* Soil type:
+Silicate raw soils
+* Surface coverage:
+soil
+* History:
+
+
+----------------------------------------------------------------
+23,LARNACA,CYPRUS,+34:53:00,+033:38:00,1 m 
+----------------------------------------------------------------
+* Land use:
+Airport (coastal area)
+* Soil type:
+Alluvial soils
+* Surface coverage:
+Grass
+* History:
+Pressure: <br> 
+from 20050501 onwards, pressure as mean value of 8.00 and 13.00 local time <br>
+before 20050501, pressure reading at 8.00 local time<br>
+
+----------------------------------------------------------------
+24,LIMASSOL,CYPRUS,+34:40:00,+033:03:00,5 m 
+----------------------------------------------------------------
+* Land use:
+Coastal area (Limassol town).
+* Soil type:
+Embankment of sandy earth on rocks
+* Surface coverage:
+soil
+* History:
+Pressure: <br> 
+from 19830701 onwards, pressure as mean value of 8.00 and 13.00 local time <br>
+before 19830701, pressure reading at 8.00 local time<br>
+
+----------------------------------------------------------------
+25,NICOSIA,CYPRUS,+35:10:00,+033:21:00,160 m 
+----------------------------------------------------------------
+* Land use:
+Nicosia Town (center).
+* Soil type:
+Alluvial soils
+* Surface coverage:
+soil
+* History:
+Pressure: <br> 
+from 19880101 onwards, pressure as mean value of 8.00 and 13.00 local time <br>
+before 19880101, pressure reading at 8.00 local time<br>
+
+----------------------------------------------------------------
+26,POLIS,CYPRUS,+35:02:00,+032:26:00,20 m 
+----------------------------------------------------------------
+* Land use:
+Very flat and clear area 800m from the sea.
+* Soil type:
+Alluvial soils
+* Surface coverage:
+soil
+* History:
+
+
+----------------------------------------------------------------
+384,PAFOS,CYPRUS,+34:43:00,+032:29:00,10 m 
+----------------------------------------------------------------
+* Land use:
+Coastal area to the West of the island.
+* Soil type:
+Alluvial soils non saline
+* Surface coverage:
+soil
+* History:
+Pressure: <br> 
+from 20050501 onwards, pressure as mean value of 8.00 and 13.00 local time <br>
+before 20050501, pressure reading at 8.00 local time<br>
+
+----------------------------------------------------------------
+498,ATHALASSA,CYPRUS,+35:09:00,+033:24:00,162 m 
+----------------------------------------------------------------
+* Land use:
+Rocky area to the SE of Nicosia town.
+* Soil type:
+Kafkalla
+* Surface coverage:
+Soil
+* History:
+
+
+----------------------------------------------------------------
+499,AGROS,CYPRUS,+35:05:00,+033:01:00,1015 m 
+----------------------------------------------------------------
+* Land use:
+Hilly area to the SW of Agros village.
+* Soil type:
+Silicate raw soils
+* Surface coverage:
+Soil
+* History:
+
+
+----------------------------------------------------------------
+2110,AKROTIRI,CYPRUS,+34:34:48,+032:58:48,23 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+

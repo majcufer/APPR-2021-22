@@ -1,0 +1,32 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  227,105562,HURBANOVO                               ,SK,+47:52:00,+018:11:00, 115, RR3,19510103,20131231,   29,Oliver Bochnicek                                  
+  227,911858,HURBANOVO                               ,SK,+47:52:00,+018:12:00, 124, RR8,19820108,20200229,     ,                    
+  334,101170,POPRAD/TATRY                            ,SK,+49:04:00,+020:14:00, 694, RR1,19510101,20110123,   47,GSN network                                       
+  334,116304,POPRAD/TATRY                            ,SK,+49:04:00,+020:14:00, 694, RR7,19510103,20131231,   29,Oliver Bochnicek                                  
+  334,911934,POPRAD/TATRY                            ,SK,+49:04:00,+020:15:00, 696, RR8,19820102,20200229,     ,                    
+ 3542,116344,KOSICE                                  ,SK,+48:40:00,+021:13:00, 230, RR7,19510103,20131231,   29,Oliver Bochnicek                                  
+ 3542,911968,KOSICE                                  ,SK,+48:40:00,+021:13:00, 231, RR8,19820102,20200229,     ,                    

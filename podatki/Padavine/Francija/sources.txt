@@ -1,0 +1,104 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+   32,100101,BOURGES                                 ,FR,+47:03:33,+002:21:35, 161, RR9,19450301,20201231,   10,Jean-Michel Soubeyroux                            
+   32,907255,BOURGES                                 ,FR,+47:04:00,+002:22:00, 166, RR8,19820102,20200229,     ,                    
+   33,100105,TOULOUSE-BLAGNAC                        ,FR,+43:37:16,+001:22:44, 151, RR9,19470101,20201231,   10,Jean-Michel Soubeyroux                            
+   33,907630,TOULOUSE BLAGNAC                        ,FR,+43:37:00,+001:23:00, 158, RR8,19820101,20200229,     ,                    
+   33,907631,TOULOUSE FRANCAZAL                      ,FR,+43:32:00,+001:22:00, 164, RR8,20041007,20200229,     ,                    
+   34,100109,BORDEAUX-MERIGNAC                       ,FR,+44:49:50,-000:41:29,  47, RR9,19201109,20201231,   10,Jean-Michel Soubeyroux                            
+   34,907510,BORDEAUX MERIGNAC                       ,FR,+44:50:00,-000:42:00,  54, RR8,19820101,20200229,     ,                    
+   36,100117,PERPIGNAN                               ,FR,+42:44:14,+002:52:22,  42, RR9,19241117,20201231,   10,Jean-Michel Soubeyroux                            
+   36,907747,PERPIGNAN                               ,FR,+42:44:00,+002:52:00,  47, RR8,19820101,20200229,     ,                    
+   37,100121,LYON - ST EXUPERY                       ,FR,+45:43:35,+005:04:40, 235, RR9,19750420,20201231,   10,Jean-Michel Soubeyroux                            
+   37,907481,LYON-ST EXUPERY                         ,FR,+45:45:00,+005:05:00, 240, RR8,19820102,20200229,     ,                    
+  736,104036,ABBEVILLE                               ,FR,+50:08:10,+001:50:02,  69, RR9,19220501,20201231,   10,Jean-Michel Soubeyroux                            
+  736,907005,ABBEVILLE                               ,FR,+50:08:00,+001:50:00,  77, RR8,19820101,20200229,     ,                    
+  737,104040,LILLE-LESQUIN                           ,FR,+50:34:12,+003:05:51,  47, RR9,19450101,20201231,   10,Jean-Michel Soubeyroux                            
+  737,907015,LILLE-LESQUIN                           ,FR,+50:34:00,+003:06:00,  47, RR8,19820102,20200229,     ,                    
+  738,104044,CAEN-CARPIQUET                          ,FR,+49:10:48,-000:27:22,  67, RR9,19441013,20201231,   10,Jean-Michel Soubeyroux                            
+  738,907027,CAEN-CARPIQUET                          ,FR,+49:11:00,-000:27:00,  67, RR8,19820101,20200229,     ,                    
+  740,104052,ALENCON                                 ,FR,+48:26:44,+000:06:37, 143, RR9,19450801,20201231,   10,Jean-Michel Soubeyroux                            
+  740,907139,ALENCON                                 ,FR,+48:27:00,+000:07:00, 144, RR8,19820101,20200229,     ,                    
+  742,104060,NANTES-BOUGUENAIS                       ,FR,+47:09:00,-001:36:32,  26, RR9,19450501,20201231,   10,Jean-Michel Soubeyroux                            
+  742,907222,NANTES-BOUGUENAIS                       ,FR,+47:09:00,-001:37:00,  26, RR8,19820101,20200229,     ,                    
+  745,104072,DIJON-LONGVIC                           ,FR,+47:16:04,+005:05:18, 219, RR9,19210529,20201231,   10,Jean-Michel Soubeyroux                            
+  745,907280,DIJON-LONGVIC                           ,FR,+47:16:00,+005:05:00, 227, RR8,19820101,20200229,     ,                    
+  749,104088,POITIERS - BIARD                        ,FR,+46:35:38,+000:18:52, 123, RR9,19210501,20201231,   10,Jean-Michel Soubeyroux                            
+  749,907335,POITIERS-BIARD                          ,FR,+46:36:00,+000:18:00, 124, RR8,19820101,20200229,     ,                    
+  750,104092,CLERMONT-FERRAND                        ,FR,+45:47:13,+003:08:58, 331, RR9,19230701,20201231,   10,Jean-Michel Soubeyroux                            
+  750,907460,CLERMONT-FERRAND                        ,FR,+45:47:00,+003:09:00, 326, RR8,19820101,20200229,     ,                    
+  786,104108,MONTELIMAR                              ,FR,+44:34:52,+004:43:59,  73, RR9,19200817,20201231,   10,Jean-Michel Soubeyroux                            
+  786,907577,MONTELIMAR                              ,FR,+44:35:00,+004:44:00,  74, RR8,19820101,20200229,     ,                    
+  755,104112,EMBRUN                                  ,FR,+44:33:56,+006:30:08, 871, RR9,18770101,20201231,   10,Jean-Michel Soubeyroux                            
+  755,907591,EMBRUN                                  ,FR,+44:34:00,+006:30:00, 877, RR8,19900604,20200229,     ,                    
+  756,104116,TARBES - OSSUN                          ,FR,+43:11:17,+000:00:00, 360, RR9,19460101,20201231,   10,Jean-Michel Soubeyroux                            
+  756,907621,TARBES-OSSUN                            ,FR,+43:11:00,+000:00:00, 364, RR8,19820101,20200229,     ,                    
+  757,104120,NICE                                    ,FR,+43:38:56,+007:12:32,   2, RR9,19420701,20201231,   10,Jean-Michel Soubeyroux                            
+  758,104124,BASTIA                                  ,FR,+42:32:26,+009:29:07,  10, RR9,19470501,20201231,   10,Jean-Michel Soubeyroux                            
+  758,907790,BASTIA                                  ,FR,+42:33:00,+009:29:00,  12, RR8,19820101,20200219,     ,                    
+  434,104484,BREST-GUIPAVAS                          ,FR,+48:26:39,-004:24:43,  94, RR9,19450101,20201231,   10,Jean-Michel Soubeyroux                            
+  434,907110,BREST-GUIPAVAS                          ,FR,+48:27:00,-004:25:00,  95, RR8,19820101,20200229,     ,                    
+   39,104890,MARIGNANE                               ,FR,+43:26:16,+005:12:58,   9, RR9,19210101,20201231,   10,Jean-Michel Soubeyroux                            
+   39,907650,MARIGNANE                               ,FR,+43:27:00,+005:14:00,  32, RR8,19820101,20200229,     ,                    
+  322,104924,RENNES-ST JACQUES                       ,FR,+48:04:08,-001:44:02,  36, RR9,19441101,20201231,   10,Jean-Michel Soubeyroux                            
+  322,907130,RENNES-SAINT JACQUES                    ,FR,+48:04:00,-001:44:00,  43, RR8,19820101,20200229,     ,                    
+  323,104960,STRASBOURG-ENTZHEIM                     ,FR,+48:32:58,+007:38:25, 150, RR9,19230501,20201231,   10,Jean-Michel Soubeyroux                            
+  323,907190,STRASBOURG-ENTZHEIM                     ,FR,+48:33:00,+007:38:00, 154, RR8,19820101,20200229,     ,                    
+ 2184,106184,ROUEN - BOOS                            ,FR,+49:22:59,+001:10:54, 151, RR9,19680301,20201231,   10,Jean-Michel Soubeyroux                            
+ 2184,907037,ROUEN-BOOS                              ,FR,+49:23:00,+001:11:00, 152, RR8,19820101,20200229,     ,                    
+ 2190,106190,TOURS                                   ,FR,+47:26:40,+000:43:38, 108, RR9,19591101,20201231,   10,Jean-Michel Soubeyroux                            
+ 2190,907240,TOURS                                   ,FR,+47:27:00,+000:44:00, 112, RR8,19820101,20200229,     ,                    
+ 2192,106192,BASEL-MULHOUSE                          ,FR,+47:36:52,+007:30:36, 263, RR9,19470101,20201231,   10,Jean-Michel Soubeyroux                            
+ 2192,907299,BALE-MULHOUSE                           ,FR,+47:37:00,+007:31:00, 273, RR8,19820101,20200229,     ,                    
+ 2195,106195,LIMOGES - BELLEGARDE                    ,FR,+45:51:40,+001:10:30, 402, RR9,19730101,20201231,   10,Jean-Michel Soubeyroux                            
+ 2195,907434,LIMOGES-BELLEGARDE                      ,FR,+45:52:00,+001:11:00, 403, RR8,19820101,20200229,     ,                    
+ 2199,106199,GOURDON                                 ,FR,+44:44:42,+001:23:48, 260, RR9,19610201,20201231,   10,Jean-Michel Soubeyroux                            
+ 2199,907535,GOURDON                                 ,FR,+44:45:00,+001:24:00, 261, RR8,19820101,20200229,     ,                    
+ 2200,106200,MILLAU                                  ,FR,+44:07:07,+003:01:07, 712, RR9,19640401,20201231,   10,Jean-Michel Soubeyroux                            
+ 2200,907558,MILLAU                                  ,FR,+44:07:00,+003:01:00, 720, RR8,19820101,20200229,     ,                    
+ 2203,106203,MONT-DE-MARSAN                          ,FR,+43:54:35,-000:30:01,  59, RR9,19450324,20201231,   10,Jean-Michel Soubeyroux                            
+ 2203,907607,MONT-DE-MARSAN                          ,FR,+43:55:00,-000:30:00,  59, RR8,19820101,20200229,     ,                    
+ 2205,106205,ST-GIRONS                               ,FR,+43:00:19,+001:06:25, 414, RR9,19490101,20201231,   10,Jean-Michel Soubeyroux                            
+ 2205,907627,SAINT GIRONS                            ,FR,+43:00:00,+001:06:00, 411, RR8,19820101,20200229,     ,                    
+ 2207,106207,MONTPELLIER-AEROPORT                    ,FR,+43:34:37,+003:57:47,   2, RR9,19460101,20201231,   10,Jean-Michel Soubeyroux                            
+ 2207,907643,MONTPELLIER                             ,FR,+43:35:00,+003:58:00,   8, RR8,19820101,20200229,     ,                    
+ 2209,106209,AJACCIO                                 ,FR,+41:55:05,+008:47:34,   5, RR9,19491001,20201231,   10,Jean-Michel Soubeyroux                            
+ 2209,907761,AJACCIO                                 ,FR,+41:55:00,+008:48:00,   9, RR8,19820101,20200229,     ,                    
+11243,171619,TROYES-BARBEREY                         ,FR,+48:19:29,+004:01:12, 112, RR9,19750501,20201231,   10,Jean-Michel Soubeyroux                            
+11243,907168,TROYES-BARBEREY                         ,FR,+48:19:00,+004:01:00, 118, RR8,19820102,20200229,     ,                    
+11244,171623,PTE DE CHASSIRON                        ,FR,+46:02:49,-001:24:42,  11, RR9,18840301,20201231,   10,Jean-Michel Soubeyroux                            
+11244,907314,POINTE DE CHASSIRON                     ,FR,+46:03:00,-001:25:00,  23, RR8,19820101,20200229,     ,                    
+11245,171627,PLOUMANAC'H                             ,FR,+48:49:33,-003:28:23,  55, RR9,19470901,20201231,   10,Jean-Michel Soubeyroux                            
+11245,907117,PLOUMANAC H                             ,FR,+48:50:00,-003:28:00,  58, RR8,19820101,20200229,     ,                    
+  793,171628,PTE DE LA HAGUE                         ,FR,+49:43:31,-001:56:23,   6, RR9,18800101,20201231,   10,Jean-Michel Soubeyroux                            
+  793,907020,PTE DE LA HAGUE                         ,FR,+49:44:00,-001:56:00,   7, RR8,19820101,20200229,     ,                    
+11246,171632,NANCY-OCHEY                             ,FR,+48:34:52,+005:57:35, 336, RR9,19630101,20201231,   10,Jean-Michel Soubeyroux                            
+11246,907181,NANCY-OCHEY                             ,FR,+48:35:00,+005:58:00, 343, RR8,19820102,20200229,     ,                    
+11247,171636,BELLE ILE - LE TALUT                    ,FR,+47:17:40,-003:13:06,  34, RR9,19300401,20201231,   10,Jean-Michel Soubeyroux                            
+11247,907207,BELLE ILE-LE TALUT                      ,FR,+47:18:00,-003:13:00,  43, RR8,19820101,20200229,     ,                    
+11249,171644,ORLY                                    ,FR,+48:43:01,+002:23:04,  89, RR9,19210301,20201231,   10,Jean-Michel Soubeyroux                            
+11249,907149,PARIS-ORLY                              ,FR,+48:43:00,+002:23:00,  90, RR8,19820101,20200229,     ,                    
+11249,907156,PARIS-MONTSOURIS                        ,FR,+48:49:00,+002:20:00,  77, RR8,19861202,20200229,     ,                    

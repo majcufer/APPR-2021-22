@@ -1,0 +1,98 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  204,100639,BIALYSTOK                               ,PL,+53:06:26,+023:09:44, 148, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  204,912295,BIALYSTOK                               ,PL,+53:06:00,+023:10:00, 151, RR8,19820102,20200229,     ,                    
+  205,100643,HEL                                     ,PL,+54:36:13,+018:48:43,   1, RR9,19201201,20161231,   26,Miroslaw Mietus                                   
+  205,912135,HEL                                     ,PL,+54:36:00,+018:49:00,   3, RR8,19820111,20200229,     ,                    
+  206,100647,POZNAN                                  ,PL,+52:11:59,+018:39:37, 115, RR9,19510101,20161231,   26,Miroslaw Mietus                                   
+  206,912345,KOLO                                    ,PL,+52:12:00,+018:40:00, 117, RR8,19820111,20200229,     ,                    
+  207,100651,RZESZOW JASIONKA                        ,PL,+50:06:39,+022:02:32, 206, RR9,19520101,20161231,   26,Miroslaw Mietus                                   
+  207,912580,RZESZOW-JASIONKA                        ,PL,+50:06:00,+022:03:00, 201, RR8,19820109,20200229,     ,                    
+  208,100655,SZCZECIN                                ,PL,+53:23:43,+014:37:22,   1, RR9,19510101,20161231,   26,Miroslaw Mietus                                   
+  208,912205,SZCZECIN                                ,PL,+53:24:00,+014:37:00,   7, RR8,19820101,20200229,     ,                    
+  209,100659,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, RR9,19510101,20161231,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, RR8,19820108,20200229,     ,                    
+  210,100663,WROCLAW                                 ,PL,+51:06:12,+016:54:00, 120, RR9,19510101,20161231,   26,Miroslaw Mietus                                   
+  210,912424,WROCLAW II                              ,PL,+51:06:00,+016:53:00, 124, RR8,19820109,20200229,     ,                    
+  332,101160,LEBA                                    ,PL,+54:45:13,+017:32:05,   2, RR9,19660101,20110123,   47,GSN network                                       
+  332,107200,LEBA                                    ,PL,+54:45:13,+017:32:05,   2, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  332,912120,LEBA                                    ,PL,+54:45:00,+017:32:00,   6, RR8,19820109,20200229,     ,                    
+ 2022,106612,KOSZALIN                                ,PL,+54:12:16,+016:09:19,  33, RR9,19201201,20161231,   26,Miroslaw Mietus                                   
+ 2022,912105,KOSZALIN                                ,PL,+54:12:00,+016:08:59,  34, RR8,19820112,20200229,     ,                    
+ 2024,107286,SUWALKI                                 ,PL,+54:07:51,+022:56:56, 184, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2024,912195,SUWALKI                                 ,PL,+54:08:00,+022:57:00, 186, RR8,19820114,20200229,     ,                    
+  696,107295,SWINOUJSCIE                             ,PL,+53:55:24,+014:14:32,   5, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  696,184513,HERINGSDORF SEEBAD                      ,DE,+53:57:17,+014:10:00,   1, RR3,19510101,20051231,   11,National Climate Data Center (DWD)                
+  696,912200,SWINOUJSCIE                             ,PL,+53:55:00,+014:14:00,   5, RR8,19820112,20200229,     ,                    
+ 2026,107301,CHOJNICE                                ,PL,+53:42:55,+017:31:57, 164, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2026,912235,CHOJNICE                                ,PL,+53:43:00,+017:33:00, 172, RR8,19820114,20200229,     ,                    
+ 2027,107302,TORUN                                   ,PL,+53:02:31,+018:35:44,  69, RR9,19201201,20161231,   26,Miroslaw Mietus                                   
+ 2027,912250,TORUN                                   ,PL,+53:03:00,+018:35:00,  72, RR8,19820112,20200229,     ,                    
+ 2028,107309,MLAWA                                   ,PL,+53:06:15,+020:21:40, 147, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2028,912270,MLAWA                                   ,PL,+53:06:00,+020:21:00, 149, RR8,19820116,20200229,     ,                    
+  752,107315,OLSZTYN                                 ,PL,+53:46:07,+020:25:17, 133, RR9,19201201,20161231,   26,Miroslaw Mietus                                   
+  752,912272,OLSZTYN                                 ,PL,+53:46:00,+020:25:00, 137, RR8,19820113,20200229,     ,                    
+ 2029,107316,GORZOW WLKP                             ,PL,+52:44:28,+015:16:38,  71, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2029,912300,GORZOW WLKP                             ,PL,+52:45:00,+015:17:00,  73, RR8,19820114,20200229,     ,                    
+  779,107317,SLUBICE                                 ,PL,+52:20:55,+014:37:11,  53, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  779,122386,FRANKFURT/ODER                          ,DE,+52:21:55,+014:32:16,  48, RR3,19510101,20211031,   11,National Climate Data Center (DWD)                
+  333,107318,SIEDLCE                                 ,PL,+52:10:52,+022:14:41, 152, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  333,912385,SIEDLCE                                 ,PL,+52:15:00,+022:15:00, 155, RR8,19820114,20200229,     ,                    
+  922,107319,TERESPOL                                ,PL,+52:04:43,+023:37:19, 133, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  922,114294,BREST                                   ,BY,+52:07:00,+023:41:00, 146, RR1,19440901,20051231,   55,Olga Zolina                                       
+  922,117444,BREST                                   ,BY,+52:07:00,+023:41:00, 146, RR4,19440901,20051231,   15,Vyacheslav Razuvaev                               
+  922,912399,TERESPOL                                ,PL,+52:04:00,+023:37:00, 137, RR8,19820111,20200229,     ,                    
+ 2031,107320,ZIELONA GORA                            ,PL,+51:55:48,+015:31:29, 192, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2031,912400,ZIELONA GORA                            ,PL,+51:56:00,+015:32:00, 192, RR8,19820114,20200229,     ,                    
+  923,107321,LESZNO                                  ,PL,+51:50:08,+016:32:05,  91, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  923,912418,LESZNO                                  ,PL,+51:50:00,+016:32:00,  92, RR8,19820112,20200229,     ,                    
+  924,107322,WIELUN                                  ,PL,+51:12:37,+018:33:24, 199, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  924,912455,WIELUN                                  ,PL,+51:13:00,+018:34:00, 201, RR8,19820112,20200229,     ,                    
+  926,107323,SULEJOW                                 ,PL,+51:21:12,+019:51:59, 188, RR9,19610501,20161231,   26,Miroslaw Mietus                                   
+  926,912469,SULEJOW                                 ,PL,+51:21:00,+019:52:00, 189, RR8,19820114,20200229,     ,                    
+  927,107324,WLODAWA                                 ,PL,+51:33:12,+023:31:46, 177, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  927,912497,WLODAWA                                 ,PL,+51:33:00,+023:32:00, 179, RR8,19820101,20200229,     ,                    
+ 2036,107325,KLODZKO                                 ,PL,+50:26:13,+016:36:51, 356, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2036,912520,KLODZKO                                 ,PL,+50:26:00,+016:37:00, 357, RR8,19820114,20200229,     ,                    
+  928,107326,RACIBORZ                                ,PL,+50:03:40,+018:11:27, 206, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  928,912540,RACIBORZ                                ,PL,+50:03:00,+018:12:00, 206, RR8,19820114,20200229,     ,                    
+ 2037,107327,KATOWICE                                ,PL,+50:14:26,+019:01:58, 278, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2037,912560,KATOWICE                                ,PL,+50:14:00,+019:02:00, 284, RR8,19820101,20200229,     ,                    
+  929,107328,KRAKOW                                  ,PL,+50:04:40,+019:47:42, 237, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  929,912566,KRAKOW                                  ,PL,+50:05:00,+019:48:00, 237, RR8,19820101,20200229,     ,                    
+ 2038,107329,KIELCE                                  ,PL,+50:48:38,+020:41:32, 260, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 2038,912570,KIELCE                                  ,PL,+50:49:00,+020:42:00, 261, RR8,19820110,20200229,     ,                    
+  930,107330,BIELSKO-BIALA                           ,PL,+49:48:26,+019:00:01, 396, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  930,912600,BIELSKO-BIALA                           ,PL,+49:48:00,+019:00:00, 399, RR8,19820101,20200229,     ,                    
+  932,107331,NOWY SACZ                               ,PL,+49:37:38,+020:41:19, 292, RR9,19201201,20161231,   26,Miroslaw Mietus                                   
+  932,912660,NOWY SACZ                               ,PL,+49:37:00,+020:42:00, 295, RR8,19820101,20200229,     ,                    
+  933,107332,LESKO                                   ,PL,+49:27:59,+022:20:30, 420, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+  933,912690,LESKO                                   ,PL,+49:28:00,+022:21:00, 422, RR8,19820114,20200229,     ,                    
+ 4108,107317,SLUBICE                                 ,PL,+52:20:55,+014:37:11,  53, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+ 4108,122386,FRANKFURT/ODER                          ,DE,+52:21:55,+014:32:16,  48, RR3,19510101,20211031,   11,National Climate Data Center (DWD)                
+13332,107295,SWINOUJSCIE                             ,PL,+53:55:24,+014:14:32,   5, RR9,19610101,20161231,   26,Miroslaw Mietus                                   
+13332,184513,HERINGSDORF SEEBAD                      ,DE,+53:57:17,+014:10:00,   1, RR3,19510101,20051231,   11,National Climate Data Center (DWD)                
+13332,912200,SWINOUJSCIE                             ,PL,+53:55:00,+014:14:00,   5, RR8,19820112,20200229,     ,                    

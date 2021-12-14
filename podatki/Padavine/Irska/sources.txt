@@ -1,0 +1,388 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  120,100450,BIRR                                    ,IE,+53:05:25,-007:52:35,  70, RR3,19541001,20090930,   17,Conor Daly                                        
+  120,116290,GURTEEN                                 ,IE,+53:01:48,-008:00:36,  76, RR3,20100101,20210731,   17,Conor Daly                                        
+  120,117972,BIRR                                    ,IE,+53:05:25,-007:52:35,  70, RR1,19541001,20090923,   50,GHCND                                             
+  120,903965,BIRR                                    ,IE,+53:05:00,-007:53:00,  70, RR8,19820101,20090930,     ,                    
+  120,903966,GURTEEN                                 ,IE,+53:01:00,-008:00:00,  76, RR8,20100419,20200229,     ,                    
+  121,100454,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49, RR3,18670101,20210731,   17,Conor Daly                                        
+  121,107880,LEIXLIP (GEN.STN.)                      ,IE,+53:21:43,-006:29:13,  42, RR3,19490501,20100331,   17,Conor Daly                                        
+  121,107895,DUBLIN AIRPORT                          ,IE,+53:25:41,-006:14:28,  71, RR3,19410101,20210731,   17,Conor Daly                                        
+  121,116291,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49, RR3,20060109,20100329,   17,Conor Daly                                        
+  122,100458,MALIN HEAD                              ,IE,+55:22:19,-007:20:24,  21, RR3,18850101,20210731,   17,Conor Daly                                        
+  122,116293,MALIN HEAD                              ,IE,+55:22:19,-007:20:24,  21, RR3,20060102,20091231,   17,Conor Daly                                        
+  122,903980,MALIN HEAD                              ,IE,+55:22:00,-007:20:00,  21, RR8,19820101,20200229,     ,                    
+  123,100462,VALENTIA OBSERVATORY                    ,IE,+51:56:23,-010:13:20,   9, RR3,19410101,20100331,   17,Conor Daly                                        
+  123,117969,VALENTIA OBSERVATORY                    ,IE,+51:56:23,-010:13:20,   9, RR1,19410101,20110123,   50,GHCND                                             
+  123,903953,VALENTIA OBSERVATORY                    ,IE,+51:56:00,-010:15:00,  30, RR8,19820101,20200229,     ,                    
+  441,101859,GALWAY                                  ,IE,+53:16:48,-009:01:12,   8, RR1,18610107,20021231,   46,Marcus Keane                                      
+  441,107811,LAGHTGEORGE G.S.                        ,IE,+53:21:22,-008:55:52,  14, RR3,19411201,19940531,   17,Conor Daly                                        
+  441,903964,GALWAY                                  ,IE,+53:17:00,-009:01:00,  21, RR8,19820103,19900622,     ,                    
+ 2135,107674,ROCHES POINT                            ,IE,+51:47:35,-008:14:38,  43, RR3,18730701,20210731,   17,Conor Daly                                        
+ 2135,903952,ROCHES POINT                            ,IE,+51:48:00,-008:15:00,  41, RR8,19820102,20200229,     ,                    
+ 1766,107692,ROUNDWOOD (FILTER BEDS)                 ,IE,+53:03:11,-006:11:10, 195, RR3,19430101,20210430,   17,Conor Daly                                        
+ 1766,107920,MONEYSTOWN                              ,IE,+53:00:00,-006:13:30, 207, RR3,19480701,20210730,   17,Conor Daly                                        
+ 1770,107703,PETTIGO (LOUGH DERG)                    ,IE,+54:36:22,-007:51:40, 146, RR3,19520610,20210731,   17,Conor Daly                                        
+ 1770,107736,PETTIGO (MEENSHEEFIN)                   ,IE,+54:34:44,-007:58:30, 148, RR3,19520610,20001130,   17,Conor Daly                                        
+ 1771,107704,FOULKESMILLS (LONGRAIGUE)               ,IE,+52:18:40,-006:46:01,  67, RR3,19410101,20210630,   17,Conor Daly                                        
+ 1772,107706,SNEEM                                   ,IE,+51:50:20,-009:54:11,  14, RR3,19491101,20210731,   17,Conor Daly                                        
+ 1772,107900,KENMARE (DERREEN)                       ,IE,+51:46:08,-009:46:52,  24, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1774,107708,LOUGHGLINN                              ,IE,+53:49:19,-008:33:22,  98, RR3,19440329,20210731,   17,Conor Daly                                        
+ 1774,107869,BALLAGHADERREEN (VOC.SCH.)              ,IE,+53:54:00,-008:34:59,  87, RR3,19440401,19891231,   17,Conor Daly                                        
+ 1777,107712,CASTLEISLAND (COOM)                     ,IE,+52:13:59,-009:21:22, 157, RR3,19440601,20210731,   17,Conor Daly                                        
+ 1777,107801,FARRANFORE (CLOUNLEA)                   ,IE,+52:08:35,-009:24:11, 177, RR3,19500518,20050831,   17,Conor Daly                                        
+ 1777,107931,KNOCKNAGOSHEL G.S.                      ,IE,+52:19:59,-009:22:34, 152, RR3,19411101,19890823,   17,Conor Daly                                        
+ 1779,107714,TULLA                                   ,IE,+52:52:08,-008:45:29,  61, RR3,19430715,20210731,   17,Conor Daly                                        
+ 1781,107716,GURTEEN G.S.                            ,IE,+53:59:31,-008:30:40,  73, RR3,19420226,19890220,   17,Conor Daly                                        
+ 1781,107869,BALLAGHADERREEN (VOC.SCH.)              ,IE,+53:54:00,-008:34:59,  87, RR3,19440401,19891231,   17,Conor Daly                                        
+ 1783,107718,LOUTH G.S.                              ,IE,+53:57:11,-006:32:10,  37, RR3,19430323,19860731,   17,Conor Daly                                        
+ 1783,107768,ARDEE (ST.BRIGIDS HOSP.)                ,IE,+53:51:14,-006:32:46,  32, RR3,19520904,20210630,   17,Conor Daly                                        
+ 1786,107721,SHANAGLISH G.S.                         ,IE,+53:00:22,-008:50:10,  40, RR3,19430715,19900731,   17,Conor Daly                                        
+ 1786,107919,CRUSHEEN G.S.                           ,IE,+52:56:20,-008:54:00,  34, RR3,19430601,19900912,   17,Conor Daly                                        
+ 1788,107723,DUNMORE G.S.                            ,IE,+53:37:08,-008:43:59,  61, RR3,19411123,19880430,   17,Conor Daly                                        
+ 1788,107847,MILLTOWN                                ,IE,+53:36:43,-008:53:31,  50, RR3,19440428,20210730,   17,Conor Daly                                        
+ 1788,107851,GLENAMADDY (GORTNAGIER)                 ,IE,+53:36:11,-008:33:40,  84, RR3,19440501,20210731,   17,Conor Daly                                        
+ 1789,107724,CAVAN (TRANS.STN.)                      ,IE,+53:59:49,-007:21:29,  88, RR3,19420701,19870131,   17,Conor Daly                                        
+ 1789,107735,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66, RR3,19420605,19990920,   17,Conor Daly                                        
+ 1789,107913,BALLYHAISE (AGR.COLL.)                  ,IE,+54:03:04,-007:18:36,  67, RR3,19410101,20050731,   17,Conor Daly                                        
+ 1789,116294,BALLYHAISE                              ,IE,+54:03:04,-007:18:36,  79, RR3,20080401,20210731,   17,Conor Daly                                        
+ 1789,903979,BALLYHAISE, CAVAN                       ,IE,+54:03:00,-007:18:00,  79, RR8,20090609,20200229,     ,                    
+ 1790,107725,OMEATH                                  ,IE,+54:05:10,-006:15:14,  12, RR3,19430325,20210731,   17,Conor Daly                                        
+ 1790,218593,KILLOWEN                                ,GB,+54:04:37,-006:11:02,   4, RR7,20000407,20191230,   84,Matthew Fry                                       
+ 1791,107726,KINLOUGH G.S.                           ,IE,+54:26:46,-008:17:17,  43, RR3,19511107,20090731,   17,Conor Daly                                        
+ 1791,107808,BALLYSHANNON (CATHLEENS FALL)           ,IE,+54:30:00,-008:10:44,  38, RR3,19451120,20210731,   17,Conor Daly                                        
+ 1791,107856,BALLYSHANNON (CHERRYMOUNT)              ,IE,+54:29:31,-008:09:11,  30, RR3,19540720,20210731,   17,Conor Daly                                        
+ 1791,903978,FINNER                                  ,IE,+54:30:00,-008:13:59,  45, RR8,20110902,20200229,     ,                    
+ 1793,107728,CROOKSTOWN G.S.                         ,IE,+51:51:22,-008:48:36,  61, RR3,19421101,19900430,   17,Conor Daly                                        
+ 1793,107743,MACROOM G.S.                            ,IE,+51:54:25,-008:57:50,  75, RR3,19421001,19950531,   17,Conor Daly                                        
+ 1793,107771,COACHFORD G.S.                          ,IE,+51:54:29,-008:47:31,  68, RR3,19421102,19910228,   17,Conor Daly                                        
+ 1793,107864,CARRIGADROHID (GEN.STN.)                ,IE,+51:53:49,-008:51:50,  67, RR3,19531112,20210731,   17,Conor Daly                                        
+ 1794,107729,OOLAGH (CARAGH RIVER AREA)              ,IE,+52:03:04,-009:50:06,  98, RR3,19490609,20090531,   17,Conor Daly                                        
+ 1794,107754,CLOONE LAKE (CARAGH RIVER AREA)         ,IE,+51:56:35,-009:52:26, 122, RR3,19490613,20210730,   17,Conor Daly                                        
+ 1878,107724,CAVAN (TRANS.STN.)                      ,IE,+53:59:49,-007:21:29,  88, RR3,19420701,19870131,   17,Conor Daly                                        
+ 1878,107735,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66, RR3,19420605,19990920,   17,Conor Daly                                        
+ 1878,107777,BELTURBET (VOC.SCH.)                    ,IE,+54:06:00,-007:26:31,  70, RR3,19440811,19891031,   17,Conor Daly                                        
+ 1878,107820,CLONES                                  ,IE,+54:10:48,-007:13:48,  87, RR3,19500101,20080331,   17,Conor Daly                                        
+ 1878,107913,BALLYHAISE (AGR.COLL.)                  ,IE,+54:03:04,-007:18:36,  67, RR3,19410101,20050731,   17,Conor Daly                                        
+ 1878,116294,BALLYHAISE                              ,IE,+54:03:04,-007:18:36,  79, RR3,20080401,20210731,   17,Conor Daly                                        
+ 1878,903974,CLONES                                  ,IE,+54:11:00,-007:14:00,  87, RR8,19820101,20080406,     ,                    
+ 1878,903979,BALLYHAISE, CAVAN                       ,IE,+54:03:00,-007:18:00,  79, RR8,20090609,20200229,     ,                    
+ 1879,107703,PETTIGO (LOUGH DERG)                    ,IE,+54:36:22,-007:51:40, 146, RR3,19520610,20210731,   17,Conor Daly                                        
+ 1879,107736,PETTIGO (MEENSHEEFIN)                   ,IE,+54:34:44,-007:58:30, 148, RR3,19520610,20001130,   17,Conor Daly                                        
+ 1883,107740,MEELICK (VICTORIA LOCK)                 ,IE,+53:10:01,-008:04:52,  39, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1883,107757,BANAGHER (CANAL HSE.)                   ,IE,+53:11:38,-007:59:38,  37, RR3,19430101,20150331,   17,Conor Daly                                        
+ 1883,107763,PORTUMNA O.P.W.                         ,IE,+53:05:31,-008:11:31,  35, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1883,107842,EYRECOURT G.S.                          ,IE,+53:11:49,-008:07:59,  58, RR3,19430722,19891130,   17,Conor Daly                                        
+ 1885,107742,DRUMSNA (ALBERT LOCK)                   ,IE,+53:54:40,-008:00:00,  45, RR3,19410101,20210228,   17,Conor Daly                                        
+ 1885,107753,KESHCARRIGAN G.S.                       ,IE,+54:01:05,-007:56:31,  69, RR3,19420615,20210731,   17,Conor Daly                                        
+ 1885,107767,DROMOD (RUSKEY)                         ,IE,+53:49:30,-007:55:08,  42, RR3,19410101,20180731,   17,Conor Daly                                        
+ 1885,107837,CARRICK-ON-SHANNON E.S.B.               ,IE,+53:56:20,-008:06:40,  56, RR3,19420616,19880630,   17,Conor Daly                                        
+ 1886,107728,CROOKSTOWN G.S.                         ,IE,+51:51:22,-008:48:36,  61, RR3,19421101,19900430,   17,Conor Daly                                        
+ 1886,107743,MACROOM G.S.                            ,IE,+51:54:25,-008:57:50,  75, RR3,19421001,19950531,   17,Conor Daly                                        
+ 1886,107771,COACHFORD G.S.                          ,IE,+51:54:29,-008:47:31,  68, RR3,19421102,19910228,   17,Conor Daly                                        
+ 1886,107864,CARRIGADROHID (GEN.STN.)                ,IE,+51:53:49,-008:51:50,  67, RR3,19531112,20210731,   17,Conor Daly                                        
+ 1887,107744,GLENVICKEE (CARAGH RIVER AREA)          ,IE,+51:58:26,-009:49:44, 128, RR3,19490612,20210730,   17,Conor Daly                                        
+ 1887,107754,CLOONE LAKE (CARAGH RIVER AREA)         ,IE,+51:56:35,-009:52:26, 122, RR3,19490613,20210730,   17,Conor Daly                                        
+ 1888,107745,BUTTEVANT G.S.                          ,IE,+52:13:41,-008:40:19,  96, RR3,19440608,20020630,   17,Conor Daly                                        
+ 1888,107910,MALLOW (HAZELWOOD)                      ,IE,+52:11:24,-008:39:00,  94, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1891,107748,BIRDHILL (PARTEEN WEIR)                 ,IE,+52:45:40,-008:28:19,  34, RR3,19410101,20140531,   17,Conor Daly                                        
+ 1891,107875,ARDNACRUSHA (GEN.STN.NO.2)              ,IE,+52:41:49,-008:37:01,  28, RR3,19521009,20210731,   17,Conor Daly                                        
+ 1894,107751,CLOONDRA O.P.W.                         ,IE,+53:43:59,-007:54:29,  48, RR3,19410101,19941130,   17,Conor Daly                                        
+ 1894,107767,DROMOD (RUSKEY)                         ,IE,+53:49:30,-007:55:08,  42, RR3,19410101,20180731,   17,Conor Daly                                        
+ 1894,107807,LANESBORO O.P.W.                        ,IE,+53:40:30,-007:59:31,  46, RR3,19410101,19951031,   17,Conor Daly                                        
+ 1896,107742,DRUMSNA (ALBERT LOCK)                   ,IE,+53:54:40,-008:00:00,  45, RR3,19410101,20210228,   17,Conor Daly                                        
+ 1896,107753,KESHCARRIGAN G.S.                       ,IE,+54:01:05,-007:56:31,  69, RR3,19420615,20210731,   17,Conor Daly                                        
+ 1896,107758,DRUMSHANBO                              ,IE,+54:03:40,-008:03:40,  54, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1897,107729,OOLAGH (CARAGH RIVER AREA)              ,IE,+52:03:04,-009:50:06,  98, RR3,19490609,20090531,   17,Conor Daly                                        
+ 1897,107744,GLENVICKEE (CARAGH RIVER AREA)          ,IE,+51:58:26,-009:49:44, 128, RR3,19490612,20210730,   17,Conor Daly                                        
+ 1897,107754,CLOONE LAKE (CARAGH RIVER AREA)         ,IE,+51:56:35,-009:52:26, 122, RR3,19490613,20210730,   17,Conor Daly                                        
+ 1898,107755,KNOCKADERRY RESV.NO.1                   ,IE,+52:12:36,-007:16:16,  71, RR3,19410101,20080531,   17,Conor Daly                                        
+ 1898,107762,WATERFORD (TYCOR)                       ,IE,+52:15:11,-007:07:52,  49, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1898,107772,KNOCKADERRY RESV.NO.2                   ,IE,+52:12:29,-007:16:41,  62, RR3,19410101,19900831,   17,Conor Daly                                        
+ 1898,107809,MOONCOIN (VOC.SCH.)                     ,IE,+52:17:31,-007:15:11,  53, RR3,19410101,19931130,   17,Conor Daly                                        
+ 1899,107756,DAINGEAN G.S.                           ,IE,+53:17:31,-007:17:31,  78, RR3,19420120,19900430,   17,Conor Daly                                        
+ 1899,107861,DERRYGREENAGH                           ,IE,+53:23:31,-007:15:29,  90, RR3,19550401,20210731,   17,Conor Daly                                        
+ 1900,107740,MEELICK (VICTORIA LOCK)                 ,IE,+53:10:01,-008:04:52,  39, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1900,107757,BANAGHER (CANAL HSE.)                   ,IE,+53:11:38,-007:59:38,  37, RR3,19430101,20150331,   17,Conor Daly                                        
+ 1901,107753,KESHCARRIGAN G.S.                       ,IE,+54:01:05,-007:56:31,  69, RR3,19420615,20210731,   17,Conor Daly                                        
+ 1901,107758,DRUMSHANBO                              ,IE,+54:03:40,-008:03:40,  54, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1760,107755,KNOCKADERRY RESV.NO.1                   ,IE,+52:12:36,-007:16:16,  71, RR3,19410101,20080531,   17,Conor Daly                                        
+ 1760,107762,WATERFORD (TYCOR)                       ,IE,+52:15:11,-007:07:52,  49, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1760,107809,MOONCOIN (VOC.SCH.)                     ,IE,+52:17:31,-007:15:11,  53, RR3,19410101,19931130,   17,Conor Daly                                        
+ 1760,107911,BELLE LAKE (FILTER STN.)                ,IE,+52:11:38,-007:01:26,  34, RR3,19571026,20140531,   17,Conor Daly                                        
+ 1904,107740,MEELICK (VICTORIA LOCK)                 ,IE,+53:10:01,-008:04:52,  39, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1904,107763,PORTUMNA O.P.W.                         ,IE,+53:05:31,-008:11:31,  35, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1704,107764,DUBLIN (GLASNEVIN)                      ,IE,+53:22:16,-006:16:19,  21, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1704,107805,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16, RR3,19410101,19890930,   17,Conor Daly                                        
+ 1704,107818,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5, RR3,19410101,20011031,   17,Conor Daly                                        
+ 1704,107825,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1704,107874,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13, RR3,19480101,20210731,   17,Conor Daly                                        
+ 1905,107765,KILCONLY G.S.                           ,IE,+53:34:19,-008:58:59,  46, RR3,19411126,19950502,   17,Conor Daly                                        
+ 1905,107847,MILLTOWN                                ,IE,+53:36:43,-008:53:31,  50, RR3,19440428,20210730,   17,Conor Daly                                        
+ 1907,107742,DRUMSNA (ALBERT LOCK)                   ,IE,+53:54:40,-008:00:00,  45, RR3,19410101,20210228,   17,Conor Daly                                        
+ 1907,107751,CLOONDRA O.P.W.                         ,IE,+53:43:59,-007:54:29,  48, RR3,19410101,19941130,   17,Conor Daly                                        
+ 1907,107767,DROMOD (RUSKEY)                         ,IE,+53:49:30,-007:55:08,  42, RR3,19410101,20180731,   17,Conor Daly                                        
+ 1908,107718,LOUTH G.S.                              ,IE,+53:57:11,-006:32:10,  37, RR3,19430323,19860731,   17,Conor Daly                                        
+ 1908,107768,ARDEE (ST.BRIGIDS HOSP.)                ,IE,+53:51:14,-006:32:46,  32, RR3,19520904,20210630,   17,Conor Daly                                        
+ 1911,107728,CROOKSTOWN G.S.                         ,IE,+51:51:22,-008:48:36,  61, RR3,19421101,19900430,   17,Conor Daly                                        
+ 1911,107743,MACROOM G.S.                            ,IE,+51:54:25,-008:57:50,  75, RR3,19421001,19950531,   17,Conor Daly                                        
+ 1911,107771,COACHFORD G.S.                          ,IE,+51:54:29,-008:47:31,  68, RR3,19421102,19910228,   17,Conor Daly                                        
+ 1911,107864,CARRIGADROHID (GEN.STN.)                ,IE,+51:53:49,-008:51:50,  67, RR3,19531112,20210731,   17,Conor Daly                                        
+ 1912,107755,KNOCKADERRY RESV.NO.1                   ,IE,+52:12:36,-007:16:16,  71, RR3,19410101,20080531,   17,Conor Daly                                        
+ 1912,107762,WATERFORD (TYCOR)                       ,IE,+52:15:11,-007:07:52,  49, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1912,107772,KNOCKADERRY RESV.NO.2                   ,IE,+52:12:29,-007:16:41,  62, RR3,19410101,19900831,   17,Conor Daly                                        
+ 1912,107809,MOONCOIN (VOC.SCH.)                     ,IE,+52:17:31,-007:15:11,  53, RR3,19410101,19931130,   17,Conor Daly                                        
+ 1915,107775,ATHLONE O.P.W.                          ,IE,+53:25:19,-007:56:31,  37, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1915,107826,GLASSON G.S.                            ,IE,+53:28:30,-007:51:50,  48, RR3,19420301,19910831,   17,Conor Daly                                        
+ 1917,107735,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66, RR3,19420605,19990920,   17,Conor Daly                                        
+ 1917,107777,BELTURBET (VOC.SCH.)                    ,IE,+54:06:00,-007:26:31,  70, RR3,19440811,19891031,   17,Conor Daly                                        
+ 1917,107913,BALLYHAISE (AGR.COLL.)                  ,IE,+54:03:04,-007:18:36,  67, RR3,19410101,20050731,   17,Conor Daly                                        
+ 1917,116294,BALLYHAISE                              ,IE,+54:03:04,-007:18:36,  79, RR3,20080401,20210731,   17,Conor Daly                                        
+ 1917,218675,DERRYLIN                                ,GB,+54:09:03,-007:34:30,  70, RR7,20040203,20070214,   84,Matthew Fry                                       
+ 1917,903979,BALLYHAISE, CAVAN                       ,IE,+54:03:00,-007:18:00,  79, RR8,20090609,20200229,     ,                    
+ 1919,107779,M.MOANBANE NO.4                         ,IE,+53:05:10,-006:26:31, 354, RR3,20010801,20210731,   17,Conor Daly                                        
+ 1919,107854,GLENBRIDE LODGE                         ,IE,+53:04:41,-006:27:11, 363, RR3,19430101,20210731,   17,Conor Daly                                        
+ 1926,107786,CASHEL (BALLINAMONA)                    ,IE,+52:30:40,-007:55:41,  80, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1927,107787,CASTLEDERMOT G.S.                       ,IE,+52:54:29,-006:50:49,  82, RR3,19440926,19971231,   17,Conor Daly                                        
+ 1927,116292,OAK PARK                                ,IE,+52:51:40,-006:54:54,  63, RR3,20080401,20210731,   17,Conor Daly                                        
+ 1927,903961,OAK PARK, CARLOW                        ,IE,+52:51:00,-006:54:00,  63, RR8,20090609,20200229,     ,                    
+ 1738,107788,GLENGARRIFF (ILNACULLIN)                ,IE,+51:44:06,-009:32:46,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1761,107789,DUN LAOGHAIRE (PEOPLES PARK)            ,IE,+53:17:20,-006:07:41,   8, RR3,19410101,19890624,   17,Conor Daly                                        
+ 1761,107805,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16, RR3,19410101,19890930,   17,Conor Daly                                        
+ 1761,107818,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5, RR3,19410101,20011031,   17,Conor Daly                                        
+ 1761,107825,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1761,107874,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13, RR3,19480101,20210731,   17,Conor Daly                                        
+ 1928,107790,COROFIN G.S.                            ,IE,+53:26:10,-008:51:50,  34, RR3,19411127,19880630,   17,Conor Daly                                        
+ 1928,107806,CARNDOLLA                               ,IE,+53:24:04,-009:00:00,  24, RR3,19411201,20210729,   17,Conor Daly                                        
+ 1928,107811,LAGHTGEORGE G.S.                        ,IE,+53:21:22,-008:55:52,  14, RR3,19411201,19940531,   17,Conor Daly                                        
+ 1930,107792,CUILCAGH MTNS.                          ,IE,+54:09:58,-007:48:04, 290, RR3,19440811,20210630,   17,Conor Daly                                        
+  968,107793,CARRICKMACROSS (DUNOGE)                 ,IE,+53:58:41,-006:45:11,  88, RR3,19581001,20210731,   17,Conor Daly                                        
+  968,107914,KINGSCOURT G.S.                         ,IE,+53:54:25,-006:48:14, 105, RR3,19430320,19880229,   17,Conor Daly                                        
+  968,107925,SHERCOCK G.S.                           ,IE,+53:59:49,-006:54:00, 110, RR3,19420603,19870627,   17,Conor Daly                                        
+ 1932,107795,BALLINSPITTLE G.S.                      ,IE,+51:40:01,-008:35:49,  15, RR3,19491101,19950131,   17,Conor Daly                                        
+ 1932,107821,KILBRITTAIN G.S.                        ,IE,+51:40:26,-008:41:24,  32, RR3,19500718,20051231,   17,Conor Daly                                        
+ 1935,107798,HACKETSTOWN (VOC.SCH.)                  ,IE,+52:51:40,-006:33:11, 189, RR3,19490905,20210731,   17,Conor Daly                                        
+ 1938,107712,CASTLEISLAND (COOM)                     ,IE,+52:13:59,-009:21:22, 157, RR3,19440601,20210731,   17,Conor Daly                                        
+ 1938,107801,FARRANFORE (CLOUNLEA)                   ,IE,+52:08:35,-009:24:11, 177, RR3,19500518,20050831,   17,Conor Daly                                        
+ 1942,107764,DUBLIN (GLASNEVIN)                      ,IE,+53:22:16,-006:16:19,  21, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1942,107789,DUN LAOGHAIRE (PEOPLES PARK)            ,IE,+53:17:20,-006:07:41,   8, RR3,19410101,19890624,   17,Conor Daly                                        
+ 1942,107805,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16, RR3,19410101,19890930,   17,Conor Daly                                        
+ 1942,107818,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5, RR3,19410101,20011031,   17,Conor Daly                                        
+ 1942,107825,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1942,107874,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13, RR3,19480101,20210731,   17,Conor Daly                                        
+ 1943,107790,COROFIN G.S.                            ,IE,+53:26:10,-008:51:50,  34, RR3,19411127,19880630,   17,Conor Daly                                        
+ 1943,107806,CARNDOLLA                               ,IE,+53:24:04,-009:00:00,  24, RR3,19411201,20210729,   17,Conor Daly                                        
+ 1943,107811,LAGHTGEORGE G.S.                        ,IE,+53:21:22,-008:55:52,  14, RR3,19411201,19940531,   17,Conor Daly                                        
+  964,107726,KINLOUGH G.S.                           ,IE,+54:26:46,-008:17:17,  43, RR3,19511107,20090731,   17,Conor Daly                                        
+  964,107808,BALLYSHANNON (CATHLEENS FALL)           ,IE,+54:30:00,-008:10:44,  38, RR3,19451120,20210731,   17,Conor Daly                                        
+  964,107856,BALLYSHANNON (CHERRYMOUNT)              ,IE,+54:29:31,-008:09:11,  30, RR3,19540720,20210731,   17,Conor Daly                                        
+  964,903978,FINNER                                  ,IE,+54:30:00,-008:13:59,  45, RR8,20110902,20200229,     ,                    
+ 1945,107755,KNOCKADERRY RESV.NO.1                   ,IE,+52:12:36,-007:16:16,  71, RR3,19410101,20080531,   17,Conor Daly                                        
+ 1945,107762,WATERFORD (TYCOR)                       ,IE,+52:15:11,-007:07:52,  49, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1945,107809,MOONCOIN (VOC.SCH.)                     ,IE,+52:17:31,-007:15:11,  53, RR3,19410101,19931130,   17,Conor Daly                                        
+ 1946,101859,GALWAY                                  ,IE,+53:16:48,-009:01:12,   8, RR1,18610107,20021231,   46,Marcus Keane                                      
+ 1946,107790,COROFIN G.S.                            ,IE,+53:26:10,-008:51:50,  34, RR3,19411127,19880630,   17,Conor Daly                                        
+ 1946,107806,CARNDOLLA                               ,IE,+53:24:04,-009:00:00,  24, RR3,19411201,20210729,   17,Conor Daly                                        
+ 1946,107811,LAGHTGEORGE G.S.                        ,IE,+53:21:22,-008:55:52,  14, RR3,19411201,19940531,   17,Conor Daly                                        
+ 1946,903964,GALWAY                                  ,IE,+53:17:00,-009:01:00,  21, RR8,19820103,19900622,     ,                    
+ 1948,107813,ESKERAGH                                ,IE,+54:06:40,-009:27:50,  85, RR3,19440815,20210731,   17,Conor Daly                                        
+ 1948,107819,KEENAGH BEG                             ,IE,+54:02:20,-009:28:52,  91, RR3,19440815,20210731,   17,Conor Daly                                        
+ 1948,107831,DERRYHILLAGH                            ,IE,+54:01:59,-009:23:31, 104, RR3,19440816,20210731,   17,Conor Daly                                        
+ 1948,107939,BELLACORRICK (MONEYNIERIN)              ,IE,+54:07:01,-009:32:49,  88, RR3,19540801,20041231,   17,Conor Daly                                        
+ 1952,107817,GLEN IMAAL (FOR.STN.)                   ,IE,+52:59:35,-006:33:11, 213, RR3,19510501,20210731,   17,Conor Daly                                        
+ 1953,107764,DUBLIN (GLASNEVIN)                      ,IE,+53:22:16,-006:16:19,  21, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1953,107789,DUN LAOGHAIRE (PEOPLES PARK)            ,IE,+53:17:20,-006:07:41,   8, RR3,19410101,19890624,   17,Conor Daly                                        
+ 1953,107805,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16, RR3,19410101,19890930,   17,Conor Daly                                        
+ 1953,107818,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5, RR3,19410101,20011031,   17,Conor Daly                                        
+ 1953,107825,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1953,107874,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13, RR3,19480101,20210731,   17,Conor Daly                                        
+ 1954,107813,ESKERAGH                                ,IE,+54:06:40,-009:27:50,  85, RR3,19440815,20210731,   17,Conor Daly                                        
+ 1954,107819,KEENAGH BEG                             ,IE,+54:02:20,-009:28:52,  91, RR3,19440815,20210731,   17,Conor Daly                                        
+ 1954,107831,DERRYHILLAGH                            ,IE,+54:01:59,-009:23:31, 104, RR3,19440816,20210731,   17,Conor Daly                                        
+ 1954,107939,BELLACORRICK (MONEYNIERIN)              ,IE,+54:07:01,-009:32:49,  88, RR3,19540801,20041231,   17,Conor Daly                                        
+ 2142,107735,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66, RR3,19420605,19990920,   17,Conor Daly                                        
+ 2142,107820,CLONES                                  ,IE,+54:10:48,-007:13:48,  87, RR3,19500101,20080331,   17,Conor Daly                                        
+ 2142,903974,CLONES                                  ,IE,+54:11:00,-007:14:00,  87, RR8,19820101,20080406,     ,                    
+ 1955,107795,BALLINSPITTLE G.S.                      ,IE,+51:40:01,-008:35:49,  15, RR3,19491101,19950131,   17,Conor Daly                                        
+ 1955,107821,KILBRITTAIN G.S.                        ,IE,+51:40:26,-008:41:24,  32, RR3,19500718,20051231,   17,Conor Daly                                        
+ 1955,107840,KINSALE (VOC.SCH.)                      ,IE,+51:42:29,-008:31:52,  43, RR3,19520425,20210731,   17,Conor Daly                                        
+ 1956,107822,RATHCORMAC G.S.                         ,IE,+52:04:34,-008:16:59,  55, RR3,19440713,19950225,   17,Conor Daly                                        
+ 1956,155937,MOOREPARK                               ,IE,+52:09:50,-008:15:50,  47, RR3,20130101,20210731,   17,Conor Daly                                        
+ 1958,107764,DUBLIN (GLASNEVIN)                      ,IE,+53:22:16,-006:16:19,  21, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1958,107789,DUN LAOGHAIRE (PEOPLES PARK)            ,IE,+53:17:20,-006:07:41,   8, RR3,19410101,19890624,   17,Conor Daly                                        
+ 1958,107805,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16, RR3,19410101,19890930,   17,Conor Daly                                        
+ 1958,107818,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5, RR3,19410101,20011031,   17,Conor Daly                                        
+ 1958,107825,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1958,107874,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13, RR3,19480101,20210731,   17,Conor Daly                                        
+ 1959,107775,ATHLONE O.P.W.                          ,IE,+53:25:19,-007:56:31,  37, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1959,107826,GLASSON G.S.                            ,IE,+53:28:30,-007:51:50,  48, RR3,19420301,19910831,   17,Conor Daly                                        
+ 1963,107813,ESKERAGH                                ,IE,+54:06:40,-009:27:50,  85, RR3,19440815,20210731,   17,Conor Daly                                        
+ 1963,107819,KEENAGH BEG                             ,IE,+54:02:20,-009:28:52,  91, RR3,19440815,20210731,   17,Conor Daly                                        
+ 1963,107831,DERRYHILLAGH                            ,IE,+54:01:59,-009:23:31, 104, RR3,19440816,20210731,   17,Conor Daly                                        
+ 1966,107834,KILTORMER                               ,IE,+53:14:20,-008:16:16,  78, RR3,19430721,20210731,   17,Conor Daly                                        
+ 1966,107842,EYRECOURT G.S.                          ,IE,+53:11:49,-008:07:59,  58, RR3,19430722,19891130,   17,Conor Daly                                        
+ 1968,107742,DRUMSNA (ALBERT LOCK)                   ,IE,+53:54:40,-008:00:00,  45, RR3,19410101,20210228,   17,Conor Daly                                        
+ 1968,107837,CARRICK-ON-SHANNON E.S.B.               ,IE,+53:56:20,-008:06:40,  56, RR3,19420616,19880630,   17,Conor Daly                                        
+ 1971,107821,KILBRITTAIN G.S.                        ,IE,+51:40:26,-008:41:24,  32, RR3,19500718,20051231,   17,Conor Daly                                        
+ 1971,107840,KINSALE (VOC.SCH.)                      ,IE,+51:42:29,-008:31:52,  43, RR3,19520425,20210731,   17,Conor Daly                                        
+ 1973,107740,MEELICK (VICTORIA LOCK)                 ,IE,+53:10:01,-008:04:52,  39, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1973,107757,BANAGHER (CANAL HSE.)                   ,IE,+53:11:38,-007:59:38,  37, RR3,19430101,20150331,   17,Conor Daly                                        
+ 1973,107763,PORTUMNA O.P.W.                         ,IE,+53:05:31,-008:11:31,  35, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1973,107834,KILTORMER                               ,IE,+53:14:20,-008:16:16,  78, RR3,19430721,20210731,   17,Conor Daly                                        
+ 1973,107842,EYRECOURT G.S.                          ,IE,+53:11:49,-008:07:59,  58, RR3,19430722,19891130,   17,Conor Daly                                        
+ 1759,107844,WARRENSTOWN                             ,IE,+53:31:26,-006:36:40,  90, RR3,19520101,20151031,   17,Conor Daly                                        
+ 1759,155934,DUNSANY GRANGE                          ,IE,+53:30:00,-006:42:00,  84, RR3,20130101,20210731,   17,Conor Daly                                        
+ 1977,107723,DUNMORE G.S.                            ,IE,+53:37:08,-008:43:59,  61, RR3,19411123,19880430,   17,Conor Daly                                        
+ 1977,107765,KILCONLY G.S.                           ,IE,+53:34:19,-008:58:59,  46, RR3,19411126,19950502,   17,Conor Daly                                        
+ 1977,107847,MILLTOWN                                ,IE,+53:36:43,-008:53:31,  50, RR3,19440428,20210730,   17,Conor Daly                                        
+ 1978,107848,CASTLEBAR (BURREN)                      ,IE,+53:54:54,-009:18:29, 137, RR3,19520901,20210630,   17,Conor Daly                                        
+ 1981,107723,DUNMORE G.S.                            ,IE,+53:37:08,-008:43:59,  61, RR3,19411123,19880430,   17,Conor Daly                                        
+ 1981,107851,GLENAMADDY (GORTNAGIER)                 ,IE,+53:36:11,-008:33:40,  84, RR3,19440501,20210731,   17,Conor Daly                                        
+ 1982,107852,CLOONACOOL (LOUGH EASKEY)               ,IE,+54:07:55,-008:50:49, 204, RR3,19520822,20210630,   17,Conor Daly                                        
+ 1984,107779,M.MOANBANE NO.4                         ,IE,+53:05:10,-006:26:31, 354, RR3,20010801,20210731,   17,Conor Daly                                        
+ 1984,107854,GLENBRIDE LODGE                         ,IE,+53:04:41,-006:27:11, 363, RR3,19430101,20210731,   17,Conor Daly                                        
+ 1986,107726,KINLOUGH G.S.                           ,IE,+54:26:46,-008:17:17,  43, RR3,19511107,20090731,   17,Conor Daly                                        
+ 1986,107808,BALLYSHANNON (CATHLEENS FALL)           ,IE,+54:30:00,-008:10:44,  38, RR3,19451120,20210731,   17,Conor Daly                                        
+ 1986,107856,BALLYSHANNON (CHERRYMOUNT)              ,IE,+54:29:31,-008:09:11,  30, RR3,19540720,20210731,   17,Conor Daly                                        
+ 1986,903978,FINNER                                  ,IE,+54:30:00,-008:13:59,  45, RR8,20110902,20200229,     ,                    
+ 1987,107857,POULAPHUCA (GEN.STN.)                   ,IE,+53:07:08,-006:35:20, 174, RR3,19410101,20091130,   17,Conor Daly                                        
+ 1987,107873,BALLYMORE EUSTACE D.C.W.W.              ,IE,+53:07:30,-006:36:22, 172, RR3,19440925,20210731,   17,Conor Daly                                        
+ 1646,107756,DAINGEAN G.S.                           ,IE,+53:17:31,-007:17:31,  78, RR3,19420120,19900430,   17,Conor Daly                                        
+ 1646,107861,DERRYGREENAGH                           ,IE,+53:23:31,-007:15:29,  90, RR3,19550401,20210731,   17,Conor Daly                                        
+ 1757,107862,SLIEVE BLOOM MTNS.(NEALSTOWN)           ,IE,+52:59:35,-007:42:14, 219, RR3,19530501,20210731,   17,Conor Daly                                        
+ 1991,107863,CLOUGHJORDAN G.S.                       ,IE,+52:56:31,-008:02:31,  94, RR3,19431028,19930331,   17,Conor Daly                                        
+ 1991,107868,SHINRONE G.S.                           ,IE,+52:58:59,-007:55:59,  70, RR3,19431028,19900531,   17,Conor Daly                                        
+ 1991,116290,GURTEEN                                 ,IE,+53:01:48,-008:00:36,  76, RR3,20100101,20210731,   17,Conor Daly                                        
+ 1991,903966,GURTEEN                                 ,IE,+53:01:00,-008:00:00,  76, RR8,20100419,20200229,     ,                    
+ 1992,107728,CROOKSTOWN G.S.                         ,IE,+51:51:22,-008:48:36,  61, RR3,19421101,19900430,   17,Conor Daly                                        
+ 1992,107743,MACROOM G.S.                            ,IE,+51:54:25,-008:57:50,  75, RR3,19421001,19950531,   17,Conor Daly                                        
+ 1992,107771,COACHFORD G.S.                          ,IE,+51:54:29,-008:47:31,  68, RR3,19421102,19910228,   17,Conor Daly                                        
+ 1992,107864,CARRIGADROHID (GEN.STN.)                ,IE,+51:53:49,-008:51:50,  67, RR3,19531112,20210731,   17,Conor Daly                                        
+ 1995,107863,CLOUGHJORDAN G.S.                       ,IE,+52:56:31,-008:02:31,  94, RR3,19431028,19930331,   17,Conor Daly                                        
+ 1995,107868,SHINRONE G.S.                           ,IE,+52:58:59,-007:55:59,  70, RR3,19431028,19900531,   17,Conor Daly                                        
+ 1995,116290,GURTEEN                                 ,IE,+53:01:48,-008:00:36,  76, RR3,20100101,20210731,   17,Conor Daly                                        
+ 1995,903965,BIRR                                    ,IE,+53:05:00,-007:53:00,  70, RR8,19820101,20090930,     ,                    
+ 1995,903966,GURTEEN                                 ,IE,+53:01:00,-008:00:00,  76, RR8,20100419,20200229,     ,                    
+ 1996,107708,LOUGHGLINN                              ,IE,+53:49:19,-008:33:22,  98, RR3,19440329,20210731,   17,Conor Daly                                        
+ 1996,107716,GURTEEN G.S.                            ,IE,+53:59:31,-008:30:40,  73, RR3,19420226,19890220,   17,Conor Daly                                        
+ 1996,107869,BALLAGHADERREEN (VOC.SCH.)              ,IE,+53:54:00,-008:34:59,  87, RR3,19440401,19891231,   17,Conor Daly                                        
+ 1997,107870,INISHCARRA (GEN.STN.)                   ,IE,+51:54:00,-008:39:40,  24, RR3,19540127,20210731,   17,Conor Daly                                        
+  970,107871,CASEMENT AERODROME                      ,IE,+53:18:22,-006:26:20,  94, RR3,19540101,20210731,   17,Conor Daly                                        
+  970,903967,CASEMENT AERODROME                      ,IE,+53:18:00,-006:26:00,  93, RR8,19870209,20200229,     ,                    
+ 1998,107857,POULAPHUCA (GEN.STN.)                   ,IE,+53:07:08,-006:35:20, 174, RR3,19410101,20091130,   17,Conor Daly                                        
+ 1998,107873,BALLYMORE EUSTACE D.C.W.W.              ,IE,+53:07:30,-006:36:22, 172, RR3,19440925,20210731,   17,Conor Daly                                        
+ 1715,107764,DUBLIN (GLASNEVIN)                      ,IE,+53:22:16,-006:16:19,  21, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1715,107789,DUN LAOGHAIRE (PEOPLES PARK)            ,IE,+53:17:20,-006:07:41,   8, RR3,19410101,19890624,   17,Conor Daly                                        
+ 1715,107805,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16, RR3,19410101,19890930,   17,Conor Daly                                        
+ 1715,107818,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5, RR3,19410101,20011031,   17,Conor Daly                                        
+ 1715,107825,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1715,107874,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13, RR3,19480101,20210731,   17,Conor Daly                                        
+ 1999,107748,BIRDHILL (PARTEEN WEIR)                 ,IE,+52:45:40,-008:28:19,  34, RR3,19410101,20140531,   17,Conor Daly                                        
+ 1999,107875,ARDNACRUSHA (GEN.STN.NO.2)              ,IE,+52:41:49,-008:37:01,  28, RR3,19521009,20210731,   17,Conor Daly                                        
+ 2003,107877,LECARROW                                ,IE,+53:32:38,-008:02:49,  47, RR3,19520221,20210731,   17,Conor Daly                                        
+ 2011,107879,DROMOLAND CASTLE                        ,IE,+52:46:52,-008:54:29,  12, RR3,19410101,20201231,   17,Conor Daly                                        
+ 2011,107892,SHANNON                                 ,IE,+52:41:24,-008:55:05,   6, RR3,19410101,20210730,   17,Conor Daly                                        
+ 2011,903962,SHANNON AIRPORT                         ,IE,+52:42:00,-008:54:59,  20, RR8,19820101,20200229,     ,                    
+ 2019,100454,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49, RR3,18670101,20210731,   17,Conor Daly                                        
+ 2019,107880,LEIXLIP (GEN.STN.)                      ,IE,+53:21:43,-006:29:13,  42, RR3,19490501,20100331,   17,Conor Daly                                        
+ 2019,116291,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49, RR3,20060109,20100329,   17,Conor Daly                                        
+ 1739,107882,GLENTIES HATCHERY                       ,IE,+54:47:24,-008:17:10,  44, RR3,19410101,20210731,   17,Conor Daly                                        
+ 2051,107885,CAHIR (VOC.SCH.)                        ,IE,+52:22:41,-007:55:12,  53, RR3,19511121,20210731,   17,Conor Daly                                        
+ 2053,107887,SILVERMINES MTNS.(CURREENY)             ,IE,+52:43:59,-008:08:49, 312, RR3,19530416,20210731,   17,Conor Daly                                        
+ 2054,107888,BANSHA (AHERLOW W.W.)                   ,IE,+52:24:25,-008:07:19, 128, RR3,19550519,20210731,   17,Conor Daly                                        
+ 2090,107890,CLOGHANE                                ,IE,+52:13:44,-010:10:44,   9, RR3,19501018,20210731,   17,Conor Daly                                        
+ 2139,107879,DROMOLAND CASTLE                        ,IE,+52:46:52,-008:54:29,  12, RR3,19410101,20201231,   17,Conor Daly                                        
+ 2139,107892,SHANNON                                 ,IE,+52:41:24,-008:55:05,   6, RR3,19410101,20210730,   17,Conor Daly                                        
+ 2139,903962,SHANNON AIRPORT                         ,IE,+52:42:00,-008:54:59,  20, RR8,19820101,20200229,     ,                    
+ 2161,107894,NAAS (C.B.S.)                           ,IE,+53:13:05,-006:39:29,  98, RR3,19550511,20210430,   17,Conor Daly                                        
+ 1718,100454,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49, RR3,18670101,20210731,   17,Conor Daly                                        
+ 1718,107895,DUBLIN AIRPORT                          ,IE,+53:25:41,-006:14:28,  71, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1718,116291,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49, RR3,20060109,20100329,   17,Conor Daly                                        
+ 1718,903969,DUBLIN AIRPORT                          ,IE,+53:26:00,-006:15:00,  85, RR8,19820101,20200229,     ,                    
+ 2163,107897,DUNLEWY                                 ,IE,+55:01:55,-008:08:35, 113, RR3,19480822,20020228,   17,Conor Daly                                        
+ 2163,107926,CREESLOUGH (BROCKAGH)                   ,IE,+55:04:41,-007:58:41, 119, RR3,19480819,20210731,   17,Conor Daly                                        
+ 2177,107898,GREENCASTLE                             ,IE,+55:12:36,-006:59:10,  53, RR3,19480716,20210731,   17,Conor Daly                                        
+ 2206,107706,SNEEM                                   ,IE,+51:50:20,-009:54:11,  14, RR3,19491101,20210731,   17,Conor Daly                                        
+ 2206,107900,KENMARE (DERREEN)                       ,IE,+51:46:08,-009:46:52,  24, RR3,19410101,20210731,   17,Conor Daly                                        
+ 1756,107906,MARKREE CASTLE                          ,IE,+54:10:30,-008:27:22,  39, RR3,19410101,20210731,   17,Conor Daly                                        
+ 2297,107908,WATERVILLE OCTIVE NO.9                  ,IE,+51:52:08,-010:03:00, 110, RR3,19480101,20210731,   17,Conor Daly                                        
+ 2299,107745,BUTTEVANT G.S.                          ,IE,+52:13:41,-008:40:19,  96, RR3,19440608,20020630,   17,Conor Daly                                        
+ 2299,107910,MALLOW (HAZELWOOD)                      ,IE,+52:11:24,-008:39:00,  94, RR3,19410101,20210731,   17,Conor Daly                                        
+ 2300,107762,WATERFORD (TYCOR)                       ,IE,+52:15:11,-007:07:52,  49, RR3,19410101,20210731,   17,Conor Daly                                        
+ 2300,107911,BELLE LAKE (FILTER STN.)                ,IE,+52:11:38,-007:01:26,  34, RR3,19571026,20140531,   17,Conor Daly                                        
+ 2301,107912,COROFIN                                 ,IE,+52:56:56,-009:04:05,  29, RR3,19430601,20210630,   17,Conor Daly                                        
+ 2301,107919,CRUSHEEN G.S.                           ,IE,+52:56:20,-008:54:00,  34, RR3,19430601,19900912,   17,Conor Daly                                        
+  958,107724,CAVAN (TRANS.STN.)                      ,IE,+53:59:49,-007:21:29,  88, RR3,19420701,19870131,   17,Conor Daly                                        
+  958,107735,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66, RR3,19420605,19990920,   17,Conor Daly                                        
+  958,107777,BELTURBET (VOC.SCH.)                    ,IE,+54:06:00,-007:26:31,  70, RR3,19440811,19891031,   17,Conor Daly                                        
+  958,107913,BALLYHAISE (AGR.COLL.)                  ,IE,+54:03:04,-007:18:36,  67, RR3,19410101,20050731,   17,Conor Daly                                        
+  958,116294,BALLYHAISE                              ,IE,+54:03:04,-007:18:36,  79, RR3,20080401,20210731,   17,Conor Daly                                        
+  958,903979,BALLYHAISE, CAVAN                       ,IE,+54:03:00,-007:18:00,  79, RR8,20090609,20200229,     ,                    
+ 2302,107793,CARRICKMACROSS (DUNOGE)                 ,IE,+53:58:41,-006:45:11,  88, RR3,19581001,20210731,   17,Conor Daly                                        
+ 2302,107914,KINGSCOURT G.S.                         ,IE,+53:54:25,-006:48:14, 105, RR3,19430320,19880229,   17,Conor Daly                                        
+ 2302,107925,SHERCOCK G.S.                           ,IE,+53:59:49,-006:54:00, 110, RR3,19420603,19870627,   17,Conor Daly                                        
+ 2307,107721,SHANAGLISH G.S.                         ,IE,+53:00:22,-008:50:10,  40, RR3,19430715,19900731,   17,Conor Daly                                        
+ 2307,107912,COROFIN                                 ,IE,+52:56:56,-009:04:05,  29, RR3,19430601,20210630,   17,Conor Daly                                        
+ 2307,107919,CRUSHEEN G.S.                           ,IE,+52:56:20,-008:54:00,  34, RR3,19430601,19900912,   17,Conor Daly                                        
+ 2308,107692,ROUNDWOOD (FILTER BEDS)                 ,IE,+53:03:11,-006:11:10, 195, RR3,19430101,20210430,   17,Conor Daly                                        
+ 2308,107920,MONEYSTOWN                              ,IE,+53:00:00,-006:13:30, 207, RR3,19480701,20210730,   17,Conor Daly                                        
+ 2313,107793,CARRICKMACROSS (DUNOGE)                 ,IE,+53:58:41,-006:45:11,  88, RR3,19581001,20210731,   17,Conor Daly                                        
+ 2313,107914,KINGSCOURT G.S.                         ,IE,+53:54:25,-006:48:14, 105, RR3,19430320,19880229,   17,Conor Daly                                        
+ 2313,107925,SHERCOCK G.S.                           ,IE,+53:59:49,-006:54:00, 110, RR3,19420603,19870627,   17,Conor Daly                                        
+ 2314,107897,DUNLEWY                                 ,IE,+55:01:55,-008:08:35, 113, RR3,19480822,20020228,   17,Conor Daly                                        
+ 2314,107926,CREESLOUGH (BROCKAGH)                   ,IE,+55:04:41,-007:58:41, 119, RR3,19480819,20210731,   17,Conor Daly                                        
+ 2318,107712,CASTLEISLAND (COOM)                     ,IE,+52:13:59,-009:21:22, 157, RR3,19440601,20210731,   17,Conor Daly                                        
+ 2318,107931,KNOCKNAGOSHEL G.S.                      ,IE,+52:19:59,-009:22:34, 152, RR3,19411101,19890823,   17,Conor Daly                                        
+  965,107813,ESKERAGH                                ,IE,+54:06:40,-009:27:50,  85, RR3,19440815,20210731,   17,Conor Daly                                        
+  965,107819,KEENAGH BEG                             ,IE,+54:02:20,-009:28:52,  91, RR3,19440815,20210731,   17,Conor Daly                                        
+  965,107939,BELLACORRICK (MONEYNIERIN)              ,IE,+54:07:01,-009:32:49,  88, RR3,19540801,20041231,   17,Conor Daly                                        
+ 2329,107945,CREESLOUGH (CARROWNAMADDY)              ,IE,+55:07:59,-007:57:00,  88, RR3,19480901,20210630,   17,Conor Daly                                        
+ 3548,100450,BIRR                                    ,IE,+53:05:25,-007:52:35,  70, RR3,19541001,20090930,   17,Conor Daly                                        
+ 3548,107863,CLOUGHJORDAN G.S.                       ,IE,+52:56:31,-008:02:31,  94, RR3,19431028,19930331,   17,Conor Daly                                        
+ 3548,107868,SHINRONE G.S.                           ,IE,+52:58:59,-007:55:59,  70, RR3,19431028,19900531,   17,Conor Daly                                        
+ 3548,116290,GURTEEN                                 ,IE,+53:01:48,-008:00:36,  76, RR3,20100101,20210731,   17,Conor Daly                                        
+ 3548,117972,BIRR                                    ,IE,+53:05:25,-007:52:35,  70, RR1,19541001,20090923,   50,GHCND                                             
+ 3548,903965,BIRR                                    ,IE,+53:05:00,-007:53:00,  70, RR8,19820101,20090930,     ,                    
+ 3548,903966,GURTEEN                                 ,IE,+53:01:00,-008:00:00,  76, RR8,20100419,20200229,     ,                    
+ 3551,107787,CASTLEDERMOT G.S.                       ,IE,+52:54:29,-006:50:49,  82, RR3,19440926,19971231,   17,Conor Daly                                        
+ 3551,116292,OAK PARK                                ,IE,+52:51:40,-006:54:54,  63, RR3,20080401,20210731,   17,Conor Daly                                        
+ 3551,903961,OAK PARK, CARLOW                        ,IE,+52:51:00,-006:54:00,  63, RR8,20090609,20200229,     ,                    
+ 3553,107724,CAVAN (TRANS.STN.)                      ,IE,+53:59:49,-007:21:29,  88, RR3,19420701,19870131,   17,Conor Daly                                        
+ 3553,107735,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66, RR3,19420605,19990920,   17,Conor Daly                                        
+ 3553,107777,BELTURBET (VOC.SCH.)                    ,IE,+54:06:00,-007:26:31,  70, RR3,19440811,19891031,   17,Conor Daly                                        
+ 3553,107913,BALLYHAISE (AGR.COLL.)                  ,IE,+54:03:04,-007:18:36,  67, RR3,19410101,20050731,   17,Conor Daly                                        
+ 3553,116294,BALLYHAISE                              ,IE,+54:03:04,-007:18:36,  79, RR3,20080401,20210731,   17,Conor Daly                                        
+ 3553,903979,BALLYHAISE, CAVAN                       ,IE,+54:03:00,-007:18:00,  79, RR8,20090609,20200229,     ,                    
+ 3547,107844,WARRENSTOWN                             ,IE,+53:31:26,-006:36:40,  90, RR3,19520101,20151031,   17,Conor Daly                                        
+ 3547,155934,DUNSANY GRANGE                          ,IE,+53:30:00,-006:42:00,  84, RR3,20130101,20210731,   17,Conor Daly                                        
+ 3552,107822,RATHCORMAC G.S.                         ,IE,+52:04:34,-008:16:59,  55, RR3,19440713,19950225,   17,Conor Daly                                        
+ 3552,155937,MOOREPARK                               ,IE,+52:09:50,-008:15:50,  47, RR3,20130101,20210731,   17,Conor Daly                                        
+21902,107725,OMEATH                                  ,IE,+54:05:10,-006:15:14,  12, RR3,19430325,20210731,   17,Conor Daly                                        
+21902,218593,KILLOWEN                                ,GB,+54:04:37,-006:11:02,   4, RR7,20000407,20191230,   84,Matthew Fry                                       
+21936,107777,BELTURBET (VOC.SCH.)                    ,IE,+54:06:00,-007:26:31,  70, RR3,19440811,19891031,   17,Conor Daly                                        
+21936,107849,SWANLINBAR                              ,IE,+54:11:46,-007:42:11,  69, RR3,19420606,20180131,   17,Conor Daly                                        
+21936,218673,DERRYLIN-CORNAHOULE                     ,GB,+54:11:20,-007:33:39,  68, RR7,20100804,20191230,   84,Matthew Fry                                       
+21936,218675,DERRYLIN                                ,GB,+54:09:03,-007:34:30,  70, RR7,20040203,20070214,   84,Matthew Fry                                       

@@ -1,0 +1,501 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+203,LUXEMBOURG AIRPORT,LUXEMBOURG,+49:37:34,+006:12:13,376 m 
+----------------------------------------------------------------
+* Land use:
+Open landscape and rather flat to E (river Moselle Valley) and to W (town of Luxembourg and towards Belgian border), arable land and woods. Slightly more hills to S, N being very hilly and wood-covered.
+* Soil type:
+Mostly sandstone becoming more and more clayey to N
+* Surface coverage:
+Grass and woods
+* History:
+Measurement height: 2 m above ground<br>January 1947 - October 1954, Max. and min. temperatures derived from 2 readings per day at 06 UTC and 18 UTC<br>November  1954 <96> December 1985: Max. and min. air temperature between 00 UTC and 24 UTC derived from 3 readings (06 UTC - 18 UTC - 24 UTC)<br>January 1986 - today: Max. and min. of 1-minute data between 23:46 UTC (D-1) and 23:45 (D)<br>January 1947 - July 1983: Average temperature based on average of 25 hourly SYNOP values between 00 UTC and 24 UTC<br>August 1983 - December 1985: Average temperature based on average of 24 hourly SYNOP values between 00 UTC and 23 UTC<br>January 1986 - today:  Average temperature based on average of 24 hourly mean values between 01 UTC and 24 UTC (hourly values derived from 1-minute data between 23:46 UTC (D-1) and 23:45 (D))<br>January 1947 - December 1985: Precipitation amount at 18 UTC (D) + precipitation amount at 06 UTC (D+1)<br>January 1986 - today:  Sum of 1-minute data between 05:46 UTC (D) and 05:45 (D+1)<br> January 1947 - today: Reading card of sunshine recorder (according to Campbell-Stokes)<br>
+
+----------------------------------------------------------------
+279,ALTRIER,LUXEMBOURG,+49:44:24,+006:19:12,391 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+280,ARSDORF_1,LUXEMBOURG,+49:51:36,+005:50:57,419 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+281,BELVAUX,LUXEMBOURG,+49:30:36,+005:55:48,340 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+282,BETTBORN-PRATZ,LUXEMBOURG,+49:48:00,+005:56:24,300 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+283,CALMUS,LUXEMBOURG,+49:43:48,+005:58:12,295 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+284,CLERVAUX-HAUTBELLAIN,LUXEMBOURG,+50:03:00,+006:01:48,465 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+285,ERMSDORF,LUXEMBOURG,+49:49:48,+006:12:36,250 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+286,KEHMEN-DIEKIRCH,LUXEMBOURG,+49:54:00,+006:01:48,488 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+287,KOERICH_1,LUXEMBOURG,+49:40:45,+005:56:43,262 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+288,LORENTZWEILER,LUXEMBOURG,+49:42:00,+006:08:24,237 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22463,ASSELBORN,LUXEMBOURG,+50:05:52,+005:58:13,479 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22464,BERINGEN,LUXEMBOURG,+49:45:42,+006:06:42,216 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22465,BETTENDORF,LUXEMBOURG,+49:52:26,+006:12:34,187 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22466,BREIDFELD,LUXEMBOURG,+50:07:26,+006:03:58,437 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22467,CLEMENCY,LUXEMBOURG,+49:36:00,+005:52:32,332 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22468,DAHL,LUXEMBOURG,+49:56:12,+005:58:53,474 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22469,ECHTERNACH,LUXEMBOURG,+49:48:10,+006:26:35,243 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22470,ESCH SURE,LUXEMBOURG,+49:54:37,+005:55:18,340 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22471,ESCHDORF,LUXEMBOURG,+49:52:46,+005:56:13,524 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22472,ETTELBRUCK,LUXEMBOURG,+49:51:03,+006:05:51,202 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22473,FOUHREN,LUXEMBOURG,+49:54:56,+006:11:44,301 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22474,GODBRANGE,LUXEMBOURG,+49:44:11,+006:14:09,325 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22475,GREVENMACHER,LUXEMBOURG,+49:40:50,+006:26:06,190 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22476,HOSINGEN,LUXEMBOURG,+49:45:42,+006:06:42,517 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22477,MAMER,LUXEMBOURG,+49:38:06,+006:01:10,315 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22478,MERL,LUXEMBOURG,+49:36:46,+006:05:30,307 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22479,OBERCORN,LUXEMBOURG,+49:30:43,+005:54:03,378 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22480,RECKANGE,LUXEMBOURG,+49:33:45,+006:00:20,293 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22481,REMERCHEN,LUXEMBOURG,+49:29:27,+006:20:56,183 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22482,REMICH,LUXEMBOURG,+49:32:42,+006:21:19,207 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22483,REULER,LUXEMBOURG,+50:03:43,+006:02:17,492 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22484,ROESER,LUXEMBOURG,+49:32:26,+006:08:30,265 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22485,ROODT,LUXEMBOURG,+49:48:18,+005:49:46,488 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22486,SCHIMPACH,LUXEMBOURG,+50:00:33,+005:50:49,379 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22487,STADTBREDIMUS,LUXEMBOURG,+49:34:44,+006:21:31,224 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22488,STEINSEL,LUXEMBOURG,+49:41:14,+006:07:26,247 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22489,TRINTANGE,LUXEMBOURG,+49:34:32,+006:16:50,301 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22490,USELDANGE,LUXEMBOURG,+49:46:01,+005:58:03,280 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22491,WALDBILLIG,LUXEMBOURG,+49:47:53,+006:16:38,315 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+22492,WINCRANGE,LUXEMBOURG,+50:03:38,+005:55:36,496 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+

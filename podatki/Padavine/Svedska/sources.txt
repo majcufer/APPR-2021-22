@@ -1,0 +1,1009 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 08-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+    6,101220,KARLSTAD                                ,SE,+59:21:00,+013:28:00,  46, RR1,19610101,20031231,   47,GSN network                                       
+    6,138924,KARLSTAD                                ,SE,+59:21:00,+013:28:00,  46, RR9,18600101,20210831,   56,Marcus Flarup                                     
+    6,138940,VARPNAS                                 ,SE,+59:24:00,+013:16:12,  68, RR9,19450101,19850930,   56,Marcus Flarup                                     
+  342,101225,GOTSKA SANDON                           ,SE,+58:24:00,+019:12:00,  11, RR1,19610101,20110123,   47,GSN network                                       
+  342,138480,GOTSKA SANDON                           ,SE,+58:24:00,+019:12:00,  11, RR9,18791101,20061231,   56,Marcus Flarup                                     
+  342,138484,GOTSKA SANDON A                         ,SE,+58:23:39,+019:11:51,  16, RR9,19951217,20211031,   56,Marcus Flarup                                     
+  462,101863,GOTEBORG A                              ,SE,+57:42:58,+011:59:40,   5, RR1,19610101,20041231,    1,Markku Rummukainen                                
+  462,138198,GOTEBORG A                              ,SE,+57:42:58,+011:59:40,   5, RR9,19610101,20211031,   56,Marcus Flarup                                     
+  462,138234,SAVE                                    ,SE,+57:46:48,+011:52:48,  20, RR9,19440101,20021130,   56,Marcus Flarup                                     
+  465,119251,VISBY                                   ,SE,+57:40:00,+018:20:00,  42, RR1,19610101,20021025,   50,GHCND                                             
+  465,138168,VISBY                                   ,SE,+57:40:00,+018:20:00,  42, RR9,18590801,20211031,   56,Marcus Flarup                                     
+  465,138182,VISBY_FLYGPLATS                         ,SE,+57:39:36,+018:20:24,  42, RR9,19451001,20211031,   56,Marcus Flarup                                     
+  465,902590,VISBY                                   ,SE,+57:40:00,+018:21:00,  47, RR8,19820101,20200229,     ,                    
+ 5877,137492,TRELLEBORG                              ,SE,+55:22:48,+013:07:48,   5, RR9,19450101,20211030,   56,Marcus Flarup                                     
+ 1418,137494,FALSTERBO                               ,SE,+55:22:48,+012:49:12,   5, RR9,18800101,20211031,   56,Marcus Flarup                                     
+ 5164,137494,FALSTERBO                               ,SE,+55:22:48,+012:49:12,   5, RR9,18800101,20211031,   56,Marcus Flarup                                     
+ 5164,137496,FALSTERBO_A                             ,SE,+55:22:48,+012:49:12,   5, RR9,20090701,20211031,   56,Marcus Flarup                                     
+ 5168,137502,YSTAD                                   ,SE,+55:26:24,+013:49:48,  20, RR9,19490101,20210930,   56,Marcus Flarup                                     
+ 5168,137506,KOPINGE                                 ,SE,+55:27:36,+013:56:24,  10, RR9,19450101,19890731,   56,Marcus Flarup                                     
+ 5879,137502,YSTAD                                   ,SE,+55:26:24,+013:49:48,  20, RR9,19490101,20210930,   56,Marcus Flarup                                     
+ 5879,137506,KOPINGE                                 ,SE,+55:27:36,+013:56:24,  10, RR9,19450101,19890731,   56,Marcus Flarup                                     
+ 5880,137508,VELLINGE                                ,SE,+55:28:12,+013:00:36,  10, RR9,19750101,20011231,   56,Marcus Flarup                                     
+ 5880,137514,HOKOPINGE                               ,SE,+55:30:00,+013:01:12,  17, RR9,19450102,19680930,   56,Marcus Flarup                                     
+ 5880,137534,MALMO A                                 ,SE,+55:34:17,+013:04:24,  20, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5169,137510,SKILLINGE_A                             ,SE,+55:29:24,+014:19:12,   4, RR9,19951001,20211031,   56,Marcus Flarup                                     
+ 5169,137524,SIMRISHAMN                              ,SE,+55:32:24,+014:21:36,   8, RR9,19490101,19961031,   56,Marcus Flarup                                     
+ 5170,137512,BOLLERUP                                ,SE,+55:29:24,+014:03:00,  55, RR9,19450101,20210531,   56,Marcus Flarup                                     
+ 5170,137528,TOMELILLA                               ,SE,+55:33:00,+013:57:00,  67, RR9,19580901,20210930,   56,Marcus Flarup                                     
+ 5170,137530,STIBY                                   ,SE,+55:33:36,+014:11:24,  70, RR9,19971101,20211031,   56,Marcus Flarup                                     
+ 5172,137508,VELLINGE                                ,SE,+55:28:12,+013:00:36,  10, RR9,19750101,20011231,   56,Marcus Flarup                                     
+ 5172,137514,HOKOPINGE                               ,SE,+55:30:00,+013:01:12,  17, RR9,19450102,19680930,   56,Marcus Flarup                                     
+ 5172,137534,MALMO A                                 ,SE,+55:34:17,+013:04:24,  20, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5172,137542,MALMO_2                                 ,SE,+55:36:00,+012:58:48,   3, RR9,19170322,19921031,   56,Marcus Flarup                                     
+ 5882,137512,BOLLERUP                                ,SE,+55:29:24,+014:03:00,  55, RR9,19450101,20210531,   56,Marcus Flarup                                     
+ 5882,137518,HAMMENHOG                               ,SE,+55:30:00,+014:09:36,  52, RR9,19450101,19920131,   56,Marcus Flarup                                     
+ 5882,137530,STIBY                                   ,SE,+55:33:36,+014:11:24,  70, RR9,19971101,20211031,   56,Marcus Flarup                                     
+ 5174,137510,SKILLINGE_A                             ,SE,+55:29:24,+014:19:12,   4, RR9,19951001,20211031,   56,Marcus Flarup                                     
+ 5174,137524,SIMRISHAMN                              ,SE,+55:32:24,+014:21:36,   8, RR9,19490101,19961031,   56,Marcus Flarup                                     
+ 5174,137546,RORUM                                   ,SE,+55:37:48,+014:16:12,  10, RR9,19610613,19701229,   56,Marcus Flarup                                     
+ 5884,137512,BOLLERUP                                ,SE,+55:29:24,+014:03:00,  55, RR9,19450101,20210531,   56,Marcus Flarup                                     
+ 5884,137518,HAMMENHOG                               ,SE,+55:30:00,+014:09:36,  52, RR9,19450101,19920131,   56,Marcus Flarup                                     
+ 5884,137526,GARSNAS                                 ,SE,+55:33:00,+014:10:48,  45, RR9,19450101,19690228,   56,Marcus Flarup                                     
+ 3509,137534,MALMO A                                 ,SE,+55:34:17,+013:04:24,  20, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 3509,137536,MALMO                                   ,SE,+55:36:36,+013:04:48,  20, RR9,19260601,20210731,   56,Marcus Flarup                                     
+ 3509,137542,MALMO_2                                 ,SE,+55:36:00,+012:58:48,   3, RR9,19170322,19921031,   56,Marcus Flarup                                     
+ 3509,137558,ALNARP FRUKTAVDELNING                   ,SE,+55:39:36,+013:05:24,  10, RR9,19450101,19960531,   56,Marcus Flarup                                     
+ 5175,137534,MALMO A                                 ,SE,+55:34:17,+013:04:24,  20, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5175,137536,MALMO                                   ,SE,+55:36:36,+013:04:48,  20, RR9,19260601,20210731,   56,Marcus Flarup                                     
+ 5175,137542,MALMO_2                                 ,SE,+55:36:00,+012:58:48,   3, RR9,19170322,19921031,   56,Marcus Flarup                                     
+ 5175,137554,ALNARP                                  ,SE,+55:39:00,+013:04:48,  10, RR9,19450101,19690228,   56,Marcus Flarup                                     
+ 5175,137558,ALNARP FRUKTAVDELNING                   ,SE,+55:39:36,+013:05:24,  10, RR9,19450101,19960531,   56,Marcus Flarup                                     
+ 5177,137534,MALMO A                                 ,SE,+55:34:17,+013:04:24,  20, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5177,137536,MALMO                                   ,SE,+55:36:36,+013:04:48,  20, RR9,19260601,20210731,   56,Marcus Flarup                                     
+ 5177,137542,MALMO_2                                 ,SE,+55:36:00,+012:58:48,   3, RR9,19170322,19921031,   56,Marcus Flarup                                     
+ 5177,137558,ALNARP FRUKTAVDELNING                   ,SE,+55:39:36,+013:05:24,  10, RR9,19450101,19960531,   56,Marcus Flarup                                     
+ 5890,137544,BJORNSTORP                              ,SE,+55:37:48,+013:24:36,  45, RR9,19601101,20190131,   56,Marcus Flarup                                     
+ 5890,137560,VOMB                                    ,SE,+55:39:36,+013:31:48,  25, RR9,19450101,20211030,   56,Marcus Flarup                                     
+ 5892,137550,SJOBO_D                                 ,SE,+55:38:24,+013:40:48,  40, RR9,20070301,20211031,   56,Marcus Flarup                                     
+ 5892,137560,VOMB                                    ,SE,+55:39:36,+013:31:48,  25, RR9,19450101,20211030,   56,Marcus Flarup                                     
+ 5892,137572,BJORKA                                  ,SE,+55:42:00,+013:37:48,  32, RR9,19490101,19700526,   56,Marcus Flarup                                     
+ 5894,137536,MALMO                                   ,SE,+55:36:36,+013:04:48,  20, RR9,19260601,20210731,   56,Marcus Flarup                                     
+ 5894,137554,ALNARP                                  ,SE,+55:39:00,+013:04:48,  10, RR9,19450101,19690228,   56,Marcus Flarup                                     
+ 5894,137556,STAFFANSTORP                            ,SE,+55:39:00,+013:13:12,  20, RR9,19450102,19680930,   56,Marcus Flarup                                     
+ 5894,137558,ALNARP FRUKTAVDELNING                   ,SE,+55:39:36,+013:05:24,  10, RR9,19450101,19960531,   56,Marcus Flarup                                     
+ 5895,137534,MALMO A                                 ,SE,+55:34:17,+013:04:24,  20, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 5895,137536,MALMO                                   ,SE,+55:36:36,+013:04:48,  20, RR9,19260601,20210731,   56,Marcus Flarup                                     
+ 5895,137542,MALMO_2                                 ,SE,+55:36:00,+012:58:48,   3, RR9,19170322,19921031,   56,Marcus Flarup                                     
+ 5895,137554,ALNARP                                  ,SE,+55:39:00,+013:04:48,  10, RR9,19450101,19690228,   56,Marcus Flarup                                     
+ 5895,137558,ALNARP FRUKTAVDELNING                   ,SE,+55:39:36,+013:05:24,  10, RR9,19450101,19960531,   56,Marcus Flarup                                     
+ 5896,137544,BJORNSTORP                              ,SE,+55:37:48,+013:24:36,  45, RR9,19601101,20190131,   56,Marcus Flarup                                     
+ 5896,137550,SJOBO_D                                 ,SE,+55:38:24,+013:40:48,  40, RR9,20070301,20211031,   56,Marcus Flarup                                     
+ 5896,137560,VOMB                                    ,SE,+55:39:36,+013:31:48,  25, RR9,19450101,20211030,   56,Marcus Flarup                                     
+ 5896,137572,BJORKA                                  ,SE,+55:42:00,+013:37:48,  32, RR9,19490101,19700526,   56,Marcus Flarup                                     
+ 5181,137550,SJOBO_D                                 ,SE,+55:38:24,+013:40:48,  40, RR9,20070301,20211031,   56,Marcus Flarup                                     
+ 5181,137560,VOMB                                    ,SE,+55:39:36,+013:31:48,  25, RR9,19450101,20211030,   56,Marcus Flarup                                     
+ 5181,137572,BJORKA                                  ,SE,+55:42:00,+013:37:48,  32, RR9,19490101,19700526,   56,Marcus Flarup                                     
+ 5907,137592,LANDSKRONA_D                            ,SE,+55:52:48,+012:50:24,   9, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5907,137598,VEN                                     ,SE,+55:54:00,+012:43:12,  25, RR9,19610101,20171115,   56,Marcus Flarup                                     
+ 5907,137600,SABYHOLM                                ,SE,+55:54:00,+012:49:48,  10, RR9,19450102,19690827,   56,Marcus Flarup                                     
+ 5187,137592,LANDSKRONA_D                            ,SE,+55:52:48,+012:50:24,   9, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5187,137598,VEN                                     ,SE,+55:54:00,+012:43:12,  25, RR9,19610101,20171115,   56,Marcus Flarup                                     
+ 5187,137600,SABYHOLM                                ,SE,+55:54:00,+012:49:48,  10, RR9,19450102,19690827,   56,Marcus Flarup                                     
+ 5910,137606,AHUS                                    ,SE,+55:55:12,+014:16:48,   5, RR9,19570601,20211030,   56,Marcus Flarup                                     
+ 5910,137608,KRISTIANSTAD_EVEROD                     ,SE,+55:55:12,+014:04:48,  17, RR9,19620505,19951031,   56,Marcus Flarup                                     
+ 5910,137614,UGERUP                                  ,SE,+55:58:12,+014:07:12,  20, RR9,19570601,19910930,   56,Marcus Flarup                                     
+ 5910,137616,RINKABY                                 ,SE,+55:58:48,+014:16:12,   7, RR9,19521101,19620630,   56,Marcus Flarup                                     
+ 5190,137606,AHUS                                    ,SE,+55:55:12,+014:16:48,   5, RR9,19570601,20211030,   56,Marcus Flarup                                     
+ 5190,137608,KRISTIANSTAD_EVEROD                     ,SE,+55:55:12,+014:04:48,  17, RR9,19620505,19951031,   56,Marcus Flarup                                     
+ 5190,137614,UGERUP                                  ,SE,+55:58:12,+014:07:12,  20, RR9,19570601,19910930,   56,Marcus Flarup                                     
+ 5912,137606,AHUS                                    ,SE,+55:55:12,+014:16:48,   5, RR9,19570601,20211030,   56,Marcus Flarup                                     
+ 5912,137608,KRISTIANSTAD_EVEROD                     ,SE,+55:55:12,+014:04:48,  17, RR9,19620505,19951031,   56,Marcus Flarup                                     
+ 5912,137614,UGERUP                                  ,SE,+55:58:12,+014:07:12,  20, RR9,19570601,19910930,   56,Marcus Flarup                                     
+ 5912,137616,RINKABY                                 ,SE,+55:58:48,+014:16:12,   7, RR9,19521101,19620630,   56,Marcus Flarup                                     
+ 5912,137648,KARPALUND                               ,SE,+56:03:00,+014:06:00,   4, RR9,19450101,19750328,   56,Marcus Flarup                                     
+ 5192,137606,AHUS                                    ,SE,+55:55:12,+014:16:48,   5, RR9,19570601,20211030,   56,Marcus Flarup                                     
+ 5192,137614,UGERUP                                  ,SE,+55:58:12,+014:07:12,  20, RR9,19570601,19910930,   56,Marcus Flarup                                     
+ 5192,137616,RINKABY                                 ,SE,+55:58:48,+014:16:12,   7, RR9,19521101,19620630,   56,Marcus Flarup                                     
+ 5192,137624,TOSTEBERGA                              ,SE,+56:00:36,+014:26:24,  10, RR9,19560501,20170101,   56,Marcus Flarup                                     
+ 5192,137646,BACKASKOG                               ,SE,+56:03:00,+014:20:24,  12, RR9,19570601,19911231,   56,Marcus Flarup                                     
+ 5193,137620,KRISTIANSTAD                            ,SE,+56:19:48,+014:09:00,  10, RR9,18780501,20211031,   56,Marcus Flarup                                     
+ 5915,137616,RINKABY                                 ,SE,+55:58:48,+014:16:12,   7, RR9,19521101,19620630,   56,Marcus Flarup                                     
+ 5915,137624,TOSTEBERGA                              ,SE,+56:00:36,+014:26:24,  10, RR9,19560501,20170101,   56,Marcus Flarup                                     
+ 5915,137646,BACKASKOG                               ,SE,+56:03:00,+014:20:24,  12, RR9,19570601,19911231,   56,Marcus Flarup                                     
+ 5915,137652,BROMOLLA                                ,SE,+56:04:48,+014:28:12,   5, RR9,19601205,20210805,   56,Marcus Flarup                                     
+ 5919,137634,HELSINGBORG_2                           ,SE,+56:01:48,+012:44:24,  30, RR9,19920101,20210331,   56,Marcus Flarup                                     
+ 5919,137636,HELSINGBORG_A                           ,SE,+56:01:48,+012:46:12,  43, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5919,137644,HELSINGBORG                             ,SE,+56:02:24,+012:41:24,  43, RR9,19450102,19950731,   56,Marcus Flarup                                     
+ 5919,137658,BJUV                                    ,SE,+56:06:00,+012:53:24,  15, RR9,19691001,20111231,   56,Marcus Flarup                                     
+ 5919,137674,HASSLARP                                ,SE,+56:07:48,+012:49:12,  10, RR9,19450102,19751128,   56,Marcus Flarup                                     
+ 5919,137678,MARIEDAL                                ,SE,+56:08:24,+012:42:36,  10, RR9,19570901,20130731,   56,Marcus Flarup                                     
+ 5196,137634,HELSINGBORG_2                           ,SE,+56:01:48,+012:44:24,  30, RR9,19920101,20210331,   56,Marcus Flarup                                     
+ 5196,137636,HELSINGBORG_A                           ,SE,+56:01:48,+012:46:12,  43, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5196,137644,HELSINGBORG                             ,SE,+56:02:24,+012:41:24,  43, RR9,19450102,19950731,   56,Marcus Flarup                                     
+ 5198,137634,HELSINGBORG_2                           ,SE,+56:01:48,+012:44:24,  30, RR9,19920101,20210331,   56,Marcus Flarup                                     
+ 5198,137636,HELSINGBORG_A                           ,SE,+56:01:48,+012:46:12,  43, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5198,137644,HELSINGBORG                             ,SE,+56:02:24,+012:41:24,  43, RR9,19450102,19950731,   56,Marcus Flarup                                     
+ 5922,137616,RINKABY                                 ,SE,+55:58:48,+014:16:12,   7, RR9,19521101,19620630,   56,Marcus Flarup                                     
+ 5922,137624,TOSTEBERGA                              ,SE,+56:00:36,+014:26:24,  10, RR9,19560501,20170101,   56,Marcus Flarup                                     
+ 5922,137646,BACKASKOG                               ,SE,+56:03:00,+014:20:24,  12, RR9,19570601,19911231,   56,Marcus Flarup                                     
+ 5922,137652,BROMOLLA                                ,SE,+56:04:48,+014:28:12,   5, RR9,19601205,20210805,   56,Marcus Flarup                                     
+ 5199,137614,UGERUP                                  ,SE,+55:58:12,+014:07:12,  20, RR9,19570601,19910930,   56,Marcus Flarup                                     
+ 5199,137648,KARPALUND                               ,SE,+56:03:00,+014:06:00,   4, RR9,19450101,19750328,   56,Marcus Flarup                                     
+ 5199,137664,NORRA_STROO                             ,SE,+56:06:00,+014:01:12,  15, RR9,19670308,20211031,   56,Marcus Flarup                                     
+ 5923,137624,TOSTEBERGA                              ,SE,+56:00:36,+014:26:24,  10, RR9,19560501,20170101,   56,Marcus Flarup                                     
+ 5923,137650,SOLVESBORG                              ,SE,+56:03:36,+014:35:24,   5, RR9,19610201,20130831,   56,Marcus Flarup                                     
+ 5923,137652,BROMOLLA                                ,SE,+56:04:48,+014:28:12,   5, RR9,19601205,20210805,   56,Marcus Flarup                                     
+ 5923,137666,GAMMALSTORP                             ,SE,+56:06:36,+014:37:12,  15, RR9,19670228,19841231,   56,Marcus Flarup                                     
+ 5923,137668,NORJEBY                                 ,SE,+56:07:12,+014:40:12,   5, RR9,19450102,19750822,   56,Marcus Flarup                                     
+ 5924,137624,TOSTEBERGA                              ,SE,+56:00:36,+014:26:24,  10, RR9,19560501,20170101,   56,Marcus Flarup                                     
+ 5924,137650,SOLVESBORG                              ,SE,+56:03:36,+014:35:24,   5, RR9,19610201,20130831,   56,Marcus Flarup                                     
+ 5924,137652,BROMOLLA                                ,SE,+56:04:48,+014:28:12,   5, RR9,19601205,20210805,   56,Marcus Flarup                                     
+ 5201,137654,KOLLEBERGA                              ,SE,+56:04:12,+013:16:12,  50, RR9,19450101,19700630,   56,Marcus Flarup                                     
+ 5201,137656,LJUNGBYHED                              ,SE,+56:04:48,+013:13:48,  43, RR9,19490101,19980430,   56,Marcus Flarup                                     
+ 5201,137670,KLIPPAN                                 ,SE,+56:08:24,+013:15:00,  55, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 5926,137634,HELSINGBORG_2                           ,SE,+56:01:48,+012:44:24,  30, RR9,19920101,20210331,   56,Marcus Flarup                                     
+ 5926,137658,BJUV                                    ,SE,+56:06:00,+012:53:24,  15, RR9,19691001,20111231,   56,Marcus Flarup                                     
+ 5926,137674,HASSLARP                                ,SE,+56:07:48,+012:49:12,  10, RR9,19450102,19751128,   56,Marcus Flarup                                     
+ 5926,137678,MARIEDAL                                ,SE,+56:08:24,+012:42:36,  10, RR9,19570901,20130731,   56,Marcus Flarup                                     
+ 5926,137688,BJARBOLUND                              ,SE,+56:10:48,+012:46:12,   7, RR9,19570901,19630828,   56,Marcus Flarup                                     
+ 5926,137690,ROGLE                                   ,SE,+56:10:48,+012:48:00,  10, RR9,19570901,19770930,   56,Marcus Flarup                                     
+ 5927,137660,VANNEBERGA                              ,SE,+56:04:48,+013:55:12,  35, RR9,19570604,19761228,   56,Marcus Flarup                                     
+ 5927,137662,VINSLOV_D                               ,SE,+56:06:00,+013:55:12,  25, RR9,19771201,20140430,   56,Marcus Flarup                                     
+ 5927,137664,NORRA_STROO                             ,SE,+56:06:00,+014:01:12,  15, RR9,19670308,20211031,   56,Marcus Flarup                                     
+ 5928,137648,KARPALUND                               ,SE,+56:03:00,+014:06:00,   4, RR9,19450101,19750328,   56,Marcus Flarup                                     
+ 5928,137660,VANNEBERGA                              ,SE,+56:04:48,+013:55:12,  35, RR9,19570604,19761228,   56,Marcus Flarup                                     
+ 5928,137662,VINSLOV_D                               ,SE,+56:06:00,+013:55:12,  25, RR9,19771201,20140430,   56,Marcus Flarup                                     
+ 5928,137664,NORRA_STROO                             ,SE,+56:06:00,+014:01:12,  15, RR9,19670308,20211031,   56,Marcus Flarup                                     
+ 5928,137676,HASSLEHOLM                              ,SE,+56:08:24,+013:44:24,  45, RR9,19510501,20081231,   56,Marcus Flarup                                     
+ 5929,137648,KARPALUND                               ,SE,+56:03:00,+014:06:00,   4, RR9,19450101,19750328,   56,Marcus Flarup                                     
+ 5929,137660,VANNEBERGA                              ,SE,+56:04:48,+013:55:12,  35, RR9,19570604,19761228,   56,Marcus Flarup                                     
+ 5929,137664,NORRA_STROO                             ,SE,+56:06:00,+014:01:12,  15, RR9,19670308,20211031,   56,Marcus Flarup                                     
+ 5929,137698,KNISLINGE                               ,SE,+56:12:00,+014:06:00,  15, RR9,19480101,19800331,   56,Marcus Flarup                                     
+ 5930,137650,SOLVESBORG                              ,SE,+56:03:36,+014:35:24,   5, RR9,19610201,20130831,   56,Marcus Flarup                                     
+ 5930,137652,BROMOLLA                                ,SE,+56:04:48,+014:28:12,   5, RR9,19601205,20210805,   56,Marcus Flarup                                     
+ 5930,137666,GAMMALSTORP                             ,SE,+56:06:36,+014:37:12,  15, RR9,19670228,19841231,   56,Marcus Flarup                                     
+ 5930,137668,NORJEBY                                 ,SE,+56:07:12,+014:40:12,   5, RR9,19450102,19750822,   56,Marcus Flarup                                     
+ 5932,137670,KLIPPAN                                 ,SE,+56:08:24,+013:15:00,  55, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 5935,137658,BJUV                                    ,SE,+56:06:00,+012:53:24,  15, RR9,19691001,20111231,   56,Marcus Flarup                                     
+ 5935,137674,HASSLARP                                ,SE,+56:07:48,+012:49:12,  10, RR9,19450102,19751128,   56,Marcus Flarup                                     
+ 5935,137678,MARIEDAL                                ,SE,+56:08:24,+012:42:36,  10, RR9,19570901,20130731,   56,Marcus Flarup                                     
+ 5935,137688,BJARBOLUND                              ,SE,+56:10:48,+012:46:12,   7, RR9,19570901,19630828,   56,Marcus Flarup                                     
+ 5935,137690,ROGLE                                   ,SE,+56:10:48,+012:48:00,  10, RR9,19570901,19770930,   56,Marcus Flarup                                     
+ 5935,137702,TANGA                                   ,SE,+56:12:00,+012:46:48,  13, RR9,19771001,20210930,   56,Marcus Flarup                                     
+ 5203,137680,KARLSKRONA-SODERSTJ.                    ,SE,+56:09:00,+015:35:24,   2, RR9,19520201,20211031,   56,Marcus Flarup                                     
+ 5203,137704,LYCKEBY                                 ,SE,+56:12:36,+015:42:36,  25, RR9,19891201,20211031,   56,Marcus Flarup                                     
+ 5203,137708,MARIELUND                               ,SE,+56:13:12,+015:31:48,  25, RR9,19450102,19780223,   56,Marcus Flarup                                     
+ 5203,902667,KARLSKRONA-SODERSTJERNA                 ,SE,+56:08:35,+015:35:12,   4, RR8,20100503,20200229,     ,                    
+ 5936,137680,KARLSKRONA-SODERSTJ.                    ,SE,+56:09:00,+015:35:24,   2, RR9,19520201,20211031,   56,Marcus Flarup                                     
+ 5936,137682,KARLSKRONA                              ,SE,+56:10:12,+015:35:24,   7, RR9,19520201,19881231,   56,Marcus Flarup                                     
+ 5936,137704,LYCKEBY                                 ,SE,+56:12:36,+015:42:36,  25, RR9,19891201,20211031,   56,Marcus Flarup                                     
+ 5936,137708,MARIELUND                               ,SE,+56:13:12,+015:31:48,  25, RR9,19450102,19780223,   56,Marcus Flarup                                     
+ 5936,902667,KARLSKRONA-SODERSTJERNA                 ,SE,+56:08:35,+015:35:12,   4, RR8,20100503,20200229,     ,                    
+ 5937,137652,BROMOLLA                                ,SE,+56:04:48,+014:28:12,   5, RR9,19601205,20210805,   56,Marcus Flarup                                     
+ 5937,137684,VILLANDS_VANGA                          ,SE,+56:10:48,+014:22:48,  20, RR9,19610612,19761224,   56,Marcus Flarup                                     
+ 1421,137686,KARLSHAMN                               ,SE,+56:10:48,+014:51:00,  50, RR9,18710101,20211031,   56,Marcus Flarup                                     
+ 5204,137692,OLANDS SODRA UDDE                       ,SE,+56:12:00,+016:24:00,   2, RR9,18811101,19951031,   56,Marcus Flarup                                     
+ 5204,137694,OLANDS SODRA UDDE A                     ,SE,+56:12:00,+016:24:00,   2, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5205,137692,OLANDS SODRA UDDE                       ,SE,+56:12:00,+016:24:00,   2, RR9,18811101,19951031,   56,Marcus Flarup                                     
+ 5205,137694,OLANDS SODRA UDDE A                     ,SE,+56:12:00,+016:24:00,   2, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5941,137664,NORRA_STROO                             ,SE,+56:06:00,+014:01:12,  15, RR9,19670308,20211031,   56,Marcus Flarup                                     
+ 5941,137698,KNISLINGE                               ,SE,+56:12:00,+014:06:00,  15, RR9,19480101,19800331,   56,Marcus Flarup                                     
+ 5943,137674,HASSLARP                                ,SE,+56:07:48,+012:49:12,  10, RR9,19450102,19751128,   56,Marcus Flarup                                     
+ 5943,137678,MARIEDAL                                ,SE,+56:08:24,+012:42:36,  10, RR9,19570901,20130731,   56,Marcus Flarup                                     
+ 5943,137688,BJARBOLUND                              ,SE,+56:10:48,+012:46:12,   7, RR9,19570901,19630828,   56,Marcus Flarup                                     
+ 5943,137690,ROGLE                                   ,SE,+56:10:48,+012:48:00,  10, RR9,19570901,19770930,   56,Marcus Flarup                                     
+ 5943,137702,TANGA                                   ,SE,+56:12:00,+012:46:48,  13, RR9,19771001,20210930,   56,Marcus Flarup                                     
+ 5943,137720,ANGELHOLM                               ,SE,+56:15:00,+012:51:00,  10, RR9,19450101,19680725,   56,Marcus Flarup                                     
+ 5943,137732,BARKAKRA                                ,SE,+56:17:24,+012:51:00,  20, RR9,19490101,20011130,   56,Marcus Flarup                                     
+ 5944,137680,KARLSKRONA-SODERSTJ.                    ,SE,+56:09:00,+015:35:24,   2, RR9,19520201,20211031,   56,Marcus Flarup                                     
+ 5944,137682,KARLSKRONA                              ,SE,+56:10:12,+015:35:24,   7, RR9,19520201,19881231,   56,Marcus Flarup                                     
+ 5944,137704,LYCKEBY                                 ,SE,+56:12:36,+015:42:36,  25, RR9,19891201,20211031,   56,Marcus Flarup                                     
+ 5944,137708,MARIELUND                               ,SE,+56:13:12,+015:31:48,  25, RR9,19450102,19780223,   56,Marcus Flarup                                     
+ 5944,902667,KARLSKRONA-SODERSTJERNA                 ,SE,+56:08:35,+015:35:12,   4, RR8,20100503,20200229,     ,                    
+ 5945,137700,RONNEBY                                 ,SE,+56:12:00,+015:16:48,  10, RR9,19310101,19701128,   56,Marcus Flarup                                     
+ 5945,137706,HOBY                                    ,SE,+56:13:12,+015:07:48,  20, RR9,19450101,20141231,   56,Marcus Flarup                                     
+ 5945,137712,TORNERYD                                ,SE,+56:13:48,+015:01:12,  15, RR9,19500506,19810630,   56,Marcus Flarup                                     
+ 5945,137722,BREDAKRA_D                              ,SE,+56:15:00,+015:15:00,  40, RR9,20051001,20181031,   56,Marcus Flarup                                     
+ 5206,137680,KARLSKRONA-SODERSTJ.                    ,SE,+56:09:00,+015:35:24,   2, RR9,19520201,20211031,   56,Marcus Flarup                                     
+ 5206,137682,KARLSKRONA                              ,SE,+56:10:12,+015:35:24,   7, RR9,19520201,19881231,   56,Marcus Flarup                                     
+ 5206,137704,LYCKEBY                                 ,SE,+56:12:36,+015:42:36,  25, RR9,19891201,20211031,   56,Marcus Flarup                                     
+ 5206,137708,MARIELUND                               ,SE,+56:13:12,+015:31:48,  25, RR9,19450102,19780223,   56,Marcus Flarup                                     
+ 5206,902667,KARLSKRONA-SODERSTJERNA                 ,SE,+56:08:35,+015:35:12,   4, RR8,20100503,20200229,     ,                    
+ 5207,137710,MUNKA-LJUNGBY                           ,SE,+56:13:48,+012:58:48,  20, RR9,20020501,20211030,   56,Marcus Flarup                                     
+ 5207,137720,ANGELHOLM                               ,SE,+56:15:00,+012:51:00,  10, RR9,19450101,19680725,   56,Marcus Flarup                                     
+ 5207,137732,BARKAKRA                                ,SE,+56:17:24,+012:51:00,  20, RR9,19490101,20011130,   56,Marcus Flarup                                     
+ 5207,902607,ANGELHOLM-BARKAKRA                      ,SE,+56:17:00,+012:50:00,  37, RR8,19820101,20020326,     ,                    
+ 5948,137716,LOUISEFRED                              ,SE,+56:14:24,+012:34:48,  12, RR9,19570901,20210930,   56,Marcus Flarup                                     
+ 5948,137718,NYHAMNSLAGE                             ,SE,+56:15:00,+012:32:24,  13, RR9,19980301,20210930,   56,Marcus Flarup                                     
+ 5208,137716,LOUISEFRED                              ,SE,+56:14:24,+012:34:48,  12, RR9,19570901,20210930,   56,Marcus Flarup                                     
+ 5208,137718,NYHAMNSLAGE                             ,SE,+56:15:00,+012:32:24,  13, RR9,19980301,20210930,   56,Marcus Flarup                                     
+ 5949,137702,TANGA                                   ,SE,+56:12:00,+012:46:48,  13, RR9,19771001,20210930,   56,Marcus Flarup                                     
+ 5949,137710,MUNKA-LJUNGBY                           ,SE,+56:13:48,+012:58:48,  20, RR9,20020501,20211030,   56,Marcus Flarup                                     
+ 5949,137720,ANGELHOLM                               ,SE,+56:15:00,+012:51:00,  10, RR9,19450101,19680725,   56,Marcus Flarup                                     
+ 5949,137732,BARKAKRA                                ,SE,+56:17:24,+012:51:00,  20, RR9,19490101,20011130,   56,Marcus Flarup                                     
+ 5950,137706,HOBY                                    ,SE,+56:13:12,+015:07:48,  20, RR9,19450101,20141231,   56,Marcus Flarup                                     
+ 5950,137722,BREDAKRA_D                              ,SE,+56:15:00,+015:15:00,  40, RR9,20051001,20181031,   56,Marcus Flarup                                     
+ 5950,137724,RONNEBY-BREDAKRA                        ,SE,+56:15:36,+015:16:12,  58, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 1419,137722,BREDAKRA_D                              ,SE,+56:15:00,+015:15:00,  40, RR9,20051001,20181031,   56,Marcus Flarup                                     
+ 1419,137724,RONNEBY-BREDAKRA                        ,SE,+56:15:36,+015:16:12,  58, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 1419,902664,RONNEBY/KALLINGE                        ,SE,+56:16:00,+015:16:00,  58, RR8,19820102,20200229,     ,                    
+ 1417,137702,TANGA                                   ,SE,+56:12:00,+012:46:48,  13, RR9,19771001,20210930,   56,Marcus Flarup                                     
+ 1417,137710,MUNKA-LJUNGBY                           ,SE,+56:13:48,+012:58:48,  20, RR9,20020501,20211030,   56,Marcus Flarup                                     
+ 1417,137720,ANGELHOLM                               ,SE,+56:15:00,+012:51:00,  10, RR9,19450101,19680725,   56,Marcus Flarup                                     
+ 1417,137732,BARKAKRA                                ,SE,+56:17:24,+012:51:00,  20, RR9,19490101,20011130,   56,Marcus Flarup                                     
+ 5955,137710,MUNKA-LJUNGBY                           ,SE,+56:13:48,+012:58:48,  20, RR9,20020501,20211030,   56,Marcus Flarup                                     
+ 5955,137732,BARKAKRA                                ,SE,+56:17:24,+012:51:00,  20, RR9,19490101,20011130,   56,Marcus Flarup                                     
+ 5955,137738,HJARNARP                                ,SE,+56:19:12,+012:55:12,  40, RR9,19670201,19751228,   56,Marcus Flarup                                     
+ 5955,902607,ANGELHOLM-BARKAKRA                      ,SE,+56:17:00,+012:50:00,  37, RR8,19820101,20020326,     ,                    
+ 5961,137754,SEGERSTAD                               ,SE,+56:22:12,+016:32:24,   5, RR9,19631101,20210929,   56,Marcus Flarup                                     
+ 5961,137766,KASTLOSA                                ,SE,+56:25:48,+016:25:12,  20, RR9,19910601,20201031,   56,Marcus Flarup                                     
+ 5962,137738,HJARNARP                                ,SE,+56:19:12,+012:55:12,  40, RR9,19670201,19751228,   56,Marcus Flarup                                     
+ 5962,137756,KILLEBACKSTORP                          ,SE,+56:22:48,+012:45:00,  50, RR9,19670401,19881130,   56,Marcus Flarup                                     
+ 5962,137776,HOV                                     ,SE,+56:27:00,+012:42:00,  40, RR9,19890401,20210930,   56,Marcus Flarup                                     
+ 5962,902607,ANGELHOLM-BARKAKRA                      ,SE,+56:17:00,+012:50:00,  37, RR8,19820101,20020326,     ,                    
+ 5967,137754,SEGERSTAD                               ,SE,+56:22:12,+016:32:24,   5, RR9,19631101,20210929,   56,Marcus Flarup                                     
+ 5967,137766,KASTLOSA                                ,SE,+56:25:48,+016:25:12,  20, RR9,19910601,20201031,   56,Marcus Flarup                                     
+ 5967,137800,MORBYLANGA                              ,SE,+56:31:48,+016:23:24,   5, RR9,19450101,20210814,   56,Marcus Flarup                                     
+ 5214,137774,HALLANDS_VADERO_A                       ,SE,+56:27:00,+012:33:00,  10, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5214,902605,HALLANDS VADERO                         ,SE,+56:27:00,+012:33:00,  10, RR8,19960928,20200224,     ,                    
+ 5971,137756,KILLEBACKSTORP                          ,SE,+56:22:48,+012:45:00,  50, RR9,19670401,19881130,   56,Marcus Flarup                                     
+ 5971,137776,HOV                                     ,SE,+56:27:00,+012:42:00,  40, RR9,19890401,20210930,   56,Marcus Flarup                                     
+ 5215,137774,HALLANDS_VADERO_A                       ,SE,+56:27:00,+012:33:00,  10, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5215,137778,HALLANDS_VADERO                         ,SE,+56:27:00,+012:33:00,  10, RR9,19610103,19650630,   56,Marcus Flarup                                     
+ 5215,902605,HALLANDS VADERO                         ,SE,+56:27:00,+012:33:00,  10, RR8,19960928,20200224,     ,                    
+ 5973,137788,LAHOLM_D                                ,SE,+56:29:24,+012:59:24,  10, RR9,20051101,20211031,   56,Marcus Flarup                                     
+ 5973,137808,GENEVAD                                 ,SE,+56:34:12,+013:01:48,  20, RR9,19450101,20020630,   56,Marcus Flarup                                     
+ 5975,137792,KNARED                                  ,SE,+56:33:36,+013:18:00,  35, RR9,19450101,20111231,   56,Marcus Flarup                                     
+ 5975,137798,KNARED                                  ,SE,+56:31:12,+013:20:24,  35, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5220,137798,KNARED                                  ,SE,+56:31:12,+013:20:24,  35, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5221,137766,KASTLOSA                                ,SE,+56:25:48,+016:25:12,  20, RR9,19910601,20201031,   56,Marcus Flarup                                     
+ 5221,137800,MORBYLANGA                              ,SE,+56:31:48,+016:23:24,   5, RR9,19450101,20210814,   56,Marcus Flarup                                     
+ 5224,137788,LAHOLM_D                                ,SE,+56:29:24,+012:59:24,  10, RR9,20051101,20211031,   56,Marcus Flarup                                     
+ 5224,137808,GENEVAD                                 ,SE,+56:34:12,+013:01:48,  20, RR9,19450101,20020630,   56,Marcus Flarup                                     
+ 5983,137824,NORRA_MOCKLEBY                          ,SE,+56:37:48,+016:40:12,   3, RR9,19700501,20211031,   56,Marcus Flarup                                     
+ 5986,137832,KALMAR_D                                ,SE,+56:41:24,+016:21:00,   2, RR9,18680101,20211026,   56,Marcus Flarup                                     
+ 5986,137840,KALMAR_FLYGFLOTTILJ                     ,SE,+56:43:48,+016:17:24,   6, RR9,19490101,19960131,   56,Marcus Flarup                                     
+ 5986,158746,KALMAR_FLYGPLATS                        ,SE,+56:40:48,+016:17:24,   6, RR9,19440101,19790917,   56,Marcus Flarup                                     
+ 5229,137832,KALMAR_D                                ,SE,+56:41:24,+016:21:00,   2, RR9,18680101,20211026,   56,Marcus Flarup                                     
+ 5229,137834,KALMAR                                  ,SE,+56:40:12,+016:21:00,   7, RR9,19610101,19630501,   56,Marcus Flarup                                     
+ 5229,137840,KALMAR_FLYGFLOTTILJ                     ,SE,+56:43:48,+016:17:24,   6, RR9,19490101,19960131,   56,Marcus Flarup                                     
+ 5229,158746,KALMAR_FLYGPLATS                        ,SE,+56:40:48,+016:17:24,   6, RR9,19440101,19790917,   56,Marcus Flarup                                     
+ 5230,137836,HALMSTAD                                ,SE,+56:40:12,+012:55:12,  24, RR9,18710101,20211031,   56,Marcus Flarup                                     
+ 5230,137844,HALMSTAD FLYGFLOTTILJ                   ,SE,+56:40:48,+012:49:48,  25, RR9,19480523,19780630,   56,Marcus Flarup                                     
+ 5231,137836,HALMSTAD                                ,SE,+56:40:12,+012:55:12,  24, RR9,18710101,20211031,   56,Marcus Flarup                                     
+ 5231,137838,HALMSTAD 1                              ,SE,+56:40:48,+012:55:12,  25, RR9,19780701,20150930,   56,Marcus Flarup                                     
+ 5231,137844,HALMSTAD FLYGFLOTTILJ                   ,SE,+56:40:48,+012:49:48,  25, RR9,19480523,19780630,   56,Marcus Flarup                                     
+ 5232,137832,KALMAR_D                                ,SE,+56:41:24,+016:21:00,   2, RR9,18680101,20211026,   56,Marcus Flarup                                     
+ 5232,137840,KALMAR_FLYGFLOTTILJ                     ,SE,+56:43:48,+016:17:24,   6, RR9,19490101,19960131,   56,Marcus Flarup                                     
+ 5232,158746,KALMAR_FLYGPLATS                        ,SE,+56:40:48,+016:17:24,   6, RR9,19440101,19790917,   56,Marcus Flarup                                     
+ 5234,137836,HALMSTAD                                ,SE,+56:40:12,+012:55:12,  24, RR9,18710101,20211031,   56,Marcus Flarup                                     
+ 5234,137844,HALMSTAD FLYGFLOTTILJ                   ,SE,+56:40:48,+012:49:48,  25, RR9,19480523,19780630,   56,Marcus Flarup                                     
+ 5239,137868,EKERUM                                  ,SE,+56:46:48,+016:34:48,  40, RR9,19450118,19731016,   56,Marcus Flarup                                     
+ 5239,137882,SKEDEMOSSE                              ,SE,+56:50:24,+016:45:00,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5995,137832,KALMAR_D                                ,SE,+56:41:24,+016:21:00,   2, RR9,18680101,20211026,   56,Marcus Flarup                                     
+ 5995,137840,KALMAR_FLYGFLOTTILJ                     ,SE,+56:43:48,+016:17:24,   6, RR9,19490101,19960131,   56,Marcus Flarup                                     
+ 5995,137870,SVARTINGSTORP                           ,SE,+56:47:24,+016:19:48,  20, RR9,19450107,19801115,   56,Marcus Flarup                                     
+ 5241,137882,SKEDEMOSSE                              ,SE,+56:50:24,+016:45:00,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6001,137892,EFTRA_D                                 ,SE,+56:51:36,+012:39:00,  45, RR9,20041101,20211031,   56,Marcus Flarup                                     
+ 6001,137918,JONSTORP                                ,SE,+56:55:48,+012:33:00,  25, RR9,19450101,19971130,   56,Marcus Flarup                                     
+ 6001,902603,BROEN                                   ,SE,+56:52:00,+012:40:00,  47, RR8,20020807,20021103,     ,                    
+ 6004,137882,SKEDEMOSSE                              ,SE,+56:50:24,+016:45:00,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6004,137900,BORGHOLM                                ,SE,+56:52:48,+016:40:12,   5, RR9,19510513,19721130,   56,Marcus Flarup                                     
+ 5247,137904,FALKENBERG                              ,SE,+56:54:00,+012:28:48,   5, RR9,19981201,20030630,   56,Marcus Flarup                                     
+ 5247,137918,JONSTORP                                ,SE,+56:55:48,+012:33:00,  25, RR9,19450101,19971130,   56,Marcus Flarup                                     
+ 1420,137912,HOBURG                                  ,SE,+56:55:12,+018:09:00,  38, RR9,18791101,20211031,   56,Marcus Flarup                                     
+ 5251,137892,EFTRA_D                                 ,SE,+56:51:36,+012:39:00,  45, RR9,20041101,20211031,   56,Marcus Flarup                                     
+ 5251,137904,FALKENBERG                              ,SE,+56:54:00,+012:28:48,   5, RR9,19981201,20030630,   56,Marcus Flarup                                     
+ 5251,137918,JONSTORP                                ,SE,+56:55:48,+012:33:00,  25, RR9,19450101,19971130,   56,Marcus Flarup                                     
+ 5251,902603,BROEN                                   ,SE,+56:52:00,+012:40:00,  47, RR8,20020807,20021103,     ,                    
+ 6025,137958,MONSTERAS_D                             ,SE,+57:01:48,+016:30:36,  32, RR9,19450110,20211026,   56,Marcus Flarup                                     
+ 5255,137966,GRIMETON                                ,SE,+57:06:36,+012:23:24,  25, RR9,19650101,19970930,   56,Marcus Flarup                                     
+ 5255,137974,VARBERG                                 ,SE,+57:06:36,+012:16:12,  20, RR9,18791201,20210930,   56,Marcus Flarup                                     
+ 5254,137966,GRIMETON                                ,SE,+57:06:36,+012:23:24,  25, RR9,19650101,19970930,   56,Marcus Flarup                                     
+ 5254,137974,VARBERG                                 ,SE,+57:06:36,+012:16:12,  20, RR9,18791201,20210930,   56,Marcus Flarup                                     
+ 5265,138020,HEMSE                                   ,SE,+57:14:24,+018:22:48,  25, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 5268,138028,OSKARSHAMN                              ,SE,+57:16:12,+016:24:36,  20, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5269,138030,MOSSEN                                  ,SE,+57:16:48,+017:00:00,  10, RR9,19610101,19800531,   56,Marcus Flarup                                     
+ 5269,138058,OLANDS NORRA UDDE A                     ,SE,+57:22:12,+017:06:00,   2, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5269,138060,OLANDS NORRA UDDE                       ,SE,+57:22:12,+017:06:00,   4, RR9,18791101,20210831,   56,Marcus Flarup                                     
+ 5273,138044,NIDINGEN                                ,SE,+57:18:00,+011:54:00,   5, RR9,19450101,19950630,   56,Marcus Flarup                                     
+ 5273,138046,NIDINGEN A                              ,SE,+57:18:14,+011:54:23,   2, RR9,18811101,20070331,   56,Marcus Flarup                                     
+ 5273,138066,ONSALA_D                                ,SE,+57:22:48,+011:58:12,   3, RR9,20051201,20211031,   56,Marcus Flarup                                     
+ 3512,138046,NIDINGEN A                              ,SE,+57:18:14,+011:54:23,   2, RR9,18811101,20070331,   56,Marcus Flarup                                     
+ 3512,138066,ONSALA_D                                ,SE,+57:22:48,+011:58:12,   3, RR9,20051201,20211031,   56,Marcus Flarup                                     
+ 3512,902518,NIDINGEN                                ,SE,+57:18:00,+011:54:00,   2, RR8,19821201,20090121,     ,                    
+ 5274,138058,OLANDS NORRA UDDE A                     ,SE,+57:22:12,+017:06:00,   2, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5274,138060,OLANDS NORRA UDDE                       ,SE,+57:22:12,+017:06:00,   4, RR9,18791101,20210831,   56,Marcus Flarup                                     
+ 1423,138058,OLANDS NORRA UDDE A                     ,SE,+57:22:12,+017:06:00,   2, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 1423,138060,OLANDS NORRA UDDE                       ,SE,+57:22:12,+017:06:00,   4, RR9,18791101,20210831,   56,Marcus Flarup                                     
+ 6058,138046,NIDINGEN A                              ,SE,+57:18:14,+011:54:23,   2, RR9,18811101,20070331,   56,Marcus Flarup                                     
+ 6058,138066,ONSALA_D                                ,SE,+57:22:48,+011:58:12,   3, RR9,20051201,20211031,   56,Marcus Flarup                                     
+ 6058,902518,NIDINGEN                                ,SE,+57:18:00,+011:54:00,   2, RR8,19821201,20090121,     ,                    
+ 5277,138082,BUTTLE                                  ,SE,+57:24:00,+018:31:48,  45, RR9,19530510,19830712,   56,Marcus Flarup                                     
+ 5277,138098,VANGE                                   ,SE,+57:26:24,+018:29:24,  45, RR9,19910401,20211031,   56,Marcus Flarup                                     
+ 5277,159063,ROMA_AUT                                ,SE,+57:30:00,+018:27:36,  32, RR9,19850401,19860831,   56,Marcus Flarup                                     
+ 6063,138092,SANDA                                   ,SE,+57:25:48,+018:13:12,  15, RR9,19790801,20211031,   56,Marcus Flarup                                     
+ 6063,138096,VASTERGARN                              ,SE,+57:25:48,+018:09:00,   2, RR9,19631001,19781231,   56,Marcus Flarup                                     
+ 6065,138092,SANDA                                   ,SE,+57:25:48,+018:13:12,  15, RR9,19790801,20211031,   56,Marcus Flarup                                     
+ 6065,138096,VASTERGARN                              ,SE,+57:25:48,+018:09:00,   2, RR9,19631001,19781231,   56,Marcus Flarup                                     
+ 6066,138082,BUTTLE                                  ,SE,+57:24:00,+018:31:48,  45, RR9,19530510,19830712,   56,Marcus Flarup                                     
+ 6066,138098,VANGE                                   ,SE,+57:26:24,+018:29:24,  45, RR9,19910401,20211031,   56,Marcus Flarup                                     
+ 6066,138124,ROMA                                    ,SE,+57:30:36,+018:27:00,  32, RR9,19450101,19901231,   56,Marcus Flarup                                     
+ 6066,159063,ROMA_AUT                                ,SE,+57:30:00,+018:27:36,  32, RR9,19850401,19860831,   56,Marcus Flarup                                     
+ 6074,138098,VANGE                                   ,SE,+57:26:24,+018:29:24,  45, RR9,19910401,20211031,   56,Marcus Flarup                                     
+ 6074,138124,ROMA                                    ,SE,+57:30:36,+018:27:00,  32, RR9,19450101,19901231,   56,Marcus Flarup                                     
+ 6074,138152,STENSTUGU FORSOKSGARD                   ,SE,+57:36:00,+018:27:00,  45, RR9,19541201,19930228,   56,Marcus Flarup                                     
+ 6074,159063,ROMA_AUT                                ,SE,+57:30:00,+018:27:36,  32, RR9,19850401,19860831,   56,Marcus Flarup                                     
+ 6079,138134,GREBBESHULT                             ,SE,+57:33:00,+012:27:36,  45, RR9,19450101,20211030,   56,Marcus Flarup                                     
+ 5290,138140,SANDSJOBACKA                            ,SE,+57:33:36,+012:02:24,  50, RR9,19790201,19830630,   56,Marcus Flarup                                     
+ 5290,138158,KALLERED_D                              ,SE,+57:36:36,+012:04:12,  30, RR9,19940301,20211031,   56,Marcus Flarup                                     
+ 5290,138178,MOLNDAL                                 ,SE,+57:39:36,+012:02:24,  61, RR9,19450101,19940430,   56,Marcus Flarup                                     
+ 6085,138152,STENSTUGU FORSOKSGARD                   ,SE,+57:36:00,+018:27:00,  45, RR9,19541201,19930228,   56,Marcus Flarup                                     
+ 6085,138168,VISBY                                   ,SE,+57:40:00,+018:20:00,  42, RR9,18590801,20211031,   56,Marcus Flarup                                     
+ 6085,138182,VISBY_FLYGPLATS                         ,SE,+57:39:36,+018:20:24,  42, RR9,19451001,20211031,   56,Marcus Flarup                                     
+ 6085,902590,VISBY                                   ,SE,+57:40:00,+018:21:00,  47, RR8,19820101,20200229,     ,                    
+ 6088,138140,SANDSJOBACKA                            ,SE,+57:33:36,+012:02:24,  50, RR9,19790201,19830630,   56,Marcus Flarup                                     
+ 6088,138158,KALLERED_D                              ,SE,+57:36:36,+012:04:12,  30, RR9,19940301,20211031,   56,Marcus Flarup                                     
+ 5295,138166,VINGA                                   ,SE,+57:37:48,+011:36:36,  12, RR9,18800101,20211031,   56,Marcus Flarup                                     
+ 5295,902516,VINGA                                   ,SE,+57:38:00,+011:36:00,  19, RR8,19931124,20200229,     ,                    
+ 5296,138170,TOVEHULT                                ,SE,+57:38:24,+016:34:12,  25, RR9,19450101,19871231,   56,Marcus Flarup                                     
+ 5296,138176,FALSTERBO_SKOLA                         ,SE,+57:39:00,+016:22:12,  45, RR9,19450102,19681031,   56,Marcus Flarup                                     
+ 5296,138202,GLADHAMMAR_A                            ,SE,+57:42:36,+016:27:36,  35, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5296,138206,GUNNEBO                                 ,SE,+57:43:12,+016:31:48,  18, RR9,19450101,19730522,   56,Marcus Flarup                                     
+ 6091,138170,TOVEHULT                                ,SE,+57:38:24,+016:34:12,  25, RR9,19450101,19871231,   56,Marcus Flarup                                     
+ 6091,138176,FALSTERBO_SKOLA                         ,SE,+57:39:00,+016:22:12,  45, RR9,19450102,19681031,   56,Marcus Flarup                                     
+ 6091,138202,GLADHAMMAR_A                            ,SE,+57:42:36,+016:27:36,  35, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 6092,138178,MOLNDAL                                 ,SE,+57:39:36,+012:02:24,  61, RR9,19450101,19940430,   56,Marcus Flarup                                     
+ 6092,138190,LANDVETTER                              ,SE,+57:41:24,+012:13:48,  60, RR9,19650307,19871231,   56,Marcus Flarup                                     
+ 5300,138168,VISBY                                   ,SE,+57:40:00,+018:20:00,  42, RR9,18590801,20211031,   56,Marcus Flarup                                     
+ 5300,138182,VISBY_FLYGPLATS                         ,SE,+57:39:36,+018:20:24,  42, RR9,19451001,20211031,   56,Marcus Flarup                                     
+ 5300,902590,VISBY                                   ,SE,+57:40:00,+018:21:00,  47, RR8,19820101,20200229,     ,                    
+ 6096,138196,HEJNUM                                  ,SE,+57:42:00,+018:38:24,  53, RR9,19710101,20211031,   56,Marcus Flarup                                     
+ 6096,138208,RINGS                                   ,SE,+57:43:12,+018:37:48,  50, RR9,19530508,19701231,   56,Marcus Flarup                                     
+ 5304,138170,TOVEHULT                                ,SE,+57:38:24,+016:34:12,  25, RR9,19450101,19871231,   56,Marcus Flarup                                     
+ 5304,138176,FALSTERBO_SKOLA                         ,SE,+57:39:00,+016:22:12,  45, RR9,19450102,19681031,   56,Marcus Flarup                                     
+ 5304,138202,GLADHAMMAR_A                            ,SE,+57:42:36,+016:27:36,  35, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5304,138206,GUNNEBO                                 ,SE,+57:43:12,+016:31:48,  18, RR9,19450101,19730522,   56,Marcus Flarup                                     
+ 5304,138212,VASTERVIK                               ,SE,+57:47:24,+016:35:24,  35, RR9,18590718,19950731,   56,Marcus Flarup                                     
+ 5307,138202,GLADHAMMAR_A                            ,SE,+57:42:36,+016:27:36,  35, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5307,138206,GUNNEBO                                 ,SE,+57:43:12,+016:31:48,  18, RR9,19450101,19730522,   56,Marcus Flarup                                     
+ 5307,138212,VASTERVIK                               ,SE,+57:47:24,+016:35:24,  35, RR9,18590718,19950731,   56,Marcus Flarup                                     
+ 6100,119251,VISBY                                   ,SE,+57:40:00,+018:20:00,  42, RR1,19610101,20021025,   50,GHCND                                             
+ 6100,138168,VISBY                                   ,SE,+57:40:00,+018:20:00,  42, RR9,18590801,20211031,   56,Marcus Flarup                                     
+ 6100,138182,VISBY_FLYGPLATS                         ,SE,+57:39:36,+018:20:24,  42, RR9,19451001,20211031,   56,Marcus Flarup                                     
+ 6100,138218,LUMMELUNDA                              ,SE,+57:44:24,+018:25:48,  50, RR9,19631001,19840420,   56,Marcus Flarup                                     
+ 6100,902590,VISBY                                   ,SE,+57:40:00,+018:21:00,  47, RR8,19820101,20200229,     ,                    
+ 1415,138198,GOTEBORG A                              ,SE,+57:42:58,+011:59:40,   5, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 1415,138204,TORSLANDA                               ,SE,+57:43:12,+011:46:48,   3, RR9,19490106,19770930,   56,Marcus Flarup                                     
+ 1415,138234,SAVE                                    ,SE,+57:46:48,+011:52:48,  20, RR9,19440101,20021130,   56,Marcus Flarup                                     
+ 1415,138252,SAVE-SKALVISERED                        ,SE,+57:49:48,+011:55:12,  20, RR9,20021003,20071229,   56,Marcus Flarup                                     
+ 1415,138256,KARNA                                   ,SE,+57:50:24,+011:51:36,  21, RR9,20090102,20211031,   56,Marcus Flarup                                     
+ 6105,138196,HEJNUM                                  ,SE,+57:42:00,+018:38:24,  53, RR9,19710101,20211031,   56,Marcus Flarup                                     
+ 6105,138208,RINGS                                   ,SE,+57:43:12,+018:37:48,  50, RR9,19530508,19701231,   56,Marcus Flarup                                     
+ 6105,138242,AUSTERS_D                               ,SE,+57:48:36,+018:37:48,  30, RR9,20041001,20211031,   56,Marcus Flarup                                     
+ 6107,138246,RISUNGS                                 ,SE,+57:49:12,+018:55:48,  20, RR9,19450102,19711020,   56,Marcus Flarup                                     
+ 6107,138270,FAROSUND                                ,SE,+57:52:12,+019:03:00,  20, RR9,19680812,19790630,   56,Marcus Flarup                                     
+ 6107,138302,FAROSUND_AR_A                           ,SE,+57:55:12,+018:57:36,  13, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5315,138234,SAVE                                    ,SE,+57:46:48,+011:52:48,  20, RR9,19440101,20021130,   56,Marcus Flarup                                     
+ 5315,138252,SAVE-SKALVISERED                        ,SE,+57:49:48,+011:55:12,  20, RR9,20021003,20071229,   56,Marcus Flarup                                     
+ 5315,138256,KARNA                                   ,SE,+57:50:24,+011:51:36,  21, RR9,20090102,20211031,   56,Marcus Flarup                                     
+ 5315,902512,GOTEBORG/SAVE                           ,SE,+57:47:00,+011:53:00,  20, RR8,19820101,20021201,     ,                    
+ 5316,138234,SAVE                                    ,SE,+57:46:48,+011:52:48,  20, RR9,19440101,20021130,   56,Marcus Flarup                                     
+ 5316,138252,SAVE-SKALVISERED                        ,SE,+57:49:48,+011:55:12,  20, RR9,20021003,20071229,   56,Marcus Flarup                                     
+ 5316,138256,KARNA                                   ,SE,+57:50:24,+011:51:36,  21, RR9,20090102,20211031,   56,Marcus Flarup                                     
+ 5316,902512,GOTEBORG/SAVE                           ,SE,+57:47:00,+011:53:00,  20, RR8,19820101,20021201,     ,                    
+ 6114,138246,RISUNGS                                 ,SE,+57:49:12,+018:55:48,  20, RR9,19450102,19711020,   56,Marcus Flarup                                     
+ 6114,138270,FAROSUND                                ,SE,+57:52:12,+019:03:00,  20, RR9,19680812,19790630,   56,Marcus Flarup                                     
+ 6114,138286,FARO                                    ,SE,+57:54:00,+019:09:36,  13, RR9,19490101,20170831,   56,Marcus Flarup                                     
+ 6114,138302,FAROSUND_AR_A                           ,SE,+57:55:12,+018:57:36,  13, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 6117,138284,WESTO                                   ,SE,+57:53:24,+018:45:36,  20, RR9,19740704,19861228,   56,Marcus Flarup                                     
+ 6117,138302,FAROSUND_AR_A                           ,SE,+57:55:12,+018:57:36,  13, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5323,138286,FARO                                    ,SE,+57:54:00,+019:09:36,  13, RR9,19490101,20170831,   56,Marcus Flarup                                     
+ 5323,138302,FAROSUND_AR_A                           ,SE,+57:55:12,+018:57:36,  13, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 6119,138290,LOFTAHAMMAR                             ,SE,+57:54:00,+016:42:00,   3, RR9,19721011,19910525,   56,Marcus Flarup                                     
+ 6119,138312,HELLERO                                 ,SE,+57:57:00,+016:39:00,  10, RR9,19910601,20210930,   56,Marcus Flarup                                     
+ 5325,138246,RISUNGS                                 ,SE,+57:49:12,+018:55:48,  20, RR9,19450102,19711020,   56,Marcus Flarup                                     
+ 5325,138270,FAROSUND                                ,SE,+57:52:12,+019:03:00,  20, RR9,19680812,19790630,   56,Marcus Flarup                                     
+ 5325,138286,FARO                                    ,SE,+57:54:00,+019:09:36,  13, RR9,19490101,20170831,   56,Marcus Flarup                                     
+ 5325,138302,FAROSUND_AR_A                           ,SE,+57:55:12,+018:57:36,  13, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 6124,138256,KARNA                                   ,SE,+57:50:24,+011:51:36,  21, RR9,20090102,20211031,   56,Marcus Flarup                                     
+ 6124,138304,ARSNAS                                  ,SE,+57:55:48,+011:46:48,   5, RR9,19631012,19760730,   56,Marcus Flarup                                     
+ 6124,138310,SOLBERGA                                ,SE,+57:57:00,+011:49:12,  20, RR9,19760908,19790430,   56,Marcus Flarup                                     
+ 6126,138256,KARNA                                   ,SE,+57:50:24,+011:51:36,  21, RR9,20090102,20211031,   56,Marcus Flarup                                     
+ 6126,138304,ARSNAS                                  ,SE,+57:55:48,+011:46:48,   5, RR9,19631012,19760730,   56,Marcus Flarup                                     
+ 6126,138310,SOLBERGA                                ,SE,+57:57:00,+011:49:12,  20, RR9,19760908,19790430,   56,Marcus Flarup                                     
+ 6127,138290,LOFTAHAMMAR                             ,SE,+57:54:00,+016:42:00,   3, RR9,19721011,19910525,   56,Marcus Flarup                                     
+ 6127,138312,HELLERO                                 ,SE,+57:57:00,+016:39:00,  10, RR9,19910601,20210930,   56,Marcus Flarup                                     
+ 5331,138308,KLADESHOLMEN                            ,SE,+57:57:00,+011:33:00,  10, RR9,19450102,19690430,   56,Marcus Flarup                                     
+ 5331,138332,SABY                                    ,SE,+58:01:12,+011:36:00,  10, RR9,19450101,19980831,   56,Marcus Flarup                                     
+ 5331,138350,RORASTRAND                              ,SE,+58:03:36,+011:39:00,   5, RR9,19990101,20211031,   56,Marcus Flarup                                     
+ 5337,138332,SABY                                    ,SE,+58:01:12,+011:36:00,  10, RR9,19450101,19980831,   56,Marcus Flarup                                     
+ 5337,138350,RORASTRAND                              ,SE,+58:03:36,+011:39:00,   5, RR9,19990101,20211031,   56,Marcus Flarup                                     
+ 5342,138362,MASESKAR_A                              ,SE,+58:05:24,+011:19:48,  16, RR9,19980501,20211031,   56,Marcus Flarup                                     
+ 5342,138364,MASESKAR                                ,SE,+58:06:00,+011:21:00,  14, RR9,18830901,19951031,   56,Marcus Flarup                                     
+ 2262,138362,MASESKAR_A                              ,SE,+58:05:24,+011:19:48,  16, RR9,19980501,20211031,   56,Marcus Flarup                                     
+ 2262,138364,MASESKAR                                ,SE,+58:06:00,+011:21:00,  14, RR9,18830901,19951031,   56,Marcus Flarup                                     
+ 6149,138396,HOLMBO_D                                ,SE,+58:12:36,+016:22:12,  45, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6153,138410,HENAN                                   ,SE,+58:14:24,+011:40:48,  15, RR9,19780401,20211031,   56,Marcus Flarup                                     
+ 5353,138416,HARSTENA                                ,SE,+58:15:00,+017:00:36,   5, RR9,19490101,20000430,   56,Marcus Flarup                                     
+ 5353,138418,HARSTENA A                              ,SE,+58:15:02,+017:00:38,  14, RR9,19960201,20211031,   56,Marcus Flarup                                     
+ 3515,138416,HARSTENA                                ,SE,+58:15:00,+017:00:36,   5, RR9,19490101,20000430,   56,Marcus Flarup                                     
+ 3515,138418,HARSTENA A                              ,SE,+58:15:02,+017:00:38,  14, RR9,19960201,20211031,   56,Marcus Flarup                                     
+ 6158,138428,LYSEKIL_D                               ,SE,+58:16:12,+011:25:48,  30, RR9,19720601,20211031,   56,Marcus Flarup                                     
+ 5358,138434,TROLLHATTAN                             ,SE,+58:18:00,+012:19:12,  42, RR9,19450101,19670228,   56,Marcus Flarup                                     
+ 5358,138438,TROLLHATTANS FLYGPLATS                  ,SE,+58:18:36,+012:19:48,  43, RR9,19610102,19790731,   56,Marcus Flarup                                     
+ 5358,138464,VANERSBORG                              ,SE,+58:21:36,+012:21:36,  50, RR9,18590801,20210930,   56,Marcus Flarup                                     
+ 5361,138454,HOLMA                                   ,SE,+58:19:48,+016:49:12,   5, RR9,19620501,19961130,   56,Marcus Flarup                                     
+ 5361,138460,BORRUM_D                                ,SE,+58:21:00,+016:37:48,  15, RR9,19971001,20211031,   56,Marcus Flarup                                     
+ 6166,138454,HOLMA                                   ,SE,+58:19:48,+016:49:12,   5, RR9,19620501,19961130,   56,Marcus Flarup                                     
+ 6166,138460,BORRUM_D                                ,SE,+58:21:00,+016:37:48,  15, RR9,19971001,20211031,   56,Marcus Flarup                                     
+ 6166,138506,STEGEBORG                               ,SE,+58:25:48,+016:36:00,  10, RR9,19490901,19730522,   56,Marcus Flarup                                     
+ 5364,138434,TROLLHATTAN                             ,SE,+58:18:00,+012:19:12,  42, RR9,19450101,19670228,   56,Marcus Flarup                                     
+ 5364,138464,VANERSBORG                              ,SE,+58:21:36,+012:21:36,  50, RR9,18590801,20210930,   56,Marcus Flarup                                     
+ 3516,138480,GOTSKA SANDON                           ,SE,+58:24:00,+019:12:00,  11, RR9,18791101,20061231,   56,Marcus Flarup                                     
+ 3516,138484,GOTSKA SANDON A                         ,SE,+58:23:39,+019:11:51,  16, RR9,19951217,20211031,   56,Marcus Flarup                                     
+ 6172,138502,GUSTORP_D                               ,SE,+58:25:48,+016:08:24,  65, RR9,19671001,20211027,   56,Marcus Flarup                                     
+ 6172,138520,SKARKIND                                ,SE,+58:29:24,+016:00:00,  49, RR9,19780701,20181231,   56,Marcus Flarup                                     
+ 6172,138522,SODERKOPING                             ,SE,+58:30:00,+016:16:48,  46, RR9,19570601,20211031,   56,Marcus Flarup                                     
+ 6173,138460,BORRUM_D                                ,SE,+58:21:00,+016:37:48,  15, RR9,19971001,20211031,   56,Marcus Flarup                                     
+ 6173,138506,STEGEBORG                               ,SE,+58:25:48,+016:36:00,  10, RR9,19490901,19730522,   56,Marcus Flarup                                     
+ 5379,138502,GUSTORP_D                               ,SE,+58:25:48,+016:08:24,  65, RR9,19671001,20211027,   56,Marcus Flarup                                     
+ 5379,138520,SKARKIND                                ,SE,+58:29:24,+016:00:00,  49, RR9,19780701,20181231,   56,Marcus Flarup                                     
+ 6176,138502,GUSTORP_D                               ,SE,+58:25:48,+016:08:24,  65, RR9,19671001,20211027,   56,Marcus Flarup                                     
+ 6176,138522,SODERKOPING                             ,SE,+58:30:00,+016:16:48,  46, RR9,19570601,20211031,   56,Marcus Flarup                                     
+ 6179,138534,HEDEN                                   ,SE,+58:31:12,+011:31:12,  50, RR9,19450101,20210929,   56,Marcus Flarup                                     
+ 6179,138558,SVARTEBORG                              ,SE,+58:34:12,+011:33:36,  70, RR9,19610102,19860329,   56,Marcus Flarup                                     
+ 6186,138520,SKARKIND                                ,SE,+58:29:24,+016:00:00,  49, RR9,19780701,20181231,   56,Marcus Flarup                                     
+ 6186,138556,SKARBLACKA                              ,SE,+58:34:12,+015:54:00,  30, RR9,19681001,19690519,   56,Marcus Flarup                                     
+ 6186,138572,VANGA_D                                 ,SE,+58:35:24,+015:49:12,  45, RR9,19900101,20211031,   56,Marcus Flarup                                     
+ 5390,138568,NORRKOPING-SMHI                         ,SE,+58:34:48,+016:09:00,  21, RR9,19930501,20211031,   56,Marcus Flarup                                     
+ 5390,138570,NORRKOPING KUNSANGEN                    ,SE,+58:34:48,+016:14:24,   5, RR9,19490106,19800828,   56,Marcus Flarup                                     
+ 5390,138576,NORRKOPING                              ,SE,+58:36:36,+016:12:36,   3, RR9,19450101,20030930,   56,Marcus Flarup                                     
+ 5390,138580,NORRKOPING-SORBY                        ,SE,+58:36:36,+016:07:12,  21, RR9,19490101,19930430,   56,Marcus Flarup                                     
+ 5391,138568,NORRKOPING-SMHI                         ,SE,+58:34:48,+016:09:00,  21, RR9,19930501,20211031,   56,Marcus Flarup                                     
+ 5391,138570,NORRKOPING KUNSANGEN                    ,SE,+58:34:48,+016:14:24,   5, RR9,19490106,19800828,   56,Marcus Flarup                                     
+ 5391,138576,NORRKOPING                              ,SE,+58:36:36,+016:12:36,   3, RR9,19450101,20030930,   56,Marcus Flarup                                     
+ 5391,138580,NORRKOPING-SORBY                        ,SE,+58:36:36,+016:07:12,  21, RR9,19490101,19930430,   56,Marcus Flarup                                     
+ 6188,138556,SKARBLACKA                              ,SE,+58:34:12,+015:54:00,  30, RR9,19681001,19690519,   56,Marcus Flarup                                     
+ 6188,138572,VANGA_D                                 ,SE,+58:35:24,+015:49:12,  45, RR9,19900101,20211031,   56,Marcus Flarup                                     
+ 5394,138568,NORRKOPING-SMHI                         ,SE,+58:34:48,+016:09:00,  21, RR9,19930501,20211031,   56,Marcus Flarup                                     
+ 5394,138570,NORRKOPING KUNSANGEN                    ,SE,+58:34:48,+016:14:24,   5, RR9,19490106,19800828,   56,Marcus Flarup                                     
+ 5394,138576,NORRKOPING                              ,SE,+58:36:36,+016:12:36,   3, RR9,19450101,20030930,   56,Marcus Flarup                                     
+ 5394,138580,NORRKOPING-SORBY                        ,SE,+58:36:36,+016:07:12,  21, RR9,19490101,19930430,   56,Marcus Flarup                                     
+ 5396,138568,NORRKOPING-SMHI                         ,SE,+58:34:48,+016:09:00,  21, RR9,19930501,20211031,   56,Marcus Flarup                                     
+ 5396,138576,NORRKOPING                              ,SE,+58:36:36,+016:12:36,   3, RR9,19450101,20030930,   56,Marcus Flarup                                     
+ 5396,138580,NORRKOPING-SORBY                        ,SE,+58:36:36,+016:07:12,  21, RR9,19490101,19930430,   56,Marcus Flarup                                     
+ 6190,138588,TRANEBERG                               ,SE,+58:39:36,+013:07:12,  50, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 6190,138602,NAVEN_A                                 ,SE,+58:42:00,+013:06:36,  53, RR9,19960601,20211031,   56,Marcus Flarup                                     
+ 6192,138592,HULT                                    ,SE,+58:40:48,+016:07:48,  50, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6192,138626,SIMONSTORP_O                            ,SE,+58:46:48,+016:07:48,  65, RR9,19500801,20141031,   56,Marcus Flarup                                     
+ 6192,902574,NORRKOPING                              ,SE,+58:35:00,+016:08:59,  35, RR8,19970629,20200229,     ,                    
+ 5402,138594,OXELOSUND                               ,SE,+58:40:48,+017:07:12,  10, RR9,19510901,20211030,   56,Marcus Flarup                                     
+ 6194,138600,FINSPANG                                ,SE,+58:43:12,+015:46:48,  55, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6194,138608,FINSPANG 1                              ,SE,+58:42:36,+015:49:12,  41, RR9,19910107,19930331,   56,Marcus Flarup                                     
+ 5404,138588,TRANEBERG                               ,SE,+58:39:36,+013:07:12,  50, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 5404,138602,NAVEN_A                                 ,SE,+58:42:00,+013:06:36,  53, RR9,19960601,20211031,   56,Marcus Flarup                                     
+ 5405,138606,MARIESTAD                               ,SE,+58:42:36,+013:49:12,  50, RR9,19580801,20211031,   56,Marcus Flarup                                     
+ 5405,138612,KATRINEFORS                             ,SE,+58:43:12,+013:49:48,  50, RR9,19450103,19711119,   56,Marcus Flarup                                     
+ 5406,138600,FINSPANG                                ,SE,+58:43:12,+015:46:48,  55, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5406,138608,FINSPANG 1                              ,SE,+58:42:36,+015:49:12,  41, RR9,19910107,19930331,   56,Marcus Flarup                                     
+ 1424,138618,LANDSORT                                ,SE,+58:44:24,+017:52:12,  18, RR9,18791031,20211031,   56,Marcus Flarup                                     
+ 1424,138620,LANDSORT_A                              ,SE,+58:44:24,+017:52:12,  18, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5409,138618,LANDSORT                                ,SE,+58:44:24,+017:52:12,  18, RR9,18791031,20211031,   56,Marcus Flarup                                     
+ 5409,138620,LANDSORT_A                              ,SE,+58:44:24,+017:52:12,  18, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 6199,138622,ALBERGA                                 ,SE,+58:45:00,+016:33:36,  25, RR9,19450101,20120331,   56,Marcus Flarup                                     
+ 6199,138642,BJORKVIK_D                              ,SE,+58:49:12,+016:30:00,  26, RR9,20110601,20211029,   56,Marcus Flarup                                     
+ 5410,138592,HULT                                    ,SE,+58:40:48,+016:07:48,  50, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5410,138626,SIMONSTORP_O                            ,SE,+58:46:48,+016:07:48,  65, RR9,19500801,20141031,   56,Marcus Flarup                                     
+ 6202,138622,ALBERGA                                 ,SE,+58:45:00,+016:33:36,  25, RR9,19450101,20120331,   56,Marcus Flarup                                     
+ 6202,138642,BJORKVIK_D                              ,SE,+58:49:12,+016:30:00,  26, RR9,20110601,20211029,   56,Marcus Flarup                                     
+ 6202,138648,GLINDRAN                                ,SE,+58:50:24,+016:25:12,  50, RR9,19910801,20210930,   56,Marcus Flarup                                     
+ 6202,138658,VRENA                                   ,SE,+58:52:12,+016:40:48,  25, RR9,19640513,20211030,   56,Marcus Flarup                                     
+ 6203,138644,HAVRESTROM                              ,SE,+58:49:12,+012:24:36,  55, RR9,19450101,19840229,   56,Marcus Flarup                                     
+ 6203,138660,ANIMSKOG                                ,SE,+58:52:12,+012:35:24,  50, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6205,138642,BJORKVIK_D                              ,SE,+58:49:12,+016:30:00,  26, RR9,20110601,20211029,   56,Marcus Flarup                                     
+ 6205,138648,GLINDRAN                                ,SE,+58:50:24,+016:25:12,  50, RR9,19910801,20210930,   56,Marcus Flarup                                     
+ 6206,138652,STORA_UTTERVIK                          ,SE,+58:51:00,+017:33:00,  10, RR9,19551104,19760426,   56,Marcus Flarup                                     
+ 6206,138686,TROSA                                   ,SE,+58:54:00,+017:34:12,   5, RR9,19530106,19801127,   56,Marcus Flarup                                     
+ 6206,138696,ADA                                     ,SE,+58:55:48,+017:32:24,   5, RR9,19450101,20211028,   56,Marcus Flarup                                     
+ 6208,138642,BJORKVIK_D                              ,SE,+58:49:12,+016:30:00,  26, RR9,20110601,20211029,   56,Marcus Flarup                                     
+ 6208,138658,VRENA                                   ,SE,+58:52:12,+016:40:48,  25, RR9,19640513,20211030,   56,Marcus Flarup                                     
+ 6209,138644,HAVRESTROM                              ,SE,+58:49:12,+012:24:36,  55, RR9,19450101,19840229,   56,Marcus Flarup                                     
+ 6209,138660,ANIMSKOG                                ,SE,+58:52:12,+012:35:24,  50, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 3514,138674,NORDKOSTER A                            ,SE,+58:53:33,+011:00:22,  33, RR9,19670901,20211031,   56,Marcus Flarup                                     
+ 3514,138698,STROMSTAD                               ,SE,+58:55:48,+011:12:00,  20, RR9,19491103,19730928,   56,Marcus Flarup                                     
+ 3514,902500,NORDKOSTER                              ,SE,+58:54:00,+011:00:00,  35, RR8,19931124,20200229,     ,                    
+ 6215,138634,LURO                                    ,SE,+58:48:00,+013:15:00,  55, RR9,19650107,19651027,   56,Marcus Flarup                                     
+ 6215,138678,VARMLANDSNAS-EKENAS                     ,SE,+58:54:00,+013:14:24,  50, RR9,20051101,20211031,   56,Marcus Flarup                                     
+ 6215,138680,AKERSHUS                                ,SE,+58:54:00,+013:15:00,  50, RR9,19651201,19960131,   56,Marcus Flarup                                     
+ 6215,159737,LURO 1                                  ,SE,+58:47:24,+013:15:00,  55, RR9,19450102,19651027,   56,Marcus Flarup                                     
+ 5423,138634,LURO                                    ,SE,+58:48:00,+013:15:00,  55, RR9,19650107,19651027,   56,Marcus Flarup                                     
+ 5423,138678,VARMLANDSNAS-EKENAS                     ,SE,+58:54:00,+013:14:24,  50, RR9,20051101,20211031,   56,Marcus Flarup                                     
+ 5423,138680,AKERSHUS                                ,SE,+58:54:00,+013:15:00,  50, RR9,19651201,19960131,   56,Marcus Flarup                                     
+ 5423,159737,LURO 1                                  ,SE,+58:47:24,+013:15:00,  55, RR9,19450102,19651027,   56,Marcus Flarup                                     
+ 5424,138686,TROSA                                   ,SE,+58:54:00,+017:34:12,   5, RR9,19530106,19801127,   56,Marcus Flarup                                     
+ 5424,138696,ADA                                     ,SE,+58:55:48,+017:32:24,   5, RR9,19450101,20211028,   56,Marcus Flarup                                     
+ 6220,138694,NYNASHAMN                               ,SE,+58:55:12,+017:55:12,  15, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6220,138710,SJOGARDE                                ,SE,+58:58:48,+017:50:24,  30, RR9,19531101,20210930,   56,Marcus Flarup                                     
+ 6221,138686,TROSA                                   ,SE,+58:54:00,+017:34:12,   5, RR9,19530106,19801127,   56,Marcus Flarup                                     
+ 6221,138696,ADA                                     ,SE,+58:55:48,+017:32:24,   5, RR9,19450101,20211028,   56,Marcus Flarup                                     
+ 6224,138694,NYNASHAMN                               ,SE,+58:55:12,+017:55:12,  15, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6224,138710,SJOGARDE                                ,SE,+58:58:48,+017:50:24,  30, RR9,19531101,20210930,   56,Marcus Flarup                                     
+ 6231,138724,FRANDESTA                               ,SE,+59:00:36,+016:52:48,  30, RR9,19530101,20210929,   56,Marcus Flarup                                     
+ 5432,138714,KATRINEHOLM_D                           ,SE,+58:59:24,+016:10:48,  30, RR9,19450101,20120331,   56,Marcus Flarup                                     
+ 5432,138726,VALLA                                   ,SE,+59:01:12,+016:22:12,  50, RR9,19730901,20140630,   56,Marcus Flarup                                     
+ 5432,138736,STRANGSTORP                             ,SE,+59:03:00,+016:13:12,  62, RR9,19630706,19791231,   56,Marcus Flarup                                     
+ 5432,138744,FLODAFORS                               ,SE,+59:04:12,+016:22:12,  50, RR9,19620509,19630626,   56,Marcus Flarup                                     
+ 5432,171393,SKOLDINGE                               ,SE,+59:03:28,+016:24:10,  30, RR9,20141130,20211031,   56,Marcus Flarup                                     
+ 5432,902476,FLODA                                   ,SE,+59:03:00,+016:23:59,  33, RR8,19960928,20200229,     ,                    
+ 6232,138732,FLEN                                    ,SE,+59:03:36,+016:35:24,  30, RR9,19450101,20081231,   56,Marcus Flarup                                     
+ 6232,138742,FLODA_A                                 ,SE,+59:03:36,+016:24:00,  19, RR9,19620501,20211031,   56,Marcus Flarup                                     
+ 6232,171393,SKOLDINGE                               ,SE,+59:03:28,+016:24:10,  30, RR9,20141130,20211031,   56,Marcus Flarup                                     
+ 6232,902476,FLODA                                   ,SE,+59:03:00,+016:23:59,  33, RR8,19960928,20200229,     ,                    
+ 5436,138732,FLEN                                    ,SE,+59:03:36,+016:35:24,  30, RR9,19450101,20081231,   56,Marcus Flarup                                     
+ 5436,138742,FLODA_A                                 ,SE,+59:03:36,+016:24:00,  19, RR9,19620501,20211031,   56,Marcus Flarup                                     
+ 5436,171393,SKOLDINGE                               ,SE,+59:03:28,+016:24:10,  30, RR9,20141130,20211031,   56,Marcus Flarup                                     
+ 5436,902476,FLODA                                   ,SE,+59:03:00,+016:23:59,  33, RR8,19960928,20200229,     ,                    
+ 1413,138746,HARSFJARDEN                             ,SE,+59:04:12,+018:07:12,   4, RR9,19521101,20211031,   56,Marcus Flarup                                     
+ 1413,138760,VASTERHANINGE                           ,SE,+59:07:12,+018:06:36,  28, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 6235,138710,SJOGARDE                                ,SE,+58:58:48,+017:50:24,  30, RR9,19531101,20210930,   56,Marcus Flarup                                     
+ 6235,138750,GRINDSJON                               ,SE,+59:04:48,+017:51:36,  45, RR9,19531101,20150630,   56,Marcus Flarup                                     
+ 6235,138796,TULLINGE A                              ,SE,+59:10:44,+017:54:45,  45, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 6237,138754,GNESTA                                  ,SE,+59:06:00,+017:19:12,  20, RR9,19640501,20210930,   56,Marcus Flarup                                     
+ 6237,171415,VANGSO                                  ,SE,+59:07:00,+017:12:00,  15, RR9,19490103,19601230,   56,Marcus Flarup                                     
+ 5440,138750,GRINDSJON                               ,SE,+59:04:48,+017:51:36,  45, RR9,19531101,20150630,   56,Marcus Flarup                                     
+ 5440,138758,RIKSTEN                                 ,SE,+59:10:48,+017:55:12,  45, RR9,19490101,19850630,   56,Marcus Flarup                                     
+ 5440,138796,TULLINGE A                              ,SE,+59:10:44,+017:54:45,  45, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 6238,138746,HARSFJARDEN                             ,SE,+59:04:12,+018:07:12,   4, RR9,19521101,20211031,   56,Marcus Flarup                                     
+ 6238,138760,VASTERHANINGE                           ,SE,+59:07:12,+018:06:36,  28, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 6242,138740,HALLSBERG                               ,SE,+59:04:12,+015:03:00,  52, RR9,19450101,20110914,   56,Marcus Flarup                                     
+ 6242,138752,OREBRO_FLYGPLATS                        ,SE,+59:04:48,+015:04:12,  53, RR9,19890201,19930429,   56,Marcus Flarup                                     
+ 6242,138768,KUMLA                                   ,SE,+59:07:12,+015:09:00,  50, RR9,19910911,19920109,   56,Marcus Flarup                                     
+ 6242,138780,SKOLLERSTA                              ,SE,+59:08:24,+015:16:48,  50, RR9,19731101,19841031,   56,Marcus Flarup                                     
+ 6246,138776,DALARO_D                                ,SE,+59:07:48,+018:24:36,  15, RR9,20101001,20211031,   56,Marcus Flarup                                     
+ 6246,138808,VISSVASS                                ,SE,+59:12:00,+018:22:12,  30, RR9,19700719,19760731,   56,Marcus Flarup                                     
+ 6246,138810,STORMYRA                                ,SE,+59:12:00,+018:19:48,  30, RR9,19760801,20210930,   56,Marcus Flarup                                     
+ 5441,138778,SAFFLE                                  ,SE,+59:08:24,+012:56:24,  50, RR9,19511001,20211031,   56,Marcus Flarup                                     
+ 6247,138768,KUMLA                                   ,SE,+59:07:12,+015:09:00,  50, RR9,19910911,19920109,   56,Marcus Flarup                                     
+ 6247,138780,SKOLLERSTA                              ,SE,+59:08:24,+015:16:48,  50, RR9,19731101,19841031,   56,Marcus Flarup                                     
+ 6247,138790,ASKER_D                                 ,SE,+59:09:36,+015:28:12,  40, RR9,19940401,20211031,   56,Marcus Flarup                                     
+ 6247,138826,OREBRO 1                                ,SE,+59:14:24,+015:17:24,  35, RR9,18581201,19880311,   56,Marcus Flarup                                     
+ 5442,138782,DUNKER                                  ,SE,+59:11:24,+016:54:36,  35, RR9,19741101,19950228,   56,Marcus Flarup                                     
+ 5442,138822,EKLANGEN                                ,SE,+59:14:24,+016:45:00,  35, RR9,19931101,20140630,   56,Marcus Flarup                                     
+ 5442,138832,AKERS_STYCKEBRUK                        ,SE,+59:15:00,+017:05:24,  20, RR9,19450109,19811031,   56,Marcus Flarup                                     
+ 6250,138780,SKOLLERSTA                              ,SE,+59:08:24,+015:16:48,  50, RR9,19731101,19841031,   56,Marcus Flarup                                     
+ 6250,138790,ASKER_D                                 ,SE,+59:09:36,+015:28:12,  40, RR9,19940401,20211031,   56,Marcus Flarup                                     
+ 3518,138750,GRINDSJON                               ,SE,+59:04:48,+017:51:36,  45, RR9,19531101,20150630,   56,Marcus Flarup                                     
+ 3518,138796,TULLINGE A                              ,SE,+59:10:44,+017:54:45,  45, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 3518,138818,BERGAHOLM                               ,SE,+59:13:48,+017:43:12,  30, RR9,19450101,19900930,   56,Marcus Flarup                                     
+ 5444,138798,SODERTALJE                              ,SE,+59:11:24,+017:37:48,  40, RR9,19450101,20211029,   56,Marcus Flarup                                     
+ 5444,138818,BERGAHOLM                               ,SE,+59:13:48,+017:43:12,  30, RR9,19450101,19900930,   56,Marcus Flarup                                     
+ 6255,138806,NASHULTA                                ,SE,+59:12:00,+016:16:48,  50, RR9,19881101,20210930,   56,Marcus Flarup                                     
+ 6255,138840,STORA_SUNDBY-ALBERGA                    ,SE,+59:16:12,+016:07:12,  30, RR9,19680706,19690516,   56,Marcus Flarup                                     
+ 6256,138776,DALARO_D                                ,SE,+59:07:48,+018:24:36,  15, RR9,20101001,20211031,   56,Marcus Flarup                                     
+ 6256,138808,VISSVASS                                ,SE,+59:12:00,+018:22:12,  30, RR9,19700719,19760731,   56,Marcus Flarup                                     
+ 6256,138810,STORMYRA                                ,SE,+59:12:00,+018:19:48,  30, RR9,19760801,20210930,   56,Marcus Flarup                                     
+ 5445,138776,DALARO_D                                ,SE,+59:07:48,+018:24:36,  15, RR9,20101001,20211031,   56,Marcus Flarup                                     
+ 5445,138808,VISSVASS                                ,SE,+59:12:00,+018:22:12,  30, RR9,19700719,19760731,   56,Marcus Flarup                                     
+ 5445,138810,STORMYRA                                ,SE,+59:12:00,+018:19:48,  30, RR9,19760801,20210930,   56,Marcus Flarup                                     
+ 5448,138816,OREBRO_A                                ,SE,+59:13:48,+015:03:00,  53, RR9,19890201,20090430,   56,Marcus Flarup                                     
+ 5448,138820,LEKEBERGA                               ,SE,+59:13:48,+014:52:48,  75, RR9,19450101,19971231,   56,Marcus Flarup                                     
+ 5448,138836,OREBRO                                  ,SE,+59:15:36,+015:15:36,  31, RR9,18581201,20211031,   56,Marcus Flarup                                     
+ 6257,138798,SODERTALJE                              ,SE,+59:11:24,+017:37:48,  40, RR9,19450101,20211029,   56,Marcus Flarup                                     
+ 6257,138818,BERGAHOLM                               ,SE,+59:13:48,+017:43:12,  30, RR9,19450101,19900930,   56,Marcus Flarup                                     
+ 6257,138824,NORSBORG                                ,SE,+59:14:24,+017:46:48,  15, RR9,19450101,19850531,   56,Marcus Flarup                                     
+ 6257,138834,NORSBORG_11                             ,SE,+59:15:00,+017:48:00,  15, RR9,19590904,20211031,   56,Marcus Flarup                                     
+ 6259,138818,BERGAHOLM                               ,SE,+59:13:48,+017:43:12,  30, RR9,19450101,19900930,   56,Marcus Flarup                                     
+ 6259,138824,NORSBORG                                ,SE,+59:14:24,+017:46:48,  15, RR9,19450101,19850531,   56,Marcus Flarup                                     
+ 6259,138834,NORSBORG_11                             ,SE,+59:15:00,+017:48:00,  15, RR9,19590904,20211031,   56,Marcus Flarup                                     
+ 1425,138826,OREBRO 1                                ,SE,+59:14:24,+015:17:24,  35, RR9,18581201,19880311,   56,Marcus Flarup                                     
+ 1425,138836,OREBRO                                  ,SE,+59:15:36,+015:15:36,  31, RR9,18581201,20211031,   56,Marcus Flarup                                     
+ 5451,138782,DUNKER                                  ,SE,+59:11:24,+016:54:36,  35, RR9,19741101,19950228,   56,Marcus Flarup                                     
+ 5451,138832,AKERS_STYCKEBRUK                        ,SE,+59:15:00,+017:05:24,  20, RR9,19450109,19811031,   56,Marcus Flarup                                     
+ 5451,138838,MARIEFRED                               ,SE,+59:16:12,+017:13:48,   5, RR9,19510523,20211031,   56,Marcus Flarup                                     
+ 6262,138818,BERGAHOLM                               ,SE,+59:13:48,+017:43:12,  30, RR9,19450101,19900930,   56,Marcus Flarup                                     
+ 6262,138824,NORSBORG                                ,SE,+59:14:24,+017:46:48,  15, RR9,19450101,19850531,   56,Marcus Flarup                                     
+ 6262,138834,NORSBORG_11                             ,SE,+59:15:00,+017:48:00,  15, RR9,19590904,20211031,   56,Marcus Flarup                                     
+ 5454,138816,OREBRO_A                                ,SE,+59:13:48,+015:03:00,  53, RR9,19890201,20090430,   56,Marcus Flarup                                     
+ 5454,138836,OREBRO                                  ,SE,+59:15:36,+015:15:36,  31, RR9,18581201,20211031,   56,Marcus Flarup                                     
+ 5452,138832,AKERS_STYCKEBRUK                        ,SE,+59:15:00,+017:05:24,  20, RR9,19450109,19811031,   56,Marcus Flarup                                     
+ 5452,138838,MARIEFRED                               ,SE,+59:16:12,+017:13:48,   5, RR9,19510523,20211031,   56,Marcus Flarup                                     
+ 6263,138806,NASHULTA                                ,SE,+59:12:00,+016:16:48,  50, RR9,19881101,20210930,   56,Marcus Flarup                                     
+ 6263,138840,STORA_SUNDBY-ALBERGA                    ,SE,+59:16:12,+016:07:12,  30, RR9,19680706,19690516,   56,Marcus Flarup                                     
+ 6263,138842,STORA_SUNDBY                            ,SE,+59:16:12,+016:07:48,  25, RR9,19450102,19701018,   56,Marcus Flarup                                     
+ 6263,138844,VASTERMO                                ,SE,+59:17:24,+016:04:48,  25, RR9,19900601,20210928,   56,Marcus Flarup                                     
+ 6263,138852,NOTHOLMEN                               ,SE,+59:17:24,+016:00:36,  24, RR9,19871023,19890603,   56,Marcus Flarup                                     
+ 6264,138840,STORA_SUNDBY-ALBERGA                    ,SE,+59:16:12,+016:07:12,  30, RR9,19680706,19690516,   56,Marcus Flarup                                     
+ 6264,138842,STORA_SUNDBY                            ,SE,+59:16:12,+016:07:48,  25, RR9,19450102,19701018,   56,Marcus Flarup                                     
+ 6264,138844,VASTERMO                                ,SE,+59:17:24,+016:04:48,  25, RR9,19900601,20210928,   56,Marcus Flarup                                     
+ 6264,138852,NOTHOLMEN                               ,SE,+59:17:24,+016:00:36,  24, RR9,19871023,19890603,   56,Marcus Flarup                                     
+ 6265,138840,STORA_SUNDBY-ALBERGA                    ,SE,+59:16:12,+016:07:12,  30, RR9,19680706,19690516,   56,Marcus Flarup                                     
+ 6265,138842,STORA_SUNDBY                            ,SE,+59:16:12,+016:07:48,  25, RR9,19450102,19701018,   56,Marcus Flarup                                     
+ 6265,138844,VASTERMO                                ,SE,+59:17:24,+016:04:48,  25, RR9,19900601,20210928,   56,Marcus Flarup                                     
+ 6265,138852,NOTHOLMEN                               ,SE,+59:17:24,+016:00:36,  24, RR9,19871023,19890603,   56,Marcus Flarup                                     
+ 5457,138848,SANDHAMN                                ,SE,+59:17:24,+018:55:12,  10, RR9,19651201,20211031,   56,Marcus Flarup                                     
+ 5457,138868,DJURO                                   ,SE,+59:19:12,+018:43:48,   5, RR9,19500621,19661231,   56,Marcus Flarup                                     
+ 6266,138840,STORA_SUNDBY-ALBERGA                    ,SE,+59:16:12,+016:07:12,  30, RR9,19680706,19690516,   56,Marcus Flarup                                     
+ 6266,138842,STORA_SUNDBY                            ,SE,+59:16:12,+016:07:48,  25, RR9,19450102,19701018,   56,Marcus Flarup                                     
+ 6266,138844,VASTERMO                                ,SE,+59:17:24,+016:04:48,  25, RR9,19900601,20210928,   56,Marcus Flarup                                     
+ 6266,138852,NOTHOLMEN                               ,SE,+59:17:24,+016:00:36,  24, RR9,19871023,19890603,   56,Marcus Flarup                                     
+ 6266,138878,SICKELSJO                               ,SE,+59:19:48,+015:49:12,  40, RR9,19450101,19851031,   56,Marcus Flarup                                     
+ 6270,138848,SANDHAMN                                ,SE,+59:17:24,+018:55:12,  10, RR9,19651201,20211031,   56,Marcus Flarup                                     
+ 6270,138860,BERGA                                   ,SE,+59:18:00,+018:42:00,  15, RR9,19450101,19700328,   56,Marcus Flarup                                     
+ 6270,138868,DJURO                                   ,SE,+59:19:12,+018:43:48,   5, RR9,19500621,19661231,   56,Marcus Flarup                                     
+ 6272,138872,HYNDEVAD                                ,SE,+59:19:12,+016:26:24,  15, RR9,19450101,20211027,   56,Marcus Flarup                                     
+ 6272,138914,ESKILSTUNA_MO                           ,SE,+59:22:48,+016:27:00,  15, RR9,20080117,20211031,   56,Marcus Flarup                                     
+ 6272,138926,ESKILSTUNA                              ,SE,+59:23:24,+016:27:36,   8, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 6274,138852,NOTHOLMEN                               ,SE,+59:17:24,+016:00:36,  24, RR9,19871023,19890603,   56,Marcus Flarup                                     
+ 6274,138878,SICKELSJO                               ,SE,+59:19:48,+015:49:12,  40, RR9,19450101,19851031,   56,Marcus Flarup                                     
+ 6274,138906,LIDA_D                                  ,SE,+59:22:12,+016:01:12,  49, RR9,20060401,20190831,   56,Marcus Flarup                                     
+ 6274,138920,ARBOGA                                  ,SE,+59:22:48,+015:49:48,  50, RR9,19520201,19710829,   56,Marcus Flarup                                     
+ 5463,138878,SICKELSJO                               ,SE,+59:19:48,+015:49:12,  40, RR9,19450101,19851031,   56,Marcus Flarup                                     
+ 5463,138882,VINGAKER                                ,SE,+59:19:48,+015:57:36,  60, RR9,19660801,19681227,   56,Marcus Flarup                                     
+ 5463,138906,LIDA_D                                  ,SE,+59:22:12,+016:01:12,  49, RR9,20060401,20190831,   56,Marcus Flarup                                     
+ 5463,138920,ARBOGA                                  ,SE,+59:22:48,+015:49:48,  50, RR9,19520201,19710829,   56,Marcus Flarup                                     
+   10,138884,STOCKHOLM                               ,SE,+59:21:00,+018:03:00,  44, RR9,18590101,20211031,   56,Marcus Flarup                                     
+ 5464,138884,STOCKHOLM                               ,SE,+59:21:00,+018:03:00,  44, RR9,18590101,20211031,   56,Marcus Flarup                                     
+ 5464,138886,STOCKHOLM_A                             ,SE,+59:20:24,+018:03:36,  44, RR9,19961001,19971024,   56,Marcus Flarup                                     
+ 6277,138890,HOGSTA                                  ,SE,+59:21:00,+015:28:48,  10, RR9,19450101,19860131,   56,Marcus Flarup                                     
+ 6277,138956,VASTVALLA                               ,SE,+59:25:12,+015:36:36,  15, RR9,19591101,20211005,   56,Marcus Flarup                                     
+ 5467,138896,ADELSO_A                                ,SE,+59:21:36,+017:31:12,   6, RR9,19951214,20211031,   56,Marcus Flarup                                     
+ 5467,138900,SVARTSJO                                ,SE,+59:21:36,+017:43:12,  10, RR9,19521101,20041130,   56,Marcus Flarup                                     
+ 5467,138934,LYCKAS                                  ,SE,+59:24:00,+017:40:12,  15, RR9,19590406,19740321,   56,Marcus Flarup                                     
+ 5467,138946,SATTRA                                  ,SE,+59:24:36,+017:28:48,  25, RR9,19500901,20111231,   56,Marcus Flarup                                     
+ 6279,138858,NYCKLEBY                                ,SE,+59:18:00,+017:43:12,  25, RR9,19450101,19760731,   56,Marcus Flarup                                     
+ 6279,138896,ADELSO_A                                ,SE,+59:21:36,+017:31:12,   6, RR9,19951214,20211031,   56,Marcus Flarup                                     
+ 6279,138900,SVARTSJO                                ,SE,+59:21:36,+017:43:12,  10, RR9,19521101,20041130,   56,Marcus Flarup                                     
+ 6279,138934,LYCKAS                                  ,SE,+59:24:00,+017:40:12,  15, RR9,19590406,19740321,   56,Marcus Flarup                                     
+ 6279,138950,BARKARBY                                ,SE,+59:25:12,+017:52:48,  17, RR9,19510101,19730628,   56,Marcus Flarup                                     
+ 5468,101220,KARLSTAD                                ,SE,+59:21:00,+013:28:00,  46, RR1,19610101,20031231,   47,GSN network                                       
+ 5468,138902,KARLSTAD_AUT                            ,SE,+59:21:36,+013:28:12,  46, RR9,19910301,19910331,   56,Marcus Flarup                                     
+ 5468,138924,KARLSTAD                                ,SE,+59:21:00,+013:28:00,  46, RR9,18600101,20210831,   56,Marcus Flarup                                     
+ 5468,138940,VARPNAS                                 ,SE,+59:24:00,+013:16:12,  68, RR9,19450101,19850930,   56,Marcus Flarup                                     
+ 5469,138904,ULVHALL                                 ,SE,+59:21:36,+017:02:24,  15, RR9,19450107,19800329,   56,Marcus Flarup                                     
+ 5469,138928,STRANGNAS-VANSO                         ,SE,+59:24:00,+016:56:24,  15, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 5469,138932,TOSTERO_SKOLA                           ,SE,+59:24:00,+017:01:48,  20, RR9,19560110,19740529,   56,Marcus Flarup                                     
+ 5469,138936,STRANGNAS                               ,SE,+59:24:00,+017:03:36,  15, RR9,19800418,19891218,   56,Marcus Flarup                                     
+ 6280,138840,STORA_SUNDBY-ALBERGA                    ,SE,+59:16:12,+016:07:12,  30, RR9,19680706,19690516,   56,Marcus Flarup                                     
+ 6280,138844,VASTERMO                                ,SE,+59:17:24,+016:04:48,  25, RR9,19900601,20210928,   56,Marcus Flarup                                     
+ 6280,138878,SICKELSJO                               ,SE,+59:19:48,+015:49:12,  40, RR9,19450101,19851031,   56,Marcus Flarup                                     
+ 6280,138882,VINGAKER                                ,SE,+59:19:48,+015:57:36,  60, RR9,19660801,19681227,   56,Marcus Flarup                                     
+ 6280,138906,LIDA_D                                  ,SE,+59:22:12,+016:01:12,  49, RR9,20060401,20190831,   56,Marcus Flarup                                     
+ 6280,138920,ARBOGA                                  ,SE,+59:22:48,+015:49:48,  50, RR9,19520201,19710829,   56,Marcus Flarup                                     
+ 6282,138894,STOCKHOLM-BROMMA                        ,SE,+59:21:13,+017:57:05,  14, RR9,19490101,19971231,   56,Marcus Flarup                                     
+ 6282,138910,LIDINGO                                 ,SE,+59:22:12,+018:09:36,   2, RR9,19601201,19860630,   56,Marcus Flarup                                     
+ 6282,138944,BOGESUND                                ,SE,+59:24:36,+018:13:48,  22, RR9,19740901,19900131,   56,Marcus Flarup                                     
+ 6282,138952,ROSKAR                                  ,SE,+59:25:12,+018:10:12,  15, RR9,19520401,19791031,   56,Marcus Flarup                                     
+ 5466,138872,HYNDEVAD                                ,SE,+59:19:12,+016:26:24,  15, RR9,19450101,20211027,   56,Marcus Flarup                                     
+ 5466,138914,ESKILSTUNA_MO                           ,SE,+59:22:48,+016:27:00,  15, RR9,20080117,20211031,   56,Marcus Flarup                                     
+ 5466,138926,ESKILSTUNA                              ,SE,+59:23:24,+016:27:36,   8, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5471,138872,HYNDEVAD                                ,SE,+59:19:12,+016:26:24,  15, RR9,19450101,20211027,   56,Marcus Flarup                                     
+ 5471,138914,ESKILSTUNA_MO                           ,SE,+59:22:48,+016:27:00,  15, RR9,20080117,20211031,   56,Marcus Flarup                                     
+ 5471,138926,ESKILSTUNA                              ,SE,+59:23:24,+016:27:36,   8, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 6288,138904,ULVHALL                                 ,SE,+59:21:36,+017:02:24,  15, RR9,19450107,19800329,   56,Marcus Flarup                                     
+ 6288,138928,STRANGNAS-VANSO                         ,SE,+59:24:00,+016:56:24,  15, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 6288,138932,TOSTERO_SKOLA                           ,SE,+59:24:00,+017:01:48,  20, RR9,19560110,19740529,   56,Marcus Flarup                                     
+ 6288,138936,STRANGNAS                               ,SE,+59:24:00,+017:03:36,  15, RR9,19800418,19891218,   56,Marcus Flarup                                     
+ 6290,138904,ULVHALL                                 ,SE,+59:21:36,+017:02:24,  15, RR9,19450107,19800329,   56,Marcus Flarup                                     
+ 6290,138928,STRANGNAS-VANSO                         ,SE,+59:24:00,+016:56:24,  15, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 6290,138932,TOSTERO_SKOLA                           ,SE,+59:24:00,+017:01:48,  20, RR9,19560110,19740529,   56,Marcus Flarup                                     
+ 6290,138936,STRANGNAS                               ,SE,+59:24:00,+017:03:36,  15, RR9,19800418,19891218,   56,Marcus Flarup                                     
+ 5474,138904,ULVHALL                                 ,SE,+59:21:36,+017:02:24,  15, RR9,19450107,19800329,   56,Marcus Flarup                                     
+ 5474,138928,STRANGNAS-VANSO                         ,SE,+59:24:00,+016:56:24,  15, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 5474,138932,TOSTERO_SKOLA                           ,SE,+59:24:00,+017:01:48,  20, RR9,19560110,19740529,   56,Marcus Flarup                                     
+ 5474,138936,STRANGNAS                               ,SE,+59:24:00,+017:03:36,  15, RR9,19800418,19891218,   56,Marcus Flarup                                     
+ 6291,138938,ON                                      ,SE,+59:24:00,+015:11:24,  50, RR9,19600801,20210930,   56,Marcus Flarup                                     
+ 6293,138942,YTTERSELO_D                             ,SE,+59:24:36,+017:16:48,  19, RR9,20091001,20211031,   56,Marcus Flarup                                     
+ 6293,138946,SATTRA                                  ,SE,+59:24:36,+017:28:48,  25, RR9,19500901,20111231,   56,Marcus Flarup                                     
+ 6294,138884,STOCKHOLM                               ,SE,+59:21:00,+018:03:00,  44, RR9,18590101,20211031,   56,Marcus Flarup                                     
+ 6294,138910,LIDINGO                                 ,SE,+59:22:12,+018:09:36,   2, RR9,19601201,19860630,   56,Marcus Flarup                                     
+ 6294,138944,BOGESUND                                ,SE,+59:24:36,+018:13:48,  22, RR9,19740901,19900131,   56,Marcus Flarup                                     
+ 6294,138952,ROSKAR                                  ,SE,+59:25:12,+018:10:12,  15, RR9,19520401,19791031,   56,Marcus Flarup                                     
+ 6294,138954,RINDO                                   ,SE,+59:25:12,+018:22:12,   5, RR9,19510801,19790204,   56,Marcus Flarup                                     
+ 6294,138972,OSTERAKER                               ,SE,+59:29:24,+018:17:24,  15, RR9,19531101,19991130,   56,Marcus Flarup                                     
+ 6295,138896,ADELSO_A                                ,SE,+59:21:36,+017:31:12,   6, RR9,19951214,20211031,   56,Marcus Flarup                                     
+ 6295,138934,LYCKAS                                  ,SE,+59:24:00,+017:40:12,  15, RR9,19590406,19740321,   56,Marcus Flarup                                     
+ 6295,138942,YTTERSELO_D                             ,SE,+59:24:36,+017:16:48,  19, RR9,20091001,20211031,   56,Marcus Flarup                                     
+ 6295,138946,SATTRA                                  ,SE,+59:24:36,+017:28:48,  25, RR9,19500901,20111231,   56,Marcus Flarup                                     
+ 5476,138910,LIDINGO                                 ,SE,+59:22:12,+018:09:36,   2, RR9,19601201,19860630,   56,Marcus Flarup                                     
+ 5476,138944,BOGESUND                                ,SE,+59:24:36,+018:13:48,  22, RR9,19740901,19900131,   56,Marcus Flarup                                     
+ 5476,138952,ROSKAR                                  ,SE,+59:25:12,+018:10:12,  15, RR9,19520401,19791031,   56,Marcus Flarup                                     
+ 5476,138954,RINDO                                   ,SE,+59:25:12,+018:22:12,   5, RR9,19510801,19790204,   56,Marcus Flarup                                     
+ 5476,138972,OSTERAKER                               ,SE,+59:29:24,+018:17:24,  15, RR9,19531101,19991130,   56,Marcus Flarup                                     
+ 5476,138982,VALLENTUNA                              ,SE,+59:31:12,+018:04:48,  20, RR9,19521012,20211031,   56,Marcus Flarup                                     
+ 6298,138890,HOGSTA                                  ,SE,+59:21:00,+015:28:48,  10, RR9,19450101,19860131,   56,Marcus Flarup                                     
+ 6298,138930,JADERS_BRUK                             ,SE,+59:24:00,+015:48:00,  15, RR9,19450107,19650828,   56,Marcus Flarup                                     
+ 6298,138956,VASTVALLA                               ,SE,+59:25:12,+015:36:36,  15, RR9,19591101,20211005,   56,Marcus Flarup                                     
+ 5477,138960,SVENSKA_HOGARNA_A                       ,SE,+59:26:24,+019:30:36,  12, RR9,20100601,20211030,   56,Marcus Flarup                                     
+ 5477,138962,SVENSKA HOGARNA                         ,SE,+59:26:40,+019:30:21,  12, RR9,18791101,20211031,   56,Marcus Flarup                                     
+ 1414,138962,SVENSKA HOGARNA                         ,SE,+59:26:40,+019:30:21,  12, RR9,18791101,20211031,   56,Marcus Flarup                                     
+ 6304,138944,BOGESUND                                ,SE,+59:24:36,+018:13:48,  22, RR9,19740901,19900131,   56,Marcus Flarup                                     
+ 6304,138952,ROSKAR                                  ,SE,+59:25:12,+018:10:12,  15, RR9,19520401,19791031,   56,Marcus Flarup                                     
+ 6304,138954,RINDO                                   ,SE,+59:25:12,+018:22:12,   5, RR9,19510801,19790204,   56,Marcus Flarup                                     
+ 6304,138972,OSTERAKER                               ,SE,+59:29:24,+018:17:24,  15, RR9,19531101,19991130,   56,Marcus Flarup                                     
+ 6304,138982,VALLENTUNA                              ,SE,+59:31:12,+018:04:48,  20, RR9,19521012,20211031,   56,Marcus Flarup                                     
+ 6307,138952,ROSKAR                                  ,SE,+59:25:12,+018:10:12,  15, RR9,19520401,19791031,   56,Marcus Flarup                                     
+ 6307,138972,OSTERAKER                               ,SE,+59:29:24,+018:17:24,  15, RR9,19531101,19991130,   56,Marcus Flarup                                     
+ 6307,138982,VALLENTUNA                              ,SE,+59:31:12,+018:04:48,  20, RR9,19521012,20211031,   56,Marcus Flarup                                     
+ 6311,138990,NYBYHOLM                                ,SE,+59:31:48,+017:02:24,  15, RR9,19700301,19950331,   56,Marcus Flarup                                     
+ 6311,139012,HJULSTA                                 ,SE,+59:33:00,+017:01:12,  10, RR9,19600801,19700228,   56,Marcus Flarup                                     
+ 6311,139016,HACKSTA                                 ,SE,+59:33:00,+017:03:00,  15, RR9,19951001,20210228,   56,Marcus Flarup                                     
+ 6311,139052,ENKOPING                                ,SE,+59:38:24,+017:04:12,  20, RR9,19450101,20211002,   56,Marcus Flarup                                     
+ 6319,139008,SKJORBY                                 ,SE,+59:33:00,+017:22:12,  10, RR9,19590801,20210930,   56,Marcus Flarup                                     
+ 6323,138990,NYBYHOLM                                ,SE,+59:31:48,+017:02:24,  15, RR9,19700301,19950331,   56,Marcus Flarup                                     
+ 6323,139012,HJULSTA                                 ,SE,+59:33:00,+017:01:12,  10, RR9,19600801,19700228,   56,Marcus Flarup                                     
+ 6323,139016,HACKSTA                                 ,SE,+59:33:00,+017:03:00,  15, RR9,19951001,20210228,   56,Marcus Flarup                                     
+ 6323,139052,ENKOPING                                ,SE,+59:38:24,+017:04:12,  20, RR9,19450101,20211002,   56,Marcus Flarup                                     
+ 6323,902443,ENKOPING                                ,SE,+59:39:00,+017:07:00,  26, RR8,20080419,20200229,     ,                    
+ 6326,139024,KOLSVA                                  ,SE,+59:35:24,+015:55:12,  40, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5484,139028,VASTERAS-HASSLO                         ,SE,+59:35:24,+016:37:48,  10, RR9,18581229,20211031,   56,Marcus Flarup                                     
+ 5484,139058,HALLSTABERG                             ,SE,+59:39:00,+016:48:00,  25, RR9,19590801,20210930,   56,Marcus Flarup                                     
+ 5488,139028,VASTERAS-HASSLO                         ,SE,+59:35:24,+016:37:48,  10, RR9,18581229,20211031,   56,Marcus Flarup                                     
+ 5488,139044,VASTERAS                                ,SE,+59:37:12,+016:33:00,  10, RR9,18581229,19971231,   56,Marcus Flarup                                     
+ 6332,138990,NYBYHOLM                                ,SE,+59:31:48,+017:02:24,  15, RR9,19700301,19950331,   56,Marcus Flarup                                     
+ 6332,139012,HJULSTA                                 ,SE,+59:33:00,+017:01:12,  10, RR9,19600801,19700228,   56,Marcus Flarup                                     
+ 6332,139052,ENKOPING                                ,SE,+59:38:24,+017:04:12,  20, RR9,19450101,20211002,   56,Marcus Flarup                                     
+ 6332,139102,HYVLINGE                                ,SE,+59:45:00,+017:04:12,  20, RR9,19450101,19990228,   56,Marcus Flarup                                     
+ 6332,160176,ENKOPING_MO                             ,SE,+59:39:36,+017:06:36,  26, RR9,20121231,20211031,   56,Marcus Flarup                                     
+ 6335,139028,VASTERAS-HASSLO                         ,SE,+59:35:24,+016:37:48,  10, RR9,18581229,20211031,   56,Marcus Flarup                                     
+ 6335,139058,HALLSTABERG                             ,SE,+59:39:00,+016:48:00,  25, RR9,19590801,20210930,   56,Marcus Flarup                                     
+ 6335,139076,SUNDBY                                  ,SE,+59:42:00,+016:39:36,  35, RR9,19600801,20011231,   56,Marcus Flarup                                     
+ 6338,139058,HALLSTABERG                             ,SE,+59:39:00,+016:48:00,  25, RR9,19590801,20210930,   56,Marcus Flarup                                     
+ 6338,139076,SUNDBY                                  ,SE,+59:42:00,+016:39:36,  35, RR9,19600801,20011231,   56,Marcus Flarup                                     
+ 6338,139086,SKULTUNA                                ,SE,+59:42:36,+016:26:24,  40, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 6343,139076,SUNDBY                                  ,SE,+59:42:00,+016:39:36,  35, RR9,19600801,20011231,   56,Marcus Flarup                                     
+ 6343,139078,SURAHAMMAR                              ,SE,+59:42:00,+016:13:12,  55, RR9,19510604,19830731,   56,Marcus Flarup                                     
+ 6343,139086,SKULTUNA                                ,SE,+59:42:36,+016:26:24,  40, RR9,19450101,20210930,   56,Marcus Flarup                                     
+ 6343,139124,TOMTA                                   ,SE,+59:48:00,+016:33:00,  55, RR9,19450108,19780516,   56,Marcus Flarup                                     
+ 6350,139052,ENKOPING                                ,SE,+59:38:24,+017:04:12,  20, RR9,19450101,20211002,   56,Marcus Flarup                                     
+ 6350,139102,HYVLINGE                                ,SE,+59:45:00,+017:04:12,  20, RR9,19450101,19990228,   56,Marcus Flarup                                     
+ 6350,139118,FJARDHUNDRA_D                           ,SE,+59:46:12,+016:55:12,  30, RR9,20001001,20090527,   56,Marcus Flarup                                     
+ 6350,160176,ENKOPING_MO                             ,SE,+59:39:36,+017:06:36,  26, RR9,20121231,20211031,   56,Marcus Flarup                                     
+ 5503,139110,NORRTALJE                               ,SE,+59:46:12,+018:39:00,  15, RR9,19610101,19840328,   56,Marcus Flarup                                     
+ 5503,139134,SVANBERGA_A                             ,SE,+59:49:48,+018:37:48,  15, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5503,139146,NORRTALJE-VASBY                         ,SE,+59:51:00,+018:43:48,  15, RR9,19890113,19941031,   56,Marcus Flarup                                     
+ 6354,139102,HYVLINGE                                ,SE,+59:45:00,+017:04:12,  20, RR9,19450101,19990228,   56,Marcus Flarup                                     
+ 6354,139118,FJARDHUNDRA_D                           ,SE,+59:46:12,+016:55:12,  30, RR9,20001001,20090527,   56,Marcus Flarup                                     
+ 5506,139128,ULTUNA                                  ,SE,+59:48:36,+017:39:00,  15, RR9,19450101,20030831,   56,Marcus Flarup                                     
+ 5506,139148,UPPSALA                                 ,SE,+59:51:36,+017:37:48,  13, RR9,18630101,20211031,   56,Marcus Flarup                                     
+ 5506,139172,UPPSALA_FLYGPLATS                       ,SE,+59:54:00,+017:35:24,  21, RR9,19440630,20211031,   56,Marcus Flarup                                     
+ 6359,139132,NORRVEDA                                ,SE,+59:49:48,+018:57:00,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5507,139110,NORRTALJE                               ,SE,+59:46:12,+018:39:00,  15, RR9,19610101,19840328,   56,Marcus Flarup                                     
+ 5507,139134,SVANBERGA_A                             ,SE,+59:49:48,+018:37:48,  15, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5507,139146,NORRTALJE-VASBY                         ,SE,+59:51:00,+018:43:48,  15, RR9,19890113,19941031,   56,Marcus Flarup                                     
+ 5510,139110,NORRTALJE                               ,SE,+59:46:12,+018:39:00,  15, RR9,19610101,19840328,   56,Marcus Flarup                                     
+ 5510,139134,SVANBERGA_A                             ,SE,+59:49:48,+018:37:48,  15, RR9,19950801,20211031,   56,Marcus Flarup                                     
+ 5510,139146,NORRTALJE-VASBY                         ,SE,+59:51:00,+018:43:48,  15, RR9,19890113,19941031,   56,Marcus Flarup                                     
+  426,139148,UPPSALA                                 ,SE,+59:51:36,+017:37:48,  13, RR9,18630101,20211031,   56,Marcus Flarup                                     
+  426,139150,UPPSALA_AUT                             ,SE,+59:51:36,+017:37:48,  13, RR9,19850601,20211031,   56,Marcus Flarup                                     
+  426,139172,UPPSALA_FLYGPLATS                       ,SE,+59:54:00,+017:35:24,  21, RR9,19440630,20211031,   56,Marcus Flarup                                     
+ 5511,139148,UPPSALA                                 ,SE,+59:51:36,+017:37:48,  13, RR9,18630101,20211031,   56,Marcus Flarup                                     
+ 5511,139150,UPPSALA_AUT                             ,SE,+59:51:36,+017:37:48,  13, RR9,19850601,20211031,   56,Marcus Flarup                                     
+ 5511,139172,UPPSALA_FLYGPLATS                       ,SE,+59:54:00,+017:35:24,  21, RR9,19440630,20211031,   56,Marcus Flarup                                     
+ 5517,139148,UPPSALA                                 ,SE,+59:51:36,+017:37:48,  13, RR9,18630101,20211031,   56,Marcus Flarup                                     
+ 5517,139172,UPPSALA_FLYGPLATS                       ,SE,+59:54:00,+017:35:24,  21, RR9,19440630,20211031,   56,Marcus Flarup                                     
+ 6369,139176,VITTINGE                                ,SE,+59:54:00,+017:01:48,  50, RR9,19731101,20210930,   56,Marcus Flarup                                     
+ 6377,139202,VALLNORA_D                              ,SE,+59:57:36,+018:21:00,  20, RR9,19700401,20211031,   56,Marcus Flarup                                     
+ 6380,139208,VADDO                                   ,SE,+59:58:48,+018:49:12,  10, RR9,19450103,19720328,   56,Marcus Flarup                                     
+ 6380,139234,NORRBY_S                                ,SE,+60:03:36,+018:44:24,  10, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6383,139172,UPPSALA_FLYGPLATS                       ,SE,+59:54:00,+017:35:24,  21, RR9,19440630,20211031,   56,Marcus Flarup                                     
+ 6383,139214,DRALINGE                                ,SE,+59:59:24,+017:34:12,  30, RR9,19450101,20070831,   56,Marcus Flarup                                     
+ 6383,139226,VATTHOLMA                               ,SE,+60:01:48,+017:43:12,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6389,139214,DRALINGE                                ,SE,+59:59:24,+017:34:12,  30, RR9,19450101,20070831,   56,Marcus Flarup                                     
+ 6389,139226,VATTHOLMA                               ,SE,+60:01:48,+017:43:12,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6393,139208,VADDO                                   ,SE,+59:58:48,+018:49:12,  10, RR9,19450103,19720328,   56,Marcus Flarup                                     
+ 6393,139234,NORRBY_S                                ,SE,+60:03:36,+018:44:24,  10, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6393,139282,SINGO                                   ,SE,+60:09:36,+018:44:24,  12, RR9,19670901,19960131,   56,Marcus Flarup                                     
+ 5532,139234,NORRBY_S                                ,SE,+60:03:36,+018:44:24,  10, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5532,139282,SINGO                                   ,SE,+60:09:36,+018:44:24,  12, RR9,19670901,19960131,   56,Marcus Flarup                                     
+ 5534,139286,RISINGE                                 ,SE,+60:10:48,+018:13:48,  15, RR9,19620201,20200131,   56,Marcus Flarup                                     
+ 5536,139294,DANNEMORA                               ,SE,+60:12:00,+017:54:00,  33, RR9,19630324,19810524,   56,Marcus Flarup                                     
+ 5536,139296,FILMS_KYRKBY                            ,SE,+60:14:24,+017:54:36,  39, RR9,19820228,20141031,   56,Marcus Flarup                                     
+ 5536,139298,FILMS KYRKBY A                          ,SE,+60:14:11,+017:54:28,  33, RR9,20010801,20211031,   56,Marcus Flarup                                     
+ 5536,171426,OSTERBY 1                               ,SE,+60:11:59,+017:53:47,  35, RR9,19450106,19630627,   56,Marcus Flarup                                     
+ 5536,902456,FILM                                    ,SE,+60:14:00,+017:53:59,  35, RR8,19960201,20200229,     ,                    
+ 5537,139294,DANNEMORA                               ,SE,+60:12:00,+017:54:00,  33, RR9,19630324,19810524,   56,Marcus Flarup                                     
+ 5537,139296,FILMS_KYRKBY                            ,SE,+60:14:24,+017:54:36,  39, RR9,19820228,20141031,   56,Marcus Flarup                                     
+ 5537,139298,FILMS KYRKBY A                          ,SE,+60:14:11,+017:54:28,  33, RR9,20010801,20211031,   56,Marcus Flarup                                     
+ 5537,171426,OSTERBY 1                               ,SE,+60:11:59,+017:53:47,  35, RR9,19450106,19630627,   56,Marcus Flarup                                     
+ 5537,902456,FILM                                    ,SE,+60:14:00,+017:53:59,  35, RR8,19960201,20200229,     ,                    
+ 3522,139294,DANNEMORA                               ,SE,+60:12:00,+017:54:00,  33, RR9,19630324,19810524,   56,Marcus Flarup                                     
+ 3522,139296,FILMS_KYRKBY                            ,SE,+60:14:24,+017:54:36,  39, RR9,19820228,20141031,   56,Marcus Flarup                                     
+ 3522,139298,FILMS KYRKBY A                          ,SE,+60:14:11,+017:54:28,  33, RR9,20010801,20211031,   56,Marcus Flarup                                     
+ 3522,171426,OSTERBY 1                               ,SE,+60:11:59,+017:53:47,  35, RR9,19450106,19630627,   56,Marcus Flarup                                     
+ 3522,902456,FILM                                    ,SE,+60:14:00,+017:53:59,  35, RR8,19960201,20200229,     ,                    
+ 6412,139286,RISINGE                                 ,SE,+60:10:48,+018:13:48,  15, RR9,19620201,20200131,   56,Marcus Flarup                                     
+ 6412,139302,OSTHAMMAR                               ,SE,+60:15:36,+018:22:12,   5, RR9,19881101,20110630,   56,Marcus Flarup                                     
+ 6412,139314,SODERBY-KARLSANG_D                      ,SE,+60:17:24,+018:27:00,  10, RR9,20031201,20211031,   56,Marcus Flarup                                     
+ 6412,139336,OREGRUND                                ,SE,+60:19:48,+018:25:48,   7, RR9,19490724,19670831,   56,Marcus Flarup                                     
+ 6416,139302,OSTHAMMAR                               ,SE,+60:15:36,+018:22:12,   5, RR9,19881101,20110630,   56,Marcus Flarup                                     
+ 6416,139314,SODERBY-KARLSANG_D                      ,SE,+60:17:24,+018:27:00,  10, RR9,20031201,20211031,   56,Marcus Flarup                                     
+ 6416,139336,OREGRUND                                ,SE,+60:19:48,+018:25:48,   7, RR9,19490724,19670831,   56,Marcus Flarup                                     
+ 5544,139302,OSTHAMMAR                               ,SE,+60:15:36,+018:22:12,   5, RR9,19881101,20110630,   56,Marcus Flarup                                     
+ 5544,139314,SODERBY-KARLSANG_D                      ,SE,+60:17:24,+018:27:00,  10, RR9,20031201,20211031,   56,Marcus Flarup                                     
+ 5544,139336,OREGRUND                                ,SE,+60:19:48,+018:25:48,   7, RR9,19490724,19670831,   56,Marcus Flarup                                     
+ 5555,139396,ORSKAR_A                                ,SE,+60:31:48,+018:22:48,   8, RR9,18810101,20211031,   56,Marcus Flarup                                     
+ 6445,139410,ALVKARLEBY_D                            ,SE,+60:34:12,+017:27:36,  25, RR9,20050601,20211031,   56,Marcus Flarup                                     
+ 6445,139418,YTTERBODA                               ,SE,+60:37:12,+017:27:00,  15, RR9,19450103,19770511,   56,Marcus Flarup                                     
+ 6448,139410,ALVKARLEBY_D                            ,SE,+60:34:12,+017:27:36,  25, RR9,20050601,20211031,   56,Marcus Flarup                                     
+ 6448,139418,YTTERBODA                               ,SE,+60:37:12,+017:27:00,  15, RR9,19450103,19770511,   56,Marcus Flarup                                     
+ 5563,139430,GAVLE                                   ,SE,+60:39:00,+017:10:12,  16, RR9,18740101,19950731,   56,Marcus Flarup                                     
+ 5563,139440,GAVLE-LEXE                              ,SE,+60:40:48,+017:06:00,  35, RR9,19860701,19910331,   56,Marcus Flarup                                     
+ 5563,139452,GAVLE_A                                 ,SE,+60:43:12,+017:09:36,  16, RR9,19950801,20211030,   56,Marcus Flarup                                     
+ 5563,139460,GAVLE-ABYGGEBY                          ,SE,+60:43:48,+017:07:12,  35, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 6454,139430,GAVLE                                   ,SE,+60:39:00,+017:10:12,  16, RR9,18740101,19950731,   56,Marcus Flarup                                     
+ 6454,139440,GAVLE-LEXE                              ,SE,+60:40:48,+017:06:00,  35, RR9,19860701,19910331,   56,Marcus Flarup                                     
+ 6454,139452,GAVLE_A                                 ,SE,+60:43:12,+017:09:36,  16, RR9,19950801,20211030,   56,Marcus Flarup                                     
+ 6454,139460,GAVLE-ABYGGEBY                          ,SE,+60:43:48,+017:07:12,  35, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 5566,139430,GAVLE                                   ,SE,+60:39:00,+017:10:12,  16, RR9,18740101,19950731,   56,Marcus Flarup                                     
+ 5566,139440,GAVLE-LEXE                              ,SE,+60:40:48,+017:06:00,  35, RR9,19860701,19910331,   56,Marcus Flarup                                     
+ 5566,139452,GAVLE_A                                 ,SE,+60:43:12,+017:09:36,  16, RR9,19950801,20211030,   56,Marcus Flarup                                     
+ 5566,139460,GAVLE-ABYGGEBY                          ,SE,+60:43:48,+017:07:12,  35, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 5566,139468,UTVALNAS                                ,SE,+60:45:00,+017:21:00,   5, RR9,19771205,19920523,   56,Marcus Flarup                                     
+ 6461,139430,GAVLE                                   ,SE,+60:39:00,+017:10:12,  16, RR9,18740101,19950731,   56,Marcus Flarup                                     
+ 6461,139440,GAVLE-LEXE                              ,SE,+60:40:48,+017:06:00,  35, RR9,19860701,19910331,   56,Marcus Flarup                                     
+ 6461,139460,GAVLE-ABYGGEBY                          ,SE,+60:43:48,+017:07:12,  35, RR9,19910501,20211031,   56,Marcus Flarup                                     
+ 5569,139452,GAVLE_A                                 ,SE,+60:43:12,+017:09:36,  16, RR9,19950801,20211030,   56,Marcus Flarup                                     
+ 5569,139462,EGGEGRUND                               ,SE,+60:43:48,+017:34:12,   5, RR9,19490101,19761130,   56,Marcus Flarup                                     
+ 5569,139468,UTVALNAS                                ,SE,+60:45:00,+017:21:00,   5, RR9,19771205,19920523,   56,Marcus Flarup                                     
+ 5569,902453,GAVLE                                   ,SE,+60:43:00,+017:10:00,  16, RR8,19931122,20200229,     ,                    
+ 6505,139586,BERGVIK                                 ,SE,+61:15:36,+016:50:24,  50, RR9,19450101,20150531,   56,Marcus Flarup                                     
+ 6505,139592,SODERALA_D                              ,SE,+61:18:00,+016:57:00,  29, RR9,20051101,20211030,   56,Marcus Flarup                                     
+ 5589,139588,SODERHAMN                               ,SE,+61:16:12,+017:06:00,  10, RR9,19610101,20040229,   56,Marcus Flarup                                     
+ 5589,139592,SODERALA_D                              ,SE,+61:18:00,+016:57:00,  29, RR9,20051101,20211030,   56,Marcus Flarup                                     
+ 5589,171404,SODERHAMN A                             ,SE,+61:16:09,+017:05:54,  26, RR9,19490101,19971130,   56,Marcus Flarup                                     
+ 6506,139586,BERGVIK                                 ,SE,+61:15:36,+016:50:24,  50, RR9,19450101,20150531,   56,Marcus Flarup                                     
+ 6506,139592,SODERALA_D                              ,SE,+61:18:00,+016:57:00,  29, RR9,20051101,20211030,   56,Marcus Flarup                                     
+ 6506,171404,SODERHAMN A                             ,SE,+61:16:09,+017:05:54,  26, RR9,19490101,19971130,   56,Marcus Flarup                                     
+ 5600,139634,AGO                                     ,SE,+61:33:00,+017:28:12,  20, RR9,19490101,19731028,   56,Marcus Flarup                                     
+ 5600,139654,HOLICK                                  ,SE,+61:37:12,+017:26:24,   8, RR9,19870601,19951024,   56,Marcus Flarup                                     
+ 5600,139672,KUGGOREN A                              ,SE,+61:42:12,+017:31:30,   8, RR9,19700701,20211031,   56,Marcus Flarup                                     
+ 5605,139654,HOLICK                                  ,SE,+61:37:12,+017:26:24,   8, RR9,19870601,19951024,   56,Marcus Flarup                                     
+ 5605,139670,KUGGOREN                                ,SE,+61:42:00,+017:31:12,   8, RR9,19700701,19870531,   56,Marcus Flarup                                     
+ 5605,139672,KUGGOREN A                              ,SE,+61:42:12,+017:31:30,   8, RR9,19700701,20211031,   56,Marcus Flarup                                     
+ 3523,139654,HOLICK                                  ,SE,+61:37:12,+017:26:24,   8, RR9,19870601,19951024,   56,Marcus Flarup                                     
+ 3523,139672,KUGGOREN A                              ,SE,+61:42:12,+017:31:30,   8, RR9,19700701,20211031,   56,Marcus Flarup                                     
+ 5607,139676,HUDIKSVALL                              ,SE,+61:43:48,+017:06:00,  10, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5624,139774,BRAMON                                  ,SE,+62:13:12,+017:44:24,  17, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5624,139776,LORUDDEN                                ,SE,+62:13:48,+017:39:36,  17, RR9,19671201,19860131,   56,Marcus Flarup                                     
+ 5625,139774,BRAMON                                  ,SE,+62:13:12,+017:44:24,  17, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5625,139776,LORUDDEN                                ,SE,+62:13:48,+017:39:36,  17, RR9,19671201,19860131,   56,Marcus Flarup                                     
+ 3526,139836,SUNDSVALLS FLYGPLATS                    ,SE,+62:31:29,+017:26:28,   4, RR9,19551201,20051231,   56,Marcus Flarup                                     
+ 3526,139838,STORDALEN-MIDLANDA_D                    ,SE,+62:31:48,+017:24:36,  10, RR9,20060201,20211031,   56,Marcus Flarup                                     
+ 6583,139836,SUNDSVALLS FLYGPLATS                    ,SE,+62:31:29,+017:26:28,   4, RR9,19551201,20051231,   56,Marcus Flarup                                     
+ 6583,139838,STORDALEN-MIDLANDA_D                    ,SE,+62:31:48,+017:24:36,  10, RR9,20060201,20211031,   56,Marcus Flarup                                     
+ 5640,139858,HARNO                                   ,SE,+62:37:12,+018:03:36,  10, RR9,19701001,19891223,   56,Marcus Flarup                                     
+ 5640,139860,HARNOSAND                               ,SE,+62:38:00,+017:56:00,  15, RR9,18680101,20211031,   56,Marcus Flarup                                     
+ 5640,139868,LUNGO                                   ,SE,+62:38:24,+018:05:24,  17, RR9,19950901,20211031,   56,Marcus Flarup                                     
+  466,139860,HARNOSAND                               ,SE,+62:38:00,+017:56:00,  15, RR9,18680101,20211031,   56,Marcus Flarup                                     
+  466,139868,LUNGO                                   ,SE,+62:38:24,+018:05:24,  17, RR9,19950901,20211031,   56,Marcus Flarup                                     
+ 5641,139858,HARNO                                   ,SE,+62:37:12,+018:03:36,  10, RR9,19701001,19891223,   56,Marcus Flarup                                     
+ 5641,139860,HARNOSAND                               ,SE,+62:38:00,+017:56:00,  15, RR9,18680101,20211031,   56,Marcus Flarup                                     
+ 5641,139868,LUNGO                                   ,SE,+62:38:24,+018:05:24,  17, RR9,19950901,20211031,   56,Marcus Flarup                                     
+ 5652,139928,ULLANGER                                ,SE,+63:00:36,+018:11:24,  20, RR9,19600801,20211002,   56,Marcus Flarup                                     
+ 5652,139932,INVIK                                   ,SE,+63:01:48,+018:10:12,  10, RR9,19581101,19961031,   56,Marcus Flarup                                     
+ 6615,139928,ULLANGER                                ,SE,+63:00:36,+018:11:24,  20, RR9,19600801,20211002,   56,Marcus Flarup                                     
+ 6615,139932,INVIK                                   ,SE,+63:01:48,+018:10:12,  10, RR9,19581101,19961031,   56,Marcus Flarup                                     
+ 5665,139976,SOLLEFTEA                               ,SE,+63:10:12,+017:16:48,  20, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5667,139986,SKAGSUDDE                               ,SE,+63:11:24,+019:01:12,  11, RR9,19640201,19951031,   56,Marcus Flarup                                     
+ 5667,139988,SKAGSUDDE A                             ,SE,+63:11:19,+019:01:13,  11, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 3531,139986,SKAGSUDDE                               ,SE,+63:11:24,+019:01:12,  11, RR9,19640201,19951031,   56,Marcus Flarup                                     
+ 3531,139988,SKAGSUDDE A                             ,SE,+63:11:19,+019:01:13,  11, RR9,19951101,20211031,   56,Marcus Flarup                                     
+ 6636,140012,ORNSKOLDSVIK                            ,SE,+63:18:00,+018:43:12,  25, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5698,140174,UMEA_FLYGPLATS                          ,SE,+63:47:24,+020:17:24,  14, RR9,19650101,19951231,   56,Marcus Flarup                                     
+ 5698,140180,ROBACKSDALEN                            ,SE,+63:48:36,+020:14:24,  10, RR9,19560501,20211028,   56,Marcus Flarup                                     
+ 5698,140186,UMEA                                    ,SE,+63:49:48,+020:16:48,  14, RR9,18581101,19790930,   56,Marcus Flarup                                     
+ 5699,140174,UMEA_FLYGPLATS                          ,SE,+63:47:24,+020:17:24,  14, RR9,19650101,19951231,   56,Marcus Flarup                                     
+ 5699,140180,ROBACKSDALEN                            ,SE,+63:48:36,+020:14:24,  10, RR9,19560501,20211028,   56,Marcus Flarup                                     
+ 5699,140186,UMEA                                    ,SE,+63:49:48,+020:16:48,  14, RR9,18581101,19790930,   56,Marcus Flarup                                     
+ 5700,140174,UMEA_FLYGPLATS                          ,SE,+63:47:24,+020:17:24,  14, RR9,19650101,19951231,   56,Marcus Flarup                                     
+ 5700,140180,ROBACKSDALEN                            ,SE,+63:48:36,+020:14:24,  10, RR9,19560501,20211028,   56,Marcus Flarup                                     
+ 5700,140186,UMEA                                    ,SE,+63:49:48,+020:16:48,  14, RR9,18581101,19790930,   56,Marcus Flarup                                     
+ 5721,140306,LOVANGER                                ,SE,+64:21:36,+021:19:12,  21, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5727,140336,BJUROKLUBB                              ,SE,+64:28:48,+021:34:48,  36, RR9,18791002,19971231,   56,Marcus Flarup                                     
+ 5727,140338,BJUROKLUBB A                            ,SE,+64:28:52,+021:34:45,  40, RR9,19951214,20211031,   56,Marcus Flarup                                     
+ 3535,140336,BJUROKLUBB                              ,SE,+64:28:48,+021:34:48,  36, RR9,18791002,19971231,   56,Marcus Flarup                                     
+ 3535,140338,BJUROKLUBB A                            ,SE,+64:28:52,+021:34:45,  40, RR9,19951214,20211031,   56,Marcus Flarup                                     
+ 5750,140448,RONNSKAR                                ,SE,+65:01:48,+021:34:12,   4, RR9,19610305,19690827,   56,Marcus Flarup                                     
+ 5750,140450,RONNSKAR                                ,SE,+65:02:24,+021:34:12,   4, RR9,19490101,20111231,   56,Marcus Flarup                                     
+ 5750,171349,PITE-RONNSKAR A                         ,SE,+65:02:06,+021:33:56,   4, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 5750,902176,PITE-RONNSKAR                           ,SE,+65:02:00,+021:34:00,   4, RR8,19970701,20200229,     ,                    
+ 5751,140450,RONNSKAR                                ,SE,+65:02:24,+021:34:12,   4, RR9,19490101,20111231,   56,Marcus Flarup                                     
+ 5751,171349,PITE-RONNSKAR A                         ,SE,+65:02:06,+021:33:56,   4, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 5751,902176,PITE-RONNSKAR                           ,SE,+65:02:00,+021:34:00,   4, RR8,19970701,20200229,     ,                    
+ 5760,140480,PITSUND                                 ,SE,+65:13:48,+021:31:12,   4, RR9,19640906,19720622,   56,Marcus Flarup                                     
+ 5760,140484,HARAHOLMEN                              ,SE,+65:14:24,+021:37:48,   4, RR9,19730907,19880731,   56,Marcus Flarup                                     
+ 5760,140492,PITEA                                   ,SE,+65:19:12,+021:29:24,   9, RR9,18590707,20211031,   56,Marcus Flarup                                     
+ 5762,140480,PITSUND                                 ,SE,+65:13:48,+021:31:12,   4, RR9,19640906,19720622,   56,Marcus Flarup                                     
+ 5762,140484,HARAHOLMEN                              ,SE,+65:14:24,+021:37:48,   4, RR9,19730907,19880731,   56,Marcus Flarup                                     
+ 5762,140492,PITEA                                   ,SE,+65:19:12,+021:29:24,   9, RR9,18590707,20211031,   56,Marcus Flarup                                     
+ 5764,140492,PITEA                                   ,SE,+65:19:12,+021:29:24,   9, RR9,18590707,20211031,   56,Marcus Flarup                                     
+ 5767,140502,RODKALLEN_A                             ,SE,+65:18:36,+022:22:12,   1, RR9,19610101,20211031,   56,Marcus Flarup                                     
+ 5767,902188,RODKALLEN                               ,SE,+65:19:00,+022:23:00,   2, RR8,19960928,20200229,     ,                    
+ 6793,140492,PITEA                                   ,SE,+65:19:12,+021:29:24,   9, RR9,18590707,20211031,   56,Marcus Flarup                                     
+ 6793,140518,OJEBYN                                  ,SE,+65:21:36,+021:23:24,   5, RR9,19460901,19860430,   56,Marcus Flarup                                     
+ 1412,140554,LULEA FLYGPLATS                         ,SE,+65:32:36,+022:07:09,  17, RR9,19490101,20211030,   56,Marcus Flarup                                     
+ 1412,140560,LULEA-BERGNASET                         ,SE,+65:34:48,+022:06:36,  12, RR9,19300101,20211018,   56,Marcus Flarup                                     
+ 1412,902186,LULEA-KALLAX                            ,SE,+65:33:00,+022:08:00,  17, RR8,19820101,20200229,     ,                    
+ 5777,140554,LULEA FLYGPLATS                         ,SE,+65:32:36,+022:07:09,  17, RR9,19490101,20211030,   56,Marcus Flarup                                     
+ 5777,140560,LULEA-BERGNASET                         ,SE,+65:34:48,+022:06:36,  12, RR9,19300101,20211018,   56,Marcus Flarup                                     
+ 5777,902186,LULEA-KALLAX                            ,SE,+65:33:00,+022:08:00,  17, RR8,19820101,20200229,     ,                    
+ 5779,140554,LULEA FLYGPLATS                         ,SE,+65:32:36,+022:07:09,  17, RR9,19490101,20211030,   56,Marcus Flarup                                     
+ 5779,140560,LULEA-BERGNASET                         ,SE,+65:34:48,+022:06:36,  12, RR9,19300101,20211018,   56,Marcus Flarup                                     
+ 5779,140568,LULEA                                   ,SE,+65:37:12,+022:07:48,   5, RR9,19300101,19880630,   56,Marcus Flarup                                     
+ 5779,902186,LULEA-KALLAX                            ,SE,+65:33:00,+022:08:00,  17, RR8,19820101,20200229,     ,                    
+ 5780,140580,ALVSBYN_A                               ,SE,+65:40:12,+021:04:12,  40, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5780,140586,ALVSBY_SKOGSSKOLA                       ,SE,+65:40:48,+021:04:12,  40, RR9,19560101,19701007,   56,Marcus Flarup                                     
+ 5782,140580,ALVSBYN_A                               ,SE,+65:40:12,+021:04:12,  40, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5782,140584,ALVSBYN_M                               ,SE,+65:40:48,+020:58:12,  40, RR9,19660501,19681231,   56,Marcus Flarup                                     
+ 5782,140586,ALVSBY_SKOGSSKOLA                       ,SE,+65:40:48,+021:04:12,  40, RR9,19560101,19701007,   56,Marcus Flarup                                     
+ 5782,140588,ALVSBYN M 1                             ,SE,+65:41:24,+020:59:24,  47, RR9,19660501,19950420,   56,Marcus Flarup                                     
+ 6815,140580,ALVSBYN_A                               ,SE,+65:40:12,+021:04:12,  40, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 6815,140586,ALVSBY_SKOGSSKOLA                       ,SE,+65:40:48,+021:04:12,  40, RR9,19560101,19701007,   56,Marcus Flarup                                     
+ 5783,140580,ALVSBYN_A                               ,SE,+65:40:12,+021:04:12,  40, RR9,19450101,20211031,   56,Marcus Flarup                                     
+ 5783,140584,ALVSBYN_M                               ,SE,+65:40:48,+020:58:12,  40, RR9,19660501,19681231,   56,Marcus Flarup                                     
+ 5783,140586,ALVSBY_SKOGSSKOLA                       ,SE,+65:40:48,+021:04:12,  40, RR9,19560101,19701007,   56,Marcus Flarup                                     
+ 5783,140588,ALVSBYN M 1                             ,SE,+65:41:24,+020:59:24,  47, RR9,19660501,19950420,   56,Marcus Flarup                                     
+ 5784,140590,STORON_A                                ,SE,+65:42:00,+023:06:00,   4, RR9,19960101,20211030,   56,Marcus Flarup                                     
+ 5784,140598,STOROHAMN                               ,SE,+65:43:48,+023:05:24,   4, RR9,19691201,19951231,   56,Marcus Flarup                                     
+ 5784,902191,STORON                                  ,SE,+65:42:00,+023:06:00,   4, RR8,20001024,20200229,     ,                    
+ 5787,140590,STORON_A                                ,SE,+65:42:00,+023:06:00,   4, RR9,19960101,20211030,   56,Marcus Flarup                                     
+ 5787,140598,STOROHAMN                               ,SE,+65:43:48,+023:05:24,   4, RR9,19691201,19951231,   56,Marcus Flarup                                     
+ 5787,902191,STORON                                  ,SE,+65:42:00,+023:06:00,   4, RR8,20001024,20200229,     ,                    
+ 5792,140618,BODEN                                   ,SE,+65:49:12,+021:38:24,  25, RR9,19620201,20211031,   56,Marcus Flarup                                     
+ 5792,140628,HEDNORET                                ,SE,+65:49:48,+021:33:00,  27, RR9,19570102,19630624,   56,Marcus Flarup                                     
+ 5792,902171,BODEN                                   ,SE,+65:48:30,+021:38:04,  27, RR8,19980226,20200229,     ,                    
+ 5794,140622,HAPARANDA_A                             ,SE,+65:49:12,+024:07:12,  16, RR9,20081101,20211031,   56,Marcus Flarup                                     
+ 5794,140626,HAPARANDA                               ,SE,+65:49:38,+024:08:38,   5, RR9,18590716,20211031,   56,Marcus Flarup                                     
+ 6823,140624,KALIX_D                                 ,SE,+65:50:24,+023:12:00,   3, RR9,19490101,20211031,   56,Marcus Flarup                                     
+  339,140622,HAPARANDA_A                             ,SE,+65:49:12,+024:07:12,  16, RR9,20081101,20211031,   56,Marcus Flarup                                     
+  339,140626,HAPARANDA                               ,SE,+65:49:38,+024:08:38,   5, RR9,18590716,20211031,   56,Marcus Flarup                                     
+ 5795,140618,BODEN                                   ,SE,+65:49:12,+021:38:24,  25, RR9,19620201,20211031,   56,Marcus Flarup                                     
+ 5795,140628,HEDNORET                                ,SE,+65:49:48,+021:33:00,  27, RR9,19570102,19630624,   56,Marcus Flarup                                     
+ 5795,902171,BODEN                                   ,SE,+65:48:30,+021:38:04,  27, RR8,19980226,20200229,     ,                    
+ 5796,140624,KALIX_D                                 ,SE,+65:50:24,+023:12:00,   3, RR9,19490101,20211031,   56,Marcus Flarup                                     
+ 5796,140630,KALIX                                   ,SE,+65:51:00,+023:12:00,   6, RR9,19490101,19691031,   56,Marcus Flarup                                     
+ 6835,140668,KARUNGI                                 ,SE,+66:02:24,+023:58:48,  25, RR9,19600901,20210930,   56,Marcus Flarup                                     
+ 5233,137832,KALMAR_D                                ,SE,+56:41:24,+016:21:00,   2, RR9,18680101,20211026,   56,Marcus Flarup                                     
+ 5233,137834,KALMAR                                  ,SE,+56:40:12,+016:21:00,   7, RR9,19610101,19630501,   56,Marcus Flarup                                     
+ 5233,137840,KALMAR_FLYGFLOTTILJ                     ,SE,+56:43:48,+016:17:24,   6, RR9,19490101,19960131,   56,Marcus Flarup                                     
+ 5233,158746,KALMAR_FLYGPLATS                        ,SE,+56:40:48,+016:17:24,   6, RR9,19440101,19790917,   56,Marcus Flarup                                     
+ 5289,138098,VANGE                                   ,SE,+57:26:24,+018:29:24,  45, RR9,19910401,20211031,   56,Marcus Flarup                                     
+ 5289,138124,ROMA                                    ,SE,+57:30:36,+018:27:00,  32, RR9,19450101,19901231,   56,Marcus Flarup                                     
+ 5289,138152,STENSTUGU FORSOKSGARD                   ,SE,+57:36:00,+018:27:00,  45, RR9,19541201,19930228,   56,Marcus Flarup                                     
+ 5289,159063,ROMA_AUT                                ,SE,+57:30:00,+018:27:36,  32, RR9,19850401,19860831,   56,Marcus Flarup                                     
+ 5492,139052,ENKOPING                                ,SE,+59:38:24,+017:04:12,  20, RR9,19450101,20211002,   56,Marcus Flarup                                     
+ 5492,139102,HYVLINGE                                ,SE,+59:45:00,+017:04:12,  20, RR9,19450101,19990228,   56,Marcus Flarup                                     
+ 5492,160176,ENKOPING_MO                             ,SE,+59:39:36,+017:06:36,  26, RR9,20121231,20211031,   56,Marcus Flarup                                     
+11210,171349,PITE-RONNSKAR A                         ,SE,+65:02:06,+021:33:56,   4, RR9,19490101,20211031,   56,Marcus Flarup                                     
+11210,902176,PITE-RONNSKAR                           ,SE,+65:02:00,+021:34:00,   4, RR8,19970701,20200229,     ,                    
+11214,138726,VALLA                                   ,SE,+59:01:12,+016:22:12,  50, RR9,19730901,20140630,   56,Marcus Flarup                                     
+11214,138732,FLEN                                    ,SE,+59:03:36,+016:35:24,  30, RR9,19450101,20081231,   56,Marcus Flarup                                     
+11214,138742,FLODA_A                                 ,SE,+59:03:36,+016:24:00,  19, RR9,19620501,20211031,   56,Marcus Flarup                                     
+11214,171393,SKOLDINGE                               ,SE,+59:03:28,+016:24:10,  30, RR9,20141130,20211031,   56,Marcus Flarup                                     
+11215,139588,SODERHAMN                               ,SE,+61:16:12,+017:06:00,  10, RR9,19610101,20040229,   56,Marcus Flarup                                     
+11215,139592,SODERALA_D                              ,SE,+61:18:00,+016:57:00,  29, RR9,20051101,20211030,   56,Marcus Flarup                                     
+11215,171404,SODERHAMN A                             ,SE,+61:16:09,+017:05:54,  26, RR9,19490101,19971130,   56,Marcus Flarup                                     
+11216,138754,GNESTA                                  ,SE,+59:06:00,+017:19:12,  20, RR9,19640501,20210930,   56,Marcus Flarup                                     
+11216,171415,VANGSO                                  ,SE,+59:07:00,+017:12:00,  15, RR9,19490103,19601230,   56,Marcus Flarup                                     
+11217,139294,DANNEMORA                               ,SE,+60:12:00,+017:54:00,  33, RR9,19630324,19810524,   56,Marcus Flarup                                     
+11217,139296,FILMS_KYRKBY                            ,SE,+60:14:24,+017:54:36,  39, RR9,19820228,20141031,   56,Marcus Flarup                                     
+11217,139298,FILMS KYRKBY A                          ,SE,+60:14:11,+017:54:28,  33, RR9,20010801,20211031,   56,Marcus Flarup                                     
+11217,171426,OSTERBY 1                               ,SE,+60:11:59,+017:53:47,  35, RR9,19450106,19630627,   56,Marcus Flarup                                     
+11217,902456,FILM                                    ,SE,+60:14:00,+017:53:59,  35, RR8,19960201,20200229,     ,                    

@@ -1,0 +1,54 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  228,100706,LJUBLJANA BEZIGRAD                      ,SI,+46:03:56,+014:30:45, 299, RR2,18991231,20210929,   30,Tanja Cegnar                                      
+  228,914015,LJUBLJANA/BEZIGRAD                      ,SI,+46:04:00,+014:31:00, 298, RR8,19960415,20200229,     ,                    
+ 1752,105938,KREDARICA                               ,SI,+46:22:43,+013:50:56,2513, RR2,19541231,20210929,   30,Tanja Cegnar                                      
+ 1752,914008,KREDARICA                               ,SI,+46:23:00,+013:51:00,2515, RR8,19960501,20200229,     ,                    
+ 3311,114956,KOCEVJE                                 ,SI,+45:38:45,+014:50:59, 468, RR2,19601231,20210929,   30,Tanja Cegnar                                      
+ 3311,914118,KOCEVJE                                 ,SI,+45:39:00,+014:51:00, 467, RR8,19960501,20200229,     ,                    
+ 3312,114966,LESCE                                   ,SI,+46:21:40,+014:09:43, 503, RR2,19781231,20180330,   30,Tanja Cegnar                                      
+ 3312,914010,LESCE                                   ,SI,+46:22:00,+014:11:00, 515, RR8,20170908,20170922,     ,                    
+ 3317,115016,VOJSKO                                  ,SI,+46:01:31,+013:54:08,1065, RR2,19601231,20210929,   30,Tanja Cegnar                                      
+ 3322,115066,NOVA VAS NA BLOKAH                      ,SI,+45:46:23,+014:30:34, 720, RR2,19601231,20210929,   30,Tanja Cegnar                                      
+ 3323,115076,POSTOJNA                                ,SI,+45:45:58,+014:11:36, 533, RR2,19611231,20210929,   30,Tanja Cegnar                                      
+ 3323,914112,POSTOJNA                                ,SI,+45:46:00,+014:12:00, 533, RR8,20170903,20170923,     ,                    
+ 3325,115096,VELIKI DOLENCI                          ,SI,+46:50:11,+016:17:16, 308, RR2,19771231,20190130,   30,Tanja Cegnar                                      
+ 3325,912910,SZENTGOTTHARD/FARKASFA                  ,HU,+46:55:00,+016:19:00, 313, RR8,19820103,20200229,     ,                    
+ 3328,115126,NOVO MESTO                              ,SI,+45:48:06,+015:10:38, 220, RR2,19721231,20210929,   30,Tanja Cegnar                                      
+ 3328,914121,NOVO MESTO                              ,SI,+45:48:00,+015:11:00, 220, RR8,19960501,20170922,     ,                    
+ 3329,115136,SMARTNO PRI SLOVENJ GRADCU              ,SI,+46:29:23,+015:06:40, 444, RR2,19601231,20210929,   30,Tanja Cegnar                                      
+ 3329,914021,SLOVENJ GRADEC                          ,SI,+46:29:00,+015:07:00, 452, RR8,19981027,20170923,     ,                    
+ 3330,115146,LETALISCE JOZETA PUCNIKA LJUBLJANA      ,SI,+46:12:41,+014:28:42, 362, RR2,19631231,20210929,   30,Tanja Cegnar                                      
+ 3330,914014,LJUBLJANA/BRNIK                         ,SI,+46:13:00,+014:29:00, 384, RR8,19960501,20200229,     ,                    
+ 3331,115156,LETALISCE EDVARDA RUSJANA MARIBOR       ,SI,+46:28:47,+015:40:54, 264, RR2,19761231,20210929,   30,Tanja Cegnar                                      
+ 3331,914026,MARIBOR/SLIVNICA                        ,SI,+46:29:00,+015:41:00, 265, RR8,19960415,20200229,     ,                    
+ 3335,115196,MURSKA SOBOTA-RAKICAN                   ,SI,+46:39:08,+016:11:29, 187, RR2,19601231,20210929,   30,Tanja Cegnar                                      
+ 3335,914031,MURSKA SOBOTA                           ,SI,+46:39:00,+016:11:00, 188, RR8,19960501,20170923,     ,                    
+ 3336,115206,RATECE-PLANICA                          ,SI,+46:30:00,+013:42:00, 864, RR2,19601231,20210929,   30,Tanja Cegnar                                      
+ 3336,914007,RATECE                                  ,SI,+46:30:00,+013:43:00, 865, RR8,19960415,20170923,     ,                    
+17902,115156,LETALISCE EDVARDA RUSJANA MARIBOR       ,SI,+46:28:47,+015:40:54, 264, RR2,19761231,20210929,   30,Tanja Cegnar                                      
+17902,209674,MARIBOR - VRBANSKI PLATO                ,SI,+46:34:04,+015:37:34, 279, RR2,20191231,20210929,   30,Tanja Cegnar                                      
+17902,914026,MARIBOR/SLIVNICA                        ,SI,+46:29:00,+015:41:00, 265, RR8,19960415,20200229,     ,                    

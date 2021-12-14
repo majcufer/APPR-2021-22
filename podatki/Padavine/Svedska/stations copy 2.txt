@@ -1,0 +1,182 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 08-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  338,KVIKKJOKK-ARRENJARKA                    ,SE,+66:53:15,+018:01:04, 314
+ 2603,DREVSJO                                 ,NO,+61:53:14,+012:02:53, 672
+ 5022,VALDALEN                                ,NO,+62:04:33,+012:10:20, 794
+ 5288,TOMTABACKEN_A                           ,SE,+57:30:00,+014:28:12, 356
+ 5291,SPINKABO                                ,SE,+57:34:12,+014:28:12, 350
+ 6086,MALMBACK                                ,SE,+57:36:00,+014:31:12, 350
+ 5309,PRASTKULLA                              ,SE,+57:43:12,+014:59:24, 290
+ 5324,MULLSJO                                 ,SE,+57:55:12,+013:52:48, 270
+ 6128,SANDHEM                                 ,SE,+57:58:12,+013:46:48, 270
+ 6135,HOGEMALEN                               ,SE,+58:03:36,+014:36:00, 285
+ 6137,UPPGRANNA                               ,SE,+58:04:12,+014:31:48, 285
+ 5514,KLOTEN                                  ,SE,+59:52:12,+015:15:00, 285
+ 5515,KLOTEN_A                                ,SE,+59:52:12,+015:15:36, 289
+ 5528,FREDRIKSBERG                            ,SE,+60:08:24,+014:24:00, 305
+ 6413,SAGEN                                   ,SE,+60:16:12,+014:08:24, 265
+ 5547,STORA_SPANSBERGET_A                     ,SE,+60:22:48,+015:08:24, 492
+ 6426,SPANSBERGET                             ,SE,+60:22:48,+015:08:24, 495
+ 6452,KINDSJON_D                              ,SE,+60:39:36,+012:42:36, 425
+  341,MALUNG                                  ,SE,+60:40:53,+013:41:59, 308
+ 5564,MALUNG_A                                ,SE,+60:40:48,+013:42:36, 306
+ 6463,LETAFORS                                ,SE,+60:44:24,+012:42:00, 335
+ 6465,TASAN                                   ,SE,+60:46:12,+012:51:00, 255
+ 6484,LOTEN_D                                 ,SE,+61:01:48,+012:50:24, 425
+ 6485,FINNBACKA_D                             ,SE,+61:03:36,+015:34:48, 431
+ 6490,MANGSBODARNA                            ,SE,+61:04:48,+013:37:12, 424
+ 5587,ALVDALEN_A                              ,SE,+61:15:00,+014:02:24, 252
+ 5588,ALVDALEN_11                             ,SE,+61:15:36,+014:02:24, 250
+ 6507,HORRMUND                                ,SE,+61:18:36,+013:09:36, 440
+ 6509,LOVNAS                                  ,SE,+61:20:24,+013:21:36, 445
+ 6511,TRANGSLET                               ,SE,+61:22:48,+013:43:48, 425
+ 6513,STORBRON                                ,SE,+61:23:24,+012:51:36, 540
+ 6517,NORNAS_D                                ,SE,+61:25:48,+013:13:48, 460
+ 6528,LILLHAMRA                               ,SE,+61:38:24,+014:48:00, 424
+ 5601,HAMRA                                   ,SE,+61:39:36,+014:59:24, 454
+ 5602,HAMRA_A                                 ,SE,+61:39:36,+014:59:24, 454
+ 5603,SARNA                                   ,SE,+61:42:36,+013:07:48, 425
+ 6532,LOS_D                                   ,SE,+61:45:00,+015:10:12, 397
+ 6533,FAGELSJO_D                              ,SE,+61:48:00,+014:38:24, 410
+ 5613,FLOTNINGEN                              ,SE,+61:51:00,+012:16:12, 670
+ 6536,IDRE_D                                  ,SE,+61:51:36,+012:43:12, 455
+ 3525,SVEG                                    ,SE,+62:01:09,+014:11:25, 432
+ 6551,YTTERBERG_D                             ,SE,+62:04:12,+014:29:24, 470
+ 5620,GROVELSJON                              ,SE,+62:06:00,+012:19:12, 815
+ 6556,LANGSTROMMEN                            ,SE,+62:07:12,+015:00:00, 280
+ 5623,YTTERHOGDAL                             ,SE,+62:10:48,+014:57:00, 260
+ 6565,ULVSJON                                 ,SE,+62:16:12,+016:25:48, 375
+ 6568,MYSKELASEN_D                            ,SE,+62:19:48,+012:39:00, 770
+ 6571,KOLSILLRE_D                             ,SE,+62:24:00,+015:12:36, 255
+ 5629,HEDE                                    ,SE,+62:25:12,+013:31:12, 430
+ 5630,HEDEVIKEN                               ,SE,+62:24:36,+013:40:12, 410
+ 5633,KLOVSJOHOJDEN_A                         ,SE,+62:30:00,+014:09:36, 802
+ 5637,KLOVSJO                                 ,SE,+62:31:48,+014:12:00, 802
+ 5638,LJUSNEDAL                               ,SE,+62:33:00,+012:36:00, 585
+ 5639,FJALLNAS                                ,SE,+62:34:48,+012:13:12, 780
+ 6588,MALMAGEN                                ,SE,+62:36:36,+012:09:36, 785
+ 6597,ORAATJARNARNA_D                         ,SE,+62:43:12,+016:10:48, 345
+ 5644,HUNGE                                   ,SE,+62:45:00,+015:06:00, 342
+ 5645,HUNGE_A                                 ,SE,+62:45:00,+015:05:24, 343
+ 6601,DODRE                                   ,SE,+62:47:24,+014:41:24, 350
+ 6602,GALTJARN                                ,SE,+62:48:00,+017:33:00, 260
+ 6618,RISSNA_D                                ,SE,+63:03:36,+015:20:24, 300
+ 5659,HOGLEKARDALEN                           ,SE,+63:04:48,+013:45:00, 592
+ 6621,MARBY_D                                 ,SE,+63:07:48,+014:16:48, 325
+ 5663,NORDERON                                ,SE,+63:09:00,+014:22:12, 320
+ 6625,VALLBO                                  ,SE,+63:09:36,+013:04:12, 575
+ 6627,HALLEN                                  ,SE,+63:10:48,+014:05:24, 330
+ 5671,STORLIEN-STORVALLEN                     ,SE,+63:16:48,+012:07:12, 583
+ 6635,LITSNASET                               ,SE,+63:18:36,+014:42:00, 275
+ 6638,LIT                                     ,SE,+63:18:36,+014:51:00, 270
+ 5674,MORSIL                                  ,SE,+63:19:12,+013:39:00, 400
+ 6645,HISSMOFORS                              ,SE,+63:19:48,+014:28:12, 285
+ 6650,JARPSTROMMEN                            ,SE,+63:23:24,+013:23:24, 380
+ 6655,BORGVATTNET                             ,SE,+63:25:12,+015:49:48, 380
+ 6660,KAXAS-AFLO_D                            ,SE,+63:29:24,+013:55:12, 345
+ 6665,LUNDSJON                                ,SE,+63:31:12,+014:31:48, 410
+ 6670,HAMMERDAL                               ,SE,+63:34:48,+015:22:12, 330
+ 6676,BRANNA                                  ,SE,+63:40:12,+013:33:00, 400
+ 6678,BOTTNEN                                 ,SE,+63:40:48,+013:22:12, 400
+ 5694,HALLVIKEN                               ,SE,+63:43:48,+015:30:00, 375
+ 6685,SODERSEL_D                              ,SE,+63:45:00,+018:10:12, 385
+ 5696,HALLHAXASEN_A                           ,SE,+63:46:12,+015:19:48, 375
+ 6708,LOVBERGA_D                              ,SE,+63:58:12,+015:51:00, 267
+ 5708,ALMDALEN                                ,SE,+64:00:00,+014:40:12, 615
+ 6716,VALSJON                                 ,SE,+64:03:36,+014:07:48, 340
+ 5710,FREDRIKA_A                              ,SE,+64:04:48,+018:22:12, 327
+ 5711,FREDRIKA                                ,SE,+64:04:48,+018:25:12, 327
+ 5715,ASELE                                   ,SE,+64:09:36,+017:22:12, 310
+ 5716,ASELE_A                                 ,SE,+64:10:12,+017:19:12, 307
+ 6722,KYRKTASJO_D                             ,SE,+64:15:00,+015:51:00, 260
+ 5730,HOGLAND                                 ,SE,+64:34:12,+015:55:12, 330
+ 5731,PETISTRASK_A                            ,SE,+64:34:12,+019:42:00, 258
+ 6748,ASTRASK                                 ,SE,+64:36:36,+019:58:48, 265
+ 6749,BAVERTRASK                              ,SE,+64:37:12,+018:20:24, 385
+ 6755,KALVTRASK_D                             ,SE,+64:40:12,+019:48:36, 265
+ 6759,GRONLIDEN                               ,SE,+64:43:48,+020:11:24, 300
+ 5737,JORMLIEN                                ,SE,+64:43:48,+013:57:36, 360
+ 6760,TALLIDEN                                ,SE,+64:46:48,+019:22:12, 372
+ 6763,STORA_BLASJON                           ,SE,+64:49:12,+014:09:00, 485
+ 6765,AVASJO-BORGAFJALL_D                     ,SE,+64:50:24,+015:05:24, 530
+ 6766,ANKARVATTNET_D                          ,SE,+64:52:48,+014:13:48, 470
+ 5742,ANKARVATTNET                            ,SE,+64:52:12,+014:15:00, 470
+ 5743,NORSJO                                  ,SE,+64:54:36,+019:28:48, 296
+ 5745,NORSJO_A                                ,SE,+64:55:48,+019:22:48, 309
+ 6772,LEIPIKVATTNET                           ,SE,+64:55:48,+014:09:36, 475
+ 2260,GUNNARN                                 ,SE,+65:00:27,+017:42:31, 280
+ 6777,JORN                                    ,SE,+65:06:00,+020:06:36, 285
+ 6781,SADILIDEN                               ,SE,+65:10:12,+017:49:12, 400
+ 5759,MALA                                    ,SE,+65:11:24,+018:45:00, 320
+ 5763,KITTELFJALL                             ,SE,+65:15:00,+015:30:00, 560
+ 6784,KITTELFJALL_D                           ,SE,+65:15:36,+015:31:48, 570
+ 6785,BLAIKEN                                 ,SE,+65:15:36,+016:50:24, 350
+ 5765,GLOMMERSTRASK                           ,SE,+65:16:48,+019:40:12, 395
+ 6786,KYRKBERG                                ,SE,+65:16:12,+016:46:12, 350
+ 6789,GIELAS                                  ,SE,+65:19:48,+015:04:12, 570
+ 5769,GIELAS_A                                ,SE,+65:19:48,+015:04:12, 577
+ 6803,KOLER                                   ,SE,+65:30:00,+020:28:12, 285
+ 5774,SORSELE                                 ,SE,+65:32:24,+017:33:00, 360
+ 6809,FJALLSJONAS                             ,SE,+65:37:12,+016:36:36, 425
+ 3536,HEMAVAN                                 ,SE,+65:47:48,+015:06:16, 475
+ 1428,ARJEPLOG A                              ,SE,+66:03:09,+017:50:36, 431
+ 6839,PUOTTAURE                               ,SE,+66:11:24,+020:15:00, 320
+ 1427,JACKVIK                                 ,SE,+66:22:48,+017:00:00, 430
+ 5816,MURJEK                                  ,SE,+66:28:48,+020:52:48, 260
+ 5823,MIERKENIES                              ,SE,+66:40:48,+016:06:36, 614
+ 5824,MIERKENIS_A                             ,SE,+66:40:48,+016:06:36, 614
+ 5828,NATTAVAARA_A                            ,SE,+66:45:00,+020:55:48, 327
+ 5829,NATTAVAARA_BY                           ,SE,+66:45:36,+021:03:00, 350
+ 5834,KVIKKJOKK-ARRENJARKA                    ,SE,+66:57:36,+017:43:48, 314
+ 5835,KVIKKJOKK-ARRENJARKA A                  ,SE,+66:53:24,+018:01:12, 320
+ 5839,GALLIVARE_A                             ,SE,+67:08:24,+020:39:00, 359
+ 5840,GALLIVARE                               ,SE,+67:08:24,+020:39:36, 400
+ 5842,MALMBERGET                              ,SE,+67:10:12,+020:40:12, 400
+ 5843,LATNIVAARA_A                            ,SE,+67:15:36,+020:16:12, 453
+ 6887,LADNIVAARA                              ,SE,+67:15:36,+020:16:48, 460
+ 6888,ALLAVAARA                               ,SE,+67:15:36,+020:07:12, 480
+ 5846,SALTOLUOKTA                             ,SE,+67:22:48,+018:33:00, 393
+ 5847,BJORKUDDEN                              ,SE,+67:24:00,+018:43:12, 376
+ 6899,KERANTOJARVI                            ,SE,+67:38:24,+022:55:12, 315
+ 5850,SVAPPAVAARA                             ,SE,+67:39:00,+021:03:00, 345
+ 6900,PARKALOMPOLO                            ,SE,+67:43:48,+022:49:48, 310
+ 5853,PARKALOMPOLO_A                          ,SE,+67:43:48,+022:49:48, 312
+ 5854,LAINIO                                  ,SE,+67:45:36,+022:21:00, 315
+ 5856,NIKKALUOKTA                             ,SE,+67:51:00,+019:01:12, 470
+ 5858,NIKKALUOKTA_A                           ,SE,+67:51:00,+019:01:48, 466
+ 5859,ESRANGE                                 ,SE,+67:53:24,+021:04:12, 335
+ 5863,LANNAVAARA                              ,SE,+68:03:00,+021:58:48, 630
+ 5864,RENSJON_A                               ,SE,+68:04:12,+019:50:24, 493
+ 6908,OVRE_SOPPERO                            ,SE,+68:05:24,+021:42:00, 365
+ 6911,BERGFORS                                ,SE,+68:09:00,+019:48:00, 480
+ 5867,ABISKO_AUT                              ,SE,+68:21:36,+018:49:12, 388
+ 5868,ABISKO                                  ,SE,+68:21:36,+018:49:12, 388
+ 5869,KATTERJAKK_A                            ,SE,+68:25:12,+018:10:12, 516
+ 3540,KATTERJAKK                              ,SE,+68:25:18,+018:10:11, 515
+ 1409,KARESUANDO                              ,SE,+68:26:32,+022:27:01, 330
+ 5873,KARESUANDO_A                            ,SE,+68:26:24,+022:27:00, 330
+ 5874,NAIMAKKA_A                              ,SE,+68:40:48,+021:31:48, 402
+ 5875,NAIMAKKA                                ,SE,+68:40:48,+021:31:48, 403
+ 6917,SAARIKOSKI_D                            ,SE,+68:48:36,+021:15:00, 450
+ 6918,KEINOVUOPIO_D                           ,SE,+68:52:12,+021:01:48, 460
+ 6919,KUMMAVUOPIO                             ,SE,+68:54:36,+020:52:12, 465
+ 5831,NATTAVARA                               ,SE,+66:46:12,+020:58:12, 330
+11209,STORLIEN-STORVALLEN A                   ,SE,+63:16:59,+012:07:29, 583
+11212,MJOLKBACKEN                             ,SE,+66:06:15,+014:51:01, 535

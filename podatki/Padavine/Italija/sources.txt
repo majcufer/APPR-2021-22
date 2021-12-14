@@ -1,0 +1,345 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  169,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+  169,194587,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36, RR7,20141224,20190428,   54,Valentina Pavan                                   
+  169,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+  169,195203,DOZZA                                   ,IT,+44:32:02,+011:22:05,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+  169,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+  169,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+  170,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+  170,195267,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR7,20051231,20190427,   54,Valentina Pavan                                   
+  170,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+  170,196259,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5, RR7,20051231,20190429,   54,Valentina Pavan                                   
+  170,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+  170,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+  170,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+  170,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+  174,100557,BRINDISI                                ,IT,+40:38:00,+017:56:00,  10, RR7,19510101,20091231,   21,Tiziano Colombo                                   
+  174,118385,BRINDISI                                ,IT,+40:38:00,+017:56:00,  10, RR1,19510101,20110123,   50,GHCND                                             
+  174,916320,BRINDISI                                ,IT,+40:39:00,+017:57:00,  10, RR8,19820102,20200229,     ,                    
+  175,100560,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21, RR7,19510101,20091231,   21,Tiziano Colombo                                   
+  175,118388,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21, RR1,19510101,20110123,   50,GHCND                                             
+  175,191120,CAPOTERRA                               ,IT,+39:10:29,+008:58:15,   5, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+  175,191255,CAGLIARI                                ,IT,+39:13:33,+009:07:04,   1, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+  175,191256,SESTU                                   ,IT,+39:17:47,+009:03:58,   5, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+  175,916560,CAGLIARI ELMAS                          ,IT,+39:14:00,+009:03:00,   5, RR8,19820102,20200229,     ,                    
+  176,100563,ROMA CIAMPINO                           ,IT,+41:47:00,+012:35:00, 105, RR7,19510101,20091228,   21,Tiziano Colombo                                   
+  176,118382,ROMA CIAMPINO                           ,IT,+41:47:00,+012:35:00, 105, RR1,19510101,20110123,   50,GHCND                                             
+  176,916239,ROMA/CIAMPINO                           ,IT,+41:48:00,+012:35:00, 105, RR8,19870720,20200229,     ,                    
+  177,100566,VERONA VILLAFRANCA                      ,IT,+45:23:00,+010:52:00,  68, RR7,19510101,20091220,   21,Tiziano Colombo                                   
+  177,118379,VERONA VILLAFRANCA                      ,IT,+45:23:00,+010:52:00,  68, RR1,19510101,20110123,   50,GHCND                                             
+  177,916090,VERONA/VILLAFRANCA                      ,IT,+45:23:00,+010:52:00,  68, RR8,19820102,20200229,     ,                    
+ 2082,112197,MONTE CIMONE                            ,IT,+44:12:00,+010:42:00,2165, RR1,19510101,20110123,   47,GSN network                                       
+ 2082,916134,MONTE CIMONE                            ,IT,+44:11:00,+010:42:00,2173, RR8,19900604,20191107,     ,                    
+ 2109,112202,CAPO BELLAVISTA                         ,IT,+39:55:48,+009:43:12, 138, RR1,19510101,20110123,   47,GSN network                                       
+ 2109,916550,CAPO BELLAVISTA                         ,IT,+39:56:00,+009:43:00, 150, RR8,19820102,20200229,     ,                    
+16474,191114,S. ANDREA FRIUS                         ,IT,+39:28:43,+009:10:07,  28, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16474,191116,BARRALI                                 ,IT,+39:29:04,+009:05:54,  13, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16476,191116,BARRALI                                 ,IT,+39:29:04,+009:05:54,  13, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16476,191118,NURAMINIS                               ,IT,+39:26:34,+009:00:48,   9, RR3,19220101,20110905,   73,Giuseppe Bianco                                   
+16476,916546,DECIMOMANNU                             ,IT,+39:21:00,+008:58:00,  24, RR8,19820208,20200229,     ,                    
+16477,191118,NURAMINIS                               ,IT,+39:26:34,+009:00:48,   9, RR3,19220101,20110905,   73,Giuseppe Bianco                                   
+16477,191119,VILLASOR                                ,IT,+39:22:53,+008:56:36,   2, RR3,19220101,20110731,   73,Giuseppe Bianco                                   
+16477,916546,DECIMOMANNU                             ,IT,+39:21:00,+008:58:00,  24, RR8,19820208,20200229,     ,                    
+16478,100560,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21, RR7,19510101,20091231,   21,Tiziano Colombo                                   
+16478,191120,CAPOTERRA                               ,IT,+39:10:29,+008:58:15,   5, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16478,916560,CAGLIARI ELMAS                          ,IT,+39:14:00,+009:03:00,   5, RR8,19820102,20200229,     ,                    
+16571,191213,OLBIA                                   ,IT,+40:55:26,+009:30:28,   2, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16571,191215,MURTA MARIA                             ,IT,+40:53:27,+009:35:10,   2, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16571,916531,OLBIA COSTA SMERALDA                    ,IT,+40:54:00,+009:31:00,  13, RR8,19820208,20200229,     ,                    
+16573,191213,OLBIA                                   ,IT,+40:55:26,+009:30:28,   2, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16573,191215,MURTA MARIA                             ,IT,+40:53:27,+009:35:10,   2, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16573,916531,OLBIA COSTA SMERALDA                    ,IT,+40:54:00,+009:31:00,  13, RR8,19820208,20200229,     ,                    
+16613,100560,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21, RR7,19510101,20091231,   21,Tiziano Colombo                                   
+16613,191254,SA PIRA                                 ,IT,+39:18:35,+009:11:11,  22, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16613,191255,CAGLIARI                                ,IT,+39:13:33,+009:07:04,   1, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16613,191256,SESTU                                   ,IT,+39:17:47,+009:03:58,   5, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16613,916560,CAGLIARI ELMAS                          ,IT,+39:14:00,+009:03:00,   5, RR8,19820102,20200229,     ,                    
+16614,100560,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21, RR7,19510101,20091231,   21,Tiziano Colombo                                   
+16614,118388,CAGLIARI                                ,IT,+39:14:00,+009:03:00,  21, RR1,19510101,20110123,   50,GHCND                                             
+16614,191254,SA PIRA                                 ,IT,+39:18:35,+009:11:11,  22, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16614,191255,CAGLIARI                                ,IT,+39:13:33,+009:07:04,   1, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16614,191256,SESTU                                   ,IT,+39:17:47,+009:03:58,   5, RR3,19220101,20111231,   73,Giuseppe Bianco                                   
+16614,916560,CAGLIARI ELMAS                          ,IT,+39:14:00,+009:03:00,   5, RR8,19820102,20200229,     ,                    
+ 2766,194107,ANZOLA DELL EMILIA                      ,IT,+44:34:45,+011:10:57,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+ 2766,194507,CALDERARA DI RENO                       ,IT,+44:33:58,+011:16:20,  30, RR7,20051231,20151205,   54,Valentina Pavan                                   
+ 2766,194587,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36, RR7,20141224,20190428,   54,Valentina Pavan                                   
+ 2766,194723,CASSA_DOSOLO                            ,IT,+44:39:14,+011:16:06,  22, RR7,20141224,20211030,   54,Valentina Pavan                                   
+ 2766,195323,FONDO_MARTIGNONE                        ,IT,+44:31:13,+011:10:04,  38, RR7,20141224,20190428,   54,Valentina Pavan                                   
+ 2766,196363,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25, RR7,20051231,20211030,   54,Valentina Pavan                                   
+ 2766,197891,ZOLA_PREDOSA                            ,IT,+44:29:46,+011:12:00,  65, RR7,20051231,20190517,   54,Valentina Pavan                                   
+ 2766,198131,ANZOLA_RR                               ,IT,+44:34:44,+011:10:57,  42, RR7,20051231,20141220,   54,Valentina Pavan                                   
+ 2766,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+ 2766,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17526,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17526,194251,BAURA                                   ,IT,+44:50:54,+011:43:12,   8, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17526,195267,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR7,20051231,20190427,   54,Valentina Pavan                                   
+17526,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17526,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17526,196787,QUARTESANA                              ,IT,+44:49:05,+011:44:56,   2, RR7,20121231,20180219,   54,Valentina Pavan                                   
+17526,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17526,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17526,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17546,194475,BUDRIO_DONDINA                          ,IT,+44:31:19,+011:32:59,  30, RR7,20120506,20151018,   54,Valentina Pavan                                   
+17546,194867,CENTONARA                               ,IT,+44:28:19,+011:30:38,  41, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17546,195875,MASSAROLO                               ,IT,+44:32:07,+011:36:53,  21, RR7,20060117,20211007,   54,Valentina Pavan                                   
+17546,195939,MEZZOLARA                               ,IT,+44:34:15,+011:32:01,  20, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17546,197987,BUDRIO_PRUNARO                          ,IT,+44:30:33,+011:31:12,  46, RR7,20120503,20170416,   54,Valentina Pavan                                   
+17546,198003,BUDRIO_OLMO                             ,IT,+44:32:25,+011:34:09,  18, RR7,20051231,20190428,   54,Valentina Pavan                                   
+ 2785,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+ 2785,194107,ANZOLA DELL EMILIA                      ,IT,+44:34:45,+011:10:57,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+ 2785,194507,CALDERARA DI RENO                       ,IT,+44:33:58,+011:16:20,  30, RR7,20051231,20151205,   54,Valentina Pavan                                   
+ 2785,194587,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36, RR7,20141224,20190428,   54,Valentina Pavan                                   
+ 2785,194723,CASSA_DOSOLO                            ,IT,+44:39:14,+011:16:06,  22, RR7,20141224,20211030,   54,Valentina Pavan                                   
+ 2785,196363,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25, RR7,20051231,20211030,   54,Valentina Pavan                                   
+ 2785,197467,SERPIERI                                ,IT,+44:32:54,+011:22:02,  28, RR7,20181031,20211030,   54,Valentina Pavan                                   
+ 2785,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+ 2785,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+ 2785,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17556,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17556,194107,ANZOLA DELL EMILIA                      ,IT,+44:34:45,+011:10:57,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17556,194507,CALDERARA DI RENO                       ,IT,+44:33:58,+011:16:20,  30, RR7,20051231,20151205,   54,Valentina Pavan                                   
+17556,194587,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36, RR7,20141224,20190428,   54,Valentina Pavan                                   
+17556,196363,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17556,197467,SERPIERI                                ,IT,+44:32:54,+011:22:02,  28, RR7,20181031,20211030,   54,Valentina Pavan                                   
+17556,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17556,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+17556,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17563,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17563,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17563,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17563,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+17571,194155,BAGNO DI PIANO                          ,IT,+44:39:56,+011:16:20,  30, RR7,20051231,20071229,   54,Valentina Pavan                                   
+17571,194723,CASSA_DOSOLO                            ,IT,+44:39:14,+011:16:06,  22, RR7,20141224,20211030,   54,Valentina Pavan                                   
+17571,196363,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17571,197235,SANTAGATA_BOLOGNESE                     ,IT,+44:41:42,+011:08:41,  18, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17571,197523,SOSTEGNO_RENO                           ,IT,+44:39:55,+011:16:20,  24, RR7,20080109,20211030,   54,Valentina Pavan                                   
+17582,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17582,194475,BUDRIO_DONDINA                          ,IT,+44:31:19,+011:32:59,  30, RR7,20120506,20151018,   54,Valentina Pavan                                   
+17582,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17582,194827,CASTENASO_VILLANOVA                     ,IT,+44:29:24,+011:25:45,  51, RR7,20120502,20190421,   54,Valentina Pavan                                   
+17582,194867,CENTONARA                               ,IT,+44:28:19,+011:30:38,  41, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17582,195203,DOZZA                                   ,IT,+44:32:02,+011:22:05,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17582,197467,SERPIERI                                ,IT,+44:32:54,+011:22:02,  28, RR7,20181031,20211030,   54,Valentina Pavan                                   
+17582,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17582,197987,BUDRIO_PRUNARO                          ,IT,+44:30:33,+011:31:12,  46, RR7,20120503,20170416,   54,Valentina Pavan                                   
+17582,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17585,194475,BUDRIO_DONDINA                          ,IT,+44:31:19,+011:32:59,  30, RR7,20120506,20151018,   54,Valentina Pavan                                   
+17585,194811,CASTEL_SAN_PIETRO                       ,IT,+44:24:40,+011:35:49,  58, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17585,194819,CASTEL_SAN_PIETRO_GAIANA                ,IT,+44:27:30,+011:36:09,  45, RR7,20120503,20170417,   54,Valentina Pavan                                   
+17585,194827,CASTENASO_VILLANOVA                     ,IT,+44:29:24,+011:25:45,  51, RR7,20120502,20190421,   54,Valentina Pavan                                   
+17585,194867,CENTONARA                               ,IT,+44:28:19,+011:30:38,  41, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17585,195939,MEZZOLARA                               ,IT,+44:34:15,+011:32:01,  20, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17585,197987,BUDRIO_PRUNARO                          ,IT,+44:30:33,+011:31:12,  46, RR7,20120503,20170416,   54,Valentina Pavan                                   
+17585,198003,BUDRIO_OLMO                             ,IT,+44:32:25,+011:34:09,  18, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17606,194251,BAURA                                   ,IT,+44:50:54,+011:43:12,   8, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17606,194323,BEVILACQUA                              ,IT,+44:43:05,+011:54:26,   1, RR7,20070108,20101225,   54,Valentina Pavan                                   
+17606,195051,CORNACERVINA                            ,IT,+44:46:39,+011:55:16,   2, RR7,20051231,20151219,   54,Valentina Pavan                                   
+17606,195123,DENORE_ALEOTTI                          ,IT,+44:46:57,+011:50:37,   1, RR7,20051231,20151220,   54,Valentina Pavan                                   
+17606,195851,MARTINELLA                              ,IT,+44:42:41,+011:53:04,   1, RR7,20060117,20211026,   54,Valentina Pavan                                   
+17606,195891,MEDELANA                                ,IT,+44:46:22,+011:52:02,   0, RR7,20121231,20180219,   54,Valentina Pavan                                   
+17606,196331,OSTELLATO                               ,IT,+44:42:26,+011:53:28,   0, RR7,20051231,20150912,   54,Valentina Pavan                                   
+17606,196571,PIOPPO                                  ,IT,+44:50:18,+011:55:15,   1, RR7,20051231,20180610,   54,Valentina Pavan                                   
+17606,196787,QUARTESANA                              ,IT,+44:49:05,+011:44:56,   2, RR7,20121231,20180219,   54,Valentina Pavan                                   
+17606,197419,SELLARINO_VOGHIERA                      ,IT,+44:44:47,+011:44:46,   3, RR7,20051231,20200923,   54,Valentina Pavan                                   
+17607,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17607,195131,DIAMANTINA                              ,IT,+44:53:09,+011:30:42,   5, RR7,20121231,20170226,   54,Valentina Pavan                                   
+17607,195675,LA_VALLETTA                             ,IT,+44:54:52,+011:29:46,   6, RR7,20051231,20200130,   54,Valentina Pavan                                   
+17607,195955,MIRABELLO                               ,IT,+44:49:54,+011:27:15,  10, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17607,196259,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17607,196299,OPERA_PO                                ,IT,+44:55:40,+011:26:27,  17, RR7,20070523,20211030,   54,Valentina Pavan                                   
+17607,196699,PONTISETTE                              ,IT,+44:52:18,+011:32:45,   7, RR7,20051231,20181021,   54,Valentina Pavan                                   
+17607,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17607,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17607,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17611,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17611,194507,CALDERARA DI RENO                       ,IT,+44:33:58,+011:16:20,  30, RR7,20051231,20151205,   54,Valentina Pavan                                   
+17611,194587,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36, RR7,20141224,20190428,   54,Valentina Pavan                                   
+17611,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17611,194827,CASTENASO_VILLANOVA                     ,IT,+44:29:24,+011:25:45,  51, RR7,20120502,20190421,   54,Valentina Pavan                                   
+17611,195203,DOZZA                                   ,IT,+44:32:02,+011:22:05,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17611,197467,SERPIERI                                ,IT,+44:32:54,+011:22:02,  28, RR7,20181031,20211030,   54,Valentina Pavan                                   
+17611,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17611,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17627,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17627,195267,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR7,20051231,20190427,   54,Valentina Pavan                                   
+17627,195403,GAIBANELLA                              ,IT,+44:46:08,+011:39:45,   3, RR7,20181107,20200130,   54,Valentina Pavan                                   
+17627,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17627,197059,SAN_BARTOLOMEO_IN_BOSCO                 ,IT,+44:44:29,+011:36:23,   8, RR7,20121231,20160201,   54,Valentina Pavan                                   
+17627,197419,SELLARINO_VOGHIERA                      ,IT,+44:44:47,+011:44:46,   3, RR7,20051231,20200923,   54,Valentina Pavan                                   
+17627,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17627,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17627,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17655,195131,DIAMANTINA                              ,IT,+44:53:09,+011:30:42,   5, RR7,20121231,20170226,   54,Valentina Pavan                                   
+17655,195675,LA_VALLETTA                             ,IT,+44:54:52,+011:29:46,   6, RR7,20051231,20200130,   54,Valentina Pavan                                   
+17655,196299,OPERA_PO                                ,IT,+44:55:40,+011:26:27,  17, RR7,20070523,20211030,   54,Valentina Pavan                                   
+17655,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17655,196699,PONTISETTE                              ,IT,+44:52:18,+011:32:45,   7, RR7,20051231,20181021,   54,Valentina Pavan                                   
+17658,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17658,195699,LAVINO_DI_SOPRA                         ,IT,+44:29:26,+011:13:15,  75, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17658,197891,ZOLA_PREDOSA                            ,IT,+44:29:46,+011:12:00,  65, RR7,20051231,20190517,   54,Valentina Pavan                                   
+17658,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+ 2830,195403,GAIBANELLA                              ,IT,+44:46:08,+011:39:45,   3, RR7,20181107,20200130,   54,Valentina Pavan                                   
+ 2830,195787,MALALBERGO                              ,IT,+44:43:06,+011:31:45,  12, RR7,20051231,20190428,   54,Valentina Pavan                                   
+ 2830,196579,POGGIO_RENATICO                         ,IT,+44:45:55,+011:28:58,  10, RR7,20121231,20170427,   54,Valentina Pavan                                   
+ 2830,197019,SALETTO                                 ,IT,+44:37:56,+011:26:28,  18, RR7,20100709,20211030,   54,Valentina Pavan                                   
+ 2830,197059,SAN_BARTOLOMEO_IN_BOSCO                 ,IT,+44:44:29,+011:36:23,   8, RR7,20121231,20160201,   54,Valentina Pavan                                   
+ 2830,197211,SAN_PIETRO_CAPOFIUME                    ,IT,+44:39:13,+011:37:21,  11, RR7,20051231,20211030,   54,Valentina Pavan                                   
+ 2830,197651,TRAVALLINO                              ,IT,+44:40:27,+011:34:10,  14, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17667,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17667,194251,BAURA                                   ,IT,+44:50:54,+011:43:12,   8, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17667,195267,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR7,20051231,20190427,   54,Valentina Pavan                                   
+17667,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17667,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17667,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17667,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17667,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17680,195131,DIAMANTINA                              ,IT,+44:53:09,+011:30:42,   5, RR7,20121231,20170226,   54,Valentina Pavan                                   
+17680,195955,MIRABELLO                               ,IT,+44:49:54,+011:27:15,  10, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17680,196579,POGGIO_RENATICO                         ,IT,+44:45:55,+011:28:58,  10, RR7,20121231,20170427,   54,Valentina Pavan                                   
+17680,196699,PONTISETTE                              ,IT,+44:52:18,+011:32:45,   7, RR7,20051231,20181021,   54,Valentina Pavan                                   
+17680,197411,SECONDO_SALTO                           ,IT,+44:46:58,+011:22:12,  16, RR7,20131210,20211030,   54,Valentina Pavan                                   
+17703,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17703,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17703,196259,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17703,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17703,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17703,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17703,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17705,194403,BONDENO                                 ,IT,+44:54:00,+011:21:00,   9, RR7,20121231,20180219,   54,Valentina Pavan                                   
+17705,195131,DIAMANTINA                              ,IT,+44:53:09,+011:30:42,   5, RR7,20121231,20170226,   54,Valentina Pavan                                   
+17705,195675,LA_VALLETTA                             ,IT,+44:54:52,+011:29:46,   6, RR7,20051231,20200130,   54,Valentina Pavan                                   
+17705,195955,MIRABELLO                               ,IT,+44:49:54,+011:27:15,  10, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17705,196299,OPERA_PO                                ,IT,+44:55:40,+011:26:27,  17, RR7,20070523,20211030,   54,Valentina Pavan                                   
+17705,196699,PONTISETTE                              ,IT,+44:52:18,+011:32:45,   7, RR7,20051231,20181021,   54,Valentina Pavan                                   
+17705,197051,SALVATONICA                             ,IT,+44:55:40,+011:26:26,  17, RR7,20060101,20070102,   54,Valentina Pavan                                   
+17711,194723,CASSA_DOSOLO                            ,IT,+44:39:14,+011:16:06,  22, RR7,20141224,20211030,   54,Valentina Pavan                                   
+17711,196363,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17711,197019,SALETTO                                 ,IT,+44:37:56,+011:26:28,  18, RR7,20100709,20211030,   54,Valentina Pavan                                   
+17711,197523,SOSTEGNO_RENO                           ,IT,+44:39:55,+011:16:20,  24, RR7,20080109,20211030,   54,Valentina Pavan                                   
+17711,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17735,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17735,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17735,196259,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17735,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17735,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17735,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17735,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17742,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17742,195131,DIAMANTINA                              ,IT,+44:53:09,+011:30:42,   5, RR7,20121231,20170226,   54,Valentina Pavan                                   
+17742,195955,MIRABELLO                               ,IT,+44:49:54,+011:27:15,  10, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17742,196259,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17742,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17742,196699,PONTISETTE                              ,IT,+44:52:18,+011:32:45,   7, RR7,20051231,20181021,   54,Valentina Pavan                                   
+17742,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17742,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17742,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17747,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17747,194251,BAURA                                   ,IT,+44:50:54,+011:43:12,   8, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17747,195123,DENORE_ALEOTTI                          ,IT,+44:46:57,+011:50:37,   1, RR7,20051231,20151220,   54,Valentina Pavan                                   
+17747,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17747,196787,QUARTESANA                              ,IT,+44:49:05,+011:44:56,   2, RR7,20121231,20180219,   54,Valentina Pavan                                   
+17747,197419,SELLARINO_VOGHIERA                      ,IT,+44:44:47,+011:44:46,   3, RR7,20051231,20200923,   54,Valentina Pavan                                   
+17747,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17747,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17747,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17771,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17771,195267,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR7,20051231,20190427,   54,Valentina Pavan                                   
+17771,195403,GAIBANELLA                              ,IT,+44:46:08,+011:39:45,   3, RR7,20181107,20200130,   54,Valentina Pavan                                   
+17771,195787,MALALBERGO                              ,IT,+44:43:06,+011:31:45,  12, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17771,197059,SAN_BARTOLOMEO_IN_BOSCO                 ,IT,+44:44:29,+011:36:23,   8, RR7,20121231,20160201,   54,Valentina Pavan                                   
+17771,197211,SAN_PIETRO_CAPOFIUME                    ,IT,+44:39:13,+011:37:21,  11, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17771,197259,SANTA_MARIA_CODIFIUME                   ,IT,+44:41:06,+011:40:24,   5, RR7,20121231,20180217,   54,Valentina Pavan                                   
+17771,197651,TRAVALLINO                              ,IT,+44:40:27,+011:34:10,  14, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17771,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17771,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17771,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17783,194075,ALBERINO                                ,IT,+44:38:56,+011:39:00,  11, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17783,195787,MALALBERGO                              ,IT,+44:43:06,+011:31:45,  12, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17783,195939,MEZZOLARA                               ,IT,+44:34:15,+011:32:01,  20, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17783,197211,SAN_PIETRO_CAPOFIUME                    ,IT,+44:39:13,+011:37:21,  11, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17783,197259,SANTA_MARIA_CODIFIUME                   ,IT,+44:41:06,+011:40:24,   5, RR7,20121231,20180217,   54,Valentina Pavan                                   
+17783,197651,TRAVALLINO                              ,IT,+44:40:27,+011:34:10,  14, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17789,194075,ALBERINO                                ,IT,+44:38:56,+011:39:00,  11, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17789,194275,BENVIGNANTE                             ,IT,+44:40:05,+011:45:21,   1, RR7,20060101,20151231,   54,Valentina Pavan                                   
+17789,195403,GAIBANELLA                              ,IT,+44:46:08,+011:39:45,   3, RR7,20181107,20200130,   54,Valentina Pavan                                   
+17789,196155,MONTESANTO                              ,IT,+44:42:42,+011:44:54,   4, RR7,20070101,20151231,   54,Valentina Pavan                                   
+17789,196323,OSPITALMONACALE                         ,IT,+44:40:06,+011:43:17,   0, RR7,20121231,20151019,   54,Valentina Pavan                                   
+17789,197211,SAN_PIETRO_CAPOFIUME                    ,IT,+44:39:13,+011:37:21,  11, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17789,197259,SANTA_MARIA_CODIFIUME                   ,IT,+44:41:06,+011:40:24,   5, RR7,20121231,20180217,   54,Valentina Pavan                                   
+17789,197419,SELLARINO_VOGHIERA                      ,IT,+44:44:47,+011:44:46,   3, RR7,20051231,20200923,   54,Valentina Pavan                                   
+17789,197651,TRAVALLINO                              ,IT,+44:40:27,+011:34:10,  14, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17806,194251,BAURA                                   ,IT,+44:50:54,+011:43:12,   8, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17806,195851,MARTINELLA                              ,IT,+44:42:41,+011:53:04,   1, RR7,20060117,20211026,   54,Valentina Pavan                                   
+17806,196787,QUARTESANA                              ,IT,+44:49:05,+011:44:56,   2, RR7,20121231,20180219,   54,Valentina Pavan                                   
+17806,197259,SANTA_MARIA_CODIFIUME                   ,IT,+44:41:06,+011:40:24,   5, RR7,20121231,20180217,   54,Valentina Pavan                                   
+17806,197419,SELLARINO_VOGHIERA                      ,IT,+44:44:47,+011:44:46,   3, RR7,20051231,20200923,   54,Valentina Pavan                                   
+17811,194507,CALDERARA DI RENO                       ,IT,+44:33:58,+011:16:20,  30, RR7,20051231,20151205,   54,Valentina Pavan                                   
+17811,194587,CANOCCHIA_BOTTE_MONTE                   ,IT,+44:32:03,+011:16:49,  36, RR7,20141224,20190428,   54,Valentina Pavan                                   
+17811,194827,CASTENASO_VILLANOVA                     ,IT,+44:29:24,+011:25:45,  51, RR7,20120502,20190421,   54,Valentina Pavan                                   
+17811,195203,DOZZA                                   ,IT,+44:32:02,+011:22:05,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17811,196363,PADULLE_SALA_BOLOGNESE                  ,IT,+44:37:39,+011:17:26,  25, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17811,197019,SALETTO                                 ,IT,+44:37:56,+011:26:28,  18, RR7,20100709,20211030,   54,Valentina Pavan                                   
+17811,197467,SERPIERI                                ,IT,+44:32:54,+011:22:02,  28, RR7,20181031,20211030,   54,Valentina Pavan                                   
+17811,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17829,195787,MALALBERGO                              ,IT,+44:43:06,+011:31:45,  12, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17829,197019,SALETTO                                 ,IT,+44:37:56,+011:26:28,  18, RR7,20100709,20211030,   54,Valentina Pavan                                   
+17829,197211,SAN_PIETRO_CAPOFIUME                    ,IT,+44:39:13,+011:37:21,  11, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17829,197259,SANTA_MARIA_CODIFIUME                   ,IT,+44:41:06,+011:40:24,   5, RR7,20121231,20180217,   54,Valentina Pavan                                   
+17829,197651,TRAVALLINO                              ,IT,+44:40:27,+011:34:10,  14, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17850,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17850,195699,LAVINO_DI_SOPRA                         ,IT,+44:29:26,+011:13:15,  75, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17850,197891,ZOLA_PREDOSA                            ,IT,+44:29:46,+011:12:00,  65, RR7,20051231,20190517,   54,Valentina Pavan                                   
+17850,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+17853,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17853,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17853,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17853,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+17853,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17854,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17854,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17854,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17854,197923,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20100131,   54,Valentina Pavan                                   
+17854,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+17855,100550,BOLOGNA                                 ,IT,+44:30:00,+011:20:46,  53, RR1,18130101,20071231,   20,Maurizio Maugeri                                  
+17855,194651,CASALECCHIO_CANALE                      ,IT,+44:28:32,+011:16:51,  63, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17855,197915,CASALECCHIO_CANONICA                    ,IT,+44:29:16,+011:17:17,  54, RR7,20051231,20190426,   54,Valentina Pavan                                   
+17855,197931,CASALECCHIO_TIRO_A_VOLO                 ,IT,+44:28:48,+011:16:55,  54, RR7,20051231,20121214,   54,Valentina Pavan                                   
+17855,916132,BOLOGNA                                 ,IT,+44:32:00,+011:17:00,  53, RR8,20050413,20200229,     ,                    
+17855,916140,BOLOGNA/BORGO PANIGALE                  ,IT,+44:32:00,+011:18:00,  37, RR8,19820102,20200229,     ,                    
+17878,100551,FERRARA                                 ,IT,+44:49:57,+011:37:16,  15, RR1,18790101,20071231,   20,Maurizio Maugeri                                  
+17878,195795,MALBORGHETTO                            ,IT,+44:51:28,+011:39:40,   4, RR7,20061003,20211030,   54,Valentina Pavan                                   
+17878,196259,NICOLINO                                ,IT,+44:53:06,+011:35:59,   5, RR7,20051231,20190429,   54,Valentina Pavan                                   
+17878,196643,PONTELAGOSCURO                          ,IT,+44:53:17,+011:36:29,   8, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17878,197963,FERRARA_URBANA                          ,IT,+44:49:56,+011:37:16,  26, RR7,20051231,20210409,   54,Valentina Pavan                                   
+17878,916133,FERRARA                                 ,IT,+44:50:00,+011:37:00,  11, RR8,20050601,20200229,     ,                    
+17878,916138,FERRARA                                 ,IT,+44:49:00,+011:37:00,   9, RR8,19840906,20200229,     ,                    
+17861,194475,BUDRIO_DONDINA                          ,IT,+44:31:19,+011:32:59,  30, RR7,20120506,20151018,   54,Valentina Pavan                                   
+17861,194819,CASTEL_SAN_PIETRO_GAIANA                ,IT,+44:27:30,+011:36:09,  45, RR7,20120503,20170417,   54,Valentina Pavan                                   
+17861,194827,CASTENASO_VILLANOVA                     ,IT,+44:29:24,+011:25:45,  51, RR7,20120502,20190421,   54,Valentina Pavan                                   
+17861,194867,CENTONARA                               ,IT,+44:28:19,+011:30:38,  41, RR7,20051231,20211030,   54,Valentina Pavan                                   
+17861,195203,DOZZA                                   ,IT,+44:32:02,+011:22:05,  42, RR7,20051231,20190428,   54,Valentina Pavan                                   
+17861,197987,BUDRIO_PRUNARO                          ,IT,+44:30:33,+011:31:12,  46, RR7,20120503,20170416,   54,Valentina Pavan                                   

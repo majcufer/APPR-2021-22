@@ -1,0 +1,367 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+   28,HELSINKI KAISANIEMI                     ,FI,+60:10:30,+024:56:52,   4
+   29,JYVASKYLA LENTOASEMA                    ,FI,+62:24:08,+025:40:43, 139
+   30,SODANKYLA. LAPIN ILMATIET. TUTK.KESKUS  ,FI,+67:21:58,+026:37:59, 179
+  339,HAPARANDA                               ,SE,+65:49:38,+024:08:38,   5
+ 5813,OVERTORNEA                              ,SE,+66:22:48,+023:39:00,  70
+ 6860,SVANSTEIN                               ,SE,+66:39:00,+023:51:36,  80
+ 1409,KARESUANDO                              ,SE,+68:26:32,+022:27:01, 330
+ 5873,KARESUANDO_A                            ,SE,+68:26:24,+022:27:00, 330
+ 5874,NAIMAKKA_A                              ,SE,+68:40:48,+021:31:48, 402
+ 5875,NAIMAKKA                                ,SE,+68:40:48,+021:31:48, 403
+ 6938,JOMALA MAARIANHAMINAN LENTOASEMA        ,FI,+60:07:29,+019:54:24,   5
+ 6939,PARAINEN UTO                            ,FI,+59:47:03,+021:22:16,   9
+ 6942,KORPPOO KORPOGARD                       ,FI,+60:10:00,+021:34:00,   7
+ 6944,SALTVIK KVARNBO                         ,FI,+60:17:00,+020:03:00,  10
+ 6946,RYMATTYLA KK                            ,FI,+60:24:00,+021:58:00,   7
+ 6948,JOMALA JOMALABY                         ,FI,+60:10:42,+019:59:23,  11
+ 6955,PARAINEN FAGERHOLM                      ,FI,+60:06:42,+021:42:10,   4
+ 6956,JOMALA SODERSUNDA                       ,FI,+60:09:15,+019:52:31,   9
+ 6962,HANKO RUSSARO                           ,FI,+59:46:25,+022:57:07,   5
+ 6964,KAARINA YLTOINEN                        ,FI,+60:23:12,+022:33:17,   6
+ 6965,PIIKKIO TUORLA                          ,FI,+60:25:00,+022:26:00,  26
+ 6968,KEMIO MATTKARR                          ,FI,+60:07:46,+022:38:57,  21
+ 6970,TURKU KAARNINKO                         ,FI,+60:26:00,+022:17:00,  30
+ 6971,TURKU RUISSALO                          ,FI,+60:26:00,+022:11:00,   4
+ 6974,KEMIONSAARI LOVBOLE                     ,FI,+60:09:11,+022:33:40,   7
+ 6979,TURKU ARTUKAINEN                        ,FI,+60:27:16,+022:10:54,   8
+ 6980,KEMIONSAARI KEMIO KK                    ,FI,+60:10:17,+022:45:39,  13
+ 6981,SUOMUSJARVI KETTULA                     ,FI,+60:24:00,+023:46:00,  84
+ 6982,HANKO TVARMINNE                         ,FI,+59:50:38,+023:15:06,   3
+  701,SALO KARKKA                             ,FI,+60:22:25,+023:06:58,   3
+ 6987,SALO SUOMUSJARVI                        ,FI,+60:19:26,+023:42:36,  69
+ 6988,NUMMI-PUSULA LEPPAKORPI                 ,FI,+60:29:28,+023:46:10,  96
+ 6991,SALO KIIKALA LENTOKENTTA                ,FI,+60:27:48,+023:39:09, 117
+ 6992,VANTAA HELSINKI-VANTAAN LENTOASEMA      ,FI,+60:19:38,+024:57:37,  51
+ 6994,HELSINKI KATAJALUOTO                    ,FI,+60:06:00,+024:55:00,   5
+ 6995,ESPOO OTANIEMI                          ,FI,+60:11:00,+024:50:00,   2
+ 6996,HELSINKI ILMALA                         ,FI,+60:12:00,+024:55:00,  47
+  702,LOHJA PORLA                             ,FI,+60:14:38,+024:03:09,  37
+ 7020,HELSINKI KUMPULA                        ,FI,+60:12:10,+024:57:52,  24
+ 7023,HELSINKI-MALMIN LENTOASEMA              ,FI,+60:15:12,+025:02:54,  15
+ 7026,VANTAA TIKKURILA                        ,FI,+60:17:00,+025:04:00,  20
+ 7027,TUUSULA RUOTSINKYLA                     ,FI,+60:22:00,+024:59:00,  49
+  703,PORVOO JERNBOLE                         ,FI,+60:24:21,+025:39:32,  17
+ 7028,TUUSULA HYRYLA                          ,FI,+60:25:00,+025:02:00,  45
+ 7030,PORVOO BENGTSBY                         ,FI,+60:15:50,+025:38:15,  11
+ 7031,PORVOO NORRVECKOSKI                     ,FI,+60:23:35,+025:26:02,  24
+ 7033,HELSINKI MARJANIEMI                     ,FI,+60:12:00,+025:05:00,  22
+ 7036,HELSINKI ISOSAARI                       ,FI,+60:06:15,+025:04:16,   4
+ 7039,PORVOO LEHTIMAKI                        ,FI,+60:22:06,+025:37:37,  10
+ 7040,PORVOO HARABACKA                        ,FI,+60:23:29,+025:36:41,  22
+ 7042,KOTKA RANKKI                            ,FI,+60:22:31,+026:57:42,   9
+ 7055,KOTKA KIRKONMAA                         ,FI,+60:23:06,+027:03:06,  17
+  704,PORI PORIN LENTOASEMA                   ,FI,+61:27:56,+021:47:49,  13
+ 7059,UUSIKAUPUNKI NERVANDERINPUISTO          ,FI,+60:48:07,+021:25:41,   6
+ 7061,UUSIKAUPUNKI KORSAARI                   ,FI,+60:50:44,+021:14:35,   5
+ 7073,PORI RAUTATIEASEMA                      ,FI,+61:28:44,+021:47:11,   9
+  706,TURKU TURUN LENTOASEMA                  ,FI,+60:30:55,+022:16:39,  49
+  707,KOKEMAKI PEIPOHJA HYRKOLA               ,FI,+61:16:15,+022:15:08,  37
+ 7079,ORIPAA KK                               ,FI,+60:51:00,+022:43:00,  70
+ 7080,YLANE VANHAKARTANO                      ,FI,+60:52:00,+022:24:00,  50
+ 7082,HUITTINEN SALLILA                       ,FI,+61:01:24,+022:42:07,  70
+ 7085,KOKEMAKI KARTANO                        ,FI,+61:14:00,+022:17:00,  40
+ 7086,HARJAVALTA TORTTILA                     ,FI,+61:18:53,+022:07:38,  31
+ 7087,ORIPAA TEINIKIVI                        ,FI,+60:54:15,+022:42:54,  82
+ 7088,KOKEMAKI ASKOLA                         ,FI,+61:16:00,+022:17:00,  35
+ 7092,POYTYA YLANE                            ,FI,+60:52:17,+022:23:29,  53
+ 7096,KOKEMAKI TULKKILA                       ,FI,+61:15:10,+022:20:59,  38
+  708,JOKIOINEN JOKIOISTEN OBSERVATORIO       ,FI,+60:48:50,+023:30:03, 104
+ 7097,TAMPERE HARMALA-1                       ,FI,+61:28:00,+023:45:00,  85
+ 7099,SOMERO SUOJOKI                          ,FI,+60:31:07,+023:40:43,  83
+ 7100,NUMMI-PUSULA KARKOLA                    ,FI,+60:37:44,+023:55:26, 148
+ 7108,NOKIA TOTTIJARVI                        ,FI,+61:23:47,+023:20:23,  99
+ 7109,TAMPERE KOIVISTONKYLA                   ,FI,+61:28:00,+023:48:00, 100
+ 7110,PIRKKALA TAMPERE-PIRKKALAN LENTOASEMA   ,FI,+61:25:14,+023:37:24, 119
+ 7114,JOKIOINEN JOKIOISTEN OBSERVATORIO AWS   ,FI,+60:48:50,+023:30:03, 104
+ 7115,TAMPERE HATANPAA                        ,FI,+61:29:12,+023:46:25,  83
+ 7116,TAMPERE HARMALA                         ,FI,+61:27:56,+023:45:00,  85
+ 7117,SOMERO SALKOLA                          ,FI,+60:38:47,+023:48:33, 143
+ 7118,HAMEENLINNA KAURIALA                    ,FI,+61:00:00,+024:27:00,  92
+ 7119,HYVINKAA HYVINKAANKYLA                  ,FI,+60:35:45,+024:48:23,  86
+ 7120,HATTULA LETEENSUO                       ,FI,+61:04:00,+024:14:00,  88
+  709,HATTULA LEPAA-1                         ,FI,+61:07:38,+024:20:10,  87
+ 7123,VIHTI HIISKULA                          ,FI,+60:31:29,+024:31:08, 100
+ 7124,NURMIJARVI RAJAMAKI                     ,FI,+60:32:00,+024:45:00,  90
+ 7130,LAMMI NIIPALA                           ,FI,+61:03:00,+024:59:00, 144
+ 7131,HAMEENLINNA PIRTTIKOSKI                 ,FI,+61:00:23,+023:55:24, 129
+ 7132,TUULOS TEURO                            ,FI,+61:04:35,+024:50:10, 122
+ 7137,NURMIJARVI GEOFYSIIKAN OBSERVATORIO     ,FI,+60:30:31,+024:39:25, 111
+ 7138,HAMEENLINNA KATINEN                     ,FI,+60:59:57,+024:29:41,  87
+ 7139,HATTULA LEPAA                           ,FI,+61:06:53,+024:19:46,  87
+ 7142,HAMEENLINNA LAMMI PAPPILA               ,FI,+61:03:14,+025:02:32, 125
+ 7147,HAMEENKOSKI PALOMAA                     ,FI,+61:03:47,+025:14:51, 119
+ 7149,LAMMI JAHKOLA-1                         ,FI,+61:03:00,+025:01:00, 120
+ 7150,LAMMI TIRMULA                           ,FI,+61:03:33,+025:00:00, 128
+ 7151,KOSKI HL HYRKKALA                       ,FI,+61:05:00,+025:14:00, 108
+ 7158,HAMEENKOSKI KAIKALA                     ,FI,+61:03:00,+025:10:00, 120
+ 7159,LAMMI KUURIKKA                          ,FI,+61:07:00,+025:05:00, 125
+ 7160,LAMMI RONNI                             ,FI,+61:05:00,+025:08:00, 120
+ 7161,LAMMI KOSTILA                           ,FI,+61:07:26,+025:08:11, 132
+ 7162,LAMMI JAHKOLA                           ,FI,+61:02:29,+025:00:54, 145
+ 7163,KOSKI HL TOIJALA                        ,FI,+61:01:00,+025:08:00, 135
+ 7170,HAMEENLINNA LAMMI ISO-EVO               ,FI,+61:10:58,+025:02:24, 129
+ 7176,KOUVOLA UTTI LENTOKENTTA                ,FI,+60:53:25,+026:56:39,  99
+ 7179,KOUVOLA ANJALA                          ,FI,+60:41:47,+026:48:49,  33
+ 7180,KUUSANKOSKI KESKUSTA                    ,FI,+60:54:00,+026:39:00,  61
+ 7181,HEINOLA ASEMANTAUS                      ,FI,+61:11:59,+026:03:10,  92
+ 7183,ANJALANKOSKI RAUTAKORPI                 ,FI,+60:46:00,+026:46:00,  43
+ 7184,VALKEALA KOUVOLA                        ,FI,+60:50:00,+026:45:00,  60
+ 7187,KOUVOLA KESKUSTA                        ,FI,+60:52:00,+026:44:00,  70
+ 7188,KOUVOLA TORNIONMAKI                     ,FI,+60:53:00,+026:47:00,  75
+ 7193,ANJALANKOSKI                            ,FI,+60:42:00,+026:50:00,  30
+ 7195,KOUVOLA VOIKOSKI                        ,FI,+61:15:04,+026:46:56,  90
+ 7198,KOUVOLA UTTI LENTOPORTINTIE             ,FI,+60:53:25,+026:56:40,  99
+ 7199,VIROLAHTI RAVIJOKI                      ,FI,+60:32:00,+027:33:00,  22
+ 7200,VIROLAHTI RAVIJARVI                     ,FI,+60:35:00,+027:29:00,  25
+ 7202,VIROLAHTI NOPALA                        ,FI,+60:38:00,+027:27:00,  20
+ 7210,VIROLAHTI KOIVUNIEMI                    ,FI,+60:31:38,+027:40:33,   5
+ 7214,LAPPEENRANTA LENTOASEMA                 ,FI,+61:02:38,+028:09:15, 106
+ 7215,RUOKOLAHTI KOTANIEMI                    ,FI,+61:22:00,+028:40:00,  95
+ 7219,RUOKOLAHTI KOTALAHTI SIPINEN            ,FI,+61:23:00,+028:40:00, 100
+ 7220,RUOKOLAHTI VALKJARVI                    ,FI,+61:25:00,+028:39:00, 110
+ 7223,LAPPEENRANTA LEPOLA                     ,FI,+61:03:26,+028:12:42, 103
+ 7224,RUOKOLAHTI KOTANIEMI SIITONEN           ,FI,+61:22:05,+028:41:00,  95
+ 7228,RAUTJARVI SIMPELE KANGASKOSKI           ,FI,+61:25:21,+029:23:41,  75
+ 7229,PARIKKALA KOITSANLAHTI                  ,FI,+61:26:40,+029:27:50,  74
+ 7231,KASKINEN SALGRUND                       ,FI,+62:20:02,+021:11:38,   5
+ 7232,MERIKARVIA TUORILA ALAKYLA              ,FI,+61:50:54,+021:39:16,  39
+ 7233,ISOJOKI KARJENKOSKI                     ,FI,+62:07:58,+021:40:38,  54
+ 7234,ISOJOKI VANHAKYLA                       ,FI,+62:11:00,+021:48:00,  70
+ 7235,KRISTIINANKAUPUNKI KESKUSTA             ,FI,+62:16:00,+021:24:00,   5
+ 7236,TEUVA KAUPPILANKYLA                     ,FI,+62:29:30,+021:45:46,  60
+ 7237,KRISTIINANKAUPUNKI KARHUSAARI           ,FI,+62:15:27,+021:19:16,   1
+  713,KANKAANPAA NIINISALO PUOLUSTUSVOIMAT    ,FI,+61:50:18,+022:28:02, 124
+ 7245,KARVIA ALKKIA                           ,FI,+62:10:59,+022:48:12, 160
+ 7247,IKAALINEN KURKELA                       ,FI,+61:42:00,+022:47:00, 105
+ 7249,IKAALINEN VARPEE                        ,FI,+61:43:00,+022:48:00, 125
+ 7250,IKAALINEN VEHUVARPEE                    ,FI,+61:44:20,+022:49:35, 124
+ 7251,JAMIJARVI PIRTTIJARVI                   ,FI,+61:44:00,+022:43:00, 115
+ 7257,KAUHAJOKI KAUPUNKI                      ,FI,+62:24:55,+022:11:36,  97
+ 7258,JALASJARVI HIRVIJARVI                   ,FI,+62:28:22,+022:54:49, 100
+ 7261,KAUHAJOKI KUJA-KOKKO                    ,FI,+62:24:48,+022:11:12,  93
+ 7263,KANKAANPAA NIINISALO LENTOKENTTA        ,FI,+61:50:18,+022:28:02, 122
+ 7275,ALAVUS SULKAVANKYLA                     ,FI,+62:26:57,+023:33:30, 120
+ 7276,ALAVUS KATTELUS                         ,FI,+62:29:00,+023:46:00, 130
+ 7277,TAMPERE KPKI                            ,FI,+61:30:00,+023:43:00,  99
+ 7283,JAMSA HALLI LENTOKENTTA                 ,FI,+61:51:23,+024:47:21, 145
+ 7285,JUUPAJOKI HYYTIALA                      ,FI,+61:50:44,+024:17:26, 153
+ 7304,JAMSA HALLI LENTOASEMANTIE              ,FI,+61:51:34,+024:49:06, 144
+ 7307,SYSMA JOUTSJARVI                        ,FI,+61:30:39,+025:48:53,  92
+ 7308,HARTOLA HOTILA                          ,FI,+61:32:36,+025:58:11, 100
+ 7317,JYVASKYLA MUURATJARVI                   ,FI,+62:09:17,+025:25:41, 125
+ 7323,MULTIA SAHRAJARVI                       ,FI,+62:26:30,+025:01:06, 185
+ 7325,JYVASKYLAN MLK TIKKAKOSKI               ,FI,+62:24:00,+025:36:00, 148
+ 7328,MULTIA PIRTTIPERA                       ,FI,+62:24:37,+025:03:14, 181
+ 7330,JOUTSA LEIVONMAKI SAVENAHO              ,FI,+61:52:45,+026:05:56, 146
+ 7343,JOUTSA MIESKONMAKI SAYNATNIEMI          ,FI,+61:48:00,+026:13:00, 100
+ 7344,JOUTSA MIESKONMAKI KALA                 ,FI,+61:51:00,+026:16:00, 101
+ 7345,KANGASNIEMI KIRKONKYLA                  ,FI,+61:58:51,+026:38:44, 105
+ 7349,JOUTSA PARNAMAKI                        ,FI,+61:45:57,+026:23:44, 122
+ 7352,JOUTSA LEIVONMAKI                       ,FI,+61:54:36,+026:07:39, 147
+ 7356,MIKKELI LENTOASEMA                      ,FI,+61:41:14,+027:12:36, 101
+  715,VARKAUS KAPYKANGAS                      ,FI,+62:18:30,+027:50:40,  91
+ 7358,MIKKELI RANTAKYLA                       ,FI,+61:40:27,+027:13:32, 107
+ 7365,MIKKELI PITKAHIEKKA                     ,FI,+62:02:02,+027:11:50, 103
+ 7370,MIKKELI PITKAAHO                        ,FI,+61:57:00,+027:16:00, 124
+ 7376,VARKAUS KOSULANNIEMI                    ,FI,+62:19:19,+027:54:40,  83
+ 7378,SAVONLINNA LAUKANSAARI                  ,FI,+61:47:45,+028:50:57,  94
+ 7380,SULKAVA HALTTULA                        ,FI,+61:55:24,+028:19:24, 110
+ 7382,RANTASALMI OSIKONMAKI                   ,FI,+62:02:00,+028:17:00, 120
+ 7391,PUNKAHARJU LAUKANSAARI                  ,FI,+61:48:06,+029:19:06,  78
+ 7392,PARIKKALA KK                            ,FI,+61:33:00,+029:30:00,  73
+ 7396,ENONKOSKI SIMANALA                      ,FI,+62:03:19,+029:02:50,  95
+ 7398,SAVONLINNA SAVONRANTA                   ,FI,+62:10:07,+029:16:49,  90
+ 7399,RAAKKYLA KK                             ,FI,+62:18:40,+029:37:58,  90
+  716,TOHMAJARVI KEMIE                        ,FI,+62:14:06,+030:20:59,  90
+ 7405,JOENSUU HUHTILAMPI                      ,FI,+62:26:10,+030:24:41, 115
+ 7406,VAASA VAASAN LENTOASEMA                 ,FI,+63:02:30,+021:46:04,   6
+ 7409,VAASA HIETALAHTI                        ,FI,+63:05:00,+021:39:00,   9
+ 7411,NARPIO YLIMARKKU                        ,FI,+62:37:00,+021:28:00,  20
+ 7412,NARPIO ALAMARKKU                        ,FI,+62:39:00,+021:33:00,  35
+ 7413,NARPIO YLIMARKKU BODBACKA               ,FI,+62:41:00,+021:21:00,  10
+ 7414,NARPIO PIRTTIKYLA                       ,FI,+62:44:00,+021:39:35,  35
+ 7415,MUSTASAARI SULVA LANGMOSSEN             ,FI,+62:57:00,+021:42:00,   8
+ 7416,MAALAHTI OVER-MALAX                     ,FI,+62:57:00,+021:38:00,  12
+ 7418,MUSTASAARI RIIMALA                      ,FI,+62:58:13,+021:46:48,  15
+ 7419,MUSTASAARI SULVA FORSBACKEN             ,FI,+62:58:00,+021:41:00,  13
+ 7424,VAASA PALOSAARI                         ,FI,+63:06:00,+021:36:00,   4
+ 7426,VAASA KESKUSTA KOULUKATU                ,FI,+63:05:49,+021:36:33,  15
+ 7427,VAASA KLEMETTILA                        ,FI,+63:05:55,+021:38:36,   7
+ 7428,SEINAJOKI PELMAA                        ,FI,+62:56:12,+022:29:28,  26
+ 7433,ILMAJOKI HIIRIPELTO                     ,FI,+62:50:00,+022:39:00,  45
+ 7434,YLISTARO JAASKANJOKI                    ,FI,+62:53:00,+022:32:00,  35
+ 7435,YLISTARO ASEMANSEUTU                    ,FI,+62:54:00,+022:33:00,  40
+ 7437,YLISTARO KAINASTO                       ,FI,+62:55:00,+022:37:00,  35
+ 7438,YLISTARO PELMA                          ,FI,+62:56:00,+022:30:00,  28
+ 7444,PERASEINAJOKI HAUKINEVA                 ,FI,+62:33:00,+022:57:00, 102
+ 7445,KAUHAVA LENTOKENTTA                     ,FI,+63:07:13,+023:02:50,  42
+ 7447,ALAVUS POLLARI                          ,FI,+62:31:00,+023:42:00, 130
+ 7449,ALAVUS AUTIONMAKI                       ,FI,+62:33:00,+023:39:00, 115
+ 7459,KAUHAVA KK UUNIMAANTIE                  ,FI,+63:07:12,+023:02:50,  40
+  718,AHTARI MYLLYMAKI                        ,FI,+62:32:05,+024:13:15, 157
+ 7465,HALSUA KANALA KOSKI                     ,FI,+63:26:00,+024:30:00, 160
+ 7466,HALSUA KANALA PUROLA                    ,FI,+63:26:43,+024:26:52, 153
+ 7473,VIITASAARI HAAPANIEMI                   ,FI,+63:04:55,+025:51:43, 132
+ 7477,AANEKOSKI KALANIEMI                     ,FI,+62:52:30,+025:51:55, 107
+ 7480,VIITASAARI KK MAKIPIRTTI                ,FI,+63:05:00,+025:51:00, 110
+ 7481,VIITASAARI KOLIMA KARNA                 ,FI,+63:10:02,+025:56:22, 115
+ 7489,VESANTO SONKARI                         ,FI,+62:55:17,+026:25:41, 120
+ 7496,PIELAVESI VENETMAKI-1                   ,FI,+63:19:00,+026:58:00, 180
+ 7501,PIELAVESI VENETMAKI                     ,FI,+63:18:53,+026:58:57, 189
+  722,MAANINKA HALOLA                         ,FI,+63:08:36,+027:18:58,  90
+ 7505,SUONENJOKI KPLA                         ,FI,+62:36:00,+027:12:00, 120
+ 7507,SUONENJOKI IISVESI-1                    ,FI,+62:40:00,+027:01:00, 100
+ 7508,LAPINLAHTI LAMMINKAYRA                  ,FI,+63:22:38,+027:22:24,  89
+ 7509,SUONENJOKI IISVESI                      ,FI,+62:39:51,+027:03:01, 103
+ 7518,OUTOKUMPU KESKUSTA                      ,FI,+62:43:00,+028:59:00, 116
+ 7519,HEINAVESI PALOKKI                       ,FI,+62:34:13,+028:35:45, 100
+ 7520,OUTOKUMPU VIURUNIEMI                    ,FI,+62:37:01,+028:56:44, 113
+ 7521,LIPERI AHONKYLA LEPPILAMPI              ,FI,+62:38:00,+028:59:00, 110
+ 7522,OUTOKUMPU LUKANVAARA                    ,FI,+62:39:00,+028:59:00, 122
+ 7523,OUTOKUMPU KUOKKALA                      ,FI,+62:42:00,+028:55:00, 114
+ 7524,OUTOKUMPU MALJASALMI VOUTILAINEN        ,FI,+62:42:00,+028:54:00, 124
+ 7525,OUTOKUMPU MALJASALMI SARVIJARVI         ,FI,+62:42:00,+028:53:00, 127
+ 7528,RAUTAVAARA ALA-LUOSTA                   ,FI,+63:16:16,+028:28:24, 115
+ 7532,RAUTAVAARA YLA-LUOSTA                   ,FI,+63:22:40,+028:39:54, 166
+ 7536,JUUKA NIEMELA                           ,FI,+63:13:54,+029:14:16, 116
+ 7537,JOENSUU PYHASELKA                       ,FI,+62:31:00,+029:48:39,  85
+ 7539,OUTOKUMPU SYSMANKYLA SUVISRANTA         ,FI,+62:40:00,+029:02:00, 100
+ 7543,LIEKSA KOLI                             ,FI,+63:06:30,+029:45:42, 165
+ 7546,LIPERI AHONKYLA KULMALA                 ,FI,+62:40:00,+029:06:00,  95
+ 7551,JOENSUU LINNUNLAHTI                     ,FI,+62:36:05,+029:43:36,  81
+ 7554,ILOMANTSI KK                            ,FI,+62:40:00,+030:56:00, 162
+ 7555,PIELISJARVI                             ,FI,+63:18:00,+030:01:00, 106
+ 7556,LIEKSA LAMPELA                          ,FI,+63:19:15,+030:02:57,  98
+ 7561,ILOMANTSI NAARVA                        ,FI,+63:01:56,+031:03:44, 231
+ 7568,ILOMANTSI POTSONVAARA                   ,FI,+63:08:31,+031:02:51, 235
+ 7570,ILOMANTSI MEKRIJARVI                    ,FI,+62:46:09,+030:58:40, 155
+ 7572,TANKAR/OJA                              ,FI,+63:57:00,+022:51:00,   8
+ 7577,KOKKOLA OJA MARASKAR                    ,FI,+63:53:00,+022:56:00,  10
+ 7582,KAUSTINEN TASTULA                       ,FI,+63:35:36,+023:43:13,  70
+ 7584,KOKKOLA KORPLAX                         ,FI,+63:52:59,+023:14:18,   9
+ 7587,KALVIA RUOTSALO                         ,FI,+63:55:00,+023:24:00,   5
+ 7591,KOKKOLA HOLLIHAKA                       ,FI,+63:50:39,+023:07:41,   6
+ 7594,TOHOLAMPI ORAVALA                       ,FI,+63:45:48,+024:17:04,  90
+ 7595,KANNUS YLIKANNUS                        ,FI,+63:52:00,+024:03:00,  70
+ 7597,KALAJOKI KAANNANKYLA                    ,FI,+64:12:00,+024:09:00,  33
+ 7598,KALAJOKI PITKASENKYLA                   ,FI,+64:13:51,+024:01:10,  20
+ 7600,KALAJOKI METSAKYLA                      ,FI,+64:16:24,+024:12:40,  40
+ 7603,TOHOLAMPI LAITALA                       ,FI,+63:49:16,+024:10:02,  83
+ 7607,HAAPAVESI MUSTIKKAMAKI                  ,FI,+64:08:30,+025:25:42, 112
+ 7610,HAAPAJARVI VALIOJA NOKKOUS              ,FI,+63:45:00,+025:28:00, 130
+ 7614,HAAPAVESI KK                            ,FI,+64:08:00,+025:23:00, 100
+ 7617,PYHAJARVI OJAKYLA                       ,FI,+63:44:09,+025:42:33, 152
+ 7623,KIURUVESI KORPIJOKI                     ,FI,+63:43:42,+026:22:24, 110
+ 7624,PYHAJARVI OL LIITTOPERA                 ,FI,+63:45:00,+026:13:00, 130
+ 7628,SIIKALATVA KESTILA                      ,FI,+64:21:19,+026:18:09,  91
+ 7632,PYHAJARVI OL RAMILA KUUSENMAKI          ,FI,+63:42:00,+026:13:00, 150
+  725,KAJAANI LENTOASEMA-1                    ,FI,+64:16:53,+027:40:43, 147
+  726,VIEREMA KAARAKKALA                      ,FI,+63:50:27,+027:13:27, 207
+ 7638,KAJAANI KPKI                            ,FI,+64:13:00,+027:43:00, 144
+ 7645,KAJAANI PALTANIEMI                      ,FI,+64:17:28,+027:38:25, 128
+ 7646,KAJAANI PETAISENNISKA                   ,FI,+64:13:00,+027:45:18, 160
+ 7647,VALTIMO KK                              ,FI,+63:40:01,+028:49:57, 115
+ 7650,SOTKAMO YLISOTKAMO                      ,FI,+64:08:00,+028:33:00, 152
+ 7651,SOTKAMO VIHTAMOJARVI                    ,FI,+64:12:00,+028:20:00, 170
+ 7654,RISTIJARVI MUSTAVAARA                   ,FI,+64:28:09,+028:37:18, 268
+ 7657,SOTKAMO KUOLANIEMI                      ,FI,+64:06:40,+028:20:32, 161
+ 7661,NURMES MUJEJARVI                        ,FI,+63:49:28,+029:27:30, 258
+ 7672,HAILUOTO OJAKYLA                        ,FI,+65:01:09,+024:43:53,   8
+ 7681,OULUNSALO OULUN LENTOASEMA              ,FI,+64:55:43,+025:21:03,  14
+ 7682,SIIKAJOKI REVONLAHTI                    ,FI,+64:41:01,+025:05:33,  48
+ 7683,OULU LINNANMAA                          ,FI,+65:02:00,+025:29:00,  13
+  727,OULU / OULUNSALO                        ,FI,+64:56:30,+025:22:30,  12
+ 7689,OULUNSALO PELLONPAA                     ,FI,+64:56:15,+025:22:32,  10
+  730,VAALA PELSO                             ,FI,+64:30:04,+026:25:39, 114
+ 7693,PUDASJARVI MAATALOUSOPPILAITOS          ,FI,+65:23:27,+026:59:24, 114
+ 7694,PUDASJARVI LENTOKENTTA                  ,FI,+65:23:58,+026:58:01, 121
+ 7695,VAALA PELSO PUUTTEENPERA                ,FI,+64:30:00,+026:27:00, 115
+ 7696,PUDASJARVI KURENALUS                    ,FI,+65:22:00,+027:01:00, 116
+ 7699,UTAJARVI SARKIJARVI                     ,FI,+64:55:38,+027:11:32, 132
+ 7702,PUDASJARVI JAURAKKAJARVI                ,FI,+65:09:37,+027:39:01, 135
+ 7705,SUOMUSSALMI HULKONNIEMI                 ,FI,+64:55:00,+028:57:00, 201
+ 7708,SUOMUSSALMI NALJANKA                    ,FI,+65:14:21,+028:27:07, 251
+ 7710,SUOMUSSALMI AMMANSAARI                  ,FI,+64:53:00,+028:55:00, 191
+ 7711,SUOMUSSALMI PESIO                       ,FI,+64:55:51,+028:45:01, 223
+ 7717,SUOMUSSALMI KK                          ,FI,+64:54:09,+029:01:01, 220
+ 7723,YLITORNIO PORTIMOJARVI                  ,FI,+66:22:00,+023:55:00,  79
+ 7727,YLITORNIO TORMASJARVI                   ,FI,+66:23:00,+024:09:00, 100
+ 7735,TORNIO TORPPI                           ,FI,+65:50:48,+024:10:39,   8
+ 7743,RANUA KK                                ,FI,+65:55:57,+026:30:59, 154
+ 7753,RANUA LENTOKENTTA                       ,FI,+65:58:35,+026:22:17, 161
+ 7757,PUDASJARVI SARAKYLA                     ,FI,+65:47:22,+027:20:12, 162
+  731,TAIVALKOSKI KK                          ,FI,+65:35:00,+028:15:00, 209
+ 7760,POSIO RAISTAKKA                         ,FI,+65:58:42,+028:10:29, 262
+ 7761,TAIVALKOSKI INKEE                       ,FI,+65:44:03,+028:33:52, 248
+ 7764,TAIVALKOSKI KK KAUPPATIE                ,FI,+65:34:26,+028:14:53, 203
+ 7765,KUUSAMO KIUTAKONGAS                     ,FI,+66:22:06,+029:19:09, 160
+ 7771,KUUSAMO KURVINEN                        ,FI,+65:35:00,+029:31:00, 235
+ 7775,KUUSAMO TEERIRANTA                      ,FI,+65:31:11,+029:31:27, 225
+ 7780,PELLO TURTOLANKYLA                      ,FI,+66:35:00,+023:54:00,  70
+ 7784,YLITORNIO MELTOSJARVI                   ,FI,+66:31:44,+024:39:12,  92
+ 7787,KITTILA ALAKYLA-1                       ,FI,+67:17:00,+024:53:00, 170
+ 7788,KOLARI KATTILAMAA                       ,FI,+67:23:02,+024:00:58, 171
+ 2269,PELLO KK MUSEOTIE                       ,FI,+66:46:21,+023:58:02,  84
+ 7791,KITTILA ALAKYLA                         ,FI,+67:15:43,+024:58:12, 192
+  733,ROVANIEMI LENTOASEMA                    ,FI,+66:33:30,+025:50:07, 195
+ 7801,ROVANIEMI APUKKA                        ,FI,+66:34:44,+026:00:54, 106
+ 7809,SODANKYLA AWS                           ,FI,+67:22:04,+026:37:58, 179
+ 7813,PELKOSENNIEMI KIRKONKYLA                ,FI,+67:05:59,+027:30:50, 155
+ 7817,SALLA KK                                ,FI,+66:49:16,+028:40:39, 221
+ 7818,SAVUKOSKI KK                            ,FI,+67:17:07,+028:10:48, 180
+ 7822,SALLA KELLOSELKA                        ,FI,+66:56:43,+028:58:47, 197
+ 7825,SALLA KK MYLLYTIE                       ,FI,+66:50:00,+028:40:41, 215
+ 7830,SALLA NARUSKA-1                         ,FI,+67:12:54,+029:14:28, 222
+ 7832,SALLA NARUSKA                           ,FI,+67:09:45,+029:10:53, 213
+ 7833,ENONTEKIO KARESUVANTO                   ,FI,+68:27:01,+022:29:54, 320
+ 7838,KITTILA HUKKAKUMPU                      ,FI,+67:43:00,+024:51:00, 197
+ 7840,KITTILA PULJU                           ,FI,+68:13:47,+024:50:30, 279
+ 7848,KITTILA KK                              ,FI,+67:39:06,+024:54:21, 181
+ 7850,KITTILA POKKA                           ,FI,+68:10:09,+025:47:12, 275
+ 7856,SODANKYLA LOKKA                         ,FI,+67:49:15,+027:45:01, 240
+ 7857,SODANKYLA VUOTSO                        ,FI,+68:05:02,+027:11:23, 247
+ 7858,INARI LAANILA                           ,FI,+68:24:00,+027:23:00, 285
+ 7859,SODANKYLA VUOTSO VIRASTOTALO            ,FI,+68:06:04,+027:07:25, 246
+ 7860,INARI KIILOPAA                          ,FI,+68:21:00,+027:27:00, 326
+ 7861,INARI SAARISELKA MATKAILUKESKUS         ,FI,+68:24:52,+027:25:03, 302
+ 7864,INARI RAJA-JOOSEPPI AKUJARVI            ,FI,+68:28:18,+028:19:28, 185
+ 7868,SALLA VARRIOTUNTURI                     ,FI,+67:44:51,+029:36:54, 370
+ 7871,ENONTEKIO KELOTTIJARVI IITTO            ,FI,+68:45:00,+021:25:00, 415
+ 7872,ENONTEKIO KILPISJARVI KYLAKESKUS        ,FI,+69:02:55,+020:47:44, 480
+ 7875,ENONTEKIO NAKKALA                       ,FI,+68:36:09,+023:34:49, 370
+ 7876,ENONTEKIO PALOJARVI                     ,FI,+68:34:16,+023:20:21, 356
+ 7883,INARI RIUTULA                           ,FI,+68:56:00,+026:49:00, 148
+ 7884,INARI SOLOJARVI                         ,FI,+68:52:00,+026:50:00, 145
+ 7886,INARI TOIVONIEMI                        ,FI,+69:04:02,+027:07:22, 152
+ 7887,UTSJOKI KEVO-1                          ,FI,+69:45:21,+027:00:44, 107
+ 7888,UTSJOKI NUORGAM                         ,FI,+70:04:53,+027:54:03,  22
+ 7892,UTSJOKI LEPPALA                         ,FI,+69:39:47,+027:04:41, 110
+ 7897,INARI KIRKONKYLA                        ,FI,+68:54:19,+027:01:06, 128
+ 7898,INARI KAAMANEN                          ,FI,+69:08:25,+027:16:12, 156
+ 7901,INARI NELLIM-1                          ,FI,+68:50:55,+028:18:12, 120
+ 7902,INARI SEVETTIJARVI-1                    ,FI,+69:33:00,+028:38:00,  96
+ 7903,INARI SEVETTIJARVI                      ,FI,+69:30:27,+028:35:51, 100
+ 7904,INARI NELLIM                            ,FI,+68:50:56,+028:18:14, 123
+ 7907,INARI KIRAKKAJARVI                      ,FI,+69:34:54,+028:53:57, 103
+ 7908,INARI NAATAMO                           ,FI,+69:40:09,+029:05:49,  85
+19328,POLMAK TOLLSTED                         ,NO,+70:04:24,+028:00:04,  18
+19732,OEVRE NEIDEN                            ,NO,+69:40:55,+029:08:54,  85

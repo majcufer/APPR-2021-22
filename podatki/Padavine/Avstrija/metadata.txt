@@ -1,0 +1,265 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+11,KREMSMUENSTER (TAWES),AUSTRIA,+48:03:18,+014:07:52,382 m 
+----------------------------------------------------------------
+* Land use:
+Highly rural environment without much development in land use urbanisation. Located in the northern foothills of the Alps. The surroundings are dominated by agricultural use with few isolated forests.
+* Soil type:
+
+* Surface coverage:
+
+* History:
+1762-12-28 – 1766-12-31 Astronomical observatory , z=383m asl <br>
+since 1767-01-01 Astronomical observatory , z=383m asl <br>
+
+----------------------------------------------------------------
+12,GRAZ-UNIVERSITAET,AUSTRIA,+47:04:40,+015:26:56,367 m 
+----------------------------------------------------------------
+* Land use:
+Mostly forested mountain chains in the NW of the town to an agriculturally and industrially used flat basin surrounded by hilly terrain.  Strongly shaded against western and north-western advection.
+* Soil type:
+
+* Surface coverage:
+
+* History:
+1836 to 1845 Meteorological observatory of the University), z=366m asl <br>
+1846 to 1854 Telegraph station, z=350m asl <br>
+1851 to 1892-12 Private station Rospini, z=351m asl. <br>
+1891-01 to 1987-09-30 Meteorological observatory of the university - conventional, z=366m asl <br>
+Since 1987-10-01 Meteorological observatory of the university (only small relocation with some sensors remaining at their old position,  <br>
+additional automatic station since 1988-06-01, z=366m asl <br>
+
+
+----------------------------------------------------------------
+13,INNSBRUCK-UNIV,AUSTRIA,+47:15:36,+011:23:03,578 m 
+----------------------------------------------------------------
+* Land use:
+Located in the large W-E valley of the river Inn, agricultural. Strong foehn mainly in the western parts of the city. Surrounded by mountains of 2500m (north) and 2200 (south).
+* Soil type:
+
+* Surface coverage:
+
+* History:
+1777-01 to 1784 Private station Zallinger 1, z=576m asl  <br>
+1784 - 1828-09 Private station Zallinger 2, z=576m asl <br>
+1828-09 to 1872-04 Monastery Wilten - Prandtner, z=590m asl <br>
+1865-01 to 1875-07 Botanical university institute, z=576m asl. <br>
+1876-01 to 1909 Army hospital, z=584m asl. <br>
+1891-01 to 1906-12 Met. observatory of university – Botanical garden (same location as section 3), z=576m asl. <br>
+1906-12 to 1947-12 Met. observatory of university – Schöpfstr.41 - backyard z=580m asl. <br>
+1948-01 to 1970-06 Met. observatory of university – Schöpfstr.41 - garden z=580m asl. <br>
+Since 1970-06 Met. observatory of university – Schöpfstr.45 - garden z=577m asl. <br>
+
+----------------------------------------------------------------
+14,SALZBURG-FLUGHAFEN,AUSTRIA,+47:47:22,+013:00:30,430 m 
+----------------------------------------------------------------
+* Land use:
+Located at the mouth of the Salzach valley from the Alps into the relatively flat northern foothills. Open to the north, the south is blocked by the northernmost mountain chain of the Alps rising to some 2000m asl.
+* Soil type:
+
+* Surface coverage:
+
+* History:
+1842-03-12 to 1851-08-20 Aiglhof, z=424m <br>
+1851-08-26 to 1857-04-30 Monastery Mülln, z=431m  <br>
+1857-05-01 to 1862-12 Monastery St.Peter, z=424m <br>
+1863-01 to 1883-12 High School (Gymnasium Altes Borromäum), z=424m <br>
+1884-01 to 1903-07 High School (Oberrealschule), z=419m <br>
+1903-08 to 1941-02-28 Studiengebäude-Lehrerbildungsanstalt, z=423m <br>
+1939-03-01 to 1996-06-15 Airport station 1, z=434m <br>
+Since 1996-06 Airport station 2, z=437m <br>
+
+----------------------------------------------------------------
+15,SONNBLICK (TAWES),AUSTRIA,+47:03:15,+012:57:27,3109 m 
+----------------------------------------------------------------
+* Land use:
+Mountaintop site in the eastern Alps, national park “Hohe Tauern”, unpopulated.
+Steep rocky N-wall about 1500m above valley bottom, the W-S-E-sector of immediate surrounding less steep and glaciated. Over 1000m above the upper tree line.
+* Soil type:
+
+* Surface coverage:
+
+* History:
+BSRN station 75, doi:10.1594/PANGAEA.808997; BSRN station scientist: Marc Olefs (marc.olefs@zamg.ac.at)
+
+----------------------------------------------------------------
+16,WIEN-HOWE WARTE,AUSTRIA,+48:14:55,+016:21:23,198 m 
+----------------------------------------------------------------
+* Land use:
+Located between the north-easternmost hills of the Alps (Wienerwald) and flat plains (Wiener Becken). The surroundings of the town are forested hills from the north to the south-west and flat agricultural plains from south over east to north.
+* Soil type:
+
+* Surface coverage:
+
+* History:
+1734 – 1773 Jesuit college, z=171m asl (estimate) <br>
+1762 – 1774 Astronomical observatory of the University of Vienna , z=171m asl <br>
+1775-01 – 1878-12 Astronomical observatory of the University of Vienna , z=171m asl <br>
+1852-06 to 1872-04 Favoritenstraße (Main observatory of the Austrian weather service), z=194m asl <br>
+Since 1872-04 Hohe Warte (Main observatory of the Austrian weather service), z=198.5m asl <br>
+Due to an overlapping of the sub-periods homogenisation could be carried out directly and without serious problems. <br
+
+----------------------------------------------------------------
+159,RETZ/WINDMUEHLE,AUSTRIA,+48:45:00,+015:55:48,320 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+605,FREISTADT,AUSTRIA,+48:30:00,+014:30:00,548 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+606,EISENSTADT-NORDOST,AUSTRIA,+47:51:00,+016:31:48,184 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+607,REICHENAU-RAX,AUSTRIA,+47:40:48,+015:49:48,486 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+608,FELDKIRCH,AUSTRIA,+47:16:12,+009:36:00,440 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+609,LANDECK,AUSTRIA,+47:07:48,+010:33:00,798 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+610,BRENNER,AUSTRIA,+47:00:00,+011:30:00,1450 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+611,RAURIS,AUSTRIA,+47:13:12,+012:58:48,931 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+612,KLAGENFURT,AUSTRIA,+46:39:00,+014:19:48,447 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+613,FEUERKOGEL,AUSTRIA,+47:49:12,+013:43:48,1618 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2016,AIGEN IM ENNSTAL,AUSTRIA,+47:31:48,+014:07:48,638 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2217,LINZ,AUSTRIA,+48:13:48,+014:10:48,298 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2220,PATSCHERKOFEL,AUSTRIA,+47:13:12,+011:28:12,2247 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+

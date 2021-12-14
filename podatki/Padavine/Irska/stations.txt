@@ -1,0 +1,150 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  120,BIRR                                    ,IE,+53:05:25,-007:52:35,  70
+  121,DUBLIN PHOENIX PARK                     ,IE,+53:21:50,-006:19:10,  49
+  122,MALIN HEAD                              ,IE,+55:22:19,-007:20:24,  21
+  123,VALENTIA OBSERVATORY                    ,IE,+51:56:23,-010:13:20,   9
+  441,GALWAY                                  ,IE,+53:16:48,-009:01:12,   8
+ 2135,ROCHES POINT                            ,IE,+51:47:35,-008:14:38,  43
+ 1766,ROUNDWOOD (FILTER BEDS)                 ,IE,+53:03:11,-006:11:10, 195
+ 1770,PETTIGO (LOUGH DERG)                    ,IE,+54:36:22,-007:51:40, 146
+ 1771,FOULKESMILLS (LONGRAIGUE)               ,IE,+52:18:40,-006:46:01,  67
+ 1772,SNEEM                                   ,IE,+51:50:20,-009:54:11,  14
+ 1774,LOUGHGLINN                              ,IE,+53:49:19,-008:33:22,  98
+ 1777,CASTLEISLAND (COOM)                     ,IE,+52:13:59,-009:21:22, 157
+ 1779,TULLA                                   ,IE,+52:52:08,-008:45:29,  61
+ 1781,GURTEEN G.S.                            ,IE,+53:59:31,-008:30:40,  73
+ 1783,LOUTH G.S.                              ,IE,+53:57:11,-006:32:10,  37
+ 1786,SHANAGLISH G.S.                         ,IE,+53:00:22,-008:50:10,  40
+ 1788,DUNMORE G.S.                            ,IE,+53:37:08,-008:43:59,  61
+ 1789,CAVAN (TRANS.STN.)                      ,IE,+53:59:49,-007:21:29,  88
+ 1790,OMEATH                                  ,IE,+54:05:10,-006:15:14,  12
+ 1791,KINLOUGH G.S.                           ,IE,+54:26:46,-008:17:17,  43
+ 1793,CROOKSTOWN G.S.                         ,IE,+51:51:22,-008:48:36,  61
+ 1794,OOLAGH (CARAGH RIVER AREA)              ,IE,+52:03:04,-009:50:06,  98
+ 1878,REDHILLS G.S.                           ,IE,+54:06:11,-007:19:01,  66
+ 1879,PETTIGO (MEENSHEEFIN)                   ,IE,+54:34:44,-007:58:30, 148
+ 1883,MEELICK (VICTORIA LOCK)                 ,IE,+53:10:01,-008:04:52,  39
+ 1885,DRUMSNA (ALBERT LOCK)                   ,IE,+53:54:40,-008:00:00,  45
+ 1886,MACROOM G.S.                            ,IE,+51:54:25,-008:57:50,  75
+ 1887,GLENVICKEE (CARAGH RIVER AREA)          ,IE,+51:58:26,-009:49:44, 128
+ 1888,BUTTEVANT G.S.                          ,IE,+52:13:41,-008:40:19,  96
+ 1891,BIRDHILL (PARTEEN WEIR)                 ,IE,+52:45:40,-008:28:19,  34
+ 1894,CLOONDRA O.P.W.                         ,IE,+53:43:59,-007:54:29,  48
+ 1896,KESHCARRIGAN G.S.                       ,IE,+54:01:05,-007:56:31,  69
+ 1897,CLOONE LAKE (CARAGH RIVER AREA)         ,IE,+51:56:35,-009:52:26, 122
+ 1898,KNOCKADERRY RESV.NO.1                   ,IE,+52:12:36,-007:16:16,  71
+ 1899,DAINGEAN G.S.                           ,IE,+53:17:31,-007:17:31,  78
+ 1900,BANAGHER (CANAL HSE.)                   ,IE,+53:11:38,-007:59:38,  37
+ 1901,DRUMSHANBO                              ,IE,+54:03:40,-008:03:40,  54
+ 1760,WATERFORD (TYCOR)                       ,IE,+52:15:11,-007:07:52,  49
+ 1904,PORTUMNA O.P.W.                         ,IE,+53:05:31,-008:11:31,  35
+ 1704,DUBLIN (GLASNEVIN)                      ,IE,+53:22:16,-006:16:19,  21
+ 1905,KILCONLY G.S.                           ,IE,+53:34:19,-008:58:59,  46
+ 1907,DROMOD (RUSKEY)                         ,IE,+53:49:30,-007:55:08,  42
+ 1908,ARDEE (ST.BRIGIDS HOSP.)                ,IE,+53:51:14,-006:32:46,  32
+ 1911,COACHFORD G.S.                          ,IE,+51:54:29,-008:47:31,  68
+ 1912,KNOCKADERRY RESV.NO.2                   ,IE,+52:12:29,-007:16:41,  62
+ 1915,ATHLONE O.P.W.                          ,IE,+53:25:19,-007:56:31,  37
+ 1917,BELTURBET (VOC.SCH.)                    ,IE,+54:06:00,-007:26:31,  70
+ 1919,M.MOANBANE NO.4                         ,IE,+53:05:10,-006:26:31, 354
+ 1926,CASHEL (BALLINAMONA)                    ,IE,+52:30:40,-007:55:41,  80
+ 1927,CASTLEDERMOT G.S.                       ,IE,+52:54:29,-006:50:49,  82
+ 1738,GLENGARRIFF (ILNACULLIN)                ,IE,+51:44:06,-009:32:46,   7
+ 1761,DUN LAOGHAIRE (PEOPLES PARK)            ,IE,+53:17:20,-006:07:41,   8
+ 1928,COROFIN G.S.                            ,IE,+53:26:10,-008:51:50,  34
+ 1930,CUILCAGH MTNS.                          ,IE,+54:09:58,-007:48:04, 290
+  968,CARRICKMACROSS (DUNOGE)                 ,IE,+53:58:41,-006:45:11,  88
+ 1932,BALLINSPITTLE G.S.                      ,IE,+51:40:01,-008:35:49,  15
+ 1935,HACKETSTOWN (VOC.SCH.)                  ,IE,+52:51:40,-006:33:11, 189
+ 1938,FARRANFORE (CLOUNLEA)                   ,IE,+52:08:35,-009:24:11, 177
+ 1942,DUN LAOGHAIRE (HARBOUR YD.)             ,IE,+53:17:38,-006:08:10,  16
+ 1943,CARNDOLLA                               ,IE,+53:24:04,-009:00:00,  24
+  964,BALLYSHANNON (CATHLEENS FALL)           ,IE,+54:30:00,-008:10:44,  38
+ 1945,MOONCOIN (VOC.SCH.)                     ,IE,+52:17:31,-007:15:11,  53
+ 1946,LAGHTGEORGE G.S.                        ,IE,+53:21:22,-008:55:52,  14
+ 1948,ESKERAGH                                ,IE,+54:06:40,-009:27:50,  85
+ 1952,GLEN IMAAL (FOR.STN.)                   ,IE,+52:59:35,-006:33:11, 213
+ 1953,DUBLIN (CLONTARF)                       ,IE,+53:21:50,-006:13:30,   5
+ 1954,KEENAGH BEG                             ,IE,+54:02:20,-009:28:52,  91
+ 2142,CLONES                                  ,IE,+54:10:48,-007:13:48,  87
+ 1955,KILBRITTAIN G.S.                        ,IE,+51:40:26,-008:41:24,  32
+ 1956,RATHCORMAC G.S.                         ,IE,+52:04:34,-008:16:59,  55
+ 1958,DUBLIN (RINGSEND)                       ,IE,+53:20:31,-006:12:50,   7
+ 1959,GLASSON G.S.                            ,IE,+53:28:30,-007:51:50,  48
+ 1963,DERRYHILLAGH                            ,IE,+54:01:59,-009:23:31, 104
+ 1966,KILTORMER                               ,IE,+53:14:20,-008:16:16,  78
+ 1968,CARRICK-ON-SHANNON E.S.B.               ,IE,+53:56:20,-008:06:40,  56
+ 1971,KINSALE (VOC.SCH.)                      ,IE,+51:42:29,-008:31:52,  43
+ 1973,EYRECOURT G.S.                          ,IE,+53:11:49,-008:07:59,  58
+ 1759,WARRENSTOWN                             ,IE,+53:31:26,-006:36:40,  90
+ 1977,MILLTOWN                                ,IE,+53:36:43,-008:53:31,  50
+ 1978,CASTLEBAR (BURREN)                      ,IE,+53:54:54,-009:18:29, 137
+ 1981,GLENAMADDY (GORTNAGIER)                 ,IE,+53:36:11,-008:33:40,  84
+ 1982,CLOONACOOL (LOUGH EASKEY)               ,IE,+54:07:55,-008:50:49, 204
+ 1984,GLENBRIDE LODGE                         ,IE,+53:04:41,-006:27:11, 363
+ 1986,BALLYSHANNON (CHERRYMOUNT)              ,IE,+54:29:31,-008:09:11,  30
+ 1987,POULAPHUCA (GEN.STN.)                   ,IE,+53:07:08,-006:35:20, 174
+ 1646,DERRYGREENAGH                           ,IE,+53:23:31,-007:15:29,  90
+ 1757,SLIEVE BLOOM MTNS.(NEALSTOWN)           ,IE,+52:59:35,-007:42:14, 219
+ 1991,CLOUGHJORDAN G.S.                       ,IE,+52:56:31,-008:02:31,  94
+ 1992,CARRIGADROHID (GEN.STN.)                ,IE,+51:53:49,-008:51:50,  67
+ 1995,SHINRONE G.S.                           ,IE,+52:58:59,-007:55:59,  70
+ 1996,BALLAGHADERREEN (VOC.SCH.)              ,IE,+53:54:00,-008:34:59,  87
+ 1997,INISHCARRA (GEN.STN.)                   ,IE,+51:54:00,-008:39:40,  24
+  970,CASEMENT AERODROME                      ,IE,+53:18:22,-006:26:20,  94
+ 1998,BALLYMORE EUSTACE D.C.W.W.              ,IE,+53:07:30,-006:36:22, 172
+ 1715,DUBLIN (MERRION SQUARE)                 ,IE,+53:20:20,-006:15:11,  13
+ 1999,ARDNACRUSHA (GEN.STN.NO.2)              ,IE,+52:41:49,-008:37:01,  28
+ 2003,LECARROW                                ,IE,+53:32:38,-008:02:49,  47
+ 2011,DROMOLAND CASTLE                        ,IE,+52:46:52,-008:54:29,  12
+ 2019,LEIXLIP (GEN.STN.)                      ,IE,+53:21:43,-006:29:13,  42
+ 1739,GLENTIES HATCHERY                       ,IE,+54:47:24,-008:17:10,  44
+ 2051,CAHIR (VOC.SCH.)                        ,IE,+52:22:41,-007:55:12,  53
+ 2053,SILVERMINES MTNS.(CURREENY)             ,IE,+52:43:59,-008:08:49, 312
+ 2054,BANSHA (AHERLOW W.W.)                   ,IE,+52:24:25,-008:07:19, 128
+ 2090,CLOGHANE                                ,IE,+52:13:44,-010:10:44,   9
+ 2139,SHANNON                                 ,IE,+52:41:24,-008:55:05,   6
+ 2161,NAAS (C.B.S.)                           ,IE,+53:13:05,-006:39:29,  98
+ 1718,DUBLIN AIRPORT                          ,IE,+53:25:41,-006:14:28,  71
+ 2163,DUNLEWY                                 ,IE,+55:01:55,-008:08:35, 113
+ 2177,GREENCASTLE                             ,IE,+55:12:36,-006:59:10,  53
+ 2206,KENMARE (DERREEN)                       ,IE,+51:46:08,-009:46:52,  24
+ 1756,MARKREE CASTLE                          ,IE,+54:10:30,-008:27:22,  39
+ 2297,WATERVILLE OCTIVE NO.9                  ,IE,+51:52:08,-010:03:00, 110
+ 2299,MALLOW (HAZELWOOD)                      ,IE,+52:11:24,-008:39:00,  94
+ 2300,BELLE LAKE (FILTER STN.)                ,IE,+52:11:38,-007:01:26,  34
+ 2301,COROFIN                                 ,IE,+52:56:56,-009:04:05,  29
+  958,BALLYHAISE (AGR.COLL.)                  ,IE,+54:03:04,-007:18:36,  67
+ 2302,KINGSCOURT G.S.                         ,IE,+53:54:25,-006:48:14, 105
+ 2307,CRUSHEEN G.S.                           ,IE,+52:56:20,-008:54:00,  34
+ 2308,MONEYSTOWN                              ,IE,+53:00:00,-006:13:30, 207
+ 2313,SHERCOCK G.S.                           ,IE,+53:59:49,-006:54:00, 110
+ 2314,CREESLOUGH (BROCKAGH)                   ,IE,+55:04:41,-007:58:41, 119
+ 2318,KNOCKNAGOSHEL G.S.                      ,IE,+52:19:59,-009:22:34, 152
+  965,BELLACORRICK (MONEYNIERIN)              ,IE,+54:07:01,-009:32:49,  88
+ 2329,CREESLOUGH (CARROWNAMADDY)              ,IE,+55:07:59,-007:57:00,  88
+ 3548,GURTEEN                                 ,IE,+53:01:48,-008:00:36,  76
+ 3551,OAK PARK                                ,IE,+52:51:40,-006:54:54,  63
+ 3553,BALLYHAISE                              ,IE,+54:03:04,-007:18:36,  79
+ 3547,DUNSANY GRANGE                          ,IE,+53:30:00,-006:42:00,  84
+ 3552,MOOREPARK                               ,IE,+52:09:50,-008:15:50,  47
+21902,KILLOWEN                                ,GB,+54:04:37,-006:11:02,   4
+21936,DERRYLIN                                ,GB,+54:09:03,-007:34:30,  70

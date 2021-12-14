@@ -1,0 +1,223 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+64,BUDAPEST,HUNGARY,+47:30:40,+019:01:14,153 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Begin - End : Name / Latitude / Longitude / Elevation <br>19010101 - 19100228: Budapest also / 47:31 / 19:02 /  121 m<br>19100301 - 19850331: Budapest belterulet KMI / 47:31 / 19:02 / 119 m<br>19850401 - present: Budapest belterulet OMSZ Torony / 47:30:40 / 19:01:41 / 153.3 m<br><br>Measuring time until 1965:<br>- Mean temperature: average of 7, 14, and twice 21 UT<br>- Minimum and maximum temperature: 21-21 UT<br>
+
+----------------------------------------------------------------
+847,NAGYKANIZSA,HUNGARY,+46:27:00,+016:58:12,139 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+848,GYOR,HUNGARY,+47:42:00,+017:40:12,115 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+849,PECS POGANY,HUNGARY,+46:00:21,+018:13:58,203 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Begin - End : Name / Latitude / Longitude <br>
+06.01.1898 - 08.31.1916: Pecs; Apaca street / 46.0769N / 18.2247E <br>
+09.01.1916 - 11.12.1921: Pecs; Institution of Disinfection/ 46.0711N /18.2417E <br>
+06.26.1922 - 10.21.1924: Pecs; Erzsebet Universty/ 46.0739N / 18.2369E <br>
+06.26.1922 - 10.21.1924: Pecs; Notre Dame Nunnery / 46.0758N / 18.2231E <br>
+11.26.1931 - 02.28.1963: Pecs; Academy of Pedagogy / 46.0778N / 18.2056E <br>
+02.19.1946 - 03.31.1957: Pecs; Airport of Mecsekalja / 46.0603N / 18.1931E <br>
+06.02.1956 - 03.03.1969: Pecs Meteorological Station (airport) / 46.0000N / 18.2333E <br>
+03.03.1969 - 03.24.1998: Pecs-Pogany; Airport (outbuilding) / 46.0058N / 18.2328E <br>
+03.24.1998 - today: Pecs Meteorological Station (airport) / 46.0000N / 18.2333E
+
+----------------------------------------------------------------
+850,MISKOLC AIRPORT,HUNGARY,+48:04:48,+020:46:12,232 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+851,SZEGED,HUNGARY,+46:15:22,+020:05:25,82 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Begin - End : Name / Latitude / Longitude <br>
+01.01.1901 - 12.31.1926 : Szeged;  Piarist Secondary School  / 46.25333N / 20.1541E <br>
+01.01.1927 - 08.31.1944 : Szeged; University / 46.25256N /20.14372E <br>
+04.01.1946 - 12.31.1950 : Szeged; University / 46.25256N / 20.14333E <br>
+01.01.1951 - 07.31.1965: Szeged; Airport 1 / 46.25538N / 20.10603E <br>
+08.01.1965 - today: Szeged; Airport 2 / 46.25731N / 20.09295E
+
+----------------------------------------------------------------
+852,DEBRECEN AIRPORT,HUNGARY,+47:29:25,+021:36:39,108 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Begin - End : Name / Latitude / Longitude <br>
+1912 - Sept 1944: Debrecen; Pallag  / 47.60026N / 21.64987E <br>
+Sept 1944 - Nov 1946: Debrecen; University Faculty of Meteorology / 47.55932N /21.62231E <br>
+Nov 1946 - 12.31.1949: Debrecen; Pallag / 47.60026N / 21.64987E <br>
+01.01.1950 - today: Debrecen; Airport (OMSZ)  / 47.50026N / 21.63513E
+
+----------------------------------------------------------------
+2041,SOPRON,HUNGARY,+47:40:48,+016:36:00,233 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2042,SZOMBATHELY,HUNGARY,+47:11:54,+016:38:52,201 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Begin - End : Name / Latitude / Longitude <br>
+01.01.1901 -  05.31.1918 : Szombathely; Astrophysical Observatory of Hereny / 47.26846N / 16.60269E <br>
+06.01.1918 -  12.31.1949 : Szombathely; Waterworks / 47.24872N /16.60885E <br>
+01.01.1950 -  12.31.1964 : Szombathely; Airport terminal / 47.27667 / 16.62859E <br>
+01.01.1965 - today : Szombathely; Airport  / 47.26782 / 16.6341E
+
+----------------------------------------------------------------
+2043,PAPA,HUNGARY,+47:12:00,+017:30:00,140 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2044,KEKESTETO,HUNGARY,+47:52:12,+020:01:12,1010 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2045,SZOLNOK,HUNGARY,+47:07:12,+020:13:48,84 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2046,NYIREGYHAZA,HUNGARY,+47:58:12,+021:52:48,105 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2047,SIOFOK,HUNGARY,+46:55:12,+018:01:48,107 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2049,BAJA,HUNGARY,+46:10:48,+019:01:12,112 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+2050,BEKESCSABA,HUNGARY,+46:42:00,+021:07:48,84 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+

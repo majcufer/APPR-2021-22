@@ -1,0 +1,1521 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 01-12-2021
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+200,KAUNAS,LITHUANIA,+54:53:00,+023:50:00,77 m 
+----------------------------------------------------------------
+* Land use:
+Open landscape. Farmland, two-story buildings.
+* Soil type:
+Clay
+* Surface coverage:
+Grass
+* History:
+On 26 May 1955 displaced 6km E
+
+----------------------------------------------------------------
+201,KLAIPEDA,LITHUANIA,+55:44:00,+021:04:00,6 m 
+----------------------------------------------------------------
+* Land use:
+Partly open landscape. Sand-dune, scrubland.
+* Soil type:
+Sand
+* Surface coverage:
+Grass
+* History:
+
+
+----------------------------------------------------------------
+202,VILNIUS,LITHUANIA,+54:38:00,+025:06:00,156 m 
+----------------------------------------------------------------
+* Land use:
+Partly open landscape. Farmland, two-story buildings, garden.
+* Soil type:
+Sandy loam
+* Surface coverage:
+Grass
+* History:
+On 14 Dec 1953 displaced 3km NE; closed on 30 May 1964. From 1964 data of station Vilnius <br> Precipitation:<br> During the 1887-1944 period, Lithuanian accumulated precipitation records were recorded once per day (at 7 a.m.); <br>precipitation amount was assigned to the previous date. <br>During the 1945-1965 period, precipitation records were twice per day (at 7 a.m.  and 7 p. m.); <br> precipitation amount was calculated as the sum of P7+P19. <br> Since 1966 precipitation measurements are 4 times per day - at 00, 06, 12 and 18 UT hours; <br> The accumulated precipitation amount is calculated as the sum of these four measurements.
+
+----------------------------------------------------------------
+1003,PALANGA,LITHUANIA,+56:00:00,+021:06:00,15 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1004,VEJAYCHAY,LITHUANIA,+55:42:00,+021:30:00,64 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1005,TELCHAJ,LITHUANIA,+55:54:00,+022:18:00,153 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1006,LAUKUVA,LITHUANIA,+55:36:00,+022:12:00,165 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1007,SIAULIAI,LITHUANIA,+55:56:00,+023:19:00,106 m 
+----------------------------------------------------------------
+* Land use:
+Partly open landscape. Two-story buildings.
+* Soil type:
+Sandy loam
+* Surface coverage:
+Grass
+* History:
+
+
+----------------------------------------------------------------
+1008,PANEVEZHIS,LITHUANIA,+55:43:48,+024:24:00,57 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1009,BIRZAI,LITHUANIA,+56:12:00,+024:46:00,60 m 
+----------------------------------------------------------------
+* Land use:
+Partly open landscape. Two-story buildings. Farmland. Garden.
+* Soil type:
+Clay
+* Surface coverage:
+Grass
+* History:
+
+
+----------------------------------------------------------------
+1010,DUKSTAS,LITHUANIA,+55:30:00,+026:18:00,164 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1011,SHILUTE,LITHUANIA,+55:24:00,+021:30:00,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1012,NIDA,LITHUANIA,+55:18:00,+021:00:00,2 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1013,SOVETSK (TIL-ZIT),LITHUANIA,+55:04:48,+021:55:48,37 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1014,TURAGE,LITHUANIA,+55:18:00,+022:18:00,33 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1015,DOTNUVA,LITHUANIA,+55:24:00,+023:54:00,69 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1016,RACEINAY,LITHUANIA,+55:24:00,+023:06:00,111 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1017,UTENA,LITHUANIA,+55:30:00,+025:36:00,105 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1018,UKMARGE,LITHUANIA,+55:18:00,+024:48:00,72 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1019,KIMBARTAY,LITHUANIA,+54:36:00,+022:48:00,58 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+1020,LAZDIJAI,LITHUANIA,+54:14:00,+023:31:00,133 m 
+----------------------------------------------------------------
+* Land use:
+Open landscape. Two-story buildings. Farmland.
+* Soil type:
+Loam
+* Surface coverage:
+Grass
+* History:
+
+
+----------------------------------------------------------------
+1021,VARENA,LITHUANIA,+54:18:00,+024:36:00,109 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+
+
+----------------------------------------------------------------
+8705,DRUSKININKAI,LITHUANIA,+54:01:12,+023:58:48,93 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8706,PUVOCIAI,LITHUANIA,+54:07:12,+024:18:00,100 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8707,ZERVYNOS,LITHUANIA,+54:07:12,+024:30:00,116 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8708,VARENA,LITHUANIA,+54:15:00,+024:33:00,109 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8709,SALCININKAI,LITHUANIA,+54:16:48,+025:25:48,180 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8710,METELIAI,LITHUANIA,+54:19:48,+023:37:48,109 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8711,METELIAI,LITHUANIA,+54:19:48,+023:58:12,109 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8712,VALKININKAI,LITHUANIA,+54:22:12,+024:51:00,120 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8713,KALVARIJA,LITHUANIA,+54:25:12,+023:13:12,110 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8714,ALYTUS,LITHUANIA,+54:25:12,+024:04:12,92 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8715,ZUVINTAS,LITHUANIA,+54:27:00,+023:34:48,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8716,ZAGARINE,LITHUANIA,+54:27:00,+025:07:12,138 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8717,MARIJAMPOLE,LITHUANIA,+54:33:00,+023:21:00,75 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8718,NEMANIUNAI,LITHUANIA,+54:34:12,+024:04:12,60 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8719,VERBYLISKES,LITHUANIA,+54:34:48,+024:10:48,73 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8720,SAVICIUNAI,LITHUANIA,+54:34:48,+025:36:00,223 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8721,BIRSTONAS,LITHUANIA,+54:36:00,+024:01:48,48 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8722,KYBARTAI,LITHUANIA,+54:37:48,+022:46:48,58 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8723,PRIENAI,LITHUANIA,+54:37:48,+023:57:00,53 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8724,TRAKAI,LITHUANIA,+54:37:48,+024:55:48,166 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8726,VILNIUS UZMIESTIS,LITHUANIA,+54:37:48,+025:16:48,195 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8727,SEMELISKES,LITHUANIA,+54:40:12,+024:40:12,117 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8728,SANTAKAI,LITHUANIA,+54:40:12,+025:37:48,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8729,RUMOKAI,LITHUANIA,+54:42:00,+022:58:12,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8730,DARSUNISKIS,LITHUANIA,+54:43:48,+024:07:12,44 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8731,BUIVYDZIAI,LITHUANIA,+54:51:00,+025:45:00,117 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8732,KAISIADORYS,LITHUANIA,+54:52:12,+024:27:00,87 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8733,SAKIAI,LITHUANIA,+54:57:00,+023:03:00,49 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8734,PABRADE,LITHUANIA,+54:58:12,+025:45:00,126 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8735,PABRADE,LITHUANIA,+54:58:48,+025:45:00,126 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8736,LIUKONYS,LITHUANIA,+55:01:48,+024:40:48,102 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8737,SIRVINTOS,LITHUANIA,+55:03:00,+024:57:00,119 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8738,SMALININKAI,LITHUANIA,+55:04:12,+022:36:00,24 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8739,JURBARKAS,LITHUANIA,+55:04:12,+022:46:12,38 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8740,SEREDZIUS,LITHUANIA,+55:04:12,+023:24:00,35 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8741,JONAVA,LITHUANIA,+55:04:48,+024:16:48,43 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8742,SVENCIONYS,LITHUANIA,+55:07:48,+026:10:12,200 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8743,JANULISKIS,LITHUANIA,+55:10:12,+025:51:00,147 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8744,ZINDAICIAI,LITHUANIA,+55:10:48,+022:39:00,37 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8745,PADUBYSYS,LITHUANIA,+55:12:00,+023:28:48,36 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8746,TAURAGE,LITHUANIA,+55:15:00,+022:16:48,35 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8747,UKMERGE,LITHUANIA,+55:15:00,+024:46:12,72 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8748,MOLETAI,LITHUANIA,+55:15:00,+025:25:12,158 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8749,VILAINIAI,LITHUANIA,+55:16:12,+024:01:48,45 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8750,PASMILGYS,LITHUANIA,+55:16:48,+023:58:48,48 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8751,GUNTAUNINKAI,LITHUANIA,+55:16:48,+026:37:12,155 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8752,RUSNE,LITHUANIA,+55:18:00,+021:33:00,1 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8753,VENTE,LITHUANIA,+55:19:48,+021:10:48,4 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8754,IGNALINA,LITHUANIA,+55:19:48,+026:10:48,184 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8755,SILUTE,LITHUANIA,+55:21:00,+021:28:12,3 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8757,DOTNUVA,LITHUANIA,+55:24:00,+023:52:12,69 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8758,PAJURIS,LITHUANIA,+55:27:00,+022:01:12,76 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8759,TAURAGNAI,LITHUANIA,+55:27:00,+025:49:12,181 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8760,SILALE,LITHUANIA,+55:28:48,+022:10:48,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8761,PAAKMENIS,LITHUANIA,+55:30:00,+022:18:00,116 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8762,LYDUVENAI,LITHUANIA,+55:31:12,+023:06:00,70 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8763,RAMIGALA,LITHUANIA,+55:31:12,+024:18:00,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8764,ANYKSCIAI,LITHUANIA,+55:31:48,+025:06:00,95 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8765,UTENA,LITHUANIA,+55:31:48,+025:36:00,105 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8766,MIKUZIAI,LITHUANIA,+55:34:12,+021:33:00,37 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8767,PLUSKIAI,LITHUANIA,+55:34:12,+022:51:00,134 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8768,LAUKUVA,LITHUANIA,+55:37:12,+022:13:48,165 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8769,KELME,LITHUANIA,+55:37:48,+022:55:48,133 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8770,JACKAGALYS,LITHUANIA,+55:39:00,+024:42:00,76 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8771,SIAULENAI,LITHUANIA,+55:40:12,+023:24:00,119 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8772,VEZAICIAI,LITHUANIA,+55:42:00,+021:28:48,62 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8773,VARNIAI,LITHUANIA,+55:43:48,+022:22:12,164 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8774,ZARASAI,LITHUANIA,+55:43:48,+026:15:00,149 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8776,GUDELIAI,LITHUANIA,+55:48:00,+022:22:12,139 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8777,RADVILISKIS,LITHUANIA,+55:49:12,+023:30:00,123 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8778,RADVILISKIS,LITHUANIA,+55:49:12,+023:33:00,123 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8779,VAINAICIAI,LITHUANIA,+55:49:48,+021:52:48,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8780,RAMUCIAI,LITHUANIA,+55:49:48,+022:52:12,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8781,AUNUVENAI,LITHUANIA,+55:51:00,+022:46:12,103 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8782,KUPISKIS,LITHUANIA,+55:51:00,+024:58:48,92 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8783,KRETINGA,LITHUANIA,+55:52:48,+021:13:48,26 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8784,PLUNGE,LITHUANIA,+55:54:00,+021:51:00,127 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8785,KARTENA,LITHUANIA,+55:55:48,+021:28:48,24 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8786,TUBAUSIAI,LITHUANIA,+55:57:00,+021:16:48,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8787,PALANGA,LITHUANIA,+55:58:12,+021:06:00,10 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8788,TELSIAI,LITHUANIA,+55:58:12,+022:15:00,153 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8789,ROKISKIS,LITHUANIA,+55:58:12,+025:36:00,143 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8790,PAKRUOJIS,LITHUANIA,+55:58:48,+023:52:12,67 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8791,PLATELIAI,LITHUANIA,+56:03:00,+021:49:48,-1000 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8792,PASVALYS,LITHUANIA,+56:04:48,+024:24:00,30 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8793,MICIUNAI,LITHUANIA,+56:06:00,+023:42:00,68 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8794,TRECIONYS,LITHUANIA,+56:07:48,+024:31:48,41 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8795,PAPILE,LITHUANIA,+56:09:00,+022:46:48,93 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8796,NAUJOJI AKMENE,LITHUANIA,+56:13:48,+022:45:00,76 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8797,JONISKIS,LITHUANIA,+56:15:00,+023:37:12,46 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8798,KIBURIAI,LITHUANIA,+56:15:00,+024:15:00,40 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8799,KIRKILAI,LITHUANIA,+56:15:00,+024:42:00,51 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8800,SKUODAS,LITHUANIA,+56:16:12,+021:31:48,21 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8801,MAZEIKIAI,LITHUANIA,+56:19:12,+022:22:12,72 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8802,LECKAVA,LITHUANIA,+56:22:48,+022:13:48,58 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
+----------------------------------------------------------------
+8803,TABOKINE,LITHUANIA,+56:25:12,+024:51:00,55 m 
+----------------------------------------------------------------
+* Land use:
+
+* Soil type:
+
+* Surface coverage:
+
+* History:
+Manual: Tretjakov 200 cm2 orifice with wind shield<br>
+Measuring height: 200 cm<br>Corrections for wetting errors (24-hour-totals):<br>+0.2  mm in the case of liquid precipitation (rain, rain / snow)<br>+0.1 mm in the case of dry snow<br>+0.1 mm in the case of liquid precipitation < 0.1 mm<br>+0.2 mm in the case of dew, fog, crystalline ice and freezing
+
