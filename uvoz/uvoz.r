@@ -1,31 +1,50 @@
-# 2. faza: Uvoz podatkov
+library(stringr)
+library(rvest)
+library(dplyr)
+
+EU <- read_html("podatki/EU_clanice.html") %>% 
+  html_nodes(xpath="//table[@class='sortable wikitable']") %>% .[[1]] %>%
+  html_table() %>% select("Država")
+oznake <- read_html("podatki/oznake_drzav.html") %>% 
+  html_nodes(xpath="//table[@class='tdcontent']") %>% .[[1]] %>%
+  html_table() %>% select(3, 5)
+colnames(oznake) <- c("Država", "drzava")
+
+EU <- EU %>% left_join(oznake, by="Država")
+
+###########################################
+
+ele <- read.csv("podatki/Proizvodnja_elektrike_EU_mesecno.csv") %>% 
+  select(siec, geo, TIME_PERIOD, OBS_VALUE) %>% filter(siec != "CF")
+
+colnames(ele) <- c("vir", "drzava", "datum", "kolicina")
+ele$leto <- sapply(strsplit(ele$datum, "-"), "[", 1) %>% as.integer()
+ele$mesec <- sapply(strsplit(ele$datum, "-"), "[", 2) %>% as.integer()
+ele$datum <- NULL
+
+viri <- tibble(vir=c("premog", "zemeljski.plin", "olje.nafta", "hidro", "geotermalna",
+                     "veter", "sonce", "drugi.obnovljivi", "nuklearna", "druga.goriva"),
+               oznaka=c("C0000", "G3000", "O4000XBIO", "RA100", "RA200", "RA300", "RA400",
+                        "RA500_5160", "N9000", "X9900"))
+
+ele$vir <- viri$vir[match(ele$vir, viri$oznaka)]
+
+ele <- ele %>% filter(drzava %in% EU$drzava) %>% left_join(oznake, by="drzava") %>% select(-"drzava")
+
+ele <- ele[, c("Država", "leto", "mesec", "vir", "kolicina")]
+
+##########################################
+
+bdp <- read.csv("podatki/BDP_EU_mesecno.csv") %>% 
+  select(geo, TIME_PERIOD, OBS_VALUE) %>% filter(geo %in% EU$drzava)
+colnames(bdp) <- c("drzava", "datum", "BDP")
+bdp <- bdp %>% left_join(oznake, by="drzava") %>% select(-"drzava")
+
+bdp$leto <- sapply(strsplit(bdp$datum, "-Q"), "[", 1) %>% as.integer()
+bdp$cetrtletje <- sapply(strsplit(bdp$datum, "-Q"), "[", 2) %>% as.integer()
+bdp$datum <- NULL
+
+bdp <- bdp[, c("Država", "leto", "cetrtletje", "BDP")]
 
 
-seznam.map <- list.files(path="podatki/Padavine", full.names = TRUE)
 
-for (mapa in seznam.map) {
-  
-  seznam.datotek <- list.files(path=mapa, pattern = "^RR", full.names = TRUE)
-  podatki <- read_csv(seznam.datotek, skip = 19) %>% select(DATE, RR)
-  podatki$RR[podatki$RR == -9999] <- NA
-  
-  stevilo.postaj <- sum(podatki$DATE == 20010501)
-  
-  ################################################
-  
-  racunanje <- podatki %>% filter(DATE > 20151231) %>% group_by(DATE) %>% 
-    summarise(padavine.dnevno=sum(RR, na.rm=T),
-              stevilo.na=sum(is.na(RR)))
-  racunanje$povprecno <- racunanje$padavine.dnevno / (stevilo.postaj - racunanje$stevilo.na)
-  
-  
-  ################ KONČNA TABELA #################
-  
-  tabela <- tibble(leto=substr(racunanje$DATE, 1, 4),
-                   mesec=substr(racunanje$DATE, 5, 6),
-                   dan=substr(racunanje$DATE, 7, 8),
-                   padavine=racunanje$povprecno) %>% group_by(leto, mesec) %>% 
-    summarise(padavine=round(sum(padavine)/10))
-  
-  assign(basename(mapa), tabela)
-}
