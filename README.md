@@ -14,7 +14,7 @@ Proizvodnja elektrike glede na vir: podatki iz Eurostata, v obliki CSV
 Podatki o BDP: podatki iz Eurostata, v obliki CSV  
 (https://ec.europa.eu/eurostat/databrowser/view/NAMQ_10_GDP__custom_1672463/default/table?lang=en).
 
-Količina padavin: podatki iz ECA&D, v obliki CSV  
+Količina padavin: podatki iz ECA&D, v formatu TXT  
 (https://www.ecad.eu/dailydata/customquery.php).
 
 Za analizo držav EU bom potreboval tudi seznam članic EU skupaj z oznakami držav, ki sem ga dobil na spodnji spletni strani, v obliki HTML
