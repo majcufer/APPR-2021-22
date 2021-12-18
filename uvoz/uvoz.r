@@ -2,49 +2,47 @@ library(stringr)
 library(rvest)
 library(dplyr)
 
-EU <- read_html("podatki/EU_clanice.html") %>% 
-  html_nodes(xpath="//table[@class='sortable wikitable']") %>% .[[1]] %>%
-  html_table() %>% select("Država")
-oznake <- read_html("podatki/oznake_drzav.html") %>% 
-  html_nodes(xpath="//table[@class='tdcontent']") %>% .[[1]] %>%
-  html_table() %>% select(3, 5)
-colnames(oznake) <- c("Država", "drzava")
 
-EU <- EU %>% left_join(oznake, by="Država")
+EU.clanice <- read_html("podatki/oznake_drzav.html") %>% 
+  html_nodes(xpath="//table[@class='tdcontent']") %>% .[[1]] %>%
+  html_table() %>% select(3, 5) %>% head(27)
+
+colnames(EU.clanice) <- c("Država", "Oznaka.države")
 
 ###########################################
 
-ele <- read.csv("podatki/Proizvodnja_elektrike_EU_mesecno.csv") %>% 
+poraba.elektrike <- read.csv("podatki/Proizvodnja_elektrike_EU_mesecno.csv") %>% 
   select(siec, geo, TIME_PERIOD, OBS_VALUE) %>% filter(siec != "CF")
 
-colnames(ele) <- c("vir", "drzava", "datum", "kolicina")
-ele$leto <- sapply(strsplit(ele$datum, "-"), "[", 1) %>% as.integer()
-ele$mesec <- sapply(strsplit(ele$datum, "-"), "[", 2) %>% as.integer()
-ele$datum <- NULL
+colnames(poraba.elektrike) <- c("Vir", "Oznaka.države", "Datum", "Količina")
 
-viri <- tibble(vir=c("premog", "zemeljski.plin", "olje.nafta", "hidro", "geotermalna",
-                     "veter", "sonce", "drugi.obnovljivi", "nuklearna", "druga.goriva"),
-               oznaka=c("C0000", "G3000", "O4000XBIO", "RA100", "RA200", "RA300", "RA400",
+poraba.elektrike$Leto <- sapply(strsplit(poraba.elektrike$Datum, "-"), "[", 1) %>% as.integer()
+poraba.elektrike$Mesec <- sapply(strsplit(poraba.elektrike$Datum, "-"), "[", 2) %>% as.integer()
+poraba.elektrike$Datum <- NULL
+
+viri <- tibble(Vir=c("premog", "zemeljski.plin", "olje.nafta", "hidro", "geotermalna",
+                     "veter", "sonce", "drugi.obnovljivi.viri", "nuklearna", "druga.goriva"),
+               Oznaka=c("C0000", "G3000", "O4000XBIO", "RA100", "RA200", "RA300", "RA400",
                         "RA500_5160", "N9000", "X9900"))
 
-ele$vir <- viri$vir[match(ele$vir, viri$oznaka)]
+poraba.elektrike$Vir <- viri$Vir[match(poraba.elektrike$Vir, viri$Oznaka)]
 
-ele <- ele %>% filter(drzava %in% EU$drzava) %>% left_join(oznake, by="drzava") %>% select(-"drzava")
+poraba.elektrike <- poraba.elektrike %>% filter(Oznaka.države %in% EU.clanice$Oznaka.države)
 
-ele <- ele[, c("Država", "leto", "mesec", "vir", "kolicina")]
+poraba.elektrike <- poraba.elektrike[, c("Oznaka.države", "Leto", "Mesec", "Vir", "Količina")]
 
 ##########################################
 
-bdp <- read.csv("podatki/BDP_EU_mesecno.csv") %>% 
-  select(geo, TIME_PERIOD, OBS_VALUE) %>% filter(geo %in% EU$drzava)
-colnames(bdp) <- c("drzava", "datum", "BDP")
-bdp <- bdp %>% left_join(oznake, by="drzava") %>% select(-"drzava")
+BDP <- read.csv("podatki/BDP_EU_cetrtletje.csv") %>% 
+  select(geo, TIME_PERIOD, OBS_VALUE) %>% filter(geo %in% EU.clanice$Oznaka.države)
 
-bdp$leto <- sapply(strsplit(bdp$datum, "-Q"), "[", 1) %>% as.integer()
-bdp$cetrtletje <- sapply(strsplit(bdp$datum, "-Q"), "[", 2) %>% as.integer()
-bdp$datum <- NULL
+colnames(BDP) <- c("Oznaka.države", "Datum", "BDP")
 
-bdp <- bdp[, c("Država", "leto", "cetrtletje", "BDP")]
+BDP$Leto <- sapply(strsplit(BDP$Datum, "-Q"), "[", 1) %>% as.integer()
+BDP$Četrtletje <- sapply(strsplit(BDP$Datum, "-Q"), "[", 2) %>% as.integer()
+BDP$Datum <- NULL
+
+BDP <- BDP[, c("Oznaka.države", "Leto", "Četrtletje", "BDP")]
 
 
 

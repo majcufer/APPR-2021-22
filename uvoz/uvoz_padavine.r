@@ -2,6 +2,7 @@
 library(readr)
 library(dplyr)
 library(rvest)
+library(tidyverse)
 
 seznam.map <- list.files(path="podatki/Padavine", full.names = TRUE)
 
@@ -13,7 +14,7 @@ for (mapa in seznam.map) {
   
   stevilo.postaj <- sum(podatki$DATE == 20010501)
   
-  ################################################
+##################################################
   
   racunanje <- podatki %>% filter(DATE > 20151231) %>% group_by(DATE) %>% 
     summarise(padavine.dnevno=sum(RR, na.rm=T),
@@ -21,7 +22,7 @@ for (mapa in seznam.map) {
   racunanje$povprecno <- racunanje$padavine.dnevno / (stevilo.postaj - racunanje$stevilo.na)
   
   
-  ###################################################
+#####################################################
   
   tabela <- tibble(država=basename(mapa),
                    leto=substr(racunanje$DATE, 1, 4) %>% as.integer(),
@@ -34,8 +35,16 @@ for (mapa in seznam.map) {
 }
 
 
-################## KONČNA TABELA ####################
+###############################################
 
-EU <- read_html("podatki/EU_clanice.html") %>% 
-  html_nodes(xpath="//table[@class='sortable wikitable']") %>% .[[1]] %>%
-  html_table() %>% select("Država")
+EU.clanice <- read_html("podatki/oznake_drzav.html") %>% 
+  html_nodes(xpath="//table[@class='tdcontent']") %>% .[[1]] %>%
+  html_table() %>% select(3, 5) %>% head(27)
+
+colnames(EU.clanice) <- c("Država", "Oznaka.države")
+
+drzave.padavine <- EU.clanice %>% filter(!Država %in% c("Nemčija", "Bolgarija", "Latvija"))
+seznam.tabel <- lapply(drzave.padavine$Oznaka.države, get)
+
+padavine <- Reduce(function(x, y) merge(x, y, all=TRUE), seznam.tabel)
+
