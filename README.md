@@ -4,7 +4,7 @@ Repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22.
 
 ## Analiza proizvodnje električne energije v EU
 
-Za področje raziskovanja sem si izbral proizvodnjo električne energije na območju Evropske unije. Za začetek bom analiziral proizvodnjo električne energije v posamezni državi Evropske unije glede na vir proizvodnje elektrike (voda, veter, sonce, fosilna goriva...) na mesečni ravni od leta 2016 naprej. Količino proizvedene elektrike, glede na vir, bom nato primerjal s povprečno mesečno količino padavin oz. številom sončnih dni in ugotavljal razmerje med le temi. Prav tako bom pogledal, če je BDP posamezne države povezan s količino proizvedene elektrike po posameznih virih. Predvidevam, da gospodarsko bolj razvite države proizvedejo več elektrike z zelenimi načini pridobivanja, tj. sončne elektrarne, hidroelektrarne itd. Za konec bom poskusil napovedati trend proizvodnje elektrike do leta 2025.
+Za področje raziskovanja sem si izbral proizvodnjo električne energije na območju Evropske unije. Za začetek bom analiziral proizvodnjo električne energije v posamezni državi Evropske unije glede na vir proizvodnje elektrike (voda, veter, sonce, fosilna goriva...) na mesečni ravni od leta 2016 naprej. Količino proizvedene elektrike, glede na vir, bom nato primerjal s povprečno mesečno količino padavin in ugotavljal razmerje med le temi. Prav tako bom pogledal, če je BDP posamezne države povezan s količino proizvedene elektrike po posameznih virih. Predvidevam, da gospodarsko bolj razvite države proizvedejo več elektrike z zelenimi načini pridobivanja, tj. sončne elektrarne, hidroelektrarne itd. Za konec bom poskusil napovedati trend proizvodnje elektrike do leta 2025.
 
 #### Surovi podatki:
 
@@ -14,13 +14,11 @@ Proizvodnja elektrike glede na vir: podatki iz Eurostata, v obliki CSV
 Podatki o BDP: podatki iz Eurostata, v obliki CSV  
 (https://ec.europa.eu/eurostat/databrowser/view/NAMQ_10_GDP__custom_1672463/default/table?lang=en).
 
-Povprečna mesečna količina padavin: podatki iz Wikipedije, v obliki HTML  
-(https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_precipitation).
+Količina padavin: podatki iz ECA&D, v obliki CSV  
+(https://www.ecad.eu/dailydata/customquery.php).
 
-Povprečno mesečno število ur sončne svetlobe: podatki iz Wikipedije, v obliki HTML  
-(https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration).
-
-Za analizo držav EU bom potreboval tudi seznam članic EU, ki sem ga pa prav tako dobil na Wikipediji v obliki HTML   (https://en.wikipedia.org/wiki/Member_state_of_the_European_Union).  
+Za analizo držav EU bom potreboval tudi seznam članic EU skupaj z oznakami držav, ki sem ga dobil na spodnji spletni strani, v obliki HTML
+(https://publications.europa.eu/code/sl/sl-370100.htm).  
 
 Vse datoteke s podatki so shranjene v mapi `podatki` na repozitoriju.
 
@@ -29,22 +27,23 @@ Vse datoteke s podatki so shranjene v mapi `podatki` na repozitoriju.
 **Proizvodnja električne energije po državah EU:**
 
 - Država (*character*)
-- Mesec (*double*)
-- Leto (*double*)
+- Mesec (*integer*)
+- Leto (*integer*)
 - Vir (*character*)
 - Količina proizvedene elektrike (*double*)
 
 **BDP po državah EU:**
 
 - Država (*character*)
-- Mesec (*double*)
-- Leto (*double*)
+- Četrtletje (*integer*)
+- Leto (*integer*)
 - BDP (*double*)
 
 **Padavine in število sončnih ur po državah EU:**
 
 - Država (*character*)
-- Mesec (*double*)
+- Leto (*integer*)
+- Mesec (*integer*)
 - Količina (*double*)
 
 
