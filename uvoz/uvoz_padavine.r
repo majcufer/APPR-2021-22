@@ -1,5 +1,7 @@
 # 2. faza: Uvoz podatkov
 library(readr)
+library(dplyr)
+library(rvest)
 
 seznam.map <- list.files(path="podatki/Padavine", full.names = TRUE)
 
@@ -19,13 +21,21 @@ for (mapa in seznam.map) {
   racunanje$povprecno <- racunanje$padavine.dnevno / (stevilo.postaj - racunanje$stevilo.na)
   
   
-  ################ KONČNA TABELA #################
+  ###################################################
   
-  tabela <- tibble(leto=substr(racunanje$DATE, 1, 4) %>% as.integer(),
+  tabela <- tibble(država=basename(mapa),
+                   leto=substr(racunanje$DATE, 1, 4) %>% as.integer(),
                    mesec=substr(racunanje$DATE, 5, 6) %>% as.integer(),
                    dan=substr(racunanje$DATE, 7, 8) %>% as.integer(),
-                   padavine=racunanje$povprecno) %>% group_by(leto, mesec) %>% 
+                   padavine=racunanje$povprecno) %>% group_by(država, leto, mesec) %>% 
     summarise(padavine=round(sum(padavine)/10))
   
   assign(basename(mapa), tabela)
 }
+
+
+################## KONČNA TABELA ####################
+
+EU <- read_html("podatki/EU_clanice.html") %>% 
+  html_nodes(xpath="//table[@class='sortable wikitable']") %>% .[[1]] %>%
+  html_table() %>% select("Država")
